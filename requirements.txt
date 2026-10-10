@@ -1,0 +1,5 @@
+# Build dependencies (installed automatically by GitHub Actions).
+markdown==3.10.3
+Pillow==12.3.0
+rcssmin==1.2.2
+rjsmin==1.2.5

@@ -1,0 +1,191 @@
+/* ==========================================================================
+   Deep Calls — design tokens
+   Brand direction: an ink-and-parchment reading room. Deep navy ink on warm
+   paper, one bold vermilion accent used only where the reader should act or
+   look, a quiet brass for rules and ornaments. Editorial serif headlines,
+   a book-grade text face, and a plain sans for interface chrome.
+
+   Everything visual flows from the variables below. To re-theme the site,
+   edit this file only (see docs/CUSTOMIZING.md).
+   ========================================================================== */
+
+:root {
+  /* ---- Typography ---- */
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-text: "Literata", Georgia, "Times New Roman", serif;
+  --font-ui: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Fluid type scale (min at 320px, max at 1440px) */
+  --step--2: clamp(0.72rem, 0.70rem + 0.10vw, 0.78rem);
+  --step--1: clamp(0.82rem, 0.80rem + 0.12vw, 0.90rem);
+  --step-0: clamp(1rem, 0.96rem + 0.20vw, 1.0625rem);
+  --step-1: clamp(1.125rem, 1.06rem + 0.32vw, 1.3125rem);
+  --step-2: clamp(1.3rem, 1.18rem + 0.60vw, 1.65rem);
+  --step-3: clamp(1.6rem, 1.35rem + 1.25vw, 2.3rem);
+  --step-4: clamp(2rem, 1.55rem + 2.2vw, 3.2rem);
+  --step-5: clamp(2.5rem, 1.7rem + 4vw, 4.6rem);
+  --step-6: clamp(2.9rem, 1.6rem + 6.4vw, 6.4rem);
+
+  --lh-tight: 1.04;
+  --lh-snug: 1.22;
+  --lh-body: 1.7;
+  --lh-reading: 1.78;
+  --track-display: -0.025em;
+  --track-caps: 0.14em;
+
+  /* ---- Spacing (4px base) ---- */
+  --space-3xs: 0.25rem;
+  --space-2xs: 0.5rem;
+  --space-xs: 0.75rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+  --space-2xl: 4.5rem;
+  --space-3xl: clamp(4.5rem, 3rem + 7vw, 9rem);
+  --gutter: clamp(1rem, 0.5rem + 3vw, 2.25rem);
+
+  /* ---- Layout ---- */
+  --container: 76rem;
+  --container-narrow: 52rem;
+  --measure: 38rem;
+  --header-h: 4.5rem;
+  --header-h-compact: 3.5rem;
+
+  /* ---- Shape ---- */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
+  --radius-pill: 999px;
+  --border-w: 1px;
+
+  /* ---- Elevation & layering ---- */
+  --z-base: 1;
+  --z-header: 50;
+  --z-progress: 60;
+  --z-popover: 70;
+  --z-overlay: 90;
+  --z-toast: 100;
+
+  /* ---- Motion ---- */
+  --dur-fast: 140ms;
+  --dur: 260ms;
+  --dur-slow: 640ms;
+  --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+
+  /* ---- Category hues (decorative dots only; text stays neutral) ---- */
+  --hue-1: #c2456b;
+  --hue-2: #3b6fb6;
+  --hue-3: #7a5bc4;
+  --hue-4: #2e8a6e;
+  --hue-5: #d1621f;
+  --hue-6: #b58a1b;
+  --hue-7: #5e7f2b;
+  --hue-8: #8a5a44;
+}
+
+/* ---- Light theme: parchment and ink ---- */
+:root,
+:root[data-theme="light"] {
+  color-scheme: light;
+
+  --bg: #f5f0e4;
+  --bg-raised: #fbf8f0;
+  --bg-sunken: #ece5d3;
+  --bg-ink: #0e1c30;        /* navy sections, same in both themes */
+  --bg-ink-2: #14274a;
+
+  --text: #101c2e;
+  --text-2: #3a4658;
+  --text-3: #586274;
+  --text-on-ink: #f5f0e4;
+  --text-on-ink-2: #a9b3c4;
+
+  --line: #d9d0bc;
+  --line-strong: #bdb299;
+  --control-border: #7d7663; /* 3:1+ against the page for form controls */
+
+  --accent: #b03418;          /* vermilion, as text/links */
+  --accent-strong: #8f2a12;
+  --accent-bg: #b03418;       /* vermilion, as a button fill */
+  --on-accent: #ffffff;
+  --accent-soft: #f3ddd2;
+  --accent-on-ink: #ff8f6b;
+  --brass: #7f5f14;
+  --brass-soft: #e6d9b3;
+
+  --success: #1e6b4a;
+  --warning: #8a5a00;
+  --error: #b3261e;
+  --info: #1f5fa8;
+  --success-bg: #e1f0e7;
+  --warning-bg: #f7ebcf;
+  --error-bg: #f9e0dd;
+  --info-bg: #e0ebf8;
+
+  --focus: #1f5fa8;
+  --selection: #f1c9b8;
+  --shadow-1: 0 1px 2px rgb(16 28 46 / 0.06), 0 1px 1px rgb(16 28 46 / 0.04);
+  --shadow-2: 0 10px 28px -10px rgb(16 28 46 / 0.22), 0 2px 6px rgb(16 28 46 / 0.06);
+  --shadow-3: 0 26px 60px -20px rgb(16 28 46 / 0.35), 0 6px 14px rgb(16 28 46 / 0.08);
+  --header-bg: rgb(245 240 228 / 0.82);
+  --scrim: rgb(9 17 31 / 0.55);
+}
+
+/* ---- Dark theme: midnight ink ---- */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --bg: #09111f;
+  --bg-raised: #101d32;
+  --bg-sunken: #060c16;
+  --bg-ink: #060c16;
+  --bg-ink-2: #0f2140;
+
+  --text: #ece5d3;
+  --text-2: #b9c1ce;
+  --text-3: #8e99ab;
+  --text-on-ink: #ece5d3;
+  --text-on-ink-2: #a9b3c4;
+
+  --line: #1f3050;
+  --line-strong: #2f4670;
+  --control-border: #6479a0;
+
+  --accent: #ff8f6b;
+  --accent-strong: #ffb094;
+  --accent-bg: #ff8f6b;
+  --on-accent: #09111f;
+  --accent-soft: #3a2420;
+  --accent-on-ink: #ff8f6b;
+  --brass: #ddb65a;
+  --brass-soft: #3a3016;
+
+  --success: #5fd0a0;
+  --warning: #f2b84b;
+  --error: #ff7b72;
+  --info: #6fb1ff;
+  --success-bg: #12302a;
+  --warning-bg: #352a10;
+  --error-bg: #3a1c1e;
+  --info-bg: #13294a;
+
+  --focus: #8dc0ff;
+  --selection: #5b3326;
+  --shadow-1: 0 1px 2px rgb(0 0 0 / 0.4);
+  --shadow-2: 0 12px 30px -10px rgb(0 0 0 / 0.6), 0 2px 6px rgb(0 0 0 / 0.3);
+  --shadow-3: 0 28px 64px -20px rgb(0 0 0 / 0.75), 0 6px 14px rgb(0 0 0 / 0.35);
+  --header-bg: rgb(9 17 31 / 0.8);
+  --scrim: rgb(0 0 0 / 0.65);
+
+  --hue-1: #e0708f;
+  --hue-2: #6e9fe0;
+  --hue-3: #a08aea;
+  --hue-4: #55c29f;
+  --hue-5: #ef8d4e;
+  --hue-6: #deb449;
+  --hue-7: #93b85a;
+  --hue-8: #c58f76;
+}

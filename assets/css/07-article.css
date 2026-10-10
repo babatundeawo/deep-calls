@@ -1,0 +1,506 @@
+/* ==========================================================================
+   Essay pages: the reading experience
+   ========================================================================== */
+
+/* ---- Reading progress ---- */
+.progress {
+  position: fixed;
+  inset: 0 0 auto 0;
+  z-index: var(--z-progress);
+  height: 3px;
+  pointer-events: none;
+}
+
+.progress__bar {
+  display: block;
+  height: 100%;
+  background: var(--accent-bg);
+  transform: scaleX(var(--p, 0));
+  transform-origin: left;
+}
+
+/* ---- Essay header ---- */
+.essay-head {
+  padding-block: var(--space-lg) var(--space-xl);
+}
+
+.essay-head .tag {
+  margin-bottom: var(--space-sm);
+}
+
+.essay-head h1 {
+  max-width: 20ch;
+  font-size: var(--step-5);
+  line-height: 1;
+  letter-spacing: -0.035em;
+}
+
+.essay-head__sub {
+  max-width: 40rem;
+  margin: var(--space-md) 0 0;
+  color: var(--text-2);
+  font: italic 400 var(--step-1) / 1.55 var(--font-text);
+}
+
+.essay-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-2xs) var(--space-md);
+  margin: var(--space-lg) 0 0;
+  padding: 0;
+  list-style: none;
+  color: var(--text-3);
+  font: 500 var(--step--1) var(--font-ui);
+}
+
+.essay-meta li {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.essay-meta .i {
+  width: 1rem;
+  height: 1rem;
+}
+
+/* Scripture epigraph */
+.epigraph {
+  position: relative;
+  max-width: 44rem;
+  margin: var(--space-xl) 0 0;
+  padding: var(--space-sm) 0 var(--space-sm) var(--space-lg);
+  border-left: 3px solid var(--accent);
+}
+
+.epigraph p {
+  margin: 0;
+  font: italic 500 var(--step-2) / 1.4 var(--font-display);
+  letter-spacing: -0.015em;
+}
+
+.epigraph cite {
+  display: block;
+  margin-top: var(--space-sm);
+  color: var(--text-3);
+  font: 600 var(--step--1) var(--font-ui);
+  font-style: normal;
+  letter-spacing: 0.04em;
+}
+
+/* ---- Reading tools ---- */
+.essay-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs);
+  margin-top: var(--space-lg);
+}
+
+.listen {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2xs);
+  padding: 0.25rem;
+  background: var(--bg-raised);
+  border: var(--border-w) solid var(--line-strong);
+  border-radius: var(--radius-pill);
+}
+
+.listen[hidden] {
+  display: none;
+}
+
+.listen__toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  min-height: 2.75rem;
+  padding: 0 1.1rem 0 0.9rem;
+  background: transparent;
+  border: 0;
+  border-radius: var(--radius-pill);
+  font: 600 var(--step--1) var(--font-ui);
+}
+
+.listen__toggle:hover {
+  background: var(--bg-sunken);
+}
+
+.listen__controls {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.15rem;
+  padding-right: 0.5rem;
+}
+
+.listen__controls[hidden] {
+  display: none;
+}
+
+.listen__speed {
+  min-width: 3rem;
+  min-height: 2.75rem;
+  padding: 0 0.5rem;
+  background: transparent;
+  border: 0;
+  border-radius: var(--radius-pill);
+  font: 600 var(--step--1) var(--font-ui);
+  font-variant-numeric: tabular-nums;
+}
+
+.listen__speed:hover {
+  background: var(--bg-sunken);
+}
+
+.listen__progress {
+  min-width: 3.5rem;
+  color: var(--text-3);
+  font: 500 var(--step--2) var(--font-ui);
+  font-variant-numeric: tabular-nums;
+}
+
+.listen .i--pause-state,
+.listen [data-listen-playpause][data-state="playing"] .i-play {
+  display: none;
+}
+
+.listen [data-listen-playpause][data-state="playing"] .i--pause-state {
+  display: block;
+}
+
+/* ---- Layout: contents rail + reading column ---- */
+.essay-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-lg);
+  padding-bottom: var(--space-xl);
+}
+
+@media (min-width: 72rem) {
+  .essay-layout {
+    grid-template-columns: 15rem minmax(0, 1fr);
+    gap: var(--space-2xl);
+    align-items: start;
+  }
+}
+
+.toc {
+  font: 500 var(--step--1) var(--font-ui);
+}
+
+@media (min-width: 72rem) {
+  .toc {
+    position: sticky;
+    top: calc(var(--header-h-compact) + 2rem);
+    max-height: calc(100dvh - var(--header-h-compact) - 4rem);
+    overflow-y: auto;
+    padding-right: var(--space-xs);
+  }
+
+  .js .toc summary {
+    pointer-events: none;
+    list-style: none;
+  }
+
+  .js .toc summary .i {
+    display: none;
+  }
+}
+
+.toc summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 2.75rem;
+  font: 600 var(--step--2) var(--font-ui);
+  letter-spacing: var(--track-caps);
+  text-transform: uppercase;
+  color: var(--text-3);
+  cursor: pointer;
+  list-style: none;
+}
+
+.toc summary::-webkit-details-marker {
+  display: none;
+}
+
+.toc summary .i {
+  transition: transform var(--dur) var(--ease-out);
+}
+
+.toc[open][data-ready] summary .i {
+  transform: rotate(180deg);
+}
+
+@media (max-width: 71.99rem) {
+  /* Until the script has chosen open/closed, show it collapsed so nothing jumps. */
+  .js .toc:not([data-ready]) ol {
+    display: none;
+  }
+
+  .toc {
+    padding: 0 var(--space-md);
+    background: var(--bg-raised);
+    border: var(--border-w) solid var(--line);
+    border-radius: var(--radius-md);
+  }
+}
+
+.toc ol {
+  list-style: none;
+  margin: var(--space-2xs) 0 var(--space-sm);
+  border-left: 2px solid var(--line);
+}
+
+.toc a {
+  display: block;
+  overflow-wrap: anywhere;
+  padding: 0.5rem 0 0.5rem var(--space-sm);
+  margin-left: -2px;
+  border-left: 2px solid transparent;
+  color: var(--text-2);
+  line-height: 1.35;
+  text-decoration: none;
+  transition: color var(--dur-fast), border-color var(--dur-fast);
+}
+
+.toc a:hover {
+  color: var(--text);
+}
+
+.toc a[aria-current="true"] {
+  border-left-color: var(--accent);
+  color: var(--text);
+  font-weight: 600;
+}
+
+/* ---- Prose ---- */
+.prose {
+  --read-size: clamp(1.0625rem, 1rem + 0.3vw, 1.2rem);
+  max-width: 34em;
+  font: 400 var(--read-size) / var(--lh-reading) var(--font-text);
+  font-optical-sizing: auto;
+  hyphens: manual;
+  overflow-wrap: anywhere;
+}
+
+.prose > * {
+  margin-block: 0 1.3em;
+}
+
+.prose h2 {
+  margin-top: 2.6em;
+  margin-bottom: 0.7em;
+  font-size: var(--step-3);
+  line-height: 1.12;
+  scroll-margin-top: calc(var(--header-h-compact) + 1.5rem);
+}
+
+.prose > h2:first-child {
+  margin-top: 0;
+}
+
+.prose h3 {
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  font-size: var(--step-2);
+  line-height: 1.2;
+}
+
+.prose a {
+  color: var(--accent);
+  text-decoration-thickness: 0.07em;
+}
+
+.prose a:hover {
+  color: var(--accent-strong);
+}
+
+.prose strong {
+  font-weight: 650;
+}
+
+.prose ul,
+.prose ol {
+  padding-left: 1.4em;
+}
+
+.prose li {
+  margin-bottom: 0.5em;
+  padding-left: 0.2em;
+}
+
+.prose li::marker {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* Scripture quotations inside the essay */
+.prose blockquote {
+  margin: 2em 0;
+  padding: 0.2em 0 0.2em 1.4em;
+  border-left: 3px solid var(--brass);
+  color: var(--text-2);
+}
+
+.prose blockquote p {
+  margin: 0 0 0.6em;
+}
+
+.prose blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.prose blockquote .cite {
+  margin-top: 0.4em;
+  color: var(--brass);
+  font: 600 0.74em var(--font-ui);
+  font-style: normal;
+  letter-spacing: 0.06em;
+}
+
+/* Section break ornament */
+.prose hr {
+  height: 2rem;
+  margin: 2.6em 0;
+  border: 0;
+  text-align: center;
+  color: var(--brass);
+  overflow: visible;
+}
+
+.prose hr::before {
+  content: "\2022\2002\2022\2002\2022";
+  font-size: 0.7em;
+  letter-spacing: 0.2em;
+}
+
+/* Reference lists at the end of an essay */
+.refs {
+  margin-top: 3.5em;
+  padding-top: 1.5em;
+  border-top: var(--border-w) solid var(--line-strong);
+  font-size: 0.86em;
+  line-height: 1.65;
+  color: var(--text-2);
+}
+
+.refs > * {
+  margin-block: 0 1em;
+}
+
+.refs h2 {
+  margin: 0 0 0.8em;
+  font: 600 0.78rem var(--font-ui);
+  letter-spacing: var(--track-caps);
+  text-transform: uppercase;
+  color: var(--text-3);
+}
+
+.refs h3 {
+  margin: 1.6em 0 0.5em;
+  font: 600 1.05em var(--font-display);
+  color: var(--text);
+}
+
+.refs li {
+  margin-bottom: 0.6em;
+}
+
+/* The paragraph currently being read aloud */
+.prose .is-reading {
+  background: color-mix(in srgb, var(--accent) 9%, transparent);
+  box-shadow: -0.75rem 0 0 color-mix(in srgb, var(--accent) 9%, transparent),
+    0.75rem 0 0 color-mix(in srgb, var(--accent) 9%, transparent);
+  border-radius: 2px;
+}
+
+/* ---- Select-to-quote popover ---- */
+.quote-pop {
+  position: absolute;
+  z-index: var(--z-popover);
+  display: none;
+  transform: translateX(-50%);
+}
+
+.quote-pop[data-show="true"] {
+  display: block;
+}
+
+.quote-pop button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 2.5rem;
+  padding: 0 0.9rem;
+  background: var(--bg-ink);
+  color: var(--text-on-ink);
+  border: 0;
+  border-radius: var(--radius-pill);
+  box-shadow: var(--shadow-2);
+  font: 600 var(--step--1) var(--font-ui);
+}
+
+.quote-pop .i {
+  width: 1rem;
+  height: 1rem;
+}
+
+/* ---- End of essay ---- */
+.essay-end {
+  max-width: 34em;
+  margin-top: var(--space-2xl);
+}
+
+.share {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-2xs);
+  padding-block: var(--space-md);
+  border-block: var(--border-w) solid var(--line);
+}
+
+.share__label {
+  margin-right: auto;
+  font: 600 var(--step--1) var(--font-ui);
+  color: var(--text-2);
+}
+
+.share .icon-btn {
+  border-color: var(--line-strong);
+}
+
+.more {
+  padding-top: var(--space-xl);
+}
+
+.more__head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-md);
+  margin-bottom: var(--space-lg);
+}
+
+.more__head h2 {
+  font-size: var(--step-3);
+}
+
+.epigraph blockquote {
+  margin: 0;
+}
+
+/* Keep the last share tooltips inside the viewport on narrow screens. */
+.share .icon-btn:nth-last-child(-n + 2)::after {
+  left: auto;
+  right: 0;
+  transform: translate(0, 0.25rem);
+}
+
+.share .icon-btn:nth-last-child(-n + 2):hover::after,
+.share .icon-btn:nth-last-child(-n + 2):focus-visible::after {
+  transform: translate(0, 0);
+}

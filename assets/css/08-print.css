@@ -1,0 +1,83 @@
+/* ==========================================================================
+   Print: essays print as clean, book-like pages
+   ========================================================================== */
+
+@media print {
+  :root,
+  :root[data-theme="dark"] {
+    --bg: #fff;
+    --bg-raised: #fff;
+    --text: #000;
+    --text-2: #222;
+    --text-3: #444;
+    --accent: #000;
+    --line: #bbb;
+    --brass: #444;
+  }
+
+  html,
+  body {
+    background: #fff;
+    color: #000;
+  }
+
+  .site-header,
+  .site-footer,
+  .skip-link,
+  .progress,
+  .to-top,
+  .toast,
+  .palette,
+  .toc,
+  .essay-tools,
+  .share,
+  .more,
+  .quote-pop,
+  .hero__actions,
+  .actions {
+    display: none !important;
+  }
+
+  .container,
+  .container--narrow {
+    width: 100%;
+  }
+
+  .essay-head {
+    padding-block: 0 1rem;
+  }
+
+  .essay-head h1 {
+    font-size: 26pt;
+  }
+
+  .essay-layout {
+    display: block;
+  }
+
+  .prose {
+    max-width: none;
+    font-size: 11.5pt;
+    line-height: 1.55;
+  }
+
+  .prose h2,
+  .prose h3 {
+    break-after: avoid;
+  }
+
+  .prose p,
+  .prose blockquote {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .prose blockquote {
+    break-inside: avoid;
+  }
+
+  .prose a {
+    color: #000;
+    text-decoration: underline;
+  }
+}
