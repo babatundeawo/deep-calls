@@ -21,7 +21,8 @@ summary: A one or two sentence description for search results (optional)
 Your essay text in Markdown.
 ```
 
-- `category` should match a name in `site.config.json`. A new name is added automatically.
+- Every line is optional. With no block at all, the first `# Heading` becomes the title, the category is guessed from the wording (`category_keywords` in `site.config.json`, falling back to `default_category`), and the date is the day the file was added (turn off with `"auto_date": false`).
+- `category` should match a name in `site.config.json`. A new name is added automatically. Set it yourself when you want to be sure: the automatic guess is only a best effort.
 - `featured` (1 to 6) places an essay in the home page's featured list. Leave it out otherwise.
 - `date` is optional. Use `YYYY-MM-DD`; it helps search engines.
 - Use `##` for section headings, and a line starting `— John 3:16` after a quote for a citation.

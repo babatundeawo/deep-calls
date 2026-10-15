@@ -172,14 +172,16 @@ def main() -> int:
             target = resolve(f, href)
             if target is None:
                 continue
+            # A typo in an essay's own link should not stop the whole site publishing.
+            bucket = warnings if rel.parts[0] == "writeups" else errors
             if not target.exists():
-                errors.append(f"{rel}: broken link {href}")
+                bucket.append(f"{rel}: broken link {href}")
                 continue
             fragment = urlparse(href).fragment
             if fragment and target.suffix == ".html":
                 tp = parsed_pages.get(target)
                 if tp and unquote(fragment) not in tp.ids:
-                    errors.append(f"{rel}: link {href} points to a missing anchor")
+                    bucket.append(f"{rel}: link {href} points to a missing anchor")
 
     # Sitemap entries must exist
     sitemap = (DIST / "sitemap.xml").read_text(encoding="utf-8")

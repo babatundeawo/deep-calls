@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import shutil
 import sys
 from pathlib import Path
@@ -19,7 +20,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 import images  # noqa: E402
 import templates as t  # noqa: E402
-from content import ContentError, load_all  # noqa: E402
+from content import WARNINGS, ContentError, load_all  # noqa: E402
 
 try:  # Optional: smaller files when the minifiers are installed.
     from rcssmin import cssmin
@@ -54,13 +55,33 @@ def build_assets() -> str:
     return digest.hexdigest()[:8]
 
 
+def report_content(essays: list) -> None:
+    """Say clearly which essays were published and which were skipped (and why).
+
+    On GitHub this shows as yellow warnings on the run and a summary on its page.
+    """
+    for name, message in WARNINGS:
+        print(f"::warning file={name},title=Essay skipped::{message}")
+        print(f"SKIPPED {name}: {message}", file=sys.stderr)
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not summary:
+        return
+    lines = [f"### Deep Calls build\n", f"Published **{len(essays)}** essays.\n"]
+    if WARNINGS:
+        lines.append(f"**{len(WARNINGS)} file(s) were skipped** (the rest still published). Fix and commit to include them:\n")
+        lines += [f"- `{name}`: {message}" for name, message in WARNINGS]
+    with open(summary, "a", encoding="utf-8") as fh:
+        fh.write("\n".join(lines) + "\n")
+
+
 def main() -> int:
     config = json.loads((ROOT / "site.config.json").read_text(encoding="utf-8"))
     try:
-        essays = load_all(ROOT / "content")
+        essays = load_all(ROOT / "content", config)
     except ContentError as err:
         print(f"\nContent problem: {err}\n", file=sys.stderr)
         return 1
+    report_content(essays)
 
     if DIST.exists():
         shutil.rmtree(DIST)

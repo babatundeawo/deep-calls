@@ -1,10 +1,15 @@
 name: Build and deploy
 
+# Publishing is automatic: add, edit or delete any file in content/ (or anywhere
+# else) on the main branch and this workflow rebuilds and republishes the site.
+# The daily run is a safety net so the site can never fall far behind the repo.
 on:
   push:
     branches: [main]
   pull_request:
   workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
 
 permissions:
   contents: read
@@ -19,13 +24,15 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0 # full history, so each essay can be dated from the day it was added
       - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
         with:
           python-version: "3.12"
           cache: pip
       - name: Install
         run: pip install -r requirements.txt
-      - name: Build the site
+      - name: Build the site (scans content/ for every essay)
         run: python scripts/build.py
       - name: Check the site (links, titles, security policy)
         run: python scripts/check.py

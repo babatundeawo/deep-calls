@@ -14,5 +14,71 @@
     "Church & Culture",
     "Spiritual Warfare",
     "Wisdom"
-  ]
+  ],
+  "default_category": "Hard Questions",
+  "auto_date": true,
+  "category_keywords": {
+    "Grace & Identity": [
+      "grace",
+      "identity",
+      "chosen",
+      "adopted",
+      "beloved",
+      "righteousness",
+      "justified",
+      "unworthy",
+      "shame",
+      "prodigal"
+    ],
+    "Hard Questions": [
+      "hell",
+      "suffering",
+      "salvation",
+      "atheis",
+      "islam",
+      "why does god",
+      "why would god",
+      "doubt",
+      "contradiction",
+      "skeptic",
+      "objection",
+      "how can"
+    ],
+    "Sovereignty": [
+      "sovereign",
+      "predestin",
+      "providence",
+      "election",
+      "god's plan",
+      "foreknow",
+      "covenant"
+    ],
+    "Church & Culture": [
+      "nigeria",
+      "culture",
+      "prosperity",
+      "tithe",
+      "society",
+      "pulpit",
+      "nation",
+      "politic"
+    ],
+    "Spiritual Warfare": [
+      "satan",
+      "devil",
+      "demon",
+      "spiritual warfare",
+      "deliverance",
+      "principalities",
+      "the enemy"
+    ],
+    "Wisdom": [
+      "wisdom",
+      "proverbs",
+      "discernment",
+      "patience",
+      "counsel",
+      "prudence"
+    ]
+  }
 }

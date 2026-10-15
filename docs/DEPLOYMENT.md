@@ -34,10 +34,11 @@ Under **Settings → Code security**, turn on **Dependabot alerts**, **Dependabo
 
 ## Adding or editing an essay
 
-1. Open `content/` and click **Add file → Create new file** (or open an essay and click the pencil).
-2. Name it like `my-essay-title.md`; the name becomes the web address.
-3. Start with the details block shown in [CUSTOMIZING.md](CUSTOMIZING.md), then write the essay.
-4. Click **Commit changes**. Watch the Actions tab for the green tick.
+1. Open `content/` and click **Add file → Upload files** (or **Create new file**, or open an essay and click the pencil).
+2. Drop in your `.md` file and click **Commit changes**. The details block at the top is optional (see [content/README.md](../content/README.md)).
+3. Open the **Actions** tab. The **Build and deploy** run starts by itself and shows a green tick within about two minutes. The essay is then live.
+
+If the run shows a yellow warning, the site still published; the warning names any file that was skipped and why. If it shows a red cross, open the run and read the failed step.
 
 ## Undoing a mistake
 
