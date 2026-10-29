@@ -3,163 +3,139 @@ title: The Blessing That Asks Something of You
 category: Grace & Identity
 verse: The blessing of the LORD, it maketh rich, and he addeth no sorrow with it.
 verse_ref: Proverbs 10:22 (KJV)
+summary: Proverbs 10:22 says the LORD is the source of wealth and that his gift comes clean, and the same Scripture asks the person who receives it for honesty, generosity and knowledge.
 ---
 
-## God's Gifts Come Without a Hidden Invoice
+## A Billboard on the Ibadan Expressway
 
-There is a version of prosperity theology that has turned this verse into a recruitment poster. You have seen it — the billboard on the expressway from Ibadan to Lagos, the WhatsApp broadcast forwarded seventeen times before it reaches you, the Sunday morning sermon where the congregation is invited to stretch forth a hand toward their financial breakthrough while the offering basket makes its third and increasingly insistent round. Proverbs 10:22, the preachers say, is God's signature on a blank cheque.
+Picture the billboard. It stands on the expressway out of Ibadan, a little past the point where the traffic thins and drivers start to relax. A smiling man in an excellent suit, the date of a programme called the Year of Open Doors, and in the corner, in smaller letters, *The blessing of the LORD makes rich.* Proverbs 10:22. (This is a scene, not a particular billboard, but anyone who has driven that road will recognise the species.)
 
-They are not entirely wrong about the verse. They are entirely wrong about what it means.
+Then picture the same verse arriving on your phone as a WhatsApp broadcast that has already been forwarded seventeen times, and again on Sunday, when a hand is stretched toward a financial breakthrough and the offering basket makes its third and increasingly insistent round. On this reading the verse is God's signature on a blank cheque, and the congregation's job is to find where to deposit it.
 
-The blessing of the Lord does make rich. Scripture does not apologise for that claim. God is not embarrassed by material provision; the same God who told Abraham that his descendants would inherit land told the Israelites in the wilderness that manna would fall from the sky every morning without fail, that the Sabbath portion would be double, that no one would go hungry. The God of the Bible is not a poverty enthusiast. He is not impressed by destitution. He does not distribute suffering as a spiritual credential.
+It would be easy to mock all that, and it would be unfair. The people who put verses on billboards are not all fools or crooks, and the teaching behind them has real roots. The Bible is not embarrassed by wealth. God told Abraham he would make him a great nation and make his name great (Genesis 12:2). Proverbs 22:4 says that the reward for humility and the fear of the LORD is riches and honour and life. A pastor in a country where money is short can fairly say that God is no admirer of poverty and does not hand out suffering as a spiritual credential.
 
-But notice what the verse actually says. The richness comes from blessing — not from the manipulation of blessing, not from the purchase of blessing, not from the thirteen-step seed-sowing formula your pastor printed in the church bulletin. From blessing. And the blessing of the Lord comes with a companion that no prosperity preacher ever mentions in the title of his sermon: it addeth no sorrow.
+And the money is short. The World Bank's Nigeria Development Update of April 2026, as the Nigerian press reported it, put poverty at 56 per cent in 2023 and 63 per cent in 2025, with a slow easing expected towards 59 per cent by 2028. The October 2026 update says the rate has stabilised for the first time since 2019, which is the kind of good news that sounds better in Abuja than in a market in Mushin, because stable here means about six in ten. A different yardstick, the UNDP's 2026 Multidimensional Poverty Index, counts 48.7 per cent of Nigerians, about 113.3 million people, as poor in 2024. The UNDP itself notes that this measure and the dollar a day kind capture different things, so the two should not be treated as interchangeable.
 
-Read that again slowly.
+The measures differ and the picture isn't tidy, but the scale isn't in doubt. On every one of these yardsticks, tens of millions of Nigerians are poor, and the person reading that billboard may well be one of them. A hungry reader hears a verse about riches differently from a comfortable one, and she may plan a household budget around it. The preacher on the billboard may mean every word and want her to have hope. Hope built on a misreading is still a loan, though, and someone ends up repaying it. So it matters what the verse says.
 
-The blessing that comes with sorrow attached — the wealth accumulated through exploitation, the promotion purchased with someone else's dignity, the miracle that required you to leave your conscience at the door — that is not the blessing of the Lord. The sorrow is the tell. The anxiety is the receipt. When you have to look over your shoulder, when the acquisition of a thing costs you your peace, when the richness arrives but rest does not, you are not holding what the verse is describing. You are holding its counterfeit.
+## What the Hebrew Actually Says
 
-A Yoruba proverb understands this instinctively: the wealth that enters a house without bloodshed is the good kind. The wisdom of that proverb is not merely economic; it is covenantal. What God gives does not come at someone else's expense. It does not come at the expense of your soul. It does not leave you richer in money and poorer in everything that actually constitutes a life.
+Here is the verse in the English Standard Version, with its footnote.
 
-This is the first thing the apologist wants to establish before anything else: God's gifts are clean. Entirely, uncomplicated clean. When He blesses, He blesses all the way down. No hidden invoice. No sorrowful small print. What comes from the love of God has the grace of God for its companion — and if what you are calling a blessing is making you anxious, making you cruel, making you someone your mother would not recognise, you need to go back and ask yourself whose name is actually on that cheque.
+> *“The blessing of the LORD makes rich, and he adds no sorrow with it.”*
+> — Proverbs 10:22 (ESV)
 
----
+The ESV adds a note on the last clause: *Or and toil adds nothing to it.* That note is the key to the verse, and most billboards leave it out.
 
-## What You Are Actually Supposed to Do With the Bible
+The verb "makes rich" is the same one we meet eighteen verses earlier in the same chapter, in verse 4. And the word translated *sorrow*, etsev, is glossed in the standard lexicons as toil or a pang, so it can lean towards labour as easily as towards grief. Translators divide. Read one way, the LORD adds no sorrow to his gift. Read the other way, toil adds nothing to it. The United Bible Societies handbook written for translators prefers the second reading and points to the Good News Translation, which has it as hard work making you no richer, and the older commentators Ellicott and Pulpit offer the same alternative.
 
-Here is where the source of the blessing becomes critical, because you cannot receive what God gives if you do not know who God is and you cannot know who God is if you are treating the Bible the way most of us were taught to treat it.
+Take either reading and notice what happens to the formula. If the LORD's gift comes with no sorrow, then it is clean, and it cannot be had by exploitation or by leaving your conscience at the door. If instead toil adds nothing to it, then it cannot be manufactured, and that includes manufacturing it by planting the right seed in the right account at the right hour. A thirteen step seed formula printed in the church bulletin is toil by another name. Both readings put the source of wealth in God and the source of the formula in nobody.
 
-Be honest. How many of us were trained, implicitly or explicitly, to use Scripture as a vending machine? You insert the right verse, in the right posture, with the right level of spiritual fervency, and out comes the desired result. The Bible as transaction engine. The Word of God as spiritual currency. It is a framework so deeply embedded in certain church cultures that pointing it out feels almost rude, like telling someone their Sunday outfit does not fit when they have been wearing it with full confidence for twenty years.
+That's the first and best thing the verse has to say, and it's worth having without any of the extras. What God gives, he gives all the way down. If what you are calling a blessing is making you anxious, or cruel, or someone your own mother would not recognise, it is worth asking whose name is on the cheque.
 
-The proper word for what this approach produces is eisegesis — reading into the text what you brought with you, rather than allowing the text to tell you something you did not already think. It is the theological equivalent of going to a doctor, diagnosing yourself before the appointment, and then interpreting everything the doctor says as confirmation of what you already decided. You walk out satisfied. You are also, frequently, entirely wrong.
+Picture a contractor in Abuja who wins a road contract by paying a fee to the right clerk, and who then pays the clerk again every quarter to keep quiet about it. The money is real. The new car is real. So is the habit of checking his phone before he answers any unknown number, and the way he now chooses his seat in a restaurant. Nothing in his life resembles the verse, because the verse describes a gift that arrives without that second invoice, and he is paying one every month. A pastor who tells him that the contract is his seed harvest has handed him a sedative, and a sedative is not a blessing.
 
-The alternative — the ancient, patient, disciplined alternative — is exegesis: letting the text speak. Coming to the Bible the way the Psalmist described his own hunger:
+Anyone who has watched a gifted public man fall knows how long a platform can run ahead of a person's character. The gift can go on working for years after the man has stopped being clean. That is a warning to anyone who measures blessing by how well things appear to be going. Whatever arrives with fear attached, a promotion bought with someone else's dignity or a contract that needs your silence, was never his gift to begin with.
 
-> *"As the deer pants for streams of water, so my soul pants for you, my God. My soul thirsts for God, for the living God."*
-> — Psalm 42:1-2 (NIV)
+The other side needs saying too, because honest people read this verse and feel accused. A trader who plays fair and still has a lean month has not been shown to be unblessed. Proverbs 10:22 says where clean wealth comes from. It doesn't promise that every honest ledger will be fat.
 
-That is not the posture of a man who came to the text with demands. That is the posture of a man who came thirsty. And there is a reason the Psalms are the most emotionally honest documents in all of world literature — because the writers came to God without a script, without an agenda, with nothing but their actual condition. Grief, confusion, fury, wonder, gratitude, despair. All of it laid out before a God they trusted enough to be honest with.
+## Where Proverbs Stops Short of a Promise
 
-When you bring that kind of hunger to the Word, something starts to happen that is difficult to explain but impossible to mistake. The text begins to open. Not in the sense that you manufacture fresh revelations that no one before you ever noticed — the Spirit does not specialise in novelty for its own sake — but in the sense that familiar passages begin to yield depths you had been reading past for years. A verse you memorised at six years old suddenly carries the weight it was always carrying, and you wonder how you missed it.
+Eighteen verses back, the same chapter says something that sounds almost like a rival.
 
-The Apostle Paul, writing to the church in Corinth, described what the Spirit does in a believer who comes to Scripture with genuine desire:
+> *“A slack hand causes poverty, but the hand of the diligent makes rich.”*
+> — Proverbs 10:4 (ESV)
 
-> *"These are the things God has revealed to us by his Spirit. The Spirit searches all things, even the deep things of God."*
-> — 1 Corinthians 2:10 (NIV)
+The Hebrew verb is the same in both verses, so the book doesn't think of them as rivals. The diligent hand makes rich, and the LORD's blessing makes rich. The book never imagined a person receiving blessing in a chair with folded arms. God is the source and the working hand is the channel, and the farmer who prays for rain still ploughs.
 
-Deep things. Not surface things. Not the things visible to everyone who glances casually at a page. The word in the original Greek is *bathē* — depths. What you find when you dive rather than wade. What requires sustained submersion, not a quick splash.
+Yet Proverbs does not offer a guarantee, and the billboard needs one. The book is a collection of sayings about how life in God's world usually goes, and it is honest enough to say where the usual breaks down. Look at the prayer of Agur, near the end of the book.
 
-The Igbo understand this. Their elders say: the one who brings kola brings life. The kola nut is not cracked in a hurry; there is a process, a prayer, a deliberateness that marks the moment as sacred. Scripture deserves at least that much. Probably more. Approach it as though what is inside actually contains life, because it does.
+> *“Remove far from me falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me, lest I be full and deny you and say, ‘Who is the LORD?’ or lest I be poor and steal and profane the name of my God.”*
+> — Proverbs 30:8 and 9 (ESV)
 
----
+Agur fears being full as much as being empty. He knows that abundance can make a man forget God, and that destitution can make him a thief. Neither condition is a verdict on his standing with heaven. The poor believer is not cursed, and the rich man is not thereby blessed.
 
-## The Passage Everyone Quotes and Almost Nobody Finishes Reading
+That distinction has a pastoral edge. Turn a proverb into a promise, and the promise is something that can be collected, and when it is not collected the explanation is waiting. She lacked faith. She gave too little. She sowed in the wrong season. Picture a widow who gave all she had and is still behind on her rent. She is told the fault is hers. I think that teaching, whatever its intentions, does real harm.
 
-There is a moment in Acts 6 that the church has been selectively quoting for centuries, and the selective reading has done real damage.
+Paul puts the other side of the same warning in a single stern line.
 
-The early church in Jerusalem was exploding in size. The book of Acts records that three thousand people joined in a single day at Pentecost, and the number kept growing. With that growth came the inevitable administrative reality that attends all human community: some people were falling through the cracks. Specifically, Hellenistic Jewish widows were being overlooked in the daily distribution of food while Hebrew-speaking widows were being served. There was a genuine injustice unfolding inside the church, and the apostles were expected to fix it.
+> *“But those who desire to be rich fall into temptation, into a snare, into many senseless and harmful desires that plunge people into ruin and destruction.”*
+> — 1 Timothy 6:9 (ESV)
 
-Their response is the part everyone quotes: they said they could not neglect the ministry of the Word to wait on tables. They delegated the practical service to seven chosen men and devoted themselves to prayer and teaching.
+Notice that Paul says desire. He is not talking about a particular salary. A man can have a great deal of money and be free of the craving, and a man with almost none can be eaten alive by it. The Bible's concern is where the heart is pointed.
 
-People use this passage to justify why senior pastors should not be troubled with administrative concerns. It is the theological foundation for a thousand pastoral job descriptions that include "vision casting" and exclude "being present when things are actually difficult." The apostles said it, the argument goes; therefore, men of God should be insulated from the mundane operations of institutional life.
+## What Receiving the Gift Requires
 
-But go back and read what the apostles actually said, and how they said it:
+The verse also does something that no billboard has room to print. It describes a gift, and a gift has a giver and a purpose. When the Israelites stood at the edge of the land they were warned about exactly the thought that comes with sudden plenty.
 
-> *"It would not be right for us to neglect the ministry of the word of God in order to wait on tables. Brothers and sisters, choose seven men from among you who are known to be full of the Spirit and wisdom. We will turn this responsibility over to them and will give our attention to prayer and the ministry of the word."*
-> — Acts 6:2-4 (NIV)
+> *“Beware lest you say in your heart, ‘My power and the might of my hand have gotten me this wealth.’ You shall remember the LORD your God, for it is he who gives you power to get wealth, that he may confirm his covenant that he swore to your fathers, as it is this day.”*
+> — Deuteronomy 8:17 and 18 (ESV)
 
-Three things are happening here simultaneously, and you will miss two of them if you only read for the one that confirms what you already believed.
+Even in the most plainly material passage in the Law, the first requirement is memory. Remember who gave it. A blessing that is received as a personal achievement has already turned into something else.
 
-First: the apostles did not dismiss the problem. They solved it. They did not say, "Widows being neglected is a distraction from our spiritual work." They said, "This matters enough that we need to appoint people specifically gifted for it." The deacons in Acts 6 are not glorified administrators; they are described as men full of the Spirit and wisdom — the same qualities the apostles themselves possessed. Service of bodies is not a lesser calling than service of souls. It is a different gifting deployed toward the same God.
+The second requirement is direction. God's first promise to Abraham was lavish, and it was not private.
 
-Second: the apostles were not protecting a schedule. They were protecting a responsibility. The language they use is "give our attention" in the Greek, *proskartereō*, which means to attend steadfastly, to be devoted with persistence. This is not leisure. This is focused, intentional, unrelenting engagement with a task that has enormous consequence. The sermon you hear on Sunday morning is the visible product of an invisible process that, when it is done well, costs the teacher deeply. Time in the text. Time on his knees. Time not doing other things that feel urgent.
+> *“And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.”*
+> — Genesis 12:2 (ESV)
 
-Third — and this is the part that gets buried — the passage does not end with the apostles' decision. It ends with the result:
+The blessing is given so that it can be passed on. Paul tells Timothy what that looks like for people who are rich in this age: do not be haughty, do not stake your hopes on riches, and instead “to do good, to be rich in good works, to be generous and ready to share” (1 Timothy 6:17 and 18, ESV, quoted in part). Wealth that stops at the owner has missed its purpose.
 
-> *"So the word of God spread. The number of disciples in Jerusalem increased rapidly, and a large number of priests became obedient to the faith."*
-> — Acts 6:7 (NIV)
+Luke records what it looked like in the early church in Jerusalem.
 
-The Word of God spread. When the people of God give themselves to the Word of God — both those who teach it and those who devote themselves to learning it — the church does not shrink. The community does not become insular and self-congratulatory. It grows. It attracts. Even priests — members of the religious establishment with the most to lose from the gospel's advance — found themselves unable to resist.
+> *“There was not a needy person among them, for as many as were owners of lands or houses sold them and brought the proceeds of what was sold and laid it at the apostles' feet, and it was distributed to each as any had need.”*
+> — Acts 4:34 and 35 (ESV)
 
-That is the promised outcome of a community structured around the Word. Not comfort. Not prestige. Not a sophisticated church brand. Growth. The kind of growth that changes the composition of the congregation, that brings in people you did not expect, that regularly surprises you with who God has decided to save.
+I wouldn't read that as a command to sell every house. What it shows is what a community looks like when the blessing of God circulates, and the measure is plain enough. Nobody who belonged was needy. Put that beside six in ten and a church could ask itself a plain question, without any scolding in it. If the LORD's blessing really were landing among us, how many people in our own pews would still be going without?
 
----
+There's an odd detail in what comes after. The first quarrel Luke reports inside that church is about food, with widows overlooked in the daily distribution, and the apostles do not wave it away as a distraction from prayer. They appoint seven men to see to it (Acts 6:1 to 6). The Word and the widows' bread are both treated as the church's business, and Luke says the word of God went on spreading. A congregation that guards the pulpit and ignores the kitchen has read only half of Acts 6.
 
-## The Workman and the Vessel
+So the blessing does ask something of you. It isn't a price. It comes with the gift the way a key comes with a house, and anyone who takes the house and throws away the key hasn't understood what was given.
 
-Paul wrote two letters to a young pastor named Timothy, and together they constitute something like a manual for what it means to handle the Word of God with integrity. The most famous line from those letters is also the most frequently misapplied:
+## Reading the Verse Before Sowing Into It
 
-> *"Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth."*
-> — 2 Timothy 2:15 (NIV)
+There is one more request, and it sounds duller than the others, though I think it is the one most Nigerian churches need. Read the verse.
 
-The King James Version renders this with an older English word that changes the feel of the instruction entirely: "Study to shew thyself approved." Study. Not skim. Not attend. Not absorb the three-point summary. *Study* — the word — carries the sense of exertion, of effort applied consistently over time, of the kind of engagement that makes a person look back at their younger self with mild embarrassment at how shallow their understanding once was.
+Nobody could accuse us of lacking zeal, and nobody should want to. We have the vigils and the forty day fasts and the mountain prayer meetings, the stadium revivals and the prayer chains that run across WhatsApp groups and time zones. The fervour is real, and so, often, is the presence of God in those rooms. Paul had something to say to a people in exactly that position.
 
-Paul uses a metaphor immediately before this verse that deserves attention. He compares the believer to a soldier:
+> *“For I bear them witness that they have a zeal for God, but not according to knowledge.”*
+> — Romans 10:2 (ESV)
 
-> *"No one serving as a soldier gets entangled in civilian affairs, but rather tries to please his commanding officer."*
-> — 2 Timothy 2:4 (NIV)
+He was writing about his own Jewish kinsmen, and it would be cheap to treat his words as a slap at someone else's church. They apply to anyone whose passion has outrun their reading. Hosea says something similar to a nation whose teachers had let the knowledge of God lapse. And it isn't a charge confined to preachers; the congregation that never opens the book is just as exposed.
 
-A soldier in active deployment does not get distracted by the concerns that occupy people who are not at war. He has a mission. He has a commanding officer. He has a context that imposes its own ruthless set of priorities. Paul is saying: the person who handles the Word seriously has accepted a deployment. They are not studying Scripture as a hobby, the way some people collect stamps or restore old cars. They are doing it because there is a war, and because correct handling of the Word is what determines whether the ground gained is held or lost.
+> *“My people are destroyed for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me.”*
+> — Hosea 4:6 (ESV)
 
-But the same chapter contains a line that cuts in the opposite direction, because Paul is nothing if not thorough:
+Knowledge here means more than facts about the Bible, and I'd say it can't be handed over from the pulpit alone. The next lines speak of forgetting the law of God. But it certainly includes the plain labour of finding out what a verse says before building a ministry or a household budget on it. Most of us were trained, one way or another, to use Scripture like a vending machine. Insert the right verse, in the right posture, with enough fervour, and out comes the result. The technical word for reading into a text what you carried in with you is eisegesis, and it is like diagnosing yourself before the appointment and then hearing everything the doctor says as agreement. You leave satisfied, and quite often wrong. The patient alternative is to let the text say something you did not already think. A verse treated as a coin for a vending machine will occasionally drop something, and then the habit hardens. A verse read slowly, with its footnote and its neighbours, may disappoint the billboard and still feed the reader.
 
-> *"If someone cleanses himself from the latter, he will be an instrument for special purposes, made holy, useful to the Master and prepared to do any good work."*
-> — 2 Timothy 2:21 (NIV)
+So here is a small task for anyone willing. The next time you pass that billboard, read Proverbs 10 through to the end, with a pen. Mark every verse about the diligent hand, the honest word and the open hand, and see how many it takes before you notice that the blessing of the LORD has company. Then ask yourself a question the billboard will never print. If that blessing arrived in your account on Monday morning, and it came clean, with no sorrow attached and no hidden invoice, who would you ring first?
 
-A vessel prepared for honour. The image is domestic and powerful at the same time — think of the ceramic pot brought out only for guests, washed carefully, kept separate from the everyday use items. What makes it a vessel of honour is not its size or its beauty. It is its cleanliness. Its readiness. The fact that it has been kept for purpose.
+***
 
-This is the thing that Nigerian Pentecostalism, at its best, has always understood more viscerally than its Western counterparts: consecration matters. The preparation of the vessel is not ceremonial. It is functional. A polluted vessel cannot carry clean water. You cannot consistently live in habitual compromise, quarter your conscience in a corner for convenience, treat your private life as entirely separate from your public ministry and then expect the Word to flow with its full authority when you open your mouth. The disconnect will show. Maybe not immediately. But it will show.
+## References
 
-The apologist who has grown up watching charismatic preachers fall — men whose gifts were genuine, whose platforms were enormous, whose downfall was always a private inconsistency that the anointing temporarily covered — knows this truth the hard way. Gifts are given without repentance. Character is built day by day. The vessel must be prepared.
+### Biblical References
 
----
+* **Proverbs 10:22 (KJV; ESV).** The anchor verse, quoted in the KJV in the epigraph and in the ESV, with its footnote, in the body.
+* **Proverbs 10:4 (ESV).** The diligent hand "makes rich", with the same Hebrew verb as 10:22.
+* **Proverbs 22:4 (ESV).** The strongest text in the prosperity teaching's favour, stated fairly.
+* **Proverbs 30:8 and 9 (ESV).** Agur's prayer, showing that neither poverty nor riches is a verdict on a person.
+* **1 Timothy 6:9 (ESV).** Paul on the desire to be rich.
+* **1 Timothy 6:17 and 18 (ESV).** Paul's charge to the rich to do good and to share.
+* **Acts 6:1 to 6 (ESV).** The first dispute in the Jerusalem church, over food for widows, summarised and not quoted.
+* **Genesis 12:2 (ESV).** The blessing of Abraham, given so that he would be a blessing.
+* **Deuteronomy 8:17 and 18 (ESV).** The warning to remember the LORD as the source of wealth.
+* **Acts 4:34 and 35 (ESV).** The early church, where no member was needy.
+* **Romans 10:2 (ESV).** Zeal without knowledge.
+* **Hosea 4:6 (ESV).** A people destroyed for lack of knowledge.
 
-## Zeal Is Not a Substitute for Knowledge, and Knowledge Is Not a Substitute for Either
+### Other Sources
 
-Paul, writing to the church in Rome about his fellow Israelites, said something that should make every passionate believer sit quietly for a moment:
+* BibleHub. (n.d.). *Proverbs 10:22* [Interlinear and commentary]. https://mail.biblehub.com/proverbs/10-22.htm. Source for the Hebrew words (Strong's 6238 and 6089), their glosses, and the Ellicott and Pulpit alternatives.
+* Brand Spur NG. (2026, August 26). *Nigeria's poverty rate hits 63% despite lower inflation: World Bank*. https://brandspurng.com/2026/08/26/nigerias-poverty-rate-hits-63-despite-lower-inflation-world-bank/. Secondary report of the World Bank's April 2026 Nigeria Development Update (56 per cent in 2023, 63 per cent in 2025, about 59 per cent by 2028).
+* Daily Trust. (2026, October 11). Tinubu: World Bank report shows our reform on track. *AllAfrica*. https://allafrica.com/stories/202610120024.html. Report of the State House statement on the October 2026 Nigeria Development Update; the poverty rate "stabilised for the first time since 2019" is the government's characterisation of the report.
+* Reyburn, W. D., & Fry, E. M. (2000). *A handbook on Proverbs*. United Bible Societies. https://tips.translation.bible/?p=20516. Source for the preference for the reading in which toil adds nothing, and for the Good News Translation wording.
+* United Nations Development Programme. (2026). *Nigeria: Global multidimensional poverty index 2026 country profile*. https://www.hdr.undp.org/sites/default/files/Country-Profiles/MPI2026/NGA.pdf. Source for 48.7 per cent, about 113.3 million people, 2024 survey data, and the comparability note.
 
-> *"For I can testify about them that they are zealous for God, but their zeal is not based on knowledge."*
-> — Romans 10:2 (NIV)
+### Translation Notices
 
-Zeal without knowledge. The words are a diagnosis, not a compliment. Paul was not saying, "They are trying hard, which is sweet." He was saying, "They are running fast in the wrong direction, which is tragic." And lest we think this was a problem unique to first-century Judaism, the Nigerian church provides daily evidence that nothing about human religious enthusiasm has changed in two thousand years.
-
-We know how to be zealous. We have the vigils and the mountain prayer meetings and the forty-day fasts and the spiritual warfare declarations delivered at a volume that suggests either the enemy is hard of hearing or the speaker is not entirely sure the prayer is working. We have the overnight tarrying services and the stadium revivals and the prayer chains that span WhatsApp groups across four time zones. The zeal is genuine. The presence of God in those spaces is often genuinely undeniable.
-
-But zeal, on its own, is combustible fuel with no steering mechanism. It can propel a church forward or burn it to the ground, depending entirely on what knowledge is guiding it. Hosea said it plainly, in the eighth century before Christ, in a cultural context that looks uncomfortably similar to certain corners of contemporary Nigerian Christianity:
-
-> *"My people are destroyed for lack of knowledge. Because you have rejected knowledge, I also reject you as my priests."*
-> — Hosea 4:6 (NIV)
-
-Destroyed. Not inconvenienced. Not mildly set back. Destroyed. The Hebrew word is *damah* — cut off, silenced, brought to ruin. And the cause is not a lack of passion. It is a rejection of knowledge. An active refusal of the hard work of actually learning what God said and what it means.
-
-We did not find the Word; the Word found us. We did not choose Scripture as a useful tool among others; Scripture claimed us, named us, held up a mirror to our condition, and refused to let us go. The responsibility that comes with that encounter is not optional. You cannot receive the blessing without accepting the weight. You cannot hold the treasure loosely in one hand while the other hand is still reaching for every glittering substitute the world and the prosperity gospel are holding out to you.
-
-There is a door open here, and you are being asked to walk through it.
-
-Not because someone told you to. Not because the spiritual pressure in the room is high and the worship music is doing the thing that worship music does to your defences at 11pm on a Thursday night. But because the evidence of your own life has already told you that everything the world offered as richness came with sorrow attached — and you have, at some level, been looking for the kind that does not.
-
-The blessing of the Lord is that kind.
-
-Come and receive it properly.
-
----
-
-## Biblical References
-
-- **Proverbs 10:22** — The anchor text, examined against its prosperity gospel misreading and unpacked to reveal its true content: the quality of divine blessing, which enriches without bringing sorrow.
-- **Psalm 42:1-2** — Used to describe the posture of genuine hunger for God's Word; the image of the deer panting for water as a model for approaching Scripture.
-- **1 Corinthians 2:10** — Paul's description of the Spirit searching the deep things of God; grounds the argument for sustained, submersive engagement with Scripture.
-- **Acts 6:2-4** — The apostles' decision to delegate practical service in order to devote themselves to prayer and the ministry of the Word; examined in full, including the third element most readers skip.
-- **Acts 6:7** — The result of the Acts 6 restructuring: the Word spread, disciples multiplied, priests were converted; used to establish the community consequence of Word-centred devotion.
-- **2 Timothy 2:4** — The soldier metaphor; grounds the argument that handling Scripture seriously is a deployment, not a pastime.
-- **2 Timothy 2:15** — Paul's charge to Timothy to study, to present oneself approved, to handle the word correctly; the foundation of the section on the workman.
-- **2 Timothy 2:21** — The vessel prepared for honour; used to argue that consecration of life is functionally necessary for the effective ministry of the Word.
-- **Romans 10:2** — Paul's diagnosis of Israel's zeal without knowledge; the pivot toward the closing argument about passion without formation.
-- **Hosea 4:6** — The prophetic warning that God's people are destroyed for lack of knowledge; used as the Old Testament anchor for the Romans 10:2 argument.
-
----
-
-## External Sources
-
-- Yoruba proverb: the wealth that enters a house without bloodshed is the good kind. Cited to connect African wisdom to the covenantal understanding of divine blessing.
-- Igbo proverb: the one who brings kola brings life. Cited to illustrate the deliberateness and reverence with which Scripture deserves to be approached.
+* Scripture quotations marked ESV are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.

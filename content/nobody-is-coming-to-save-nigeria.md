@@ -1,94 +1,132 @@
 ---
 title: Nobody Is Coming to Save You
+summary: Nigeria keeps waiting for a leader, a policy or an election to end the waiting, and Scripture says the work belongs to a people who rebuild the part of the wall in front of them while they hold their rulers to account.
 category: Church & Culture
-verse: The trouble with Nigeria is simply and squarely a failure of leadership.
-verse_ref: Chinua Achebe
+verse: And they said, Let us rise up and build.
+verse_ref: Nehemiah 2:18 (KJV)
 ---
 
-## The Queue That Outlived Four Governments
+## The Queue Outside the Filling Station
 
-There is a filling station on a major road in almost every Nigerian city where the queue has, at one point or another, stretched past the church, past the mosque, past the primary school, and around the corner into a street it has no business reaching. Children have done their homework on car bonnets in that queue. Marriages have been proposed in that queue. A man once told me he had buried his father, attended the funeral, returned home, and rejoined the same queue he left three days earlier, as though the queue itself were a relative he could not avoid.
+Picture a filling station on a major road in any Nigerian city, in one of those weeks when the queue runs past the church, past the mosque, past the primary school, and round a corner it has no business reaching. Children do their homework on car bonnets. Somebody's phone is on ten per cent. A man in a white shirt has been there since five, and he is not leaving, because leaving would mean the hours he has already spent were wasted.
 
-Ask anyone in that queue what they are waiting for and they will tell you fuel. Ask them what they are really waiting for and, if they are honest, they will tell you something closer to a miracle. Not divine intervention exactly. A more familiar Nigerian miracle: the arrival of a leader, a policy, a coup, an election, a prophecy, anything, that will finally make the waiting stop. We do not call it faith when we do it to politicians. We should. It has all the theological features of faith: an object we cannot control, an outcome we cannot verify, and a willingness to keep believing after every previous disappointment.
+Ask anyone in that queue what they're waiting for and they'll say fuel. Ask what they're really waiting for and, if they're honest, the answer gets bigger. A leader, a policy, an election, a coup in the bad old days, a prophecy, anything that will finally make the waiting stop. We don't call it faith when we do this to politicians. We should. It has every feature of faith. There's an object we can't control, an outcome we can't verify, and a willingness to keep believing after each earlier disappointment.
 
-This is the article where I tell you, as gently and as firmly as I know how, that the miracle is not coming. Not because Nigeria is beyond redemption. Because redemption was never going to arrive in the form we kept expecting it in.
+So here is the uncomfortable thing I want to say, as gently and as firmly as I can. The rescue you are queuing for isn't coming in the form you expect. That is not because Nigeria is beyond help. It is because the Bible never describes help arriving that way.
 
-## Baba Is Coming: A Nigerian Liturgy
+## What We Are Really Waiting For
 
-Every election season produces the same sermon, preached without a pulpit, believed without a creed. Baba is coming. This time it is different. This time the man understands suffering, or used to be poor, or has a doctorate, or speaks the right dialect at the right rally, or has simply not yet had the opportunity to disappoint us the way the last three disappointed us. We sing this liturgy every four years with the sincerity of people who have never once stopped to ask why the miracle keeps failing to show up.
+Look at the pump. On 12 September, Legit.ng reported that Dangote's Lagos depot price had gone from N1,265 to N1,350 a litre, the fourth rise since 21 August. By 11 October, Vanguard found petrol at N1,405 and above in Abuja and between N1,350 and N1,400 in Lagos, and put the pressure down to dearer crude oil because of the conflict in the Middle East. NNPC Retail is offering a discount of N66 a litre for digital payments until 31 October, and the government says that is not a return to subsidy. On 15 October the Dangote depot price stood at N1,348, and Legit.ng reports that the federal government is negotiating a ceiling of N1,350 a litre at that level. Behind all of it, headline inflation for September was 14.63 per cent, down from 15.39 per cent in August, with food still running at 19.59 per cent, and the official naira benchmark was reported at about N1,332 to the dollar on 13 October, with bureaux de change quoting N1,365 to N1,375.
 
-I am not being cynical about elections. Voting matters. Leadership matters more than this article will have room to argue. But there is a difference between choosing a leader responsibly and outsourcing your entire moral agency to whoever wins, then blaming that person for every pothole, every naira of inflation, and every hour of darkness for the next four years, while you yourself do nothing in the meantime but wait and complain, as though citizenship were a spectator sport.
+I've given you those figures because they're the weather we all live in, and because nobody who has stood in that queue needs convincing that it's hard. A privately built refinery was supposed to change the story, and it has changed some of it, but the price at the pump still moves when the world's oil moves and when depot owners and government haggle. One rich man, however capable, isn't a rescue either.
 
-Here is a fact that ought to embarrass the messiah politics we keep practicing. In 2026, petrol in Nigeria became cheaper at many stations than it had been in more than a year, not because any government finally kept a promise, but because a private refinery built by a Nigerian businessman began undercutting the depot prices that had strangled the market for a decade. The Dangote Refinery did not appear because the National Assembly repented. It appeared because one man, whatever his flaws, decided he would rather build something than wait for the state to. Whatever you think of billionaires, sit with that for a moment. The most visible economic relief ordinary Nigerians have felt in years did not come from the government we keep praying will save us. It came from someone who got up and worked.
+And the next rescuer already has a date. INEC's revised timetable puts the presidential and National Assembly elections on 16 January 2027, with governorship elections on 6 February, and in September it published a final list of eighteen presidential candidates. The liturgy has started up again. He understands suffering. Or he used to be poor, or he has a doctorate, or he says the right things at the right rally, or he simply hasn't had the chance yet to disappoint us. We sing it with the sincerity of people who've never stopped to ask why the miracle keeps missing its appointment.
 
-I am not asking you to worship Aliko Dangote. I am asking you to notice that the pattern of Nigerian deliverance has almost never been a benevolent ruler descending to fix things. It has been ordinary and extraordinary citizens doing the next right thing while the state was busy elsewhere. That pattern is older than Nigeria. It is, in fact, biblical.
+I'm not telling you whom to vote for, and I won't. Voting matters, and so does leadership, and I'll argue that harder further down. But there's a difference between choosing a leader carefully and handing over your whole moral life to whoever wins, then blaming him for every pothole and every hour of darkness while you wait and complain, as though citizenship were something you watched from the stands.
 
-## When Israel Asked for a King
+## Why Israel Wanted a King
 
-Read 1 Samuel 8 slowly, the way you would read a letter from someone who knows you too well. The elders of Israel come to the prophet Samuel and ask him to appoint a king over them, "like all the nations." Samuel, hurt by the request, takes it to God, and God's response is not what most sermons on this passage remember.
+Read 1 Samuel 8 slowly, the way you'd read a letter from someone who knows you too well. Samuel is old, and his sons are taking bribes. The elders of Israel come to him with an understandable request, in the words of the King James Version, "now make us a king to judge us like all the nations." Good government is a reasonable thing to want. So what went wrong?
 
-> "And the LORD said to Samuel, 'Obey the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them.'"
-> — 1 Samuel 8:7 (ESV)
+Samuel is hurt and takes it to God, and God tells him that the elders haven't rejected Samuel. They have rejected God as their king. Then God has Samuel list what a king will do. He will take their sons for his armies and their daughters for his kitchens, the best of their fields and a tenth of their grain and flocks. The day will come when they cry out because of the king they chose, and God says he will not answer them then. The elders hear all this, and they answer with something I find chilling in its ordinariness.
 
-God then instructs Samuel to warn the people exactly what a king will do. He will take their sons for his armies. He will take their daughters for his kitchens. He will take the best of their fields and vineyards and give them to his officials. He will tax a tenth of their grain and their flocks. And in the day that king oppresses them, God says, they will cry out because of the king they themselves chose, and God will not answer them on that day.
+> *"That we also may be like all the nations; and that our king may judge us, and go out before us, and fight our battles."*
+>
+> — 1 Samuel 8:20 (KJV)
 
-This is not a passage about the danger of bad kings. It is a passage about the danger of wanting a king at all, of wanting someone else to carry what God had actually equipped an entire covenant community to carry together. Israel did not lack the resources to govern itself under God. It lacked the patience to keep doing the slow, communal, unglamorous work of covenant faithfulness, and so it asked for a shortcut with a crown on it. Nigeria has been asking for that same shortcut since 1999, dressed up in a different vocabulary. We call it "the next administration." God, through Samuel, called it rejection.
+Fight our battles. That is the sentence. I should be fair here, because it would be easy to read this passage as a ban on government. It isn't one. Deuteronomy 17 makes provision for a king, and Israel's story later has good ones. Nor does 1 Samuel 8 say that wanting justice is a sin. The trouble is what the elders wanted the king to do for them. They were a covenant people with a law, with elders, with prophets, and with a God who had brought them out of Egypt, and they had grown tired of the slow shared work of keeping faith with one another. They wanted a shortcut with a crown on it. Nigeria has been shopping for that same shortcut at every election since 1999, under a different name. We call it the next administration.
 
-## The Shepherds Who Fed Themselves
+## What Ezekiel Says to the Shepherds
 
-I will not pretend leadership is innocent in this story. Scripture never lets leaders off that easily either.
+None of this lets rulers off. Scripture isn't that polite to the powerful.
 
-> "Son of man, prophesy against the shepherds of Israel; prophesy, and say to them, even to the shepherds, Thus saith the Lord GOD unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?"
+> *"Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord GOD unto the shepherds; Woe be to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?"*
+>
 > — Ezekiel 34:2 (KJV)
 
-Ezekiel's indictment of Israel's shepherds reads like it was written after a briefing on the Nigerian budget cycle. The shepherds eat the fat, clothe themselves with the wool, and slaughter the fattened sheep, but they do not feed the flock. The weak are not strengthened. The sick are not healed. The injured are not bound up. The strays are not brought back. Instead, Ezekiel says, the shepherds ruled the sheep "with force and with cruelty." This is a searing description of extractive leadership, the kind that treats a nation's people as a resource to be harvested rather than a flock to be tended. Anyone who has watched a state governor commission the same borehole three times before three different elections knows exactly what Ezekiel is describing.
+The prophet goes on to list what these shepherds failed to do. They didn't strengthen the weak, heal the sick or bind up the injured, and they didn't go after the strays. They ruled the sheep harshly and ate well themselves. Picture a state where the same borehole is commissioned before every election, and somewhere a contractor is putting up a bigger signboard each time. Nobody needs a degree in theology to recognise Ezekiel's complaint in that picture. The accusation is aimed at a system of leadership that treats a people as something to harvest.
 
-But notice something easy to miss in Ezekiel 34. God's judgment does not end with the shepherds. By the end of the chapter, God promises to personally search for the sheep, rescue them, and become their shepherd himself, precisely because the human shepherds failed. That is not a permission slip for the sheep to do nothing. It is a promise that when human leadership collapses, divine leadership does not, and the flock's response to that promise is never passivity in Scripture. It is always obedience, gathering, and rebuilding.
+The numbers say the outside world reads Nigeria's system in much the same way. Transparency International's Corruption Perceptions Index for 2025 gave Nigeria 26 out of 100, which is unchanged from the year before, and a rank of 142nd out of 182 countries, two places lower than the 140th it held for 2024. A score like that doesn't prove anything about any one office holder, and I wouldn't use it to accuse anyone. What it records is a perception of the system, and perception of the system is the very thing Ezekiel was addressing.
 
-## Achebe Was Half Right
+Chinua Achebe made the same diagnosis in *The Trouble with Nigeria* (1983), and he made it in one sentence that people have been quoting ever since.
 
-Chinua Achebe was not writing theology when he published *The Trouble with Nigeria* in 1983, but he was closer to it than he realised. His diagnosis was leadership, and he was not wrong. Nigeria's post-independence history, from the coups of the 1960s through the oil boom mismanagement of the 1970s to the structural adjustment years of the 1980s and the present era of subsidy politics and naira devaluation, is in large part a chronicle of leaders who mistook the presidency for an inheritance rather than a stewardship.
+> *"The trouble with Nigeria is simply and squarely a failure of leadership."*
+>
+> — Chinua Achebe, *The Trouble with Nigeria* (1983)
 
-Where I part ways gently with Achebe is not in his diagnosis but in his prescription, or rather in the prescription many Nigerians have taken from him. If the trouble is leadership, the logic goes, then the solution is simply better leaders, and our only job is to keep voting until we find one. Scripture agrees that leadership matters immensely. It never agrees that leadership is the whole story.
+He went on to insist that the land, the climate, the water and the air were not the problem. The problem, as he put it, was the unwillingness or inability of its leaders to rise to the responsibility. I think he was right on both counts, and it's the reason I'm not scolding anybody here. But a diagnosis isn't a treatment plan. Plenty of readers have taken Achebe to mean that only one job remains for the rest of us, which is to vote until we find the right man. Ezekiel 34 doesn't stop at the shepherds' condemnation. It turns to God saying, "Behold, I, even I, will both search my sheep, and seek them out" (Ezekiel 34:11, KJV). Christians believe that promise was kept when Jesus called himself the good shepherd. I'm not saying nobody has come. I'm saying nobody is coming to do your part of the work for you.
 
-> "What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him? So also faith by itself, if it does not have works, is dead."
-> — James 2:14, 17 (ESV)
+## Nehemiah Also Needed a King's Letters
 
-James is writing about personal faith, but the principle transfers with unsettling precision to national faith. A citizenry that prays for Nigeria on Sunday and does nothing for Nigeria the other six days, that reports every pothole to God in prayer but never to the local government chairman in writing, that complains about corruption but pays the bribe at the checkpoint because it is faster, has a faith without works. And faith without works, James says plainly, is dead. Not weak. Dead.
+Here is the strongest objection, and I want to put it fairly. It runs like this. Easy for a preacher to say, rebuild your section of the wall. But no household can repair a national grid, which collapsed on 23 January with generation falling to zero, as the Guardian reported, and which lurched again in August when generation sank to about 1,132 megawatts and the distribution companies began shedding load. Nobody lights a hospital with a trowel. A citizen at a checkpoint pays the bribe because the officer holds the keys to his afternoon. And look at your own hero. Nehemiah didn't start with a trowel. He started by asking a king for permission, for letters to the governors on the road and for timber from the royal forest. If Nehemiah needed the state, so do we.
 
-Consider Nehemiah, a man who had every reason to wait for someone else to fix Jerusalem. He was not even in Jerusalem. He was a cupbearer in a Persian palace, comfortable, employed, safe. When news reached him that the wall of his ancestral city lay in ruins and its gates were burned, he wept, fasted, and prayed for days. Then, notably, he did not stop there. He asked the king for permission, gathered materials, travelled to a ruined city, and organised the rebuilding himself, family by family, gate by gate.
+I concede most of that. Nehemiah did go to the king, and the road opened because a ruler wrote the letters. Many things in a nation can only be done by those who hold its offices, which is exactly why Ezekiel is angry with them. A people who say "we'll just build it ourselves" while ignoring the grid and the courts are fooling themselves.
 
-> "Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach."
-> — Nehemiah 2:17 (KJV)
+But look at the order of events. Nehemiah wept, fasted and prayed for days. Then he asked, and when the king said yes he went. When he got to Jerusalem he didn't wait for the Persian treasury to produce a wall. He walked the ruins at night, told the people what he'd seen, and said "Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire" (Nehemiah 2:17, KJV). The people's answer is the line I'd put on every town hall in this country.
 
-Read Nehemiah chapter three and you find something remarkable: an entire chapter listing, by name and by family, which section of the wall each household repaired. The priests repaired the section near the sheep gate. The goldsmiths repaired another section. A ruler's daughters repaired part of the wall themselves. Nobody waited for a king to fix Jerusalem. A community organised itself, household by household, and rebuilt what generations of neglect had destroyed. That is what deliverance actually looks like in Scripture far more often than a rescuing monarch. It looks like ordinary people repairing the section of wall in front of their own house.
+> *"And they said, Let us rise up and build. So they strengthened their hands for this good work."*
+>
+> — Nehemiah 2:18 (KJV)
 
-## The Miracle Is Not Coming, You Are
+The letters opened the road. The wall went up household by household. And when, in Nehemiah 5, the wealthy among his own people were squeezing the poor, he confronted them to their faces. So the pattern includes building and it includes holding the powerful to account. It leaves out waiting.
 
-Here is where I ask you to stop reading this as commentary on Nigeria in general and start reading it as a letter addressed to you specifically.
+## The Part of the Wall Outside Your House
 
-You are not waiting for the next election to save Nigeria. You are the wall repair Nigeria is waiting for. Your section might be the classroom where you refuse to accept a bribe for a grade. It might be the small business you run without cutting the corner everyone tells you is normal. It might be the local church you serve faithfully instead of chasing the bigger platform. It might be the vote you cast after actually reading a manifesto instead of following whoever your ethnic or religious bloc endorsed. It might be the young Nigerian abroad who sends money home not only for consumption but for building something. It might be staying when leaving would be so much easier, and if you have already left, it might be refusing to let distance become an excuse for disengagement.
+Read Nehemiah 3 sometime, the chapter that most of us skip because it's a list. It names who repaired which stretch, and it's one of the most democratic documents in the Bible. Priests repaired near the Sheep Gate. Goldsmiths and perfumers took other sections. A ruler and his daughters did their share with their own hands. Several of them repaired the stretch opposite their own house. Nobody was told to fix the whole wall, and everybody was given a piece.
 
-None of this excuses bad leadership. Ezekiel's fury at Israel's shepherds still stands, and Nigeria's leaders still owe an account they have not yet given. But Israel's mistake in 1 Samuel 8 was not that they wanted good government. It was that they wanted a substitute for their own covenant responsibility, a human king who would carry what God had asked them to carry together. Nigeria has spent more than two decades asking every new administration to be that king. Every single one has disappointed us in exactly the way God warned Samuel it would.
+Which brings me to you. I'm writing as though to one reader, because that's how it works. Your piece might be the classroom where you won't accept money for a grade. It might be the small business you run without the shortcut everyone says is normal. It could be the church you serve faithfully when a bigger platform was on offer, or the letter you write to your local government chairman about the road instead of only praying about it. It could be the vote you cast after reading a manifesto in place of following the bloc you were born into. If you're abroad, it might be the money you send home to build something and not just to cover this month, or the refusal to let distance turn into an excuse. For some of you it's staying, when leaving would be easier.
 
-The trouble with Nigeria, Achebe said, is a failure of leadership. He was half right. The other half of the trouble with Nigeria is a citizenry that keeps waiting for a shepherd to arrive on a white horse instead of picking up a trowel and repairing the section of the wall in front of its own house. Nobody is coming to save you. Not because God has abandoned Nigeria, but because God's pattern, from Samuel's Israel to Nehemiah's Jerusalem, has always been to work through a people who stop waiting and start rebuilding. The wall will not repair itself, and neither, history keeps insisting, will the nation. Pick up whatever tool is in your hand. Your section is waiting.
+James puts the principle plainly, and he's writing about personal faith, though it carries over to the national kind with some force.
 
----
+> *"Even so faith, if it hath not works, is dead, being alone."*
+>
+> — James 2:17 (KJV)
+
+A congregation that prays for Nigeria on Sunday and does nothing on the other six days, that reports every pothole to God and never to the ward office, that complains about corruption and then pays at the checkpoint because it's quicker, has a faith that's all prayer and no hands. James doesn't call that weak. He calls it dead.
+
+## Before the January Vote
+
+Between now and 16 January there will be rallies, billboards and a good deal of promising. Go and listen, and vote after you've read what's on offer. Then do the harder thing, which nobody will put on a billboard. Pick the street, the school, the ward or the office that's yours. Find two neighbours who are as tired as you are. Meet on Saturday and decide what you can repair, whether that's a drain, a clinic's roster, a school's lesson plans or a church's care for its widows, and who will write to whom about the rest.
+
+Nobody is coming to save you, and that's meant to free you up as much as to sting. God hasn't abandoned this country. His way, from Samuel's Israel to Nehemiah's Jerusalem, has always run through a people who stopped queuing and started building, with the shepherd himself walking ahead of them.
+
+What is the section of wall outside your door? I'd like you to be able to name it by Sunday.
+
+***
 
 ## References
 
 ### Biblical References
 
-- **1 Samuel 8:7 (ESV)** — Used to establish that Israel's demand for a king was, at its root, a rejection of covenant responsibility in favour of a human substitute, framing the article's central argument about messiah politics.
-- **Ezekiel 34:2 (KJV)** — Used to indict extractive Nigerian leadership through the prophet's condemnation of shepherds who feed themselves rather than the flock.
-- **James 2:14, 17 (ESV)** — Used to argue that civic faith without civic works is dead, applying the epistle's argument about personal faith to national responsibility.
-- **Nehemiah 2:17 (KJV)** — Used to introduce Nehemiah's decision to act rather than wait, as a model of citizen-initiated rebuilding.
-- **Nehemiah 3 (referenced, not directly quoted)** — Used to illustrate the household by household, communal model of rebuilding as the biblical pattern of deliverance.
+* **1 Samuel 8:5 (KJV).** Quoted in part to show that the elders' request began as a reasonable wish for good government.
+* **1 Samuel 8:20 (KJV).** Quoted in full as the elders' real motive, that the king would fight their battles.
+* **1 Samuel 8:1 to 18 (referenced, not quoted).** God's reply to Samuel and his warning about what a king will take.
+* **Deuteronomy 17:14 to 20 (referenced, not quoted).** Shows that Scripture makes provision for a king, so the argument is against outsourcing responsibility and not against government.
+* **Ezekiel 34:2 (KJV).** The prophet's charge against shepherds who feed themselves, applied to extractive leadership as a system.
+* **Ezekiel 34:11 (KJV).** God's promise to seek his sheep himself, read as grace and not as permission to be passive.
+* **John 10:11 (referenced, not quoted).** Jesus as the good shepherd, the Christian reading of Ezekiel 34:11.
+* **Nehemiah 2:4 to 8 (referenced, not quoted).** Nehemiah's request to the king for permission, letters and timber, used for the strongest objection.
+* **Nehemiah 2:17 (KJV).** Quoted in part, Nehemiah's address to the people about the ruined city.
+* **Nehemiah 2:18 (KJV).** The people's answer and the epigraph for the essay.
+* **Nehemiah 3 (referenced, not quoted).** The list of households repairing the wall, the model for local responsibility.
+* **Nehemiah 5 (referenced, not quoted).** Nehemiah confronting wealthy Jews who exploited the poor, showing that accountability belongs to the pattern.
+* **James 2:17 (KJV).** Faith without works is dead, applied to civic life.
 
 ### Other Sources
 
-- Achebe, C. (1983). *The trouble with Nigeria*. Fourth Dimension Publishing.
-- Afrobarometer. (2024, December 18). *Majority of Nigerians have considered emigration in search of opportunity, new Afrobarometer survey finds* [Press release]. https://www.afrobarometer.org/articles/majority-of-nigerians-have-considered-emigration-in-search-of-opportunity-new-afrobarometer-survey-finds/
-- Civil Society Legislative Advocacy Centre. (2026, February 10). *Nigeria retains low score in 2025 Corruption Index as global ranking slips*. PRNigeria News. https://prnigeria.com/2026/02/10/nigeria-corruption-index/
-- Transparency International. (2026, February 10). *Corruption Perceptions Index 2025*. Transparency.org. https://www.transparency.org/en/cpi/2025
-- Vanguard. (2026, July 9). *Competition intensifies in Nigeria's downstream market as petrol holds firm, diesel prices rise*. Vanguard News. https://www.vanguardngr.com/2026/07/competition-intensifies-in-nigerias-downstream-market-as-petrol-holds-firm-diesel-prices-rise/
+* Achebe, C. (1983). *The trouble with Nigeria*. Fourth Dimension Publishing.
+* AllAfrica. (2026, August 24). *Nigeria: Discos embark on load shedding as power grid suffers partial collapse, generation plunges to 1,132mw*. https://allafrica.com/stories/202608240731.html
+* BusinessDay. (2026, February 13). *Nigeria ranks 142nd out of 182 countries in 2025 Corruption Perceptions Index*. https://businessday.ng/companies/article/nigeria-ranks-142th-out-of-182-countries-in-2025-corruption-perceptions-index/
+* Daily Trust. (2017, February 17). *Revisiting Achebe's "Trouble with Nigeria"*. https://www.pressreader.com/nigeria/daily-trust/20170217/282033326954356
+* Guardian Nigeria. (2026, January 23). *Again, Nigeria's power grid collapses, causes nationwide blackout*. https://guardian.ng/energy/again-nigerias-power-grid-collapses-causes-nationwide-blackout/
+* Legit.ng. (2026, October 15). *No more N1,365: Dangote, other marketers announce new petrol prices nationwide*. https://www.legit.ng/business-economy/energy/1736338-petrol-price-update-marketers-release-petrol-prices-lagos-port-harcourt-calabar-warri/
+* Legit.ng. (2026, September 12). *Filling stations release new petrol prices as Dangote raises rate to N1,350*. https://www.legit.ng/business-economy/energy/1730478-filling-stations-release-petrol-prices-dangote-raises-rate-n1350/
+* Nairametrics. (2026, September 12). *INEC releases final list of 18 presidential candidates for 2027 elections*. https://nairametrics.com/2026/09/12/inec-releases-final-list-of-18-presidential-candidates-for-2027-elections/
+* Prime Business Africa. (2026, February 27). *INEC shifts 2027 presidential election to January 16 after new Electoral Act*. https://www.primebusiness.africa/inec-shifts-2027-presidential-election-to-january-16-after-new-electoral-act/
+* Techeconomy. (2026, October 14). *Dollar to naira exchange rate today, October 14, 2026*. https://techeconomy.ng/dollar-to-naira-exchange-rate-today-october-14-2026
+* Technext24. (2026, October 15). *Nigeria's inflation drops to 14.63% in September, but food inflation edges up*. https://technext24.com/4p2b
+* Vanguard. (2026, October 11). *Petrol: Marketers hike pump price in Abuja, Lagos by N29/litre*. https://www.vanguardngr.com/2026/10/petrol-marketers-hike-pump-price-in-abuja-lagos-by-n29-litre/
+
+### Translation Notices
+
+* The King James Version is in the public domain and needs no notice.

@@ -1,222 +1,215 @@
 ---
 title: Three Sons and a Father Who Keeps Running
+subtitle: Luke 15 is waiting for a brother who goes out to find the lost
+summary: Luke 15 gives us a younger son who leaves, an elder son who stays and sulks, and a father who runs to both, and the story leaves one chair empty for the brother who goes looking, which is the place Jesus was filling while he told it.
 category: Grace & Identity
-verse: But while he was still a long way off, his father saw him and was filled with compassion for him; he ran to his son, threw his arms around him and kissed him.
-verse_ref: Luke 15:20 (NIV)
+verse: And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.
+verse_ref: Luke 15:20 (KJV)
 featured: 4
 ---
 
-## The Parable Nobody Has Finished Reading
+## A Complaint About Who Jesus Eats With
 
-Here is a confession the church rarely makes: we have been preaching the Prodigal Son for two thousand years and we have still not preached all of it.
+Luke 15 begins with a murmur. Tax collectors and sinners have pushed in close to hear Jesus, and the Pharisees and scribes, standing at the edge with their arms folded, have found something to say about it.
 
-We know the younger son by heart. We know the wasteful spending, the far country, the pigs, the hunger, the slow walk home with a rehearsed apology. We have turned his story into altar call material so many times that a generation of Christians can complete the narrative from memory before the preacher reaches verse fifteen. The younger son is comfortable territory. He is us or the version of us we are willing to admit to on a Sunday morning.
+> *"And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them."*
+>
+> — Luke 15:2 (KJV)
 
-What we do far less willingly is sit with the elder brother. The one who stayed. The one who worked. The one who did not embarrass the family, did not waste the inheritance, did not smell like a pigsty when the story reached its climax. He is standing outside the party at the end of the chapter, fists clenched, jaw tight, thoroughly convinced that justice has been violated and he is not entirely wrong. That is what makes him so difficult to deal with. His complaint has logic to it.
+Anyone who has sat through enough church services knows that murmur. It isn't shouted. It's the voice behind the hand at the back of the hall, asking who that woman is sitting with and whether the pastor knows what she has done. It needs no microphone and it has survived every revival in history.
 
-And then there is the father, who runs in a culture where men of dignity do not run, who throws a robe on a boy still stained with far-country decisions, who kills the fattened calf before a single syllable of the rehearsed apology has been delivered. That father requires the most attention of all, because He is the point of the entire parable, and we spend most of our time talking about His children.
+Everything else in the chapter is Jesus answering it. He tells three stories, one after another, and they are not addressed to the sinners at his table. They are addressed to the people at the edge of the room. That changes how the third story should be heard, because we've preached it for so long as a story about the boy who left that we have mostly forgotten who it was told against.
 
-But before we get to the sons, we need to understand why Jesus told this story at all because Luke 15 does not begin with a prodigal. It begins with a muttering.
+We know the younger son by heart. The inheritance, the far country, the pigs, the walk home with a rehearsed speech. Preachers can feel an altar call coming from the first verse. The elder brother gets a few uncomfortable minutes at the end, and then we sing. And the father, the one who actually runs the story, tends to be treated as a prop that makes the sons look interesting.
 
----
+I think the story has three sons in it, although only two of them are named by the text. Getting to the third takes the whole chapter.
 
-## Three Parables, One Argument, One God
+## Two Searches and Then a Silence
 
-Luke 15 opens with the Pharisees and teachers of the law watching Jesus eat with tax collectors and sinners and working themselves into a quiet fury about it. Their complaint is not shouted. It is murmured — that disapproving register that religious people have mastered across every culture and every century: *This man welcomes sinners and eats with them.*
+Jesus opens with a shepherd.
 
-Jesus responds with three parables, back to back, each one a different lens on the same truth.
+> *"What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"*
+>
+> — Luke 15:4 (KJV)
 
-The first is a shepherd who loses one sheep out of a hundred. Any sensible shepherd, you might argue, would count that as an acceptable loss — ninety-nine safe, one gone, the maths are not complicated. But this shepherd leaves the ninety-nine and goes after the one. When he finds it, he does not drag it back resentfully. He puts it on his shoulders and rejoices, and calls his neighbours to rejoice with him.
+Any sensible farmer would count that as an acceptable loss, and Jesus knows it. The sums are wrong on purpose. This shepherd leaves the ninety nine to the wilderness and goes after one, and when he finds it, he doesn't drive it home with a stick. He "layeth it on his shoulders, rejoicing" (Luke 15:5, KJV), and calls his friends and neighbours to come and celebrate.
 
-There is something in that image worth sitting with. When a shepherd ties down an animal, the responsibility for that animal belongs to the shepherd. The tied sheep cannot wander into danger. It cannot be snatched. It cannot be knocked down on the road. It is inconvenienced, perhaps it can see the untied sheep moving freely and might wonder what freedom feels like. But that apparent freedom carries a terrible cost: the untied sheep is responsible for itself. There is no shepherd watching for it. The wolf does not announce itself. The thief does not give warning. Anything can happen to a sheep that belongs to no one.
+The second story is a woman who has ten coins and loses one. She lights a lamp, sweeps the house, and keeps looking until the coin turns up, and then she too calls her friends and neighbours. A coin can't repent. It didn't choose the crack in the floor. It can't find itself, and nobody expects it to. The only action in the story belongs to the woman with the broom.
 
-This is a precise description of what it means to live outside of Christ. You are not free. You are untethered. The devil does not need your permission to ruin your day, your relationship, your health, your mind. There is no covering, no watchful eye, no one running toward you when you wander toward the edge. When Jesus needed an animal to ride into Jerusalem on the day the city lined the streets with palm branches, he did not need one wandering the streets at random. He needed one that was tied — one that was under authority, prepared, set apart, ready for the moment. The sheep that is tethered to a shepherd is not imprisoned. It is positioned.
+Put the two side by side and a pattern is plain. In both stories something is lost, somebody goes out to look, and the finding ends in a party. The lost thing does almost nothing. We have a habit of preaching repentance as though the sinner takes the first step and God, impressed by the effort, takes the second. Luke 15 begins by telling us otherwise. Before anything else happens, someone has already gone out.
 
-The second parable is a woman with ten coins who loses one. The coin has not run away. It has not chosen the far country or rejected her love. It is simply lost — hiding in a crack in the floor, useless wherever it is, unable to do what a coin was made to do. The woman sweeps the entire house, lights a lamp, searches every corner until she finds it. When she does, she calls her friends and neighbours to celebrate.
+Hold that pattern in mind, because the third story quietly breaks it. There are two lost sons in it, and there's a father who goes out for each of them. But there is no brother who goes out, and I'll come back to that.
 
-A lost coin cannot find itself. It cannot repent. It cannot decide to be found. It can only be searched for. This matters for how we understand the gospel because not everyone who is far from God is there by spectacular rebellion. Some people are simply lost. Drifted. Misplaced. The woman's response to the missing coin is not judgment. It is a lamp and a broom and a refusal to stop looking.
+## What the Younger Son Asked For
 
-Then comes the third parable — the one Jesus has been building toward all along. The parable of two sons and a father who refuses to lose either of them.
+The story is short on explanation. A man has two sons, and the younger one says to him, "Father, give me the portion of goods that falleth to me" (Luke 15:12, KJV). The same verse reports the father's response.
 
----
+> *"And he divided unto them his living."*
+>
+> — Luke 15:12 (KJV)
 
-## God Can Give You What You Want So You Will Discover What You Need
+Two details in that sentence deserve more attention than they usually get. The first is that the father agrees. He doesn't argue, or lock the safe, or tell the boy to wait until the funeral. Whatever the younger son meant by his request (and many readers hear in it a wish that the old man were already dead, which the text doesn't say), he is asking a living father to treat the family property as something to cash out. Anyone who has watched relatives turn up with calculators before the burial rites were over knows how raw that request is when the man who built the estate is still sitting in the next room.
 
-The younger son's request is staggering in its audacity. He walks up to a living father and asks for his share of the estate. In the cultural world of first-century Palestine, asking for your inheritance while your father breathes is not a legal transaction. It is a declaration. It is the son saying, in effect, I wish you were dead. I want what you have, not who you are.
+The second detail is easy to miss. He divided his living *unto them*. Both sons received a share. The elder brother's inheritance was settled that day, in the same sentence as the younger's. Hold on to that as well. It's going to matter at the end of the story.
 
-And the father gives it to him.
+The father's consent has a cost, and I think the story wants us to feel it. He lets the boy go. He doesn't send servants after him with a letter, and he doesn't cut off the money in the second month. There are fathers who are strong because they hold on and fathers who are strong because they let go, and the second kind is much more frightening to the child. It means the choice is real. God doesn't keep us home by force, and when we insist on what we think we want, he has been known to let us have it, because a good many people only learn the price of a thing by paying it.
 
-This is the first theological grenade buried in the parable, and it detonates quietly if you are not paying attention. A God who respects human freedom enough to let us choose distance over relationship, waste over wisdom, far countries over the father's house — that God is not the cosmic enforcer that religion often makes Him. He is more dangerous than that. He is a father who will let you have what you are asking for, because sometimes the only school that can teach you what you truly need is the school of having gotten exactly what you wanted.
+## The Far Country and the Walk Home
 
-Sister Esther Diya puts it sharply: love of money can make you senseless. She is right, and the text bears her out. The younger son does not arrive at the pigsty in a moment of sudden moral failure. He arrives there through a series of decisions that each made perfect sense at the time — spend freely, live fully, enjoy the wealth. The senselessness is gradual. That is how money works on a soul that has not been anchored to something more durable than appetite. It does not announce itself as idolatry. It presents itself as freedom.
+Luke does not linger on the spending. "Not many days after the younger son gathered all together" (Luke 15:13, KJV) and he's gone, and in a few lines the money is gone too and a famine has arrived, and the boy who asked for a share of the estate is hiring himself out to feed pigs. Nothing in the text says his collapse was sudden. It reads like a series of decisions that each made sense when he took them.
 
-> *"For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs."*
-> — 1 Timothy 6:10 (NIV)
+The distance deserves a word. He didn't move to the next village. He travelled far enough that nobody who knew his father could stand across a road and ask him what he thought he was doing. Plenty of Nigerians have left for Britain, Canada or the United States, and most of them have gone for ordinary reasons and worked harder abroad than they ever could at home. But we also all know the other story, because it gets told at family gatherings in low voices. Someone leaves, and within a year the restraint that looked like character turns out to have been held up by who was watching. Take away the aunties and the church elders and the neighbours who knew your mother, and a person finds out how much of what he called conviction was really proximity.
 
-Paul does not say money is the root of all evil. He says the love of money is a root — singular article, and yet one with extensive root systems. The younger son did not love the far country. He loved what he thought the far country could give him. When the far country ran out of that, the far country had nothing left to offer.
+That's a reason people choose far countries. The place itself isn't the point. The point is to be somewhere that nobody has the standing to say, wait, is this who you want to be?
 
-The famine — that natural, impersonal catastrophe that does not distinguish between the wise and the foolish — is what Tomilola Adedeji rightly calls a revelation of stupidity. Not because suffering proves sin. It does not. But because sometimes the famine is what strips the pretence from the flamboyance and leaves you standing in the ruins of your own decisions with absolutely nothing to say. And what do those ruins look like in our time? Look around. Paul's description in Romans 1 of people given over to a reprobate mind doing what is not fitting, what the conscience itself protests against — is not ancient history. It is the far country in every generation, dressed in different clothes but feeding on the same empty husks.
+It works in the other direction too. Think how many people have stayed away from home, from church, from a phone call, for no better reason than shame. They aren't in love with the pigs. They simply can't picture the walk back, and the longer they stay, the more the picture fills with faces: the cousin who'll say he always knew, the pastor who'll want a testimony, the mother who will cry. The far country is partly a place and partly a way of avoiding a conversation.
 
-> *"When he finally came to his senses, he said to himself, 'At home even the hired servants have food enough to spare, and here I am dying of hunger!'"*
-> Luke 15:17 (NLT)
+Then comes the sentence on which the whole story turns.
 
-He came to his senses. The Greek is *eis heauton de elthon* — he came to himself, returned to himself, as if hunger and humiliation had finally brought him back to a self he had abandoned somewhere between home and the far country. This is what repentance looks like before it is a theological category. It is a person who has been living at a distance from their own soul, finally stopping long enough to look at the state they are actually in.
+> *"And when he came to himself,"*
+>
+> — Luke 15:17 (KJV)
 
-Many of us resist this moment precisely because we are not ready to see the state we are actually in. When we have not yet met with Christ, we construct a version of ourselves that is basically fine. Managing. Getting by. But if we could see our spiritual condition with unobstructed clarity — the actual poverty, the distance from the father's house, the hunger being masked by noise and distraction — we would understand why the far country, no matter how glamorous its packaging, is always a pigsty by another name. The younger son is not unique. He is the representative of every person yet to come to Christ. And the thing that is necessary for the journey home is exactly what he did in that field: he saw his real condition, and he turned.
+The Greek is *eis heauton elthon*. He came into himself. Hunger did what a father's pleading couldn't have done, and it took the noise away long enough for him to see his own situation. I'd resist reading too much devotion into what follows. His speech, as the next verses give it, is a business proposal. He has worked out that his father's hired hands eat better than he does, and he plans to apply for a job. It is a thin kind of repentance, mixed with appetite, and the story doesn't pretend otherwise.
 
----
+It turns out not to matter, which is the next surprise.
 
-## Foolishness Runs. It Also Hides.
+## The Father Runs, Whatever the Village Thinks
 
-There is a detail in the younger son's departure that deserves more attention than it usually receives. Luke 15:13 says he *gathered all he had and travelled to a distant country*. Not the next town. Not a day's journey. A distant country — somewhere his father's eyes could not follow, somewhere the weight of family accountability could not find him.
+> *"And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."*
+>
+> — Luke 15:20 (KJV)
 
-Tomilola Adedeji names this clearly: foolishness drives you away from accountability. The far country is not primarily a geographical location. It is a spiritual strategy. It is the calculated decision to put enough distance between yourself and the people who know you well enough to ask hard questions.
+Read it slowly and the first thing to notice is that the father *saw him* while he was still a great way off. You can only see a figure on the horizon if you are already looking at the horizon. Nobody had sent word that the boy was coming. Whatever the father had been doing for months, he'd also been watching the road.
 
-We understand this in Nigeria. We have watched people move to London or Houston or Toronto and, within a year, shed every restraint they maintained at home — not because the restraint was hypocritical, necessarily, but because the restraint was structural. It was held in place by proximity to people whose opinions mattered. Remove the proximity, remove the opinions, and the person who remained had no internal architecture to hold the self in shape.
+Many sermons at this point tell the story of the *kezazah*, a ceremony in which the village would break a pot at the feet of any Jewish boy who had lost his inheritance among Gentiles and declare that he was cut off from his people. In the sermons, the father runs to reach his son before the village does. The story is vivid, and it has been told so often that it now travels as plain fact. It needs checking before it is repeated.
 
-The younger son is not primarily a parable about money. It is a parable about what happens when a person decides that freedom means the absence of relationship. He went to a far country and spent everything — not just his inheritance, but himself. The famine did not create his poverty. It simply made visible what his distance from home had already accomplished.
+The ceremony was brought into popular use by Kenneth Bailey, a New Testament scholar who spent decades living and teaching in the Middle East and who read the parables through the eyes of the villagers he knew. His book on Luke 15, *The Cross and the Prodigal* (revised edition 2005), is thoughtful and well worth reading. Matthew Williams of Biola University, in a piece drawing on Bailey, reports the claim as follows: the community would break a large pot before the returning son and tell him he was cut off. But when others went looking for the ceremony in ancient texts, the evidence was thinner than the sermons suggest. The rabbinic passages that mention something like it are from the Jerusalem Talmud, which dates to somewhere between about 200 and 450 CE, long after Jesus. They describe relatives breaking jars of grain and nuts before children, who declare that a man has been cut off from his estate, and the trigger in those texts is selling ancestral land or marrying someone unsuitable. Nothing in them involves a boy who has squandered his money among Gentiles. The New Testament scholar Levine, who writes on the parables from within Jewish scholarship, concludes, as one account of her argument puts it, that the parable itself gives no hint of any such rite.
 
-> *"Whoever isolates himself seeks his own desire; he breaks out against all sound judgment."*
-> — Proverbs 18:1 (ESV)
+So I won't build on the broken pot. I don't need to. The father doesn't have to be racing a mob to be astonishing. A man who is wealthy enough to divide his estate and who has been wronged as badly as this father has been wronged is perfectly entitled to wait on the veranda and let the boy come to him. Williams adds, again drawing on Bailey, that a man of standing in that culture would have to hitch up his tunic to run, and that showing his bare legs was, in his words, "humiliating and shameful." That comes from life in Middle Eastern villages rather than from an ancient text I could check, so I'd hold it loosely, though it sounds right to me. What the text itself says is enough. The father *ran*, and he *fell on his neck*, and he *kissed him*.
 
-The proverb is unsparing. Isolation is not neutral. It is an act with a direction — it seeks something — and what it seeks, the text says, is the individual's own desire, unchecked by the friction of community. The far country is wherever that desire leads you when there is no one close enough to say: wait. Think. Is this who you want to be?
+And notice the order. Luke gives the son's speech in the next verse the son begins his speech, and he begins it after the embrace. He hasn't earned the hug by rehearsing well. By the time he opens his mouth, he is already being held. The father gives orders to the servants.
 
----
+> *"But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:"*
+>
+> — Luke 15:22 (KJV)
 
-## The Father Who Runs Before the Village Can Condemn
+Hired hands do not get the best robe. The father is dressing a son, and he is doing it in front of the servants and the neighbours, so that nobody has to wonder where the boy now stands.
 
-Everything in this parable converges on verse twenty, and it is worth slowing down inside it because what the father does when the son appears on the road is not merely sentimental. It is strategic. It is an act of cultural intervention.
+Paul puts the same logic into a single sentence, and he wrote it about the cross rather than a father's gate.
 
-There was a practice in first-century Jewish community life known as the *kezazah* — the cutting off. If a Jewish boy had gone to live among Gentiles, had lost his inheritance to them, and attempted to return to his village, the community would perform a public ritual of rejection. Clay pots would be broken before him. The elders would gather. He would be formally cut off from the community, declared an outcast, his name severed from the family before he could reach the father's door. The shame would be made official and irreversible before any reunion could take place.
+> *"but God shows his love for us in that while we were still sinners, Christ died for us."*
+>
+> — Romans 5:8 (ESV)
 
-The father knows this. The whole village knew what the younger son had done — squandered the family's wealth, gone to live among Gentiles, fed pigs. The kezazah was coming. The community was ready to make its judgment before the boy could be received.
+Grace gets there first. That isn't because repentance doesn't matter, since the boy did get up and walk. Repentance is what makes the welcome receivable, but it doesn't make it possible. The love was already out on the road before the speech was ready.
 
-So the father runs.
+## What the Elder Brother Has to Say
 
-He does not walk out with quiet dignity to welcome his son at a respectful pace. He hitches up his robe — exposing his legs, abandoning the posture of a man of standing — and he runs. He reaches his son before the village elders can assemble. He falls on his neck and kisses him. He calls for the robe and the ring and the sandals in front of witnesses. By the time anyone can organise a kezazah, the father has already made his verdict public: this boy is my son, he is clothed, he is ringed, he is home, and we are having a party.
+This is where the story gets difficult, because Jesus doesn't end it at the party. He turns the camera to the field.
 
-The father does not just forgive the son. He outruns the shame.
+> *"Now his elder son was in the field:"*
+>
+> — Luke 15:25 (KJV)
 
-He falls on his neck and kisses him before the apology is complete. He cuts the rehearsed speech off mid-sentence. He calls for the robe and the ring and the sandals and the calf — each item a reinstatement of the sonship that the boy had tried to surrender — and the celebration begins before the boy has had time to properly process the fact that he has been forgiven.
+He's working, as he has been all these years, and when he comes near the house he hears music. A servant explains that his brother has come home and that the fatted calf has been killed. And the elder brother is "angry" and will not go in. So the father does something he did not have to do. "Therefore came his father out, and intreated him" (Luke 15:28, KJV). That is the second time in one story the father leaves a party and goes out onto a road for a son. He runs to the first and pleads with the second.
 
-> *"But God demonstrates his own love for us in this: while we were still sinners, Christ died for us."*
-> — Romans 5:8 (NIV)
+Now listen to the elder brother properly, because his complaint is a reasonable one and I'd like to give it in words he would accept. I've stayed. I've been here every day. When there was no money, I was the one who found it; when the roof leaked, I climbed up. I never once embarrassed you in front of the neighbours. And in all these years you never threw me a party, not even a goat for me and my friends. Then this boy, who has eaten your money with prostitutes, walks in smelling of pigs, and you kill the best animal you own.
 
-While we were still a long way off. Before the apology was ready. Before the rehearsed speech could be delivered. The grace runs faster than the repentance not because repentance does not matter, but because the father's love does not wait for repentance to make it possible. The repentance makes it receivable. The love was already there, already running, already at the gate, already calculating the distance between a man with his robe hitched up and the moment the village would gather to destroy his child.
+Anyone who has watched a family reunion in Nigeria knows the face behind those words. One sibling has been paying the electricity bill and driving the old woman to hospital for a decade. Another arrives from abroad, to a house full of food and relatives falling over themselves, and the first one sits in the kitchen doing the washing up. Most of us have been one or the other, and a few of us, on different days, have been both. If your first instinct is to dismiss the elder brother as a villain, I think you haven't yet listened to him. He isn't entirely wrong. His arithmetic is fine.
 
----
+What's wrong is something underneath the arithmetic, and the father puts his finger on it.
 
-## The Son Who Was Always Home and Never Arrived
+> *"And he said unto him, Son, thou art ever with me, and all that I have is thine."*
+>
+> — Luke 15:31 (KJV)
 
-The elder brother is where this parable gets genuinely uncomfortable.
+Remember that the estate was divided in verse twelve, *unto them*. When the younger son left, everything that remained was already the elder son's. The calf in the pen was his calf. The robe in the cupboard was his robe. If anything, the father is throwing the feast out of his elder son's property, and the elder son has never complained about that because he has never once thought of it as his own. He complains that his father "never gavest me a kid." He never asked. Every day of those years he could have walked into the pen and taken a goat, and the father would have said, of course, it's all yours.
 
-He has done everything right. He stayed when his brother left. He worked every day their father's fields demanded work. He has not wasted, has not embarrassed the family name, has not required a search party or a fattened calf. By any reasonable accounting, he is the good son. And when the party erupts in the house, he is not even home — he is still in the fields, still working, still doing what he has always done.
+The word he uses of himself is "serve." "Lo, these many years do I serve thee" (Luke 15:29, KJV), and the Greek verb is the one for a slave's labour. He has lived in the house all his life and organised his entire relationship with the man who owns it around wages. His father is a boss whose approval he is saving up for.
 
-That detail is not accidental.
+I want to be careful at this point, because it can be taken the wrong way. Some of the things the elder brother does are good things. Fasting and long prayer, giving, early mornings, vigils, showing up when nobody is watching. None of that is the problem. A son can do all of it, and the best sons do. It becomes the elder brother's ledger when it turns into overtime, when you fast twenty one days and privately expect God to settle the account. The same habit is a delight when you do it as a child in your father's house, and it's a grievance when you do it as a labourer in somebody else's. The difference lies in what you think you're doing it for.
 
-Marvellous Oluwadunsin identifies the deeper problem: the elder brother does not know the father because he has always been working rather than serving. The distinction is not semantic. Working for someone means your relationship with them is defined by what you produce for them. Serving someone means your relationship with them is defined by who they are to you. The elder brother has spent his entire adult life in the field, and somewhere in that time, the father's house became simply the place where the work led. Not a home. A headquarters.
+And look at what he calls his brother. The younger one is not *my brother*. He is "this thy son," in the elder's mouth, and the father quietly takes the word back at the end of the story: "for this thy brother was dead, and is alive again; and was lost, and is found" (Luke 15:32, KJV). The elder brother had disowned the relationship in a single phrase. The father hands it back to him.
 
-This is why, when the music starts and the neighbours explain why, the elder brother's first move is not toward the celebration but away from it. He refuses to go in. He stands outside. And in that image — the obedient son standing outside his own father's house, refusing to enter — Jesus hands the Pharisees a mirror and waits to see if they will look into it.
+## The Brother Nobody Sends Out
 
-Marvellous is right again: zeal without knowledge is dangerous. The elder brother is zealous. He is also completely wrong about what the father is like. He has lived in the father's house and does not know the father's heart. He thought God keeps accounts like a ledger. He thought the father's resources were a reward system. He is furious that his years of compliance have not generated the same response as his brother's single act of return — and he says so, out loud, to his father's face:
+Here the story stops, and it stops in the strangest place. Jesus doesn't tell us whether the elder brother went in. There's no last line about the music or the dancing. The father has just said "thy brother," and then the camera simply goes off, with the elder son still standing in the yard.
 
-> *"'Look! All these years I've been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends. But when this son of yours who has squandered your property with prostitutes comes home, you kill the fattened calf for him!'"*
-> — Luke 15:29-30 (NIV)
+That silence is deliberate. The people to whom the story is told are the Pharisees at the edge of the crowd, and they are the elder brother, and what Jesus leaves unfinished is the very thing he is asking them to finish. They are the ones outside the house. The party is for people they have been muttering about.
 
-Notice what he calls his brother: *this son of yours*. Not my brother. Yours. The language is precise and deliberate. When he says *your son*, he has moved the responsibility entirely to the father and the prodigal. He has removed himself from the equation. He is a witness to the outrage, not a party to the reunion. He has, in his own words, disowned his brother before his father could reinstate him.
+But I think the silence also has a shape, and the shape is a missing person.
 
-This matters because language always reveals ownership. The moment you call a lost person *their* problem — their sin, their choice, their consequence — you have stepped out of the father's posture and into the elder brother's. We as believers have been given a different assignment. Not to observe the lost from a safe distance and note their poor decisions, but to take responsibility for them the way a brother does. Not to say *your son* but to say *my brother*. The moment we say *my brother*, the responsibility is also ours to go looking, to run toward, to celebrate the homecoming, to hold open the door.
+In the first two stories, someone goes out. The shepherd goes into the wilderness, and the woman takes up her broom. In the third story the father goes out, twice, once for each son. But a household like the one Jesus describes needs more than a father. It has an eldest son whose job, as every Nigerian family understands without being told, is to be the one who goes. When the cousin has disappeared into a bad crowd in Lagos, the eldest is the one who takes the bus, finds the address, and brings him home. When there's a quarrel between two uncles, the eldest sits down between them. It is one of the heavy duties of being first. In Luke 15 the eldest son is the one who has to be fetched.
 
-The church, too, can become this. A community so invested in its own compliance that it cannot celebrate a sinner coming home. A congregation so fluent in the language of working for God that it has forgotten the language of knowing Him. A people who have the anointing oil and the worship band and the prayer vigils and the seed offering and cannot tell the difference between the Father's house and a religious headquarters.
+So there is an empty chair in the story, and everyone can see it. Where is the brother who goes out to find the lost one, who walks the road beside him, who stands at the door of the feast and says to the sulking one in the yard, come in, he's your brother and I'm not ashamed of him?
 
----
+That's where Christian readers have always heard a third son. Let me be careful about what I'm claiming. Levine has warned that parables are not allegories, and she is right to say it. Luke 15 doesn't contain a character with Jesus's name on him, and a reading that finds one must be argued for, not assumed. But look at the occasion. The one who tells this story is, at that very moment, sitting at a table with the sinners the Pharisees are complaining about. He is doing exactly what the elder brother refuses to do. The empty chair in the story is occupied in the room where the story is told.
 
-## The Inheritance You Are Standing Next To and Have Never Opened
+The New Testament says this about him in so many words.
 
-The father's response to the elder brother is one of the most quietly devastating statements in the New Testament:
+> *"For he who sanctifies and those who are sanctified all have one source. That is why he is not ashamed to call them brothers,"*
+>
+> — Hebrews 2:11 (ESV)
 
-> *"'My son,' the father said, 'you are always with me, and everything I have is yours.'"*
-> — Luke 15:31 (NIV)
+The writer adds that "he had to be made like his brothers in every respect" (Hebrews 2:17, ESV). And on the morning of the resurrection, when the men who had scattered when he was arrested are hiding behind a locked door, the first message he sends them uses the word the elder brother couldn't say: "go to my brothers" (John 20:17, ESV).
 
-Everything I have is yours. It has always been yours. The younger son's share was taken and spent. But the elder brother's share — the larger share, the firstborn's double portion — is sitting there untouched. He has never accessed it. He has been living in the father's house like a servant who does not know he is a son, working to earn what was already his by birthright.
+The writer Shiao Chong, reading Luke 15 with Tim Keller's *The Prodigal God* (2008), makes the same point in his own way. Keller argues that both brothers are trying to be their own saviour, one by rebellion and one by moral performance. Chong adds that the elder brother should have gone looking for his lost brother, and that Jesus is the true elder brother who does, at the cost of the cross. That is Chong's reading rather than Keller's, and I find it hard to resist.
 
-This is not a parable about ancient brothers anymore. This is Tuesday morning in the average evangelical church in Lagos, Abuja, Ibadan, London, Houston — everywhere that believers have been in the faith long enough to build a theology of earning what they should simply receive.
+An African version of the same instinct has a long history. Timothy Palmer's survey of African Christology describes how Charles Nyamiti, in *Christ as Our Ancestor* (1984), proposed that Christ is the brother ancestor in the fullest sense, and how Kwame Bediako argued in 1995 that Christ can rightly be called, in African terms, the supreme ancestor. Palmer is careful to add that not everyone agrees. Some respected African theologians did not use the language, and the students he asked mostly rejected it, on the sensible ground that Christ is alive and ancestors are dead. I'm not asking anyone to adopt a vocabulary. But anyone who grew up in a Nigerian family understands the instinct underneath it. Families need an elder brother who goes out, and in the story Jesus tells, the person who ought to have been that brother is standing in the yard with a grievance.
 
-We want to pray more, fast more, give more, attend more, serve more — not because these things are bad, but because we have confused the disciplines of relationship with the conditions of inheritance. We are working for what the father has already signed over. And so we watch a new believer receive healing, joy, peace, a transformed marriage, a restored mind — things we have been circling in prayer for years — and instead of celebrating, we are standing outside the party wondering when it will be our turn. Not knowing that it has always been our turn. Not knowing that the inheritance is not in a queue. Not knowing that the father is inside saying: everything I have is yours, and has been yours all along. You simply never came to take it.
+## Learning to Stand Where the Father Stands
 
-Temiloluwa Adedeji makes a practical point that sharpens this further: if the elder brother does not rise to the occasion, the servants could come to claim what belongs to the son. This is not merely about inheritance law. It is about identity. A son who does not know he is a son — who relates to the father's house as an employee rather than a child — will eventually find that he has voluntarily occupied a servant's position in what was always his own home. And the tragedy is not that someone else took what was his. The tragedy is that he surrendered it by never living into it.
+Henri Nouwen's meditation on Rembrandt's painting of the return of the prodigal (1992) ends somewhere many of us wouldn't expect. The painting shows both sons and the father, and Nouwen's point is that whichever son you see yourself in, you are being asked to become the father. "The return to the Father is ultimately the challenge to become the Father" is how he puts it in the passage quoted by Kevin Spinale in *America* (Nouwen, 1992, p. 123). I would add only what Luke 15 itself suggests, that the father in this story spends most of it on the road. To stand where he stands is to be someone who goes out.
 
----
+That means the way we talk about people, for a start. "This son of yours" has a long life in Christian conversation. It comes out as *that girl*, *that boy*, *that family*, *those people who left the church*. Language shows who is carrying whom. Listen to how a family talks about a daughter who came home pregnant, or a son who came out of prison, and you can tell within a minute which of them the speaker thinks belongs to the household and which has been put on the other side of the gate. The moment a lost person becomes *their* problem, their sin, their consequence, we have moved out of the father's posture and into the yard. To say *my brother* is to take on the responsibility of the one who goes out. It's more costly than the other word, and it's the only one the father uses.
 
-## The Mirror the Elder Brother Was Supposed to Be
+It may be that a church is the place where this is hardest. We can arrange a thanksgiving service for a new car at very short notice. A man who has been away for eight years and wants to come back into the fellowship gets a long silence and a seat at the back. That isn't the fault of one or two unkind people. It's what a system does when it has grown very good at working for God and has lost the habit of knowing him, and it can be fixed by anyone willing to cross the room and sit down beside him.
 
-The elder brother ought to have mirrored the father to the lost son. That was his role. The older son in an ancient Near Eastern household was not simply the more obedient sibling. He was the representative of the household, the one whose character and conduct communicated something about the family to everyone watching. When the younger son came back, the elder brother should have been the first one running — not in competition with the father, but alongside him — because a person who truly knows the father's heart cannot stay still when what the father loves most comes home.
+If you are the younger son, hear what the story says about the road. You don't have to arrive with a better speech. The man who is watching for you has been watching for a good while. The robe is already in the house.
 
-Instead, the elder brother is in the fields. Not present for the homecoming. Not available to receive the returning brother. Not running. Standing outside, in the dark, with a grievance list.
+If you are the elder son, which is to say if you have been faithful for years and are tired and feel unseen, the story has something harder and gentler to say to you. Your father is not unaware of what you've done, and he doesn't dispute your arithmetic. He tells you the whole estate is yours and has been all along. You can go and take the goat. You can also go in and sit down by a brother whom the father has already named as yours.
 
-This is the indictment Jesus builds across the whole of Luke 15, and it lands squarely on the religious leaders in the crowd. The scribes and Pharisees are the elder brothers. They know the law. They have stayed in the house. They have not run away to spend the religious inheritance on personal pleasure. And yet when the sinners and tax collectors come home — when they crowd around Jesus to hear something they have never heard before, when they are drawn back from their far countries by a voice that speaks to them like a father — the Pharisees stand outside the party and complain.
+## The Door Is Still Open
 
-The question at the end of the parable is not answered. We do not know if the elder brother went inside. Jesus leaves that open, deliberately, for the Pharisees to complete. For the church in every generation to complete.
+The story ends with a verse that ends in the middle of a conversation. "This thy brother was dead, and is alive again; and was lost, and is found." The music is still going. The calf is on the fire, the younger son is washed and dressed and probably still half in shock, and somewhere out in the yard a man with his arms folded is deciding whether to go in.
 
----
+Jesus doesn't say what he decided, and I think the reason is that the Pharisees were still deciding, and so are we.
 
-## What Fasting and Prayer Are Actually For
+So here is a suggestion, and it's a small one. Think of the person you have been calling *this son of yours*. Perhaps it's a cousin who went abroad and stopped answering the phone, or a woman in your church whose story everyone knows, or a father you haven't spoken to in six years. Somebody in your life has been lost for long enough that you've stopped saying their name. The third son in this story is the one who goes out. It is what Jesus did for us, and he's not ashamed to call us his brothers and sisters while he does it, and it is also what he asks of us.
 
-There is a question that circles this kind of teaching like a moth around a lamp, and it is worth addressing directly: if the inheritance is already ours, if the father is already running toward us, if grace is not something we earn by discipline — then what exactly are fasting and prayer for?
+The music is still playing. There's a chair for you, and next to it is the one belonging to the brother you've been refusing to name. Go in and sit beside him.
 
-The disciples asked a version of this question after failing to cast out a demon that had tormented a boy since childhood. They had cast out demons before Jesus had sent them out two by two — and they had returned rejoicing that even the spirits submitted to them. And then they met this one and nothing happened. Jesus delivered the boy and they pulled him aside afterward: *Why could we not cast it out?* His answer has become one of the most quoted and least understood sentences in the Synoptic Gospels: *This kind does not go out except by prayer and fasting.*
+***
 
-The common interpretation is that fasting and prayer are a kind of spiritual technology for dealing with particularly stubborn demonic forces. Pray enough, fast long enough, and the demon must yield. But there is a problem with that reading, and it surfaces when you look at what fasting and prayer did and did not do to Jesus Himself.
+## References
 
-Before Jesus began His public ministry, He went into the desert for forty days and forty nights without food. We are told the devil came to tempt Him at the end of that period, or during it — the text does not resolve the timing precisely, and honesty requires acknowledging that. But what the text makes absolutely clear is this: the fast did not repel the devil. Satan came anyway. Satan was not deterred by forty days of fasting. He walked right up to the most spiritually prepared human being who had ever lived and offered Him bread, kingdoms, and spectacle.
+### Biblical References
 
-What the fast did was prepare Jesus. It elevated Him. It sharpened His spiritual awareness so that when the temptation came, He met it not from a position of hunger and weakness but from a position of clarity and authority. Every one of Jesus's three responses in that desert came directly from Deuteronomy — Scripture that had been alive in Him long before the fast and was fully accessible to Him in the moment of trial — because His spiritual antenna, to use the language that captures it best, was at its highest pitch.
+* **Luke 15:2 (KJV).** The murmur of the Pharisees; the occasion for all three parables, and the reason the story is heard as told against them.
+* **Luke 15:4 to 5 (KJV).** The shepherd who leaves the ninety and nine and carries the sheep home rejoicing; the first search, and the pattern the third parable breaks.
+* **Luke 15:8 to 10 (paraphrased).** The woman who loses a coin and sweeps the house; the second search, in which the lost thing does nothing.
+* **Luke 15:12 to 13 (KJV).** The request for a share of the estate; the division "unto them", which gives the elder brother his portion; the departure.
+* **Luke 15:17 (KJV).** "When he came to himself": the turning point, with the Greek phrase noted.
+* **Luke 15:20 to 22 (KJV).** The father's running, embrace and the best robe; the argument that grace precedes the speech.
+* **Luke 15:25 to 32 (KJV).** The elder brother in the field, the father who goes out a second time, the complaint, the answer, and "this thy brother".
+* **Romans 5:8 (ESV).** Grace arriving while we were still sinners; the parallel to the father on the road.
+* **Hebrews 2:11 and 2:17 (ESV).** Christ not ashamed to call us brothers, and made like his brothers in every respect; the reading of the third son.
+* **John 20:17 (ESV).** The risen Christ's word "my brothers" for the disciples who had scattered; the brother who says the word the elder son would not say.
 
-This is what Isaiah was gesturing at when he wrote:
+### Other Sources
 
-> *"But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."*
-> — Isaiah 40:31 (NIV)
+* Bailey, K. E. (2005). *The cross and the prodigal: Luke 15 through the eyes of Middle Eastern peasants* (Rev. ed.). InterVarsity Press. https://ivpress.com/the-cross-and-the-prodigal
+* Biola Magazine. (2010). The prodigal son's father shouldn't have run! Biola University. https://www.biola.edu/blogs/biola-magazine/2010/the-prodigal-sons-father-shouldnt-have-run
+* Chong, S. (2024, November). The elder brother. *The Banner*. https://www.thebanner.org/columns/2024/11/the-elder-brother
+* Keller, T. (2008). *The prodigal God: Recovering the heart of the Christian faith*. Dutton. (Cited as quoted in Chong, 2024.)
+* Levine, A.-J. (2014). *Short stories by Jesus: The enigmatic parables of a controversial rabbi*. HarperOne. (Cited through Spinale, 2015, and Sleepless Theology, n.d.)
+* Nouwen, H. J. M. (1992). *The return of the prodigal son: A story of homecoming*. Doubleday. (Cited as quoted in Spinale, 2015b.)
+* Palmer, T. (2008). Jesus Christ: Our ancestor? *Africa Journal of Evangelical Theology, 27*(1), 65-76. https://www.gospelstudies.org.uk/biblicalstudies/pdf/ajet/27-1_065.pdf
+* Sleepless Theology. (n.d.). Kezazah and the prodigal: Debunking a popular sermon illustration [Newsletter post]. Substack. https://sleeplesstheology.substack.com/p/kezazah-and-the-prodigal-debunking
+* Spinale, K. (2015a, February 12). Short stories by Jesus: February selection. *America*. https://www.americamagazine.org/catholic-book-club/2015/02/12/short-stories-jesus/
+* Spinale, K. (2015b, August 6). Henri Nouwen's The return of the prodigal son: August Catholic Book Club selection. *America*. https://www.americamagazine.org/catholic-book-club/2015/08/06/return-prodigal-son-story-homecoming/
 
-Waiting on the Lord in prayer, in fasting, in the patient study of the Word is not passivity. It is the deliberate act of a person who understands that spiritual capacity is not static. The person who was crawling begins to walk. The person who was walking begins to run. The person who was running begins to fly. Fasting and prayer are not a mechanism for repelling external forces. They are a workshop for building internal ones.
+### Translation Notices
 
-So when Jesus told the disciples that *this kind goes not out except by prayer and fasting*, He was not giving them a formula for a superior exorcism technique. He was addressing their faith. He said it plainly just before that: *O you of little faith.* The issue was not the demon's unusual stubbornness. The issue was that the disciples had been sending demons out by borrowed authority — riding on the momentum of the mandate Jesus gave them without cultivating the inner life that makes that authority sustainable. They had the commission without the preparation. They had the assignment without the workshop.
-
-Fasting and prayer build the kind of faith that does not collapse when it meets something it has never encountered before. Not because fasting scares demons, but because a person who fasts and prays is being transformed from the inside — sharpened, elevated, made ready — so that when the crisis arrives, the response comes not from panic but from a depth that has been built in the secret place.
-
-The inheritance is real. The father is running. And the disciplines are not the price of entry — they are the preparation of the person who will know what to do with what they receive when they get home.
-
----
-
-## Come In
-
-This is the God the elder brother does not know. This is the God the Pharisees have spent their whole lives working for without understanding. This is the God who gives you what you want so you will discover what you need, who lets you go to the far country so you will come back to your senses, who ran the kezazah out of the village's hands before it could reach His son, who waits at the gate every day until He can see you while you are still a long way off and then runs, robe flying, dignity abandoned, to get to you before the shame does.
-
-The party is happening. The music is playing. The calf is on the fire. The inheritance is sitting in the father's house with your name on it.
-
-And the father is inside, looking at the door, hoping you will stop standing in the dark and come in.
-
----
-
-## Biblical References
-
-- **Luke 15:4-6** — The parable of the lost sheep; used to establish the shepherd's heart and the extended metaphor of the tied versus untied sheep.
-- **Luke 15:8-9** — The parable of the lost coin; used to show that not all lostness is rebellion — some are simply misplaced, and the seeker does not stop searching.
-- **Luke 15:13** — The younger son's journey to a distant country; used to establish flight from accountability as a spiritual strategy, not merely a geographical decision.
-- **Luke 15:17** (NLT) — The moment of returning to himself; the Greek *eis heauton de elthon* examined for what repentance looks like before it becomes a theological category.
-- **Luke 15:20** (NIV) — The central verse; the father's running unpacked against the cultural backdrop of the kezazah ceremony.
-- **Luke 15:29-30** (NIV) — The elder brother's complaint; the phrase "this son of yours" examined as a language of disownership and abdicated responsibility.
-- **Luke 15:31** (NIV) — The father's response to the elder brother; used to establish that the inheritance has always been available and that the elder brother's problem is one of identity, not access.
-- **Romans 1:28** — The concept of a reprobate mind; used to connect the far country to the pattern Paul describes of people given over to what is not fitting.
-- **1 Timothy 6:10** (NIV) — The love of money as a root of all kinds of evil; used to sharpen the analysis of what drove the younger son's departure.
-- **Proverbs 18:1** (ESV) — Isolation as a pursuit of desire against sound judgment; used to show the far country as a chosen spiritual posture.
-- **Isaiah 40:31** (NIV) — Waiting on the Lord renewing strength; used to establish what fasting and prayer actually produce — internal elevation, not external demon-repulsion.
-- **Romans 5:8** (NIV) — God's love demonstrated while we were still sinners; used to connect the father's running to the logic of prevenient grace.
-
----
-
-## Sources
-
-- **Sister Esther Diya** — The reflection on the love of money and senselessness from Luke 15:12, 17; and the observation that God gives what we want so we discover what we need.
-- **Temiloluwa Adedeji** — The warning about the elder brother's failure to rise to the occasion and the risk that servants could occupy what belongs to the son.
-- **Marvellous Oluwadunsin** — The three-part analysis: zeal without knowledge, the danger of not knowing God in order to do exploits, and the elder brother's failure to mirror the father's heart toward the lost son.
-- **Tomilola Adedeji** — The observations on foolishness and accountability, and on natural circumstances exposing the emptiness of flamboyance.
+* Scripture quotations marked ESV are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.

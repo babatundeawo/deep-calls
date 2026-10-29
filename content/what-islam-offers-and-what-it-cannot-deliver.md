@@ -1,244 +1,204 @@
 ---
 title: What Islam Offers and What It Cannot Deliver
+subtitle: A Christian answer to eight Muslim claims, given in terms a Muslim would recognise
 category: Hard Questions
-verse: For there is one God and one mediator between God and mankind, the man Christ Jesus, who gave himself as a ransom for all people.
-verse_ref: 1 Timothy 2:5-6 (NIV)
+verse: For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all, which is the testimony given at the proper time.
+verse_ref: 1 Timothy 2:5 to 6 (ESV)
+summary: A Christian takes the strongest Muslim claims seriously, answers each in terms a Muslim would accept as fair, and asks what a religion of submission can and cannot do for the human heart, in a Nigeria where both communities carry wounds.
 ---
 
-## The Offer on the Table
+## Two coursemates and one long argument
 
-Let us begin by being honest about something that Nigerian Christianity is not always good at: taking other religions seriously enough to actually engage them.
+Here is a scene, built to be recognisable and not reported as fact. Two final year students share a table in a library at the University of Ibadan, a week before examinations. Tolu is a Christian who has sung about the blood of Jesus at six in the morning since he was small. Zainab is a Muslim who has read the Quran through more times than Tolu has read Romans. She is not trying to win anything. She simply asks him why Christians make God so complicated. One God is easy to understand, she says, and you people have three.
 
-We are very comfortable singing about the blood of Jesus at 6am. We are considerably less comfortable sitting with a well-read Muslim who has eight theological objections to the faith lined up like soldiers and the patience of someone who has memorised the Quran in Arabic. The instinct, in those moments, is to rebuke the objections. But you cannot rebuke an argument. You have to answer it.
+Tolu does what many of us would do. He rebukes the question. He says something about the devil confusing her mind, and the conversation, which could have been the best one of their four years, ends at the photocopier.
 
-So here is what the argument looks like. Islam, in its most articulate form, presents itself as an upgrade on Christianity. Not a different religion so much as a correction — the final, uncorrupted transmission of a message that was first given to the prophets and subsequently tampered with. The list of what Islam claims to offer over Christianity is specific and, on the surface, sounds reasonable.
+I want to say the plain thing first. You cannot rebuke an argument. You can only answer it. And you cannot answer it until you can state it in words that the person who holds it would nod at. That is the work of this essay. Muslims in Nigeria are our classmates, colleagues, landlords, in laws and customers, and across many northern towns they are the large majority. A faith that is only comfortable arguing with people who already agree with it is not very confident.
 
-One God, uncomplicated and undivided. Direct access to that God without a mediator. Personal responsibility for sin rather than someone else carrying your guilt. A complete, total way of life rather than a vague spiritual feeling. One perfectly preserved book with no competing versions. A final prophet whose word closes the canon permanently. A daily discipline that structures the whole person. And a global brotherhood — the ummah — that transcends tribe and nation.
+So the first half of what follows gives the Muslim case at its best. The second half answers it. I will try to be fair in both, and I will say where I think the Christian answer is weaker than we usually pretend.
 
-These are not small claims. They deserve serious answers.
+## What a Muslim friend would put on the table
 
-What follows are those answers. Not a rebuke. An answer.
+Islam presents itself less as a rival to Christianity than as the correction of it. The message, a Muslim will say, was given to every prophet, including Moses and Jesus, and then blurred by later hands. The Quran is the final and unblurred form of it.
 
----
+From that starting point come eight claims. God is one, undivided and unshared. Every believer has direct access to him, with no priest in between. Each person answers for his own deeds and nobody else carries them. Islam offers a whole way of life, from prayer to business ethics to inheritance, and not a mood on Sunday. The Quran has been kept safe in a single text. Muhammad is the last prophet, so nothing can come after him. Five daily prayers give the day a spine. And the worldwide Muslim community, spread over every nation, is a family that no border can cut.
 
-## The God Who Was Never Alone
+Those are not weak claims. Nobody who has watched a whole mosque go silent and stand shoulder to shoulder, rich man next to poor man, can think they are weak. They deserve answers and not noise.
 
-The first and most fundamental Islamic claim is tawhid — the absolute, undivided oneness of God. There is no Trinity. There is no Son. There is no Spirit as a co-equal person within the Godhead. There is only Allah, singular, solitary, self-sufficient.
+One more thing belongs here before the answers. Nigeria is a country that does not fully know its own religious numbers. The last census to measure religion was in 1973 and its results were never published, so every figure you hear is an estimate. Pew's most recent estimate, drawn from household surveys and dated 2020, puts Muslims at 56.1 per cent of the population and Christians at 43.4 per cent, with other groups at 0.6 per cent (Pew Research Center, 2025). Neither of us is going away, and neither of us is a small minority.
 
-This sounds like a stronger theology. It feels more elegant. One is simpler than three, and simple feels more divine.
+## One God and the love before creation
 
-But there is a problem buried inside that simplicity, and it is not a small one.
+The first claim is the oldest and, to a Muslim, the simplest. God is one. The short chapter of the Quran that Muslims recite more than almost any other says it in a few lines.
 
-If God is eternal — which Islam fully affirms — then God existed before creation. There was a time, in the most expansive sense of that word, when nothing existed except God. And if God is, as the Quran itself declares in Surah Al-Buruj, Al-Wadud — the Loving — then the question must be asked: who exactly was He loving?
+> *"Allāh, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent."*
+>
+> — Quran 112:2 to 4 (Saheeh International)
 
-Love is not an abstraction. Love requires an object. You cannot love in a vacuum. If God was eternally loving before there was anyone or anything to receive that love, then either His love was purely self-directed — which is a philosophical description of narcissism, not holiness — or He needed creation in order to express love at all, which makes Him dependent on what He made. Neither option is theologically comfortable.
+I want to honour what is going on in those lines. They are not mere abstraction. They are a guard against a real danger, which is that people make gods in their own image and then fight over them. Christians have done exactly that, and a Muslim who reads the Gospel of John for the first time and hears that God has a Son may well hear an echo of the old pagan stories of gods who fathered children. The Quran says to the Christian, in a verse about Jesus, that the Messiah was a messenger of God and his word, and then asks Christians to stop saying "Three" (Quran 4:171). That is a protest, and the protest has a history behind it.
 
-The Christian doctrine of the Trinity answers this question without flinching. The Father, Son, and Holy Spirit exist in an eternal relationship of love before a single atom of creation existed. When the Apostle John writes, with almost reckless simplicity, that God is love, he is not writing a greeting card:
+So what does a Christian say? Not that the Son is a child God had with someone. No Christian creed has ever meant that, and a Muslim is entitled to hear us say so plainly. The claim is narrower and stranger. It is that God has always been relational in his own being, and that the love he is did not have to wait for creatures to practise on.
+
+Here is the argument in its ordinary form. If God is love, and the apostle John says he is, then love was there before there was anyone to love.
 
 > *"Whoever does not love does not know God, because God is love."*
+>
 > — 1 John 4:8 (NIV)
 
-He is making a claim about the structure of God's inner being. Love is not something God decided to do when He created humans to practice it on. Love is what God is — and that requires that God, in His own eternal being, has always existed in relationship. The Trinity is not a theological embarrassment to be explained away. It is the only framework in which God's love makes sense before creation begins.
+Love needs someone to love. Before the universe, either God's love had no object, which makes it a love of himself and nothing else, or God needed his creation to become loving, which makes him depend on what he made. The Trinity says there was always someone to love, because God has never been alone.
 
-The Son is not a biological offspring, as if God took a wife and started a family. The word the Gospel of John uses is Logos — the Word, the eternal rational ground of all things, the one through whom creation itself came into being:
+I don't think that argument is a proof, and I would be a poor guide if I pretended it was. A thoughtful Muslim has a reply, and it is a good one. Love, like knowledge and power, is an attribute that belongs to God in himself whether or not any creature exists to receive it, and there is no need to turn God into a family to say so. A Christian cannot refute that in one move. What I can say is that the Christian doctrine did not arrive as a puzzle to be solved. It arrived because the first disciples met a man they could not describe as only a man and could not stop praying to, and they kept believing in one God throughout. The argument from love is not the reason Christians believe in the Trinity. It is the reason we find it fitting.
 
-> *"In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made."*
-> — John 1:1-3 (NIV)
+## No priest and no one else's burden
 
-This is not a division of God into parts. It is one God expressing Himself in a way that makes love possible before time began, makes creation possible as an act of overflow rather than necessity, and makes salvation possible as something more than a legal transaction conducted at arm's length. Tawhid, for all its apparent philosophical tidiness, cannot explain a God who is eternally relational. The Trinity can.
+The second claim is that Islam gives direct access to God. A Muslim stands to pray with no priest, no altar, and no intermediary, and the Quran speaks of a God who is nearer than a person's own neck.
 
----
+> *"And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein."*
+>
+> — Quran 50:16 (Saheeh International)
 
-## The Middleman Who Opens the Door
+I won't pretend that Christians have always been as good as Muslims at remembering that. Anyone who has watched a worship service turn into a queue for a man in a robe to touch your forehead knows that some Christians behave as if God lives behind a counter. The Muslim criticism of that is fair and often deserved.
 
-The second claim — that Islam offers direct access to God without a middleman — is one of those arguments that sounds powerful until you examine how Islam actually works in practice.
+But notice what the New Testament does with the word "mediator." It does not use it to say God is far off. It uses it to explain how a sinner can come near at all.
 
-The Salah, performed five times a day, opens with Al-Fatiha, the first surah of the Quran, and closes every unit of prayer with the Tashahhud, in which the worshipper declares peace and blessings on the Prophet Muhammad. The Du'a, the personal supplication, is frequently accompanied by invocations of the Prophet's name and blessing. And on the Day of Resurrection, in hadith tradition, when people are overwhelmed by the terror of the judgment and seek an advocate, they are told according to Sahih al-Bukhari to go to Muhammad, who will perform the shafa'ah, the intercession, on behalf of believers.
+> *"Let us then approach God's throne of grace with confidence, so that we may receive mercy."*
+>
+> — Hebrews 4:16 (NIV)
 
-That is not direct access. That is a very specific kind of mediation, performed by a man who died in 632 AD, whose body is in a tomb in Medina, and who therefore cannot hear anyone speaking to him.
+The question the Christian asks is not whether God is close. Everyone agrees he is. The question is how a person who knows his own heart can walk into the presence of a holy God without a word to say for himself. The letter to the Hebrews answers that Jesus does not stand in the doorway but holds it open, because he is able to save "those who draw near to God through him," since he "always lives to make intercession for them" (Hebrews 7:25, ESV). On this view the mediator is the reason the door is open.
 
-Christianity is more honest about mediation because it has better news to offer about the mediator. Yes, Jesus stands between humanity and God. But the reason He stands there is not to block access — it is because He has already torn down the wall:
+Which brings us to the third claim, that no soul can carry another's load. The Quran says it clearly.
 
-> *"Therefore, brothers and sisters, since we have confidence to enter the Most Holy Place by the blood of Jesus, by a new and living way opened for us through the curtain, that is, his body... let us draw near to God with a sincere heart and with the full assurance that faith brings."*
-> — Hebrews 10:19-20, 22 (NIV)
+> *"And no bearer of burdens will bear the burden of another."*
+>
+> — Quran 35:18 (Saheeh International)
 
-The imagery here is intentional and devastating. In the Jerusalem temple, the Most Holy Place — the inner chamber where God's presence dwelled — was sealed behind a thick curtain. Only the high priest entered, only once a year, and only with blood. When Jesus died, Matthew records that that curtain tore from top to bottom. Not from bottom to top, as a human hand would rip it. From top to bottom — God reaching down and destroying the barrier Himself.
+This is a serious moral instinct, and it is also an instinct Christians share. Nobody wants a justice system where a stranger takes your sentence without your consent. Most of us would be furious if it happened.
 
-The Christian mediator is not a historical figure whose intercession must be solicited through formula. He is alive, seated at the right hand of the Father, and Hebrews 7:25 says He ever lives to make intercession for those who come to God through Him. The mediation is not an obstacle. It is the engine of access itself.
+The point of the cross, though, is that nobody took anything without consent. Jesus said it himself, and the Gospel records it.
 
----
-
-## Justice That Costs Something
-
-The third claim concerns personal responsibility. Islam teaches that no soul bears the burden of another — a principle stated clearly in Surah Al-An'am and repeated in Surah Fatir. Every person stands before God carrying only their own deeds.
-
-This sounds like clean, simple justice. And in one sense, it is admirable. There is something right about the instinct that a person should answer for their own choices.
-
-But the Islamic position contains a peculiar complication. Several hadith traditions including accounts in Sahih Muslim describe a scenario on the Day of Resurrection in which the sins of Muslims are transferred onto the accounts of Jews and Christians, so that the Muslim may enter paradise unburdened. The specifics vary across different narrations, but the pattern appears in enough places to be taken seriously as a traditional position.
-
-Which is interesting. Because now the principle of individual accountability has an exception and the exception benefits Muslims at the direct expense of non-Muslims who bear guilt they did not incur. That is not justice. That is a different kind of substitution, without the consent or the voluntariness that might make it meaningful.
-
-Christianity makes no such claim. The atonement is not a forced transfer of guilt from the comfortable to the condemned. It is a voluntary self-offering by one who had the power to refuse it:
-
-> *"No one takes it from me, but I lay it down of my own accord. I have authority to lay it down and authority to take it up again."*
+> *"No one takes it from me, but I lay it down of my own accord."*
+>
 > — John 10:18 (NIV)
 
-A Yoruba proverb puts it plainly: the one with character has standing. Jesus does not absorb human guilt because He was caught in some divine bureaucratic mechanism. He absorbs it because He chose to. Justice is satisfied because sin is genuinely punished, not overlooked. Mercy is shown because the one absorbing the punishment is not a helpless victim but a willing substitute who rose again three days later to prove that death itself had no claim on Him.
+A burden carried by someone who was forced to carry it is exactly what both of us object to. A burden carried by someone who stepped forward, who had every power to refuse, and who did it for people who could not pay the debt, is something else. We can disagree about whether that happened. We shouldn't pretend the Christian claim is the one the Quran is rejecting. Christians do not say God dumped one man's guilt on another man's account. We say God went himself.
 
-The cross is not a loophole in divine justice. It is the fullest expression of it.
+## The preserved book and the last messenger
 
----
+The fifth claim is the one a Muslim most likely meets a Christian with, and it comes with real feeling. The Quran, says the Muslim, has been kept safe since the day it was sent down, and the Quran itself says so.
 
-## The Interior Revolution
+> *"Indeed, it is We who sent down the Qur'an and indeed, We will be its guardian."*
+>
+> — Quran 15:9 (Saheeh International)
 
-On the fourth point — that Islam offers a complete way of life while Christianity offers merely belief — I will grant more than most Christian apologists would.
+The Bible, the Muslim continues, has no such guarantee, and Christians cannot even agree which manuscript is the real one.
 
-Islam does offer a comprehensive system: prayer, fasting, almsgiving, pilgrimage, dietary law, commercial ethics, family structure, governance. It is thorough. And the Nigerian who has watched a certain strain of Sunday morning Christianity reduce the faith to a transaction — give your seed, claim your miracle, go home — might look at that comprehensiveness and feel a genuine twinge of envy.
+Here a Christian has to be careful, because many of us have said clumsy and unfair things at this point. The popular Christian line is that the Quran was edited by Uthman and the Bible was left alone, which is both rude and wrong. The classical collection of hadith, which means the reported sayings and deeds of Muhammad, records that a companion named Hudhaifa warned Uthman, the third caliph, that people were beginning to differ in how they recited the Quran, as Jews and Christians had differed before them. Uthman had copies made from an early written text and ordered that all other Quranic material, whether fragments or whole copies, be burnt (Sahih Bukhari, hadith 4987). A Muslim reads that account as an act of love for the text. A caliph saw a fire starting and put it out. I think that is a fair reading, and I don't think it's a scandal.
 
-But comprehensiveness and transformation are not the same thing.
+Equally, Muslim scholars do not claim that recitation has been uniform. The ten recognised modes of reciting the Quran all follow the Uthmanic written text, which was first written without the dots and vowel marks that later readers added, and the differences among them can be in sound, in grammar, and occasionally in shades of meaning. A paper from the Yaqeen Institute, which is a Muslim research body, sets out how those modes arose and also deals openly with the older readings attributed to Ibn Masud (Khatib & Khan, 2019/2024). A Christian who says "the Quran has no variants" has not read what Muslim scholars write. A Muslim who says "the Bible has no stable text" has not read what Christian scholars write either.
 
-A system that tells you what to eat, when to pray, and how to greet your neighbour can produce an ordered life. It can produce a disciplined person. It does not, by itself, produce a changed heart. And the heart is exactly where the problem lives. The Igbo have a saying that captures this well: *Onye wetara oji wetara ndụ* — the one who brings kola brings life — but kola cannot bring itself. The solution must come from outside the system.
+So I would put the difference this way. Islam believes God promised to guard his book and then did. Christians believe God sent his Word in a person, and that the writings about that person were carried by ordinary hands into thousands of copies. The New Testament is not preserved because it was one copy kept safe. It is known because it exists in a very large number of copies that can be compared. In the most recent count cited by Clay Jones, there are 5,795 Greek manuscripts of the New Testament, against 1,757 for Homer's *Iliad* and 210 for Plato (Jones, 2012/2013). Where copies differ, the differences can be seen, and the great majority are small things such as spelling and word order. The Bible does contain real textual questions, and I would rather say so myself than have a Muslim friend find out later. But a book with a wide paper trail cannot easily be quietly changed, and that is the sense in which the Christian case rests on multiplication and not on a promise.
 
-The prophet Jeremiah did not anticipate a more rigorous external law. He anticipated its abolition in favour of something more radical:
+The sixth claim is that Muhammad is the last of the prophets. The Quran says so in its own words.
 
-> *"The days are coming," declares the Lord, "when I will make a new covenant with the people of Israel and with the people of Judah. It will not be like the covenant I made with their ancestors... I will put my law in their minds and write it on their hearts."*
-> — Jeremiah 31:31-33 (NIV)
+> *"Muhammad is not the father of [any] one of your men, but [he is] the Messenger of Allah and last of the prophets."*
+>
+> — Quran 33:40 (Saheeh International, first clause)
 
-Jesus, in the Sermon on the Mount, did not come to soften the law. He came to show what the law was always pointing at: not behaviour management but the wholesale renovation of the inner person. When Paul writes to the Galatians about the fruit of the Spirit — love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control — he is describing not a checklist to be performed but a character that grows from within when the Spirit of God takes up residence:
+I cannot argue a Muslim out of that, and I don't intend to try. What I can do is ask what we are both being invited to accept. A final messenger is a claim that something finished has been said. The Christian says it was already said, that the one who spoke is a person and not a book, and that after him there was only the telling of it. Which of the two is true cannot be settled by repeating either claim louder. It is settled, if it is settled, by looking at who Jesus was, and a Muslim has already said a great deal about that. The Quran calls him the Messiah. The conversation is not finished by this essay, and it should not be finished at a photocopier.
 
-> *"But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law."*
-> — Galatians 5:22-23 (NIV)
+## A whole way of life, honestly weighed
 
-Against such things there is no law. Paul is not saying the law is unnecessary. He is saying that when the Spirit does His work, the law's demands are met not by enforcement but by transformation. One religion produces compliance. The other produces character. The difference is not cosmetic.
+On the fourth and seventh claims, the whole way of life and the five prayers, I want to give more than most Christian writers would.
 
----
+A faith that tells you how to pray, how to fast, how to give, how to do business and how to bury your dead builds a person who knows what Tuesday is for. Many Nigerian Christians have watched a version of our own faith shrink to a transaction. Plant a seed, claim a breakthrough, go home. Against that, a Muslim neighbour who gets up before dawn to pray is making a serious statement about who owns his time. I've no wish to talk down to it.
 
-## The Manuscript That Survived by Multiplication
+My question is the one the structure itself raises. What is it for? A soldier can keep perfect discipline and feel nothing for the general. A pupil can recite a poem he does not understand. The discipline matters, and a Christian who prays only when he feels like it is not being freer, only lazier. But Jesus pressed his own people on exactly this point. He warned against the prayer made to be seen, and told his listeners to go into a room, shut the door, and speak to a Father who sees in secret (Matthew 6:5 to 6). What he wanted could not be forced by a timetable. It had to grow from the inside.
 
-The fifth claim — that the Quran is one perfectly preserved book with no variants while the Bible is a corrupted text riddled with contradictions — is perhaps the most common objection raised in Muslim-Christian dialogue, and also the one most vulnerable to historical examination.
+The old prophets saw this coming. Jeremiah spoke of a day when God would say of his people, in the prophet's words quoted in the ESV, "I will put my law within them, and I will write it on their hearts" (Jeremiah 31:33). I am not saying a Muslim has no heart. I am saying that every religion of commands, mine included, faces the same embarrassing fact, which is that people can obey perfectly on the outside and stay exactly as they were on the inside.
 
-The standardisation of the Quranic text under Caliph Uthman ibn Affan, roughly twenty years after the Prophet's death, involved collecting available manuscripts, selecting one authoritative version, and — this is documented in classical Islamic sources including Sahih al-Bukhari — ordering the destruction of the other copies to prevent disagreement. This was not a neutral, passive preservation. It was an editorial decision made by human beings, under political and religious pressure, to consolidate the text by eliminating the alternatives.
+## Where the offer meets the problem
 
-The variants that Uthman sought to suppress did not disappear without record. The Companions of the Prophet, including Abdullah ibn Masud, are reported to have refused to surrender their personal copies. Ibn Masud's recension, used widely in Kufa, differed in the number of surahs. These disagreements are not fabrications of hostile critics; they are acknowledged within the classical Islamic scholarship itself.
+That fact is where the answer turns, so I should state it properly.
 
-The Quran today also has recognised qira'at variant recitation traditions, ten canonical ones which differ in ways that sometimes affect meaning. The claim of absolute uniform preservation, stated as though it is simple fact, is significantly more complicated than it is usually presented.
+Every honest person, whatever his religion, knows the gap between what he thinks he ought to be and what he is. It is rarely a gap of information. A man knows that he should not lie to his wife, and he does. A woman knows she should forgive her sister, and she does not. If you give either of them a better rulebook, a stricter timetable, a longer fast, you will get a more informed failure. Paul wrote what he found in himself in a way that most of us recognise at once.
 
-The Bible's situation is the opposite. Rather than one authoritative text produced by destroying the competition, we have over 5,800 Greek manuscripts of the New Testament alone, plus thousands of early translations in Latin, Syriac, Coptic, and other languages, plus thousands more quotations preserved in the writings of the early church fathers. The sheer volume of manuscript evidence means that any attempt at later tampering would be immediately visible — it would show up as a departure from the older manuscripts, which it does not. Textual scholars have compared these thousands of documents and can identify and account for virtually every difference between them, the vast majority of which involve spelling variations, word order differences, or other minutiae that do not touch the core message.
+> *"What a wretched man I am! Who will rescue me from this body that is subject to death?"*
+>
+> — Romans 7:24 (NIV)
 
-The Bible has not survived despite being copied widely. It has survived because it was copied widely. The transparency is not a weakness. It is the very mechanism of trustworthy transmission.
-
-> *"Your word, Lord, is eternal; it stands firm in the heavens."*
-> — Psalm 119:89 (NIV)
-
----
-
-## The Last Prophet and the First Question
-
-The sixth claim — that Muhammad is the final prophet and his coming closes all prior revelation — carries a logical problem that does not get asked often enough.
-
-The claim of finality was made by Muhammad about himself. This does not make it false; a claim being self-referential does not disqualify it. But it does mean the claim requires independent verification. The question of why this particular self-declaration should override every prior revelation is not answered by repeating the declaration more emphatically.
-
-Jesus also made claims about Himself. He said He was the way, the truth, and the life, and that no one comes to the Father except through Him. He accepted worship from Thomas, who addressed him as "My Lord and my God," without correction. He declared that before Abraham was, He is — reaching back before history to claim an existence that has no beginning. He rose from the dead, which is either the most powerful self-verification a prophet could offer or the most catastrophic fraud in human history, but it is not a minor claim to be set aside because a later figure declared the matter settled.
-
-The issue is not whether a final word has been spoken. The Christian position is that it has. The issue is when it was spoken and by whom. The book of Hebrews opens with this:
-
-> *"In the past God spoke to our ancestors through the prophets at many times and in various ways, but in these last days he has spoken to us by his Son, whom he appointed heir of all things, and through whom also he made the universe."*
-> — Hebrews 1:1-2 (NIV)
-
-The fullness of revelation is not a future prophet. It is the Son through whom the universe was made, who entered that universe in human form, died, and rose again. A word that comes after that word is not a completion. It is a revision. And a revision of the final chapter of God's speech in history requires a burden of proof commensurate with its claim — a burden that the self-declaration of finality, however sincerely held, does not by itself discharge.
-
----
-
-## The Discipline of a Heartbeat, Not a Timetable
-
-On the seventh point — the daily structure of Islamic practice — let me say something that will surprise no one who has actually read the New Testament: Christian discipline is not the absence of structure. It is the transformation of structure into relationship.
-
-The Salah five times daily is genuinely admirable as a practice. The intentional interruption of worldly activity to orient oneself toward God, the physical posture of submission in sujud, the communal alignment of millions facing the same direction — these are not small things. They train the body as well as the soul.
-
-But discipline is not the same as devotion. A soldier can be deeply disciplined and feel no love for the general who gives the orders. A student can recite perfectly and understand nothing. The question is not whether there is a structure. The question is what the structure is doing to the person inside it.
-
-Jesus issued no prayer schedule. He said this:
-
-> *"But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you."*
-> — Matthew 6:6 (NIV)
-
-He was not abolishing the practice of prayer. He was redirecting its motivation. The prayer that God receives is the prayer that seeks the Father, not the prayer that performs for observers. Paul's instruction in 1 Thessalonians 5:17 "pray without ceasing" is not a call to more frequent scheduled interruptions. It is an invitation into a continuous orientation of the whole person toward God, so that prayer is not what a Christian does at certain hours but what a Christian is at every hour.
-
-The Christian ideal is not less disciplined than five daily prayers. It is more demanding because it requires that the whole of life become an act of worship, not just the moments when the mat is unrolled.
-
----
-
-## The Brotherhood That Bleeds at Its Borders
-
-The eighth and final claim is the most appealing, and in some ways the most painful to examine honestly.
-
-The ummah — the global Muslim community — is a genuinely powerful idea. It has produced real solidarity across national and ethnic lines. A Muslim in Lagos and a Muslim in Jakarta share an identity that transcends their respective cultures, languages, and governments. That bond has sustained communities through colonialism, persecution, and poverty. It is not nothing.
-
-But the internal history of Islam is not a story of seamless unity. The schism between Sunni and Shia, which began within thirty years of the Prophet's death over the question of legitimate succession, has produced fourteen centuries of division, suspicion, and violence. The Kharijites killed Ali ibn Abi Talib, the Prophet's own cousin and son-in-law. The Mutazilites and the Asharites fought theological battles sharp enough to produce state-sponsored persecution. The Ottoman Caliphate, which came closer than anything in history to realising the ideal of unified Islamic governance, collapsed in 1924 and has not been reconstituted since. The current landscape of the Muslim world includes governments that are actively at war with other governments whose populations are majority Muslim.
-
-None of this disqualifies the ideal. Every human attempt to live out a noble ideal will be marked by failure. Christianity has no room to throw stones here — the Crusades, the Inquisition, the blessing of the transatlantic slave trade by men who called themselves Christians, the apartheid theology that tried to baptise racial hierarchy in biblical language: we carry those wounds and they are real.
-
-The question is not which community has a cleaner history. The question is what the foundation of the brotherhood is.
-
-Paul writes this to a church in a city Galatia where Jewish believers and Gentile believers were failing, badly, to live as equals:
-
-> *"There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus."*
-> — Galatians 3:28 (NIV)
-
-The basis of Christian unity is not shared practice, shared ethnicity, shared political allegiance, or shared language. It is shared identity in Christ. The person who disagrees with you about every other thing is still the person for whom Christ died. That is a harder foundation to abandon. Practices can be argued about. A love that precedes all argument is more durable.
-
-The early church lived this out imperfectly and, in places, spectacularly. The communities Paul describes in Acts and his letters included Romans and Ethiopians, Greeks and Hebrews, former slaves and former slave owners, sitting at the same table to eat the body and blood of the same Lord. The historian Rodney Stark argues in *The Rise of Christianity* that this cross-cultural, cross-class solidarity was one of the key reasons Christianity spread so rapidly across the Roman Empire — because no one in the ancient world had seen anything like it before.
-
-The ideal is real. The power to live it comes not from belonging to the same organisation, but from being transformed by the same Spirit.
-
----
-
-## What the Cross Does That a System Cannot
-
-Here is where all eight answers converge.
-
-Islam is, in its most sincere form, a serious attempt to order human life around submission to God. It takes God seriously. It takes human moral responsibility seriously. It takes the unity of God seriously. For that, it deserves respect, not condescension.
-
-But it cannot solve the problem it identifies.
-
-Every honest human being knows that the gap between who they are and who they should be is not a matter of insufficient information or inadequate structure. The problem is not that people do not know what is right. The problem is that they know what is right and choose otherwise anyway. Paul articulates this with excruciating precision in Romans 7:
-
-> *"For I do not do the good I want to do, but the evil I do not want to do this I keep on doing... What a wretched man I am! Who will rescue me from this body that is subject to death?"*
-> — Romans 7:19, 24 (NIV)
-
-No law answers that cry. No prayer schedule answers it. No perfectly preserved book answers it. No brotherhood answers it. The answer is a name — and Paul gives it immediately:
+Notice the question Paul asks. It isn't "who will tell me what to do?" He knew. It is "who will rescue me?" No law answers that, because the law is the thing that showed him the problem. And no preserved book, daily discipline or worldwide family answers it either, though all of them are good gifts. The honest Christian claim is not that Islam teaches too little. It is that a person who needs rescuing needs a rescuer, and that God became that rescuer himself.
 
 > *"Thanks be to God, who delivers me through Jesus Christ our Lord!"*
+>
 > — Romans 7:25 (NIV)
 
-Christianity does not present itself as the best human system for approaching God. It presents itself as the account of what God did when human systems, religious and moral alike, reached their limit. He came Himself. He lived the life no human being has managed to live. He died the death that sin had placed at the end of every human road. He rose on the third day, because death had no claim on the one who had never sinned, and because God does not leave His Son in the ground.
+A Muslim will hear that as a claim about a man, and a hard one. I understand why. The Quran is firm that God does not take a son, and I have no wish to pretend the difference is a small one. But the shape of the Christian answer should be clear to anybody who is listening. We are not saying that we found a better religion. We are saying that when people had tried everything they could try, God came himself, and the weight of what was wrong with us was carried by someone who did not have to carry it. If that is false, then Zainab has every reason to say so. If it is true, then it is not a rival offer at all. It is the answer to the question that every system, ours included, was asking.
 
-A Yoruba proverb says: no one knows the beginning of a road like the one who is walking it. The one who knows the way back to God is not the one who left written instructions about how to get there. It is the one who is the way.
+## Brotherhood in a country with two wounds
 
-That is the claim. It is either the most important truth ever spoken or the most audacious lie in human history. But it is not, by any honest reckoning, a claim that a set of external rules can improve on or supersede.
+The last claim is the most moving, because it is the one Nigerians can see with their own eyes. The worldwide Muslim community is a family of a kind that no other religion on earth quite matches, and a Muslim who arrives in an unfamiliar city can often find a home within an hour. That is real, and the church could learn from it.
 
-Come and see.
+It would be wrong to move on without saying what everyone in this country knows, which is that we are standing on the wounds of one another. Churches have been burnt, and so have mosques. Pew's note on Nigeria records that both Muslims and Christians have been attacked, kidnapped and killed by armed gangs, that Boko Haram and the Islamic State West Africa Province have burned both kinds of building, and that in the Middle Belt a conflict between mostly Christian farmers and mostly Muslim herders has turned deadly (Pew Research Center, 2025). Counting the dead is fiercely contested. At the turn of October and November 2025 Washington put Nigeria on its list of Countries of Particular Concern, and a congressman's office claimed that more than 7,000 Christians were killed in 2025 alone, a figure ABC News describes as widely disputed. The Nigerian government has answered that terrorists attack Muslims, Christians and people of no faith alike (ABC News, 2025). The United States Commission on International Religious Freedom's 2026 report says the violence has killed nearly 53,000 civilians since 2009, and calls it an existential struggle for the country's two largest religious communities, Christians and Muslims (United States Commission on International Religious Freedom, 2026). On Christmas Day 2025 American missiles struck two camps in Sokoto State. Nigeria's foreign minister said the operation was approved by President Tinubu on the condition that it be presented as a joint effort that was not aimed at any religion (Nigeria: Tinubu approved, 2025).
 
----
+And it is not all in the past. In August 2026, about 600 people, mostly Muslims, were reported kidnapped in Niger State, some of them while at Friday prayers. The Catholic Bishops' Conference of Nigeria responded with the sentence that I would like every pastor to repeat from his pulpit, "An attack on any place of worship is an attack on our collective humanity" (Onyulo, 2026). A Muslim mother in Plateau State told the same reporter that in all her years of Islamic teaching she had never been taught to hate or attack Christians because of their religion. I believe her, and I think a church that wishes to be honest with its own members has to say plainly that the gunmen do not speak for her.
 
-## Biblical References
+That is the first thing, and I would put it before any argument. We do not blame a whole faith for the crimes of armed men. We do not ask a Muslim in Ibadan to apologise for a camp in the forest, any more than we expect a Christian in Kano to answer for every angry sermon. Christian history has its own chapters that I would not want read aloud at the dinner table, and I will not defend them.
 
-- **1 John 4:8** — Used to establish that God's eternal nature as love requires an eternally relational being; the foundation of the Trinitarian response to tawhid.
-- **John 1:1-3** — Quoted to establish the eternal pre-existence and divine nature of the Logos, distinguishing the Son from a biological offspring or created being.
-- **Hebrews 10:19-20, 22** — Used to show that Christian mediation opens rather than obstructs access to God, and that this was accomplished through the torn curtain of Christ's body.
-- **John 10:18** — Quoted to establish the voluntary nature of the atonement, distinguishing it from forced or coerced substitution.
-- **Jeremiah 31:31-33** — Used to show that even the Old Testament anticipated a new covenant written on the heart rather than externally imposed by law.
-- **Galatians 5:22-23** — Quoted to contrast external compliance with inward transformation; the fruit of the Spirit as character produced from within, not performance enforced from without.
-- **Psalm 119:89** — Used as an affirmation of the eternal trustworthiness of God's word, following the discussion of manuscript transmission.
-- **Hebrews 1:1-2** — Quoted to establish that the fullness of divine revelation is located in the Son, not in any subsequent prophetic voice.
-- **Matthew 6:6** — Used to show that Christian prayer is oriented toward relationship with the Father rather than observable performance.
-- **Galatians 3:28** — Quoted to establish the foundation of Christian brotherhood in shared identity in Christ rather than shared practice or ethnicity.
-- **Romans 7:19, 24-25** — Used to name the universal human problem that no external system can solve, and to give Paul's answer: deliverance through Jesus Christ.
+The second thing is what the peacemakers have shown us. In 1992 violence broke out between Christians and Muslims in Kaduna State. Imam Muhammad Ashafa lost two brothers and his teacher in it. Pastor James Wuye lost his hand. Each of them dreamed of revenge against the other, until a mutual friend told them that together they could pull the nation together or tear it apart. In 1995 they founded the Interfaith Mediation Centre, which now trains young people, women and religious leaders as peace workers (Tanenbaum, n.d.). In August 2026 an international conference in Abuja produced a declaration, with Muslim and Christian leaders agreeing to set up a coordinating body, to run public programmes against hate speech, and to ask the media to report responsibly. The Muslim World League's secretary general said that extremist ideas have harmed everyone (Muslim News Nigeria, 2026). The national chairman of the ruling party, Nentawe Yilwatda, said at the same gathering, "Let us preach truth without hatred, conviction without contempt, and truth without incitement" (Muslim News Nigeria, 2026).
 
----
+I think that last sentence is as good a description of Christian apologetics as I have read. It's also, I notice, harder than it sounds.
 
-## External Sources
+The question I would put to my Muslim friends is where their brotherhood rests. Mine rests on one man, who died for people who did not deserve him.
 
-- **Sahih al-Bukhari** — Referenced for the account of Uthman's standardisation and destruction of variant Quranic manuscripts; also for hadith traditions on prophetic intercession.
-- **Sahih Muslim** — Referenced for hadith traditions on the transfer of sins on the Day of Resurrection.
-- **Rodney Stark, *The Rise of Christianity* (1996)** — Referenced for the historical argument that cross-cultural solidarity within early Christian communities contributed significantly to the rapid spread of Christianity across the Roman Empire.
+> *"There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus."*
+>
+> — Galatians 3:28 (ESV)
+
+That means the person who disagrees with me about nearly everything is still, in my own faith, someone Christ died for. I haven't always lived as if that were true. Neither, I suspect, has the Muslim community always lived as if the worldwide family were true in the next compound. The difference between us is not who has failed less. It is what we say the foundation is, and whether the foundation is strong enough to hold weight when it is leaned on.
+
+## Come and sit down with them
+
+If you are a Christian who has read this far, here is what I would ask. The next time a Muslim colleague or neighbour asks why you believe what you believe, resist the rebuke. Ask what she finds hardest to accept, and listen long enough that she hears you taking it seriously. Learn what the Quran really says about Jesus, because it says more than most Christians think. Find out where you both stand, and ask whether she would be willing to tell you what she thinks the human problem is. Then say, in your own words and without a verse used as a weapon, what you think God did about it.
+
+And if you are a Muslim who has read this far, you are more than welcome at the same table. I have tried to state your case in words you would accept. If I have got any of it wrong, I would honestly like to be told, because I would rather be corrected than be comfortable.
+
+Tolu and Zainab are still at that table in the library. It is a week before examinations, and the photocopier is free. There is a second chance in front of them, and I hope he takes it.
+
+***
+
+## References
+
+### Biblical References
+
+* **1 Timothy 2:5 to 6 (ESV).** The epigraph. One God and one mediator who gave himself as a ransom, the claim the whole essay is answering.
+* **1 John 4:8 (NIV).** God is love, used for the argument that love is part of who God is and not something he began to do at creation.
+* **Hebrews 4:16 (NIV).** Opening sentence only. Christians approach God's throne with confidence, which answers the charge that a mediator blocks access.
+* **Hebrews 7:25 (ESV).** Quoted in two short phrases. The mediator opens the way and always lives to intercede.
+* **John 10:18 (NIV).** The atonement is freely given, not a transfer forced on an unwilling person.
+* **Jeremiah 31:33 (ESV).** Quoted in one sentence. The new covenant promises a law written on the heart, which is the answer to obedience that stays external.
+* **Matthew 6:5 to 6 (ESV).** Referred to in paraphrase. Jesus warns against prayer made to be seen and sends his hearers to the Father who sees in secret.
+* **Romans 7:24 to 25 (NIV).** The human problem and the answer, where the argument turns.
+* **Galatians 3:28 (ESV).** Christian unity rests on belonging to Christ, which is the foundation offered in answer to the claim about the worldwide Muslim community.
+
+### Other Sources
+
+* ABC News. (2025). *US designates Nigeria "Country of Particular Concern" after Trump threat over alleged attacks on Christians*. https://abcnews.com/Politics/us-designates-nigeria-country-concern-after-trump-threat/story?id=127148133
+* Jones, C. (2013, October 1). *The bibliographical test updated*. Christian Research Institute. (Original work published 2012 in *Christian Research Journal, 35*(3)). https://www.equip.org/articles/the-bibliographical-test-updated/
+* Khatib, A., & Khan, N. (2019, updated 2024). *The origins of the variant readings of the Qur'an*. Yaqeen Institute for Islamic Research. https://yaqeeninstitute.org/read/paper/the-origins-of-the-variant-readings-of-the-qur%27an
+* Muslim News Nigeria. (2026, September 1). *Abuja Declaration: Muslim, Christian leaders unite for peace, security (full report)*. https://muslimnews.com.ng/2026/09/01/abuja-declaration-muslim-christian-leaders-unite-for-peace-security-full-report/
+* Nigeria: Tinubu approved US airstrikes on terrorists in Sokoto but gave conditions, foreign minister says. (2025, December 27). AllAfrica. https://allafrica.com/stories/202512270024.html
+* Onyulo, T. (2026, September 23). As violence escalates in Nigeria, Christian and Muslim leaders unite. Word&Way (originally Religion News Service). https://wordandway.org/2026/09/23/as-violence-escalates-in-nigeria-christian-and-muslim-leaders-unite/
+* Pew Research Center. (2025, November 11). *5 facts about religion in Nigeria*. https://www.pewresearch.org/short-reads/2025/11/11/5-facts-about-religion-in-nigeria/
+* Quran 15:9, 33:40, 35:18, 50:16 (Saheeh International). SurahQuran.com. https://surahquran.com/english-aya-9-sora-15.html (and the matching pages for verses 40 of chapter 33, 18 of chapter 35, and 16 of chapter 50)
+* Quran 4:171 (Saheeh International). SurahQuran.com. https://surahquran.com/english-aya-171-sora-4.html
+* Quran 112 (Saheeh International). Quran.com. https://quran.com/al-ikhlas/translation/en-sahih-international
+* Sahih Bukhari, hadith 4987. Sunnah.com. https://sunnah.com/bukhari:4987
+* Tanenbaum. (n.d.). *Imam Muhammad Ashafa and Pastor James Wuye*. https://tanenbaum.org/about-us/what-we-do/peacebuilding/meet-the-peacemakers/imam-muhammad-ashafa-pastor-james-wuye/
+* United States Commission on International Religious Freedom. (2026). *2026 annual report*. https://www.uscirf.gov/sites/default/files/2026-03/USCIRF_2026_AR_3326_NEW.pdf
+
+### Translation Notices
+
+* Scripture quotations marked (NIV) are taken from the Holy Bible, New International Version, NIV. Copyright 1973, 1978, 1984, 2011 by Biblica, Inc. Used by permission. All rights reserved worldwide.
+* Scripture quotations marked (ESV) are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.
+* Quran quotations are from the Saheeh International translation as displayed on Quran.com and SurahQuran.com. The publisher's copyright line has not been confirmed and must be added before publication.

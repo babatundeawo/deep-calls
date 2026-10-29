@@ -1,166 +1,165 @@
 ---
-title: The Cord That Does Not Break: Three Hidden Keys to God's Favour in Proverbs
+title: The Cord That Is Not Quickly Broken
+subtitle: What three sayings in Proverbs say about the favour of God
 category: Wisdom
 verse: A threefold cord is not quickly broken.
 verse_ref: Ecclesiastes 4:12 (ESV)
+summary: Three sayings in Proverbs about obtaining favour from the LORD, on wisdom, on goodness and on marriage, are read slowly, with Ecclesiastes 4:12 as a picture and the life of Jesus as the test of what favour means.
 ---
 
-## What We Actually Mean When We Say "Favour"
+## What Proverbs Means by Favour
 
-Somewhere between the worship service and the car park, the word "favour" became Nigeria's most overworked theological export. It has been stitched onto T-shirts, screamed into microphones, and deployed as a kind of spiritual password — say it enough times with enough conviction and perhaps heaven's gates will creak open. We have turned a profound biblical category into a refrain, and in doing so, we have managed to chase after the thing while losing the map that leads to it.
+Anyone who has stood in a Nigerian church car park after the second service will have seen the word. It is on banners and car stickers, on programme themes, on the backs of shirts, and in the mouth of the preacher who has just asked the whole hall to say it together. Favour. Say it loudly enough, the implication runs, and the gates of heaven, the visa office and the admissions list will all give way.
 
-So before we go any further, let us be honest about what we are actually talking about.
+The people who say it are not fools. A young graduate with no uncle in the ministry, no cousin at the bank and no name that opens doors needs to hear that God is not limited to the network she lacks. Daniel Jordan Smith, an anthropologist who has written on Nigerian prosperity churches, reports that church leaders often present their own wealth as the evidence of God's blessing, and that members mostly accept this even though they are far poorer than the people leading them. The teaching has real pull because the need is real. A pastor can fairly add that God does open doors, that Joseph was lifted out of a prison, and that to say otherwise would be to preach a very small God. I agree with every word of that. What I want to ask is whether the word *favour*, as Proverbs uses it, is the right name for the door.
 
-The Hebrew word in these Proverbs is *ratson* — a word that means delight, goodwill, acceptance, the pleasure of a superior extended toward someone beneath them. When the Bible says a person "obtains favour from the LORD," it is not describing a transaction. It is describing a posture. God, who owes nothing to anyone, turning toward a person with warmth. The King of the universe, pleased. That is not a small thing to want. That is not something you can manufacture with enough seed offerings and prophetic declarations.
+Honest meeting begins with the word itself. In three sayings of Proverbs, 8:35, 12:2 and 18:22, the writer uses the same Hebrew phrase about obtaining favour from the LORD. The word is *ratson*, and the standard lexicons give it as goodwill, acceptance, delight, pleasure. It describes the face of a superior turning warmly towards someone. That is a good deal more intimate than a result. It is a relationship in which God, who owes us nothing, is pleased, and a person who has that doesn't need a password. Doors may open afterwards, or they may stay shut for a long while, but the favour was already there.
 
-And yet Proverbs — that magnificent, unsentimental book of wisdom — tells us there are concrete, liveable pathways into exactly that. Not formulas. Pathways. Three of them, each one anchored to a specific verse, each one connecting to the whole sweep of Scripture when you follow the thread far enough.
+What Proverbs gives is three places where the phrase turns up, and each one reaches into a different room of ordinary life. One concerns the pursuit of wisdom, one concerns goodness of character, and one concerns marriage. I want to take them one at a time, and be honest at each step about what the text says and what it doesn't.
 
-I want to show you what I found when I followed those threads. Bring your Bible. This gets good.
+## How Far the Cord Image Goes
 
----
+The image that holds the three together comes from Ecclesiastes, and it needs a careful word before we lean on it. The writer is talking about companionship. Two are better than one, because they have a good reward for their toil. If one falls, the other lifts him up. Two lying together keep warm. And at the end of that run comes the line.
 
-## The Passage Everyone Quotes and Almost Nobody Finishes Reading
-
-The first pathway is in Proverbs 8:35, and the voice speaking it is not Solomon's. It is Wisdom herself:
-
-> *"For whoever finds me finds life and obtains favour from the LORD."*
-> — Proverbs 8:35 (ESV)
-
-Now, Proverbs 8 is one of the most arresting pieces of writing in the entire Old Testament. Wisdom has been crying out from the crossroads since verse 1 — standing at the city gates, the busiest intersection she can find, calling out to everyone passing by. She is not whispering from a seminary library. She is in the street. She is urgent. And when she finally describes herself in verses 22 through 31, she says something that should stop you cold: she was there at the beginning. Before the mountains were shaped, before the seas were given their borders, before the first grain of dust was scattered into existence — Wisdom was beside God, like a master craftsman, a delight to Him, rejoicing in all He made.
-
-Read that again slowly. Wisdom is not a skill you acquire in a classroom. She pre-exists creation.
-
-This is where the New Testament does what it does best: it takes the Old Testament's poetry and names it.
-
-> *"But to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God."*
-> — 1 Corinthians 1:24 (ESV)
-
-Paul is not being metaphorical. He is being precise. The Wisdom crying out at the crossroads in Proverbs 8 — the one who was with God from the beginning, through whom the world was made — is Jesus Christ. John had already said as much in his Gospel's opening lines: *"In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him."* (John 1:1-3, ESV). Colossians 2:3 seals it: in Christ *"are hidden all the treasures of wisdom and knowledge."*
-
-So when Proverbs 8:35 says that whoever *finds* wisdom *finds life*, it is not giving you a productivity tip. It is pointing you to a person. We did not find wisdom; wisdom found us. And she did it by putting on skin and walking into the city that would crucify her.
-
-The practical force of this truth is harder than it sounds. To pursue wisdom as a pathway to God's favour means something more costly than attending Bible study on Wednesday evenings, though that is not nothing. It means submitting your decision-making to Christ. Not consulting him when the shortcuts have already failed, but starting there. The Nigerian proverb puts it plainly: *"The child who is not embraced by the village will burn it down to feel its warmth."* Wisdom begins in relationship. And relationship with Christ — genuine, costly, daily relationship — is not something you can outsource to a pastor, however gifted he may be.
-
-I have watched people spend their entire spiritual lives chasing favour while systematically avoiding the one person who is both its source and its path. They sow seeds into every offering basket within driving distance. They buy anointed water by the litre. They will do anything, it seems, except actually sit with the Word, actually submit to the discipline of following Jesus when it is inconvenient, actually choose the harder road because it is his road. Wisdom weeps at those crossroads still. She is not hard to find. We are simply very good at walking past her on the way to something that promises faster results.
-
-Find wisdom. Find Jesus. Everything else — including favour — follows from that.
-
----
-
-## The Man Who Made God's Short List
-
-The second pathway is blunter:
-
-> *"A good man obtains favour from the LORD, but a man of wicked schemes he condemns."*
-> — Proverbs 12:2 (ESV)
-
-Proverbs is not known for its sentimentality, and this verse is no exception. It draws a clean line down the middle of the page: good man, favour; wicked schemer, condemnation. No middle category. No asterisks.
-
-Now, before you panic, the word "good" here requires some honesty. The Hebrew *tov* simply means beneficial, wholesome, ordered toward the right end. The good man in Proverbs is not a man without failure. He is a man whose heart is oriented correctly — who, when he falls, gets up and reorients. Proverbs 24:16 says it plainly: *"The righteous falls seven times and rises again, but the wicked stumble in calamity."* What defines the righteous man is not the absence of falling. It is the direction of his rising.
-
-Scripture has already shown us this man in living colour. When Noah's generation had turned itself inside out, corrupted beyond recognition, Moses writes this with quiet devastation in Genesis 6:5: *"The LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually."* And then, in the very next breath, the exception: *"But Noah found favour in the eyes of the LORD."* (Genesis 6:8, ESV). Two verses. The entire world on one side of the ledger, one man on the other. Why? Genesis 6:9 tells us: Noah was *"a righteous man, blameless in his generation,"* and crucially, *"Noah walked with God."*
-
-Walking with God. Not performing for God. Not transacting with God. Walking. The Yoruba say that the child who follows an elder on the road will not get lost; they may not understand every turning, but they arrive. Noah did not understand the flood before it came. He understood the God who warned him about it, and that was enough.
-
-Proverbs 3:3-4 extends the picture:
-
-> *"Let not steadfast love and faithfulness forsake you; bind them around your neck; write them on the tablet of your heart. So you will find favour and good success in the sight of God and man."*
-> — Proverbs 3:3-4 (ESV)
-
-Notice that phrase *good success in the sight of God and man*. Favour from God has a way of being legible to the people around you. Not always immediately. Not always loudly. But a life of steady integrity, of refusing the wicked scheme when it would have been so easy, of choosing faithfulness when unfaithfulness was better compensated — that life accumulates a credibility that no amount of religious activity can manufacture.
-
-I know a man who worked in an industry where padding contracts was simply what everyone did. A percentage here, a kickback there — the whole ecosystem was built on it. He was a Christian. He attended a respectable church. He prayed every morning. He also padded contracts. For years, he told himself these were separate categories of his life. The Sunday self and the Monday self had not yet been introduced to each other. Then one morning, in an ordinary quiet time, he read Proverbs 12:2 and could not shake it. A man of wicked schemes. He knew exactly what he was. It took time, and it cost him relationships and money when he stopped. But within three years, his business had grown honestly, inexplicably in ways he still struggles to explain without sounding like a testimony service. Favour found him — not because God rewarded his suffering, but because his life had finally become a place where favour could live.
-
-The New Testament grounds this in something even deeper than moral effort. Paul tells us in Ephesians 2:8-10 that we are saved by grace, not by works — and then, without pausing, insists that we are *created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.* The good man of Proverbs 12:2 is not earning his way to favour. He is becoming, by grace, the kind of person in whose direction God's face naturally turns. That is a different thing entirely, and getting the distinction right is the difference between religion and Christianity.
-
----
-
-## A Surprising Gift, Hidden in Plain Sight
-
-The third verse is the one that tends to raise eyebrows, particularly in theological circles that prefer their blessings to stay abstract:
-
-> *"He who finds a wife finds a good thing and obtains favour from the LORD."*
-> — Proverbs 18:22 (ESV)
-
-There it is. As specific and unspiritual-sounding as a verse can get. Finding a wife. Obtaining favour from the LORD. The same phrase used for wisdom and godly character now applied to marriage as though God wants you to know that He has very definite opinions about this particular corner of your life.
-
-He does, as it turns out.
-
-The excellent wife of Proverbs 31 is not a character sketch of someone's ideal domestic partner. She is a portrait of what a life lived in wisdom and faithfulness looks like — creative, productive, generous, feared and respected, her worth beyond rubies. When a man finds a woman like this, the text says, he obtains something directly from God's hand. Not luck. Not good fortune. Favour. The word is *ratson* again. God's delight, extended.
-
-Paul then does what he did with wisdom in 1 Corinthians — he takes this earthy Proverbs picture and reveals the cosmic thing it was always pointing to:
-
-> *"Husbands, love your wives, as Christ loved the church and gave himself up for her."*
-> — Ephesians 5:25 (ESV)
-
-Marriage, in the biblical imagination, is not a social contract. It is a sacrament — a visible, embodied picture of the most important relationship in the universe. The love of a husband for his wife is meant to be a live demonstration of the love of Christ for his people. Sacrificial. Faithful. Seeking her good before his own. When a marriage runs on that engine, it becomes something the world can look at and say, even without understanding it: *there is something different about those people.*
-
-This is why the instruction in Proverbs 18:22 is not merely romantic advice. It is theological. To find a wife is to enter into one of the primary instruments through which God images himself in the world. And entering it well — choosing wisely, building faithfully, staying when the temptation to leave sits down in your living room and makes itself comfortable — that is not merely good for you. It is an act of worship. It is the kind of life God is pleased to favour.
-
-For the singles reading this, the verse is not a taunt. It is a preparation. Wisdom comes first (Proverbs 8:35), then character (Proverbs 12:2), and then in its proper season the gift. You cannot shortcut the order. You cannot bypass wisdom and character and simply seek the spouse, as though the blessing can be separated from the life that receives it. Africa understands this, even if the church sometimes forgets it. The Igbo say: he who brings kolanut brings life. But first you must know the rites; first you must know what the kolanut means. The blessing and the knowledge of how to hold it belong together.
-
----
-
-## When the Three Cords Become One
-
-Now step back. Set these three verses side by side and look at what they are actually doing.
-
-Proverbs 8:35 connects favour to the pursuit of wisdom and wisdom, as the New Testament reveals, is a person: Jesus Christ. Proverbs 12:2 connects favour to godly character — the kind that grows from a life genuinely oriented toward God. Proverbs 18:22 connects favour to a covenant marriage which is itself a picture of Christ's relationship with the church. Each verse points, in its own direction, to the same centre.
-
-Then Ecclesiastes 4:12 gives us the image:
-
-> *"And though a man might prevail against one who is alone, two will withstand him a threefold cord is not quickly broken."*
+> *“a threefold cord is not quickly broken.”*
 > — Ecclesiastes 4:12 (ESV)
 
-One strand is vulnerable. Two are better. Three, twisted tight, become almost impossible to destroy. In the context of everything we have just walked through, those three strands are wisdom (Christ himself), character (the life transformed by grace), and covenant (marriage that images his love). And the cord they form is not metaphorical. It is the architecture of a life on which God's favour rests.
+The translators' handbook on Ecclesiastes by Graham Ogden and Lynell Zogbo calls it an ancient Israelite proverb about the strength of combined effort, one that may well have a counterpart in many cultures, and it adds that the number three need not be literal. Nothing in the verse names wisdom, character and marriage as the three strands, and I won't pretend it does.
 
-This also loops us back to the very beginning of everything. In Genesis 1:26, God speaks in the plural: *"Let us make man in our image, after our likeness."* The Trinity — Father, Son, Holy Spirit — in eternal, self-giving relationship, creating beings designed to reflect that relationship. He makes them male and female, joins them as one flesh (Genesis 2:24), and blesses them to be fruitful and multiply. Godly marriage does not merely benefit the two people in it. It participates in the creative, relational love of the triune God. It is supposed to look like something. When it does, the world notices, even when it cannot name what it is seeing.
+So the cord is a picture borrowed to carry something the verse never says. I think the borrowing is fair, because the three Proverbs really do share a phrase and a God who is doing the favouring. But it is a picture, and when it begins to sound like a formula in which each strand is a lever, it has stopped being one. A cord can be pulled apart by a determined hand. The saying only says it takes more doing.
 
----
+## Wisdom Calling at the Crossroads
 
-## What You Are Being Asked to Do with This
+The first saying is spoken by Wisdom herself.
 
-There are people reading this who have been chasing favour for years with the fervour of someone who has misread the map. Not because they are not sincere — God knows the sincerity — but because they have been told that favour is a thing you summon, a reward you extract, a result you can manufacture if you pray hard enough and give generously enough and shout the right things loudly enough. I understand that world. I grew up adjacent to it. I know the pull of it.
+> *“For whoever finds me finds life and obtains favor from the LORD,”*
+> — Proverbs 8:35 (ESV)
 
-But the three Proverbs are not asking for your performance. They are asking for your life.
+Wisdom in Proverbs 8 is not found in a quiet library. She stands where the roads meet and the town gates open and cries out to anyone who passes. The ESV puts it plainly, that on the heights beside the way, at the crossroads, she takes her stand and cries aloud, and her cry is to the children of man. Picture the junction outside any Nigerian market on a busy morning, with every kind of person and every kind of hurry, and someone in the middle of it calling out for people to stop and listen. Most of the traffic goes round her.
 
-They are asking: Are you actually pursuing wisdom — not as a concept, but as a person, the living Christ, daily, honestly, submissively? Are you actually building a character that Proverbs 12:2 would recognise as "good" — not perfect, but oriented, rising when it falls, refusing the wicked scheme when the wicked scheme is offering? Are you actually treating your marriage, or your preparation for it, as something sacred — not as a social accessory or a personal project, but as an image of the most profound love story the universe contains?
+Later in the chapter she says she was beside the LORD like a master workman, daily his delight, rejoicing before him. The Hebrew poets are speaking of wisdom as something older than the world, close to God, glad of what he made. Christians have always heard more than poetry here. Paul calls Christ the power of God and the wisdom of God.
 
-Those are not easy questions. They are not the kind that yield to a three-point sermon with a memorable acronym. They are the kind that sit with you in the car on the way home and refuse to leave.
+> *“but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God.”*
+> — 1 Corinthians 1:24 (ESV)
 
-Do not run from them. That discomfort is itself a form of grace. Wisdom is still standing at the crossroads, and she is still calling.
+Care is needed, and the early church found it out the hard way. In the fourth century the Arians seized on the Greek form of Proverbs 8:22, in which the LORD *created* Wisdom, as proof that the Son was a creature. Athanasius, bishop of Alexandria in Egypt, answered across his *Four Discourses against the Arians*, written between 356 and 360 during one of his exiles. According to Geoffrey Boyle's account, he held that the speaker is Wisdom, the Son, and that Proverbs must not be expounded in its bare first sense. The ESV has *possessed* where the Arians read *created*, and the translation question is worth a whole sermon on its own. What matters here is that one of the great African theologians of the early church did not treat Proverbs 8 as a self help chapter. He took it as speech from a person.
 
-The cord is waiting to be woven. The favour is not the reward at the end; it is what happens while you are being made into someone capable of receiving it.
+That changes what *finding* wisdom means. It isn't acquiring a skill, or collecting maxims for a good life, though Proverbs has those too. It means coming to the one who calls and learning to take his voice as the voice that settles questions. Plenty of us come to him when the shortcuts have failed. The saying asks us to start there, which is a rather different order of business.
 
----
+There's an obvious objection, which is that Wisdom's promise sounds like a transaction. Find me, and you get favour. But the text reads as an invitation as much as a promise, and the favour it names is the delight of the one who calls. Anyone who has been wanted by a person they admire knows that nobody buys that.
 
-## Biblical References
+Picture a final year student in Zaria choosing between two supervisors and two project topics. She prays about it for a week and fasts on the Friday, and she never once opens Proverbs, where the question of whose counsel to trust is spelled out at length. Nothing is wrong with the prayer or the fast. But the voice at the crossroads has been speaking the whole time, and she has walked past it to ask a different door for a signal.
 
-- **Proverbs 8:35** — The foundational verse for the wisdom strand; Wisdom herself declares that finding her means finding life and obtaining favour from God.
-- **Proverbs 8:1-3** — Establishes Wisdom crying out publicly at the crossroads and city gates, available to all who will stop and listen.
-- **Proverbs 8:22-31** — Wisdom's self-description as present with God before creation, the master craftsman rejoicing in what God made.
-- **Proverbs 12:2** — The foundational verse for the character strand; the good man contrasted with the wicked schemer, one receiving favour and one condemnation.
-- **Proverbs 18:22** — The foundational verse for the marriage strand; finding a wife described as obtaining favour directly from God.
-- **Proverbs 3:3-4** — The promise that keeping love and faithfulness produces favour and good success in the sight of both God and man.
-- **Proverbs 24:16** — The righteous man defined not by perfection but by rising after every fall.
-- **Proverbs 31:10-31** — The portrait of the excellent wife as wisdom embodied in a life of faithfulness and creative generosity.
-- **Ecclesiastes 4:12** — The threefold cord image; used as the structural metaphor binding the three Proverbs strands together.
-- **Genesis 1:26** — God speaking in the plural before creating humanity in his image; the Trinitarian foundation beneath the communal design of marriage.
-- **Genesis 1:28** — God blessing humanity to be fruitful; fruitfulness as the immediate consequence of the favour extended at creation.
-- **Genesis 2:24** — The joining of husband and wife as one flesh; the original blueprint of covenant marriage.
-- **Genesis 6:5** — The universal corruption of humanity in Noah's day; the backdrop that makes Noah's favour all the more striking.
-- **Genesis 6:8-9** — Noah finding favour in God's eyes because he was righteous and walked with God; the paradigm case for Proverbs 12:2.
-- **John 1:1-3** — The Word present with God from the beginning and the agent of all creation; New Testament confirmation of Proverbs 8's portrait of wisdom.
-- **John 14:6** — Jesus as the way, the truth, and the life; his self-identification as the source of the life Proverbs 8:35 promises.
-- **1 Corinthians 1:24** — Christ named explicitly as the wisdom of God; the New Testament key to unlocking Proverbs 8.
-- **Colossians 2:3** — All the treasures of wisdom and knowledge hidden in Christ; the fullness of Proverbs 8's promise fulfilled in him.
-- **Ephesians 2:8-10** — Salvation by grace through faith leading to good works prepared beforehand; the theological ground of genuine goodness rather than moral performance.
-- **Ephesians 5:25-32** — Husbands loving wives as Christ loved the church; marriage revealed as a living image of Christ's covenant love.
+## Good Men, Evil Devices and Noah
 
----
+The second saying is blunter.
 
-## External References
+> *“A good man obtains favor from the LORD, but a man of evil devices he condemns.”*
+> — Proverbs 12:2 (ESV)
 
-- **Augustine of Hippo** — *Confessions*, Book I: "Our heart is restless, until it repose in Thee." The restlessness that drives the search for wisdom as ultimately a search for God himself.
-- **C.S. Lewis** — *The Weight of Glory* (1949): "We are far too easily pleased." Lewis's diagnosis of our willingness to settle for lesser satisfactions when wisdom, and the favour it carries, is available to us.
-- **N.T. Wright** — *Simply Christian* (2006): Wright's account of wisdom in Proverbs as a participation in the creative order of God, anticipating the full revelation of Christ as the *logos* in John's Gospel.
+Proverbs has no gentle category here, and the line is stark. Yet the word *good* deserves a fair hearing. The good man of Proverbs isn't a man who never falls. The writer says elsewhere that the righteous falls seven times and rises again, and the wicked are the ones who stay down when calamity comes. What marks him is the direction of his getting up.
+
+Picture a quantity surveyor in Port Harcourt, a church member with a clean Sunday record, who has been adding ten per cent to every bill because the clients expect it and everybody does it. (This is a constructed case, though anyone in the building trade will know the type.) One morning he reads Proverbs 12:2 and cannot shake the phrase *evil devices*. He stops. The text doesn't promise him a bigger firm. It promises that the LORD turns his face toward a man like that, and what that looks like in a building trade run on envelopes might be a clear conscience, a name that holds up under audit, one client who stays because the numbers are straight. It might also be a lean year. The saying is honest enough not to say.
+
+The favoured man everybody reaches for is Noah.
+
+> *“But Noah found favor in the eyes of the LORD.”*
+> — Genesis 6:8 (ESV)
+
+The preacher usually says that Noah got favour because he was righteous. Look at the order. Genesis 6:5 describes a world in which every intention of the human heart was only evil continually, and the very next thing, in verse 8, is that Noah found favour. Only after that does the writer tell us Noah was a righteous man, blameless in his generation, who walked with God. The Hebrew word for favour here is *chen*, which the lexicons give as grace, a different word from the *ratson* of Proverbs. So the two texts don't say the same thing, and the difference matters. Genesis leaves it open whether the righteousness earned the favour or grew out of it. A careful reader should say that and stop.
+
+Paul settles it for those who come after. We are saved by grace through faith, and then, as he goes on in Ephesians 2:10, we are God's workmanship, created in Christ Jesus for good works that God prepared beforehand. The good man of Proverbs 12:2 isn't earning his way to favour. He is a person being made good by a God who has already turned toward him.
+
+A neighbouring saying shows what that goodness looks like in public.
+
+> *“Let not steadfast love and faithfulness forsake you; bind them around your neck; write them on the tablet of your heart. So you will find favor and good success in the sight of God and man.”*
+> — Proverbs 3:3 and 4 (ESV)
+
+The ESV footnotes *good success* as *repute*, and that is the sense I'd keep. A life of steady faithfulness collects a reputation slowly, in the eyes of people who had no reason to be generous. Most Nigerians can name the person in their office, their parish or their street whom nobody has ever needed to watch, and everyone knows what that name is worth when a stranger needs a signature or a guarantor. It is not a promise of promotion. It is the kind of standing that makes a person trustable, and it comes only to those who have been trustworthy for years, including in the years when it paid nothing.
+
+## Finding a Wife, and Not Finding One
+
+The third saying is the one that makes people shift in their seats.
+
+> *“He who finds a wife finds a good thing and obtains favor from the LORD.”*
+> — Proverbs 18:22 (ESV)
+
+The ESV cross refers it to Proverbs 31:10, the portrait of the excellent wife, and it is worth noticing what that portrait shows. She is busy, shrewd with money, generous to the poor, and trusted by her husband. Whatever else the passage is, it isn't a picture of a decorative companion. When a man finds someone like that, the text says he has received something from God.
+
+Paul takes this earthy picture and lifts it. Husbands are told to love their wives as Christ loved the church and gave himself up for her (Ephesians 5:25), and Paul calls the whole arrangement a mystery that refers to Christ and the church. A marriage run on that engine shows something to anyone watching, even those who can't say what it is they see. It's an image of costly love, and that is why Proverbs' remark is more than a romantic tip.
+
+The same Ephesians text speaks to people whose marriages are hard. Nobody who has sat through a counselling session with a couple who haven't spoken properly in a year needs to be told that finding a wife is a good thing. They need to hear that Christ's way of loving, giving himself up, is something a person can begin to practise on a Tuesday evening whatever the other person does, and that the practice is itself a place where God's face turns towards them.
+
+Now say what a careful reader has to say next. Proverbs 18:22 is an observation, a wisdom saying, about what usually happens when a man finds a good wife. It is not a law that everyone must marry, nor a verdict on anyone who hasn't. Think of the widow in her fifties, the man whose wife has left, the woman who prayed for a husband through her thirties and is now at peace with God but still lonely in a hall full of couples. A sermon that sells this verse as the next step in a sequence, wisdom first, then character, then the spouse, tells those people that the queue they are standing in has been closed on them. I think that is cruel, and I don't believe the text intends it.
+
+The better question is whether the verse can bear that weight of sequence at all. The man about whom Luke twice says that the favour of God rested on him never married. We will come back to him.
+
+## Favour in the Life of Jesus
+
+Luke gives us the test case, and it unsettles every neat version of this subject. When the angel came to Mary, he said what the favour talk says.
+
+> *“Greetings, O favored one, the Lord is with you!”*
+> — Luke 1:28 (ESV)
+
+Luke does not say that she opened a door, got a job or avoided trouble. The next verse says she was greatly troubled. The angel tells her not to be afraid, for she has found favor with God, and what follows is a pregnancy before the wedding in a small town, the talk that anyone who knows small towns can imagine, and in time the death of her son. Favour in her case looked like being trusted with the hardest assignment in the world.
+
+Then there is the child himself.
+
+> *“And Jesus increased in wisdom and in stature and in favor with God and man.”*
+> — Luke 2:52 (ESV)
+
+Here are the three Proverbs in a single sentence. He grew in wisdom, he was good beyond any man's reach, and he had the favour of God and of men. Yet he never married, he owned almost nothing, and the same people who watched him grow in favour with them ended up demanding his death. If favour meant ease, he is a sad case. If favour is the delight of the Father resting on a person, then no one has ever had more of it, and Calvary falls inside it, not outside.
+
+That is the turn this essay has been working towards, and it lands hard on both of the easy versions. The password version, where favour is a result, has no way to explain Mary or Jesus. The tidy sermon version, where favour is the reward for completing three steps, has no way to explain a Christian who is wise, good and single, or wise, good and married and still ill, still poor, still unanswered. Both versions run out of road at the cross. The cross is the one place where the favour of God and a great deal of suffering meet in the same person, and it tells us the favour was never the same thing as the outcome.
+
+Proverbs has always known its limits. The book is a collection of sayings about how God's world usually runs, and the people who preserved it also preserved Job and Ecclesiastes, which spend a good deal of their length noting that the usual doesn't always happen. To read Proverbs 8:35, 12:2 and 18:22 as guarantees is to ask the book to speak louder than its own editors allowed.
+
+## What to Do on Monday Morning
+
+There is a reason the three sayings keep company, and it has nothing to do with a clever outline. Paul tells the Corinthians that because of God they are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption (1 Corinthians 1:30, ESV, quoted in part). The wisdom that calls at the crossroads and the goodness that rises after a fall are not two projects for the ambitious. They are what the same person gives to those who belong to him, and the love of Ephesians 5 is the pattern he sets for how it is lived with another person. A cord is strong because the strands run the same way. These do, since each one begins with Christ and returns to him.
+
+It also keeps the whole matter honest. If wisdom, goodness and love are things he gives, then none of us can take the credit, and none of us has to hold the favour in place by performance. We are asked to follow, which is harder on the pride and gentler on the nerves than any formula.
+
+So what are we to do with a cord of three strands that isn't a formula? I'd offer three small things, and none of them is a slogan.
+
+Start with the one who calls. Some of the people who have chased favour hardest, through water bought by the litre and seed sown into every basket in reach, have spent very little time just sitting with the Gospels and hearing Wisdom talk. If you have a hundred hours for a vigil, you can find fifteen minutes with Luke. Let Jesus speak first, before the shortcuts have failed. That is the first strand.
+
+Then look at your work this week the way Proverbs 12:2 would. Is there a device in it, a padded figure, a small silence, a favour owed that nobody has named? You needn't be perfect, and the text doesn't ask for perfect. It asks what happens after you fall, and which direction you rise in.
+
+Third, whether you are married or looking, widowed or content, hold the picture of Ephesians 5 in front of you as a standard for the love you give, because every one of us lives in some kind of relationship that Christ's love is meant to shape. Your parents, your congregation, the flatmate you can't stand. The cord of favour doesn't stop at the door of a church wedding.
+
+And if you are in a season where none of the three appears to be working, where you have prayed and sat with Luke and told the truth about the invoice and still the door has not opened, you are in the same room as Mary on the morning after the angel left. She had the favour. She also had a long road ahead of her. Perhaps the next time you hear the word shouted across a car park, you could answer it quietly with a question that Proverbs and the Gospels both seem to ask. Whose delight are you living in, and what has he asked you to carry?
+
+***
+
+## References
+
+### Biblical References
+
+* **Ecclesiastes 4:12 (ESV).** The threefold cord, quoted as a picture borrowed for the argument; verses 9 to 11 summarised, not quoted.
+* **Proverbs 8:1 to 4; 8:22 to 31 (ESV).** Wisdom at the crossroads and the gates, and her description of herself beside the LORD, paraphrased from the ESV text.
+* **Proverbs 8:35 (ESV).** Wisdom's promise that whoever finds her obtains favour from the LORD.
+* **Proverbs 12:2 (ESV).** The good man who obtains favour and the man of evil devices who is condemned.
+* **Proverbs 18:22 (ESV).** The man who finds a wife obtains favour; the cross reference to Proverbs 31:10 is noted.
+* **Proverbs 3:3 and 4 (ESV).** Steadfast love and faithfulness bringing favour and good success in the sight of God and man.
+* **Proverbs 24:16 (ESV).** The righteous falls seven times and rises again, paraphrased in part.
+* **Genesis 6:5 to 9 (ESV).** The corruption of the world and Noah's favour, with the order of the verses noted; verse 8 quoted, the rest paraphrased.
+* **1 Corinthians 1:24 (ESV).** Christ as the power and wisdom of God, linking Proverbs 8 to Jesus.
+* **1 Corinthians 1:30 (ESV).** Christ as our wisdom from God, righteousness, sanctification and redemption, quoted in part.
+* **Ephesians 2:8 to 10 (ESV).** Salvation by grace and the good works prepared beforehand, paraphrased.
+* **Ephesians 5:25 (ESV).** The husband's love patterned on Christ's love for the church.
+* **Luke 1:28 to 30 (ESV).** Mary as the favoured one who was greatly troubled.
+* **Luke 2:40 and 2:52 (ESV).** The child and young man Jesus growing in wisdom and in favour with God and man.
+
+### Other Sources
+
+* Athanasius of Alexandria. (c. 356 to 360). *Four discourses against the Arians* (Discourse II). As cited and summarised in Boyle (2021). Used only through Boyle's account of his reading of Proverbs 8:22.
+* BibleHub. (n.d.). *Strong's Hebrew 2580: chen* [Lexicon entry]. https://mail.biblehub.com/genesis/6-8.htm. Source for the Hebrew word for favour in Genesis 6:8.
+* BibleHub. (n.d.). *Strong's Hebrew 7522: ratson* [Lexicon entry]. https://mail.biblehub.com/hebrew/7522.htm. Source for the glosses of *ratson* and for BDB's placing Proverbs 8:35, 12:2 and 18:22 under goodwill of God.
+* Boyle, G. R. (2021, February 9). Parsing the Proverbs with St. Athanasius. *The Lutheran Witness*. https://witness.lcms.org/2021/parsing-the-proverbs-with-st-athanasius/. Source for Athanasius's reading of Proverbs 8:22 and the dating of the discourses.
+* Ogden, G. S., & Zogbo, L. (1997). *A handbook on the book of Ecclesiastes*. United Bible Societies. https://old-tips.translation.bible/?p=37081. Source for the proverbial sense of the threefold cord and the non literal number.
+* Smith, D. J. (2021). The Pentecostal prosperity gospel in Nigeria: Paradoxes of corruption and inequality. *The Journal of Modern African Studies, 59*(1), 103-122. https://pmc.ncbi.nlm.nih.gov/articles/PMC10312994. Source for the observation that members read material reward as a sign of God's hand.
+
+### Translation Notices
+
+* Scripture quotations are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.

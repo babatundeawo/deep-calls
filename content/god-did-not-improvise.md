@@ -1,187 +1,130 @@
 ---
-title: God Did Not Improvise: The Eternal Logic of the Lamb of God
+title: God Did Not Improvise
+subtitle: The Lamb slain from the foundation of the world, and what it means for suffering and assurance
 category: Hard Questions
-verse: The Lamb who was slain from the creation of the world.
-verse_ref: Revelation 13:8b (NIV)
+verse: even as he chose us in him before the foundation of the world, that we should be holy and blameless before him.
+verse_ref: Ephesians 1:4 (ESV)
+summary: The cross was in God's eternal purpose before Eden, and that changes how a believer can hold suffering and doubt, with the Revelation 13:8 translation question handled honestly and the weight carried by Ephesians 1:4 and 1 Peter 1:19 to 20.
 ---
 
-## Before Adam Reached for the Fruit
+## The Story We Tell Children
 
-Before Adam reached for the fruit, the blood had already been shed.
+Most of us learned it in Sunday school, with a felt board. God makes a garden. Adam and Eve spoil it. The garden is in ruins, and so God, after some thought, sends his Son to put things right. First the plan, then the breakdown, then the repair.
 
-That sentence will bother some people. Good. Anything worth believing ought to require some sitting with. But the claim is not rhetorical theatre — it is the testimony of the text itself. Revelation 13:8 speaks of Jesus as "the Lamb who was slain from the creation of the world," a phrase so extraordinary that most readers sprint past it on the way to the dragons and the trumpets and the seals. Slow down. Read it again. The Lamb was slain past tense, accomplished fact from the foundation of the world. Not as a divine reaction to what Adam did in a garden. Not as an emergency measure activated the moment the serpent opened its mouth. Before the fall. Before the garden. Before the first breath drawn into the first human frame.
+Nobody tells it that way to be unkind to God. But listen to what the order says. It says something happened in Eden that heaven had not made provision for, and that the cross is what you do when the first arrangement fails. A good many adult sermons keep the same sequence and just use longer words. The cross becomes a rescue mission launched in a hurry.
 
-God did not improvise.
+I want to argue that this is wrong, and that people pay for the mistake in two places. The first is the hospital corridor, where someone is wondering whether God was looking the other way. The second is the three o'clock waking, when a believer who has failed again wonders how firm a fix can be if it was patched together after the damage. A God who improvises is a God whose repairs might not hold.
 
-This is where the logic of the Christian faith either stands or collapses, and the question is worth taking seriously not because someone asked a clever question at a philosophy seminar, but because millions of people sit in churches every Sunday across Lagos, Enugu, Port Harcourt, and Abuja without knowing whether what they are singing about is a beautiful accident or an eternal design. The difference matters more than we usually let ourselves admit. It is the difference between a God who reacts and a God who reigns.
+Scripture tells a different story. In it the cross is in view before the world has a floor under it. That doesn't remove the pain from the corridor. It changes who is standing there with you.
 
----
+## What Scripture Says About Before
 
-## The Weight That Eternity Carries
+Start with the texts that say it most plainly. Paul, writing to the church in Ephesus, says this of the people who belong to Christ.
 
-To understand why an eternal solution was necessary, you first have to understand what it means that God is eternal — not just that He exists without beginning or end, but that His words and acts carry the quality of His nature. Ecclesiastes 3:14 is not a verse that tends to make it onto motivational posters, but it carries more theological freight than most:
+> *"even as he chose us in him before the foundation of the world, that we should be holy and blameless before him."*
+>
+> — Ephesians 1:4 (ESV)
 
-> *"I know that everything God does will endure forever; nothing can be added to it and nothing taken from it."*
-> — Ecclesiastes 3:14 (NIV)
+Peter says something similar about Christ himself. He has reminded his readers that they were ransomed, and then he says with what.
 
-Everything God does will endure forever. Every word He speaks carries the weight of eternity behind it. When God declares something, that declaration does not expire at the end of the fiscal year. It does not come with a sunset clause written in fine print. When God says something is true, it is true the way gravity is true — not because you agree with it, not because your denomination endorses it, but because reality itself is built around it.
+> *"the precious blood of Christ, like that of a lamb without blemish or spot. He was foreknown before the foundation of the world but was made manifest in the last times"*
+>
+> — 1 Peter 1:19 to 20 (ESV)
 
-Now carry that principle forward into the garden, where God spoke to Adam about the tree of the knowledge of good and evil:
+Notice what Peter has put side by side. The lamb, the blood, and the phrase "before the foundation of the world" all sit in one breath. Paul adds a third witness when he tells Timothy that God's grace was given to us "in Christ Jesus before the ages began" (2 Timothy 1:9, ESV). Jesus himself speaks of a kingdom "prepared for you from the foundation of the world" (Matthew 25:34, ESV).
 
-> *"But you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die."*
-> — Genesis 2:17 (NIV)
+Then there's Revelation 13:8, the verse many preachers reach for first, and it deserves honest handling because it can't carry what is often put on it. The English Standard Version, in its 2025 text, reads that those who worship the beast are the people
 
-God said it. Therefore it endures forever. The wages of sin are not merely inconvenient. They are not a temporary consequence that a sufficiently sincere apology can dissolve, or a debt that can be settled by enough years of religious activity. Romans 6:23 confirms this plainly:
+> *"everyone whose name has not been written from the foundation of the world in the book of life of the Lamb who was slain."*
+>
+> — Revelation 13:8 (ESV)
 
-> *"For the wages of sin is death."*
-> — Romans 6:23 (NIV)
+On that reading the phrase "from the foundation of the world" attaches to the writing of the names. The New International Version, the King James Version, the New King James Version and the New Living Translation attach it to the slaying instead, so that the NIV ends with "the Lamb who was slain from the creation of the world." Greek word order allows either. The United Bible Societies handbook on Revelation prefers the reading with "written", partly because Revelation 17:8 uses the same phrase and can only mean that, and it names Phillips, the NIV and the Revised English Bible as translations that go the other way, with commentators who point to 1 Peter 1:19 to 20 (Bratcher & Hatton, 1993). One small practical note. For years the ESV said "before" the foundation of the world here. Some Bible websites still show that older wording, and the Greek preposition is the ordinary one for "from".
 
-An eternal God pronouncing eternal consequences means that the debt humanity incurred in Adam was not a small bill to be cleared with the right religious currency. It was an eternal debt. Which means the solution — if there was going to be one — would have to be eternal in kind.
+So what do we do with a verse that's honestly divided? We stop asking it to be the whole case. Either way it places something before creation, whether the book of the Lamb or the slaying of the Lamb. And the other texts I've just read don't have the problem. Ephesians has no ambiguity about when the choosing happened. Peter has none about who was foreknown. That's enough to stand on. It's a stronger position than one proof text, because nobody can knock it over by arguing about a preposition.
 
-A finite sacrifice cannot settle an infinite debt. A goat, however spotless, was not born before the foundation of the world. A bull cannot carry the weight of eternity on its neck. You do not put out a fire with a thimble of water, and you do not cancel an eternal sentence with a mortal offering. The arithmetic simply does not work.
+## Why the Old Testament Sounds Like a Rehearsal
 
----
+If the cross was always the plan, then what was the long run of sacrifices before it? Anyone who has run a generator knows the answer in outline. You fill the tank in the morning, and by evening you are filling it again. It does the job, and it also tells you every day that you're not connected to the grid. The sacrifices of Israel were like that. The Day of Atonement came once a year, as Leviticus 16:34 lays down, and the following year it came again.
 
-## The Honest Admission Buried in Leviticus
+The writer of Hebrews is blunt about what that repetition meant. "For it is impossible for the blood of bulls and goats to take away sins" (Hebrews 10:4, ESV). Then he turns the argument on its head with a sentence that is easy to read past.
 
-Here is where the Old Testament shows its cards.
+> *"for then he would have had to suffer repeatedly since the foundation of the world. But as it is, he has appeared once for all at the end of the ages to put away sin by the sacrifice of himself."*
+>
+> — Hebrews 9:26 (ESV)
 
-Every careful reader of Leviticus eventually has to sit with the fact that the entire sacrificial system was built on repetition. Not once. Every year. Leviticus 16:34 establishes this as divine ordinance:
+Look at the starting line he picks. He doesn't say "since Adam" or "since Sinai". He says since the foundation of the world. The writer is measuring the sacrifice of Christ against the whole span of creation, and finding that it has been in view over all of it.
 
-> *"This is to be a lasting ordinance for you: Atonement is to be made once a year for all the sins of the Israelites."*
-> — Leviticus 16:34 (NIV)
+The earliest hint comes in Genesis, in the same chapter as the fall. God tells the serpent that the woman's offspring "shall bruise your head, and you shall bruise his heel" (Genesis 3:15, ESV). The verse reads like a plan already moving. Isaiah, many centuries on, says of the suffering servant that "it was the will of the LORD to crush him" (Isaiah 53:10, ESV), which is a hard sentence and not one to soften. And when John the Baptist sees Jesus walking towards him, the first thing he does is point. "Behold, the Lamb of God, who takes away the sin of the world!" (John 1:29, ESV). John is not announcing a new idea. He's saying that this is what the lambs had been about.
 
-Once a year. The blood was shed. The sin was covered. The calendar turned. The sin accumulated again. The blood was shed again. Cover. Accumulate. Shed. Cover. Accumulate. Shed. Every High Priest who ever walked into the Holy of Holies carrying that blood knew, somewhere in the architecture of his bones, that he would be doing this again next year because what he was carrying was not the answer. It was the question in liturgical form.
+There's a further question an honest sceptic will ask. Couldn't God have just forgiven? Why a cross at all? Athanasius, bishop of Alexandria in Egypt, took that question seriously in the fourth century in *On the Incarnation*. He said it was "out of the question to leave men to the current of corruption; because this would be unseemly, and unworthy of God's goodness" (Athanasius, chapter 6, section 10). A few paragraphs later he argues that repentance on its own could stop sinful acts but could not restore a nature that corruption had already entered, and that only the Word, through whom everything was first made, could remake it (chapter 7, paraphrased). I'd rather not claim more than that for him. But notice the shape of his reasoning. He doesn't treat the cross as a convenient gesture. He treats it as the fitting answer to the actual size of the problem, which is what you would expect if the answer had been prepared before the problem arrived.
 
-This is not entirely unlike what many of us grew up watching in traditional African religious practice: the cycle of appeasement, the annual or seasonal rituals performed before family shrines, the offerings meant to placate forces that could not be permanently satisfied. The rituals pointed to something real — the knowledge that the gap between the human and the divine required something to close it. But they could not close it themselves. Neither could the bulls and the goats. The writer of Hebrews, centuries after Leviticus, made the theological verdict explicit:
+## The Strongest Objection
 
-> *"For it is impossible for the blood of bulls and goats to take away sins."*
-> — Hebrews 10:4 (ESV)
+The best objection I know goes like this. If the Lamb was in view before Adam ate the fruit, then God saw the fall coming. If he saw it coming and made the world anyway, he is responsible for it, and Adam was a character in a script. The alternative is that God did not see it coming, and then he improvised after all. You've picked one of the horns, and neither is comfortable.
 
-Impossible. Not insufficient in large doses. Not unlikely to succeed. Impossible. The entire sacrificial system — all those centuries of smoke and blood, all those solemn assemblies, all that priestly choreography — was not the answer. It was the question in liturgical form. It was Israel enacting, year after year, a problem for which they held no permanent solution. Every sacrifice was a promissory note, a placeholder in the ledger, an IOU written in blood against a payment that had not yet arrived in history.
+I'd answer that Scripture refuses the choice, and refuses it in the plainest place. Peter, preaching at Pentecost, says of Jesus that he was "delivered up according to the definite plan and foreknowledge of God", and that "you crucified and killed" him "by the hands of lawless men" (Acts 2:23, ESV). The plan is God's and the guilt is theirs, in the same sentence. Peter doesn't stop to explain how the two fit, and neither will I pretend to. Christians have disagreed for a long time about whether God's purpose here is best called foreknowledge or decree, and thoughtful people sit on both sides of that. What both sides hold is that the sin belongs to the sinner and that God's answer to it was never an afterthought.
 
-Or rather a payment that had already been made, in the councils of eternity, before the first promissory note was ever written.
+And here the objection quietly backfires. It pictures a God who watches from a safe distance, signs off on a world with a flaw in it, and leaves the creatures to cope. The Lamb is the opposite of that. Whatever else foresight meant in heaven, it meant that the one who saw the cost was the one who took it on himself. A God who knew what the garden would cost and began it anyway, with his own Son as the price, is not an engineer shrugging at a defect. He's a father who signs for the debt before the child is born.
 
----
+## What an Unsurprised God Means for Suffering
 
-## The Passage Everyone Quotes and Almost Nobody Finishes Reading
+Picture a woman in Ibadan whose brother has died after a crash on the expressway. At the burial, someone kind and well meaning leans over and says that God knows best. Anyone who has stood at a Nigerian burial knows that sentence can land like a slap, and that the person who says it often means well and has run out of words. It is a cheap sentence when it travels alone, because it asks the grieving to admire a plan they can't see.
 
-Revelation 13:8 is usually cited in predestination arguments and then abandoned. But stay with what it actually says about the nature of salvation.
+The cross is what stops it being cheap. Look at what the Bible shows at the centre of heaven. In John's vision, "between the throne and the four living creatures and among the elders I saw a Lamb standing, as though it had been slain" (Revelation 5:6, ESV). The wounds are still there. The one who rules is the one who was hurt, and he carries the marks of it into the throne room. That doesn't explain why a brother died on the road. Scripture doesn't give us that explanation, and I'd distrust anyone who says they have it. What it gives is something different and, I think, sturdier. The worst thing that will ever happen in this world was already inside God's purpose, and he went through it himself. So nothing that happens to you lies outside the reach of that purpose, and the God in charge of it is no stranger to loss.
 
-> *"All inhabitants of the earth will worship the beast all whose names have not been written in the Lamb's book of life, the Lamb who was slain from the creation of the world."*
-> — Revelation 13:8 (NIV)
+I should say what this doesn't claim. It doesn't say every sorrow is good, or that your pain is secretly a gift. Joseph told his brothers that what they meant for evil God meant for good (Genesis 50:20), and he said it after the fact, as a man looking back, and he did not say it to anyone in the middle of the pit. The promise isn't that you'll understand. The promise is that you aren't being managed by someone who is making it up as he goes.
 
-The Lamb was slain from the creation of the world. Not *at* Calvary — or rather, Calvary was the moment in time when what was already accomplished in eternity was made visible in history. The cross did not cause God to decide to forgive humanity. The cross revealed what God had already determined before time began. John Stott, whose 1986 work on the atonement remains one of the most rigorous treatments of the subject in the English language, argues that Calvary was not an emergency measure activated because the original plan had misfired, but the execution of a redemptive purpose that had been settled before the world had a single grain of dust in it (Stott, 1986).
+## What It Means for the Person Who Keeps Doubting
 
-This is not a small distinction. If the cross were a reaction, then God was surprised by sin and a God who can be surprised is not a God worth trusting. But if the Lamb was slain from the foundation of the world, then what we see at Calvary is not God scrambling. It is God arriving precisely on schedule.
+Now go back to the three o'clock waking. A believer has failed at the same thing for the fourth time this year, and the voice in the dark says that surely this is the failure that finally goes too far for God. If the cross were a hurried fix, that voice would have a point. A patch has limits. But Paul tells Timothy that God "saved us and called us to a holy calling, not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began" (2 Timothy 1:9, ESV).
 
-Galatians 4:4 puts it with the economy of a sentence that has been considered for two thousand years:
+Before the ages began, you had done nothing. There was no list of your failures to be surprised by, because grace was not waiting on the list. The cross was set against sin, and that includes the sin you're ashamed of tonight. It wasn't drafted against some milder version of you.
 
-> *"But when the set time had fully come, God sent his Son, born of a woman, born under the law."*
-> — Galatians 4:4 (NIV)
+One thing needs saying carefully. Ephesians 1:4 says God chose "us", the people in Christ, and it is written to a church. So I wouldn't tell any reader that the text hands them a private certificate with their name printed on it. What I'd say is that if you are in Christ, you are not an afterthought in his plan, and that the apostle who wrote those words thought it enough to stop a troubled conscience. Nor is any of this a licence. The same verse says the purpose is that we'd be holy and blameless, and the passage from Timothy speaks of a holy calling. The assurance is meant to steady a person who is running toward God, and not to let one stop running.
 
-When the set time had fully come. The Greek is *pleroma tou chronou* — the fullness of time. Not when God finally decided what to do. When the clock God had set reached the hour God had already marked. Everything before that moment — the patriarchs, the exodus, the tabernacle, the temple, the prophets, the exile, the return, four hundred years of prophetic silence — was the long corridor God was walking down toward a door He had decided to open before the corridor existed.
+Augustine, bishop of Hippo in North Africa, wrote in the opening of his *Confessions*, in the English of E. B. Pusey, that God had made us for himself, "and our heart is restless, until it repose in Thee" (Augustine, Book I). He had tried a good deal else before he wrote that. The restlessness he describes is not a malfunction to be managed. It's the sign that we were made for a particular person, and the Lamb slain before the foundation of the world is the answer prepared for that exact longing, in advance, at cost.
 
----
+## Where to Start Tonight
 
-## The Word That Walked Through the Door
+Tonight, if you can, read 1 Peter 1:17 to 21 slowly, from start to finish, and not only the verses I've picked out. Notice that Peter is writing to people who were scattered and under pressure, and that he reaches for the lamb and the foundation of the world to steady them. He doesn't reach for a theory of suffering.
 
-Now we come to the mechanics of the miracle, and they are more remarkable than they first appear.
+Then, if you're the one who has been waiting for God to catch up with your situation, try saying aloud that he isn't behind. It may feel like a thin sentence at first. It is carrying the weight of a cross that was in view before you had a name.
 
-If the eternal Lamb exists in the eternal realm and human beings requiring salvation exist in the physical realm, a bridge must be built between those two worlds. The question is what kind of bridge. Not a temporary scaffold that will corrode under the weight of history. Not a visitation that ends when the visitor departs. An eternal one. A bridge that is itself both builder and material.
+And if some part of this argument sits badly with you, particularly the part about the plan and the guilt in Acts 2:23, take it to your pastor or to an older believer you trust, and let them argue back. It's a question worth an evening's conversation, and I'd rather you wrestled with it than left it alone.
 
-God built it with a word. Specifically, with the Word.
-
-John 1:1 introduces us to the architecture:
-
-> *"In the beginning was the Word, and the Word was with God, and the Word was God."*
-> — John 1:1 (ESV)
-
-This is the same Word by which the heavens were stretched out and the stars called by name. This is the same Word that said "let there be light" and light obeyed without hesitation. It is not a metaphor for God's verbal communication. It is a person co-eternal with the Father, distinct from the Father, inseparable from the Father. And John 1:14 reports what that person did:
-
-> *"The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth."*
-> — John 1:14 (NIV)
-
-The Word became flesh. The eternal entered time. The uncreated put on creation like a coat. C.S. Lewis, who thought harder about the incarnation than most professional theologians, cut to the heart of the exchange in *Mere Christianity*: "The Son of God became a man to enable men to become sons of God" (Lewis, 1952, p. 179). Six words going one direction, six words going the other — the entire economy of salvation in a single chiasm.
-
-There are those who argue that this is mythological language, that the incarnation is a theological invention of later church councils rather than the confession of the first Christians. Spend five minutes with the actual historical record and that argument becomes harder to sustain than a wet paper bag in a rainstorm. The Council of Nicaea in 325 AD was not inventing the divinity of Christ. It was defending what the apostolic church had always believed against Arius, who was the one doing the inventing. The fathers who gathered at Nicaea were not designing a doctrine. They were protecting one. And it is worth noting that among the most theologically formidable voices in that era was an African one — Athanasius of Alexandria, the North African bishop whose treatise *On the Incarnation* preceded the council and whose ferocious intellectual defence of Christ's full divinity, maintained against enormous institutional pressure, gave the church the language it needed to say clearly what it had always believed. When Athanasius stood against the whole world in defence of the eternal Logos made flesh, he was not standing on European ground. He was standing on African ground, in an African city, with an African theologian's command of the Greek philosophical tradition turned entirely in service of the Word.
-
-The incarnation is not a Western idea baptised by the church. It is an eternal truth defended, in part, by Africa.
-
----
-
-## The Moment John the Baptist Stopped Pointing at the Sky
-
-Then comes the moment John the Baptist had been born for.
-
-> *"The next day John saw Jesus coming toward him and said, 'Look, the Lamb of God, who takes away the sin of the world!'"*
-> — John 1:29 (NIV)
-
-*Look.* That is not a theological observation delivered from a lectern. That is a man pointing his entire life in a direction. John had been baptising in the Jordan for months, preaching repentance, disturbing the religious establishment, eating locusts in the desert like a man who had decided comfort was not worth what it cost. He had been asked directly — are you the Messiah? Are you Elijah? Are you the Prophet? — and he had answered each question with the same unhurried clarity: no. I am the voice crying in the wilderness. I am not the one who is coming.
-
-And then Jesus came toward him.
-
-And John said: *Look.*
-
-Not "here is a man with impressive teachings about the kingdom." Not "here is a lifestyle reformer I recommend for your personal development journey." *Look the Lamb of God.* The definite article matters. Not a lamb. Not one more lamb in the long procession of lambs that had been slaughtered since Leviticus. *The* Lamb. The one to whom every animal sacrifice since the dawn of the Mosaic covenant had been pointing. The one whose blood, shed once in time, accomplishes what all that other blood, shed repeatedly across centuries, could only gesture toward.
-
-*Who takes away the sin of the world.* Not who covers it for twelve months pending renewal. The Greek verb is *airon* — present active participle — which means the taking away is not a completed transaction filed away in heaven's archives. It is continuous, ongoing, perpetual. He is always taking away. He took it away at Calvary. He is taking it away now. He will take it away at the judgment. The sacrifice made once is effective forever. What the tabernacle enacted in annual rehearsal, Christ enacted in a single irreversible performance.
-
----
-
-## The Turn: This Was Never Just About Humanity in the Abstract
-
-Here is where the argument shifts from the cosmic to the intimate, and this is the shift that matters most.
-
-All of this — the eternal nature of God's decrees, the insufficiency of animal blood, the Lamb slain before the foundation of the world, the Word entering flesh, the voice crying in the Jordan — was not a theological exercise conducted in heaven for the intellectual satisfaction of angels. It was done for a specific kind of creature. The kind that wakes up at 3am with the weight of things they have done and cannot undo. The kind that has been to enough prayer meetings to know all the vocabulary and not always the reality. The kind that grew up in a home where faith and harm came from the same address, and who has never fully known what to do with that. The kind that suspects, quietly, that the God in the sermon is too good to be interested in the person sitting in the pew.
-
-To that person, the text has something precise to say: the Lamb was slain from the foundation of the world. Before you were born, God had already decided what to do about you. Not about humanity in the abstract — about you. Your particular darkness. Your specific history. Your name.
-
-Augustine of Hippo — another African, from Numidia in what is now Algeria, a man who had tried everything else before he tried God — opened his *Confessions* with a sentence that has not been improved upon in sixteen hundred years:
-
-> *"Thou madest us for Thyself, and our heart is restless, until it repose in Thee."*
-> — Augustine of Hippo, *Confessions*, Book I (c. 397 AD)
-
-The restlessness is not a psychological problem to be managed. It is a theological one. It is the shape of the absence left by the One for whom we were made. And the Lamb slain from the foundation of the world is the answer to that absence — not one answer among several, not a spirituality option to be weighed against alternatives, but the only thing whose nature actually matches the size of the problem.
-
----
-
-## The Door Is Open
-
-The question this article ends on is not whether the logic holds. It holds. An eternal God issues eternal decrees; sin carries eternal consequences; an eternal sacrifice is the only sufficient solution; Jesus Christ is that eternal sacrifice — the Lamb slain before the foundation of the world, the Word who became flesh and walked into history on schedule, the one John identified in the Jordan and whose identity the empty tomb confirmed on the third morning after Calvary.
-
-Not because a pastor declared it on a Sunday. Not because it is the dominant religious tradition in a particular geography. Not because the argument sounds elegant when written out in an article. But because the evidence, examined honestly and followed wherever it leads, arrives at the same destination: an empty tomb, a risen Lamb, and a standing offer.
-
-Hebrews 7:25 puts the offer in present tense:
-
-> *"Therefore he is able to save completely those who come to God through him, because he always lives to intercede for them."*
-> — Hebrews 7:25 (NIV)
-
-He always lives to intercede. The sacrifice is complete. The priest is still active. The Lamb who was slain is the Lamb who lives, and He lives to bring you through — specifically you, by name, completely, now.
-
-The door is open. What will you do with that?
-
----
+***
 
 ## References
 
 ### Biblical References
 
-- **Genesis 2:17 (NIV)** — Used to establish God's original eternal pronouncement against sin, demonstrating that the consequence of disobedience carries the same permanent character as the decree itself.
-- **Ecclesiastes 3:14 (NIV)** — Used to ground the article's foundational premise: that because God is eternal, everything He does and declares carries eternal weight, requiring an eternal rather than temporary remedy for sin.
-- **Leviticus 16:34 (NIV)** — Used to demonstrate that the Old Testament sacrificial system was explicitly designed as a repeating, annual ordinance, establishing its inherent temporariness as a theological problem requiring resolution.
-- **Romans 6:23 (NIV)** — Used to reinforce the eternal character of sin's consequence death as the specific debt demanding an eternal solution.
-- **Hebrews 10:4 (ESV)** — Used to cite the New Testament's own authoritative verdict on the impossibility of animal sacrifice achieving permanent atonement, establishing the logical necessity of a different kind of sacrifice.
-- **Revelation 13:8 (NIV)** — The central proof text and theological cornerstone of the article, establishing that Christ's sacrifice as the Lamb was not a response to the fall but an eternal reality accomplished before creation.
-- **Galatians 4:4 (NIV)** — Used to establish the incarnation as the fulfilment of a precise divine timetable, reinforcing the article's core argument that God did not improvise.
-- **John 1:1 (ESV)** — Used to introduce the pre-incarnate identity of Christ as the eternal Word co-existent with the Father, providing the theological basis for understanding the incarnation as the entry of the eternal into time.
-- **John 1:14 (NIV)** — Used to narrate the moment of incarnation as the visible arrival in history of the eternally determined redemptive plan.
-- **John 1:29 (NIV)** — Used to present John the Baptist's declaration as the definitive identification of Jesus with the eternal Lamb of God, tying the incarnation directly to the entire sacrificial tradition of the Old Testament.
-- **Hebrews 7:25 (NIV)** — Used in the closing section to affirm the ongoing, present-tense intercessory work of the risen Christ, extending the once-for-all sacrifice into a perpetual living offer of salvation.
+* **Ephesians 1:4 (ESV).** Epigraph and the first text in the argument: God chose us in Christ before the foundation of the world; the passage that carries the case without Revelation 13:8.
+* **1 Peter 1:19 to 20 (ESV).** Christ as the foreknown lamb before the foundation of the world; the second clear text, and the parallel the commentators cite for the "slain" reading. Also named in the closing invitation as 1 Peter 1:17 to 21, for the reader to read in full.
+* **2 Timothy 1:9 (ESV).** Grace given in Christ Jesus before the ages began, not on the ground of works; used in the section on assurance.
+* **Matthew 25:34 (ESV).** The kingdom prepared from the foundation of the world; a further parallel for God's settled purpose.
+* **Revelation 13:8 (ESV).** The translation question in 2025 ESV wording; the NIV phrase "the Lamb who was slain from the creation of the world" is quoted as a short comparison only.
+* **Revelation 17:8.** Referred to by reference only, as the parallel that favours "written".
+* **Hebrews 10:4 (ESV).** The blood of bulls and goats cannot take away sins; why the old sacrifices were repeated.
+* **Hebrews 9:26 (ESV).** Christ would have had to suffer repeatedly since the foundation of the world; measures the cross against the span of creation.
+* **Leviticus 16:34.** Referred to by reference only: the Day of Atonement as an annual ordinance.
+* **Genesis 3:15 (ESV).** The earliest hint of the offspring who will bruise the serpent's head, in the same chapter as the fall.
+* **Isaiah 53:10 (ESV).** The will of the LORD to crush the servant; the cross as purpose and not accident.
+* **John 1:29 (ESV).** John the Baptist names Jesus as the Lamb of God.
+* **Acts 2:23 (ESV).** Divine plan and human guilt in one sentence; the answer to the strongest objection.
+* **Revelation 5:6 (ESV).** The Lamb standing as though slain at the centre of heaven; the turn into suffering.
+* **Genesis 50:20.** Referred to by reference only: Joseph's backward look at what his brothers meant for evil.
 
 ### Other Sources
 
-- Athanasius of Alexandria. (c. 318 AD). *On the incarnation* (J. Behr, Trans.). St Vladimir's Seminary Press. (Original work composed c. 318 AD)
-- Augustine of Hippo. (2008). *Confessions* (H. Chadwick, Trans.). Oxford University Press. (Original work published c. 397 AD)
-- Lewis, C. S. (1952). *Mere Christianity*. Geoffrey Bles.
-- Stott, J. R. W. (1986). *The cross of Christ*. Inter-Varsity Press.
+* Athanasius of Alexandria. (n.d.). *On the incarnation of the Word* (chapters 7 to 9; Nicene and Post Nicene Fathers translation, translator not named on the page). Early Church Texts. Used for the paraphrase of chapter 7. https://www.earlychurchtexts.com/public/athanasius_on_atonement.htm
+* Athanasius of Alexandria. (n.d.). *On the incarnation of the Word* (chapter 6, section 10; translator not named on the page). Bibliothek der Kirchenväter. https://bkv.unifr.ch/works/cpg-2091/versions/incarnation-of-the-word/divisions/7
+* Augustine of Hippo. (n.d.). *The confessions of Saint Augustine* (E. B. Pusey, Trans.; Book I). Project Gutenberg. https://www.gutenberg.org/cache/epub/3296/pg3296.html
+* Bible Hub. (n.d.). *Revelation 13:8* [Parallel translations]. https://biblehub.com/revelation/13-8.htm
+* Bratcher, R. G., & Hatton, H. A. (1993). *A handbook on the Revelation to John* (UBS Handbook Series). United Bible Societies. Read at https://tips.translation.bible/story/translation-commentary-on-revelation-138/
+* Crossway. (2026). *Revelation 13:8; 17:8* (ESV). ESV.org. https://www.esv.org/verses/Revelation+13:8;Revelation+17:8/
+
+### Translation Notices
+
+* Scripture quotations are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.
+* The short phrase quoted from Revelation 13:8 in the New International Version is from the Holy Bible, New International Version, copyright 1973, 1978, 1984, 2011 by Biblica, Inc. Used by permission. All rights reserved worldwide.

@@ -1,174 +1,194 @@
 ---
-title: The Temple Has Merchandise: On the Church We Traded for a Business Model
+title: The Temple Has Merchandise
+subtitle: On the church we traded for a business model
 category: Church & Culture
 verse: It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers.
 verse_ref: Matthew 21:13 (ESV)
 featured: 5
+summary: What happens when a church starts to run on the logic of the marketplace, what Scripture and Nigeria's courts and tax laws have to say about it, and what is still standing when the business model fails.
 ---
 
-## The Storefront With the Cross on Its Sign
+## A Sunday Morning That Looks Like Business
 
-Every Sunday morning in Lagos, Abuja, Port Harcourt, and a hundred other cities, an extraordinary thing happens. Millions of people dress their finest, pile into danfos and Corollas and the occasional Lexus SUV, and make their way to buildings that look, from the outside, like they mean business. Sometimes literally. The same architecture. The same signage sensibility. The same security presence at the door. The same air conditioning visible in the promise of tinted windows. The same feeling, as you walk in, that someone has thought very carefully about the experience you are about to have and whether you will come back next week.
+Anyone who has driven past a big church in Lagos or Abuja or Port Harcourt at ten o'clock on a Sunday knows the scene. Marshals in matching vests wave the cars into rows. A guard checks the gate. The windows are tinted, a generator hums somewhere behind the hall, and the signboard carries a logo a branding agency would be proud of. Inside, the air conditioning works, which is more than can be said for the clinic down the road. Somebody has thought hard about your experience, and about whether you'll be back next week.
 
-This is not a metaphor. This is a description.
+None of that is sinful on its face. Visitors should be welcomed, car parks need managing, and a sound system that cuts out in the middle of a prayer helps nobody. My complaint begins further in, with a change of assumption that nobody announced and a great many joined. In too many places the marketplace stopped being a tool the church used and became the picture of what a church is. The congregation turned into a clientele. The platform turned into a head office. And the man in front became something between a shepherd and a chief executive, with a special line in promises about heaven.
 
-Somewhere between Pentecost and the present day, a significant portion of the church made a choice that nobody announced and everybody participated in. The choice was this: that the model of the marketplace — with its branding, its customer retention strategies, its competitive positioning, its product differentiation — was not merely a useful administrative tool but the actual operating framework of spiritual community. That Sunday morning was not the gathering of a people called out of darkness into marvellous light, but a weekly transaction. That the congregation was not a body but a clientele. That the man on the platform was not a shepherd but a CEO with a special line in celestial promises.
+We didn't fall into this. We walked in, one reasonable decision at a time. Which means we can walk out the same way.
 
-We did not fall into this. We walked in.
+## What Jesus Found in the Temple Courts
 
-And because we walked in, we can — if we are honest enough, and brave enough — walk out.
+Selling sacred things is older than Nigeria, and older than television. On Matthew's account, Jesus walked into the outer court of the Jerusalem temple in the last week before His death and found a market. (John places a cleansing at the start of His ministry instead, and scholars still argue about whether there were two. I'm following Matthew here.) Animals were on sale for sacrifice. Money changers sat at tables, turning the coins people carried into the Jewish and Tyrian shekels the temple tax required.
 
----
-
-## A Scene That Has Played Before
-
-Before we talk about what is happening now, it is worth pausing to ask what has always been happening. Because the commercialisation of sacred space is not a Nigerian invention, and it is not a modern one. It is, if anything, one of the oldest human impulses in recorded history — the impulse to take what belongs to God and turn it into something that earns a profit.
-
-When Jesus walked into the outer courts of the Jerusalem Temple in the final week of His earthly ministry, He found exactly what we find in too many of our assemblies today: a market. Merchants selling animals pre-approved for sacrifice. Money changers converting Roman coins into Temple currency at a premium, naturally. The mechanics of worship converted into a revenue stream. The house of prayer turned into what He called, borrowing the words of Jeremiah, a den of robbers.
+Be fair to the traders for a moment. A pilgrim who had travelled a long way needed an animal and the right coins, and somebody had to supply them. The service was real. What made the scene wrong was where it stood. The outer court was the one part of the temple where people who weren't Jews could come near to pray, and Mark records Jesus quoting Isaiah that the house was meant to be "for all the nations", then stopping anyone from carrying goods through it. Commerce had taken the room that belonged to the people God most wanted in.
 
 > *"It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers."*
+>
 > — Matthew 21:13 (ESV)
 
-He did not file a complaint. He did not convene a review committee. He did not send a carefully worded pastoral letter. He turned over the tables.
+Notice the phrase He chose. A den is where robbers retreat to feel safe, not where they do the robbing. The words come from Jeremiah, who told the worshippers that God would let them stay in the land only if they did not "oppress the sojourner, the fatherless, or the widow". They went on stealing and swearing falsely, then came and stood in the house and said, "We are delivered!" Hence the question God puts to them.
 
-That image is worth sitting with for a moment — not because we are advocating furniture violence as a church reform strategy, but because it tells us something about how Heaven regards the monetisation of the sacred. This is not a minor pastoral concern to be addressed in a subcommittee. This is the kind of thing that moves the meekest man who ever lived to physical action. The tables went over because what was happening underneath them was a desecration, not a management inefficiency.
+> *"Has this house, which is called by my name, become a den of robbers in your eyes?"*
+>
+> — Jeremiah 7:11 (ESV)
 
-Acts 8 gives us a shorter scene, but an equally instructive one. Simon the sorcerer, previously celebrated across Samaria for his extraordinary powers, recently converted and baptised, watches the apostles Peter and John lay hands on new believers and witnesses the Holy Spirit descend. And he has a business idea.
+Commentators weigh these things differently. Some put the weight on exploitation at the tables, others on a prophetic sign of judgement against the whole arrangement, and others on Jeremiah's point that religious activity can become a hiding place for people whose lives contradict it. I think the charge can carry all three. John records words that fit a Nigerian Sunday uncomfortably well, said to the men who sold doves.
 
-> *"Give me also this power so that everyone on whom I lay my hands may receive the Holy Spirit." Peter answered: "May your money perish with you, because you thought you could buy the gift of God with money!"*
-> — Acts 8:19-20 (NIV)
+> *"Get these out of here! Stop turning my Father's house into a market!"*
+>
+> — John 2:16 (NIV)
 
-Simon's error was not peculiar to the first century. It is the founding philosophy of an entire wing of contemporary Christianity: that divine power is a commodity, that the Spirit is a product, and that the right offering unlocks the right result. Peter's answer was not gentle, and it was not hedged. It was a full stop at the end of a sentence that too many of our pulpits have decided to treat as a comma.
+He didn't set up a review committee, and He didn't send a carefully worded letter. He overturned tables. I'm not recommending that as a method of church reform. I'm pointing out how seriously the gentlest person in the Gospels took the matter.
 
-The problem is that we have, in the centuries since, kept reading past that full stop.
+## The Man Who Tried to Buy the Spirit
 
----
+Acts 8 gives a shorter scene with the same smell. Simon had been the celebrated sorcerer of Samaria. Luke says he believed Philip's message and was baptised. Then Peter and John arrived from Jerusalem, the Samaritans received the Holy Spirit as the apostles laid hands on them, and Simon saw a business opportunity. He offered money and asked for "this ability so that everyone on whom I lay my hands may receive the Holy Spirit" (Acts 8:19, NIV).
 
-## Two Congregations, One Strategy, Zero Gospel
+> *"May your money perish with you, because you thought you could buy the gift of God with money!"*
+>
+> — Acts 8:20 (NIV)
 
-Here is where this becomes distinctly contemporary, and distinctly West African.
+Peter didn't negotiate. He went on to tell Simon that his heart wasn't right before God and that he should repent, and Simon, to his credit, asked the apostles to pray for him. Whether his faith was real, Luke leaves open. What the text does show is a man who had spent his life selling spiritual power, who watched the Spirit arrive, and whose first thought was a price. The old church word for buying and selling church office, simony, takes its name from him.
 
-The commercialisation of church is not a uniform phenomenon. It has tailored itself, with admirable marketing precision, to the economic profile of its audience. The strategy varies by congregation. The extraction mechanism does not.
+His error didn't die in the first century. Any ministry that treats healing, breakthrough or the Spirit's presence as stock to be released by the right offering is standing in Simon's shoes, whatever its brochure says.
 
-Walk into an assembly where the majority of worshippers are navigating unemployment, debt, sickness, and the crushing arithmetic of daily survival and you will hear a particular message. You will hear about ancestral curses. You will hear about spiritual debts that must be settled before any breakthrough can flow. You will hear about the babalawo your great-grandmother consulted three generations ago and how that single consultation opened a door into your bloodline that only a prophetic encounter — one accompanied, naturally, by a corresponding seed — can shut. The congregation comes broken and leaves burdened, having exchanged the little money they came with for the vague promise of a curse now broken.
+## How One Model Sells to Two Crowds
 
-This is not theology. This is fear merchandised as deliverance.
+The model adjusts itself to whoever is sitting in front of it. I'm describing a pattern here, and I'm not pointing at any pastor, because plenty of people who preach this way believe every word of it.
 
-Walk into a wealthier assembly, one where the cars in the parking lot suggest that financial breakthrough has already arrived for much of the congregation, and the menu changes entirely. Here, you will find professional worship artists whose appearance fees would raise eyebrows in the music industry. You will find motivational speakers with Scripture verses woven through their presentation slides. You will find business leadership summits and networking breakfasts wearing the costume of discipleship. The seed is still being sown. But it is sown between the testimony of a successful entrepreneur and the smooth close of a beautifully produced video package.
+Picture an assembly where most of the people are carrying unemployment, debt and sickness. The message on offer there is often about curses and spiritual debts that must be cleared before anything can move. A great grandmother's visit to a traditional diviner, three generations back, is said to have opened a door in the bloodline, and a prophetic encounter (with a seed attached, naturally) is the way to shut it. The congregation arrives with little and goes home with less, holding a promise that something has been broken.
 
-The version targeting poorer congregations extracts through terror. The version targeting wealthier ones extracts through aspiration. Both are extracting. Both are selling something the gospel was never designed to sell. And both, when a member of the congregation dares to say so, will produce the same response: that the critic is a witch, that rebellion is as the sin of witchcraft, and that anyone questioning the man of God is clearly a vessel for the enemy.
+Now picture the other room, where the cars in the car park suggest that breakthrough has already arrived. The menu changes. There are worship artists, motivational speakers with a verse on the slide, business summits and networking breakfasts dressed as discipleship. The seed is still sown, but between a testimony from a successful entrepreneur and a well produced video.
 
-The accusation of witchcraft is, in its own way, a rather elegant business move. It simultaneously discredits the critic, frightens the audience into silence, and reinforces the authority of the platform. Three problems solved with one throw of the word.
+One version takes its money through fear and the other through ambition. Neither is selling what the gospel was given to deliver. It would be wrong to say all this is invented demand. A Pew report on Africa south of the Sahara, published in 2010, found that in most of the countries it covered more than half of Christians believed in what it defined as the prosperity gospel, the idea that God will grant wealth and good health to people who have enough faith. People are not being tricked into wanting this. They're being sold what they already hope for.
 
-Ezekiel, who had no such platform to protect, said this plainly — which may explain why it appears so rarely on the projection screens of our largest assemblies:
+And when somebody in either room asks where the money goes, some platforms have a ready answer: that the questioner is rebelling, and that "rebellion is as the sin of witchcraft" (1 Samuel 15:23, KJV). Samuel said that to King Saul, who had set aside the word of the Lord. It was a rebuke to a king, and it was never meant as a shield for a platform. As a piece of machinery it's efficient, because it silences the critic and frightens the room in one go.
+
+Ezekiel had no platform to protect, which may be why this passage appears so seldom on the projection screens of large churches.
 
 > *"Woe to you shepherds of Israel who only take care of yourselves! Should not shepherds take care of the flock? You eat the curds, clothe yourselves with the wool and slaughter the choice animals, but you do not take care of the flock. You have not strengthened the weak or healed the sick or bound up the injured. You have not brought back the strays or searched for the lost. You have ruled them harshly and brutally."*
-> — Ezekiel 34:2-4 (NIV)
+>
+> — Ezekiel 34:2 to 4 (NIV)
 
-What Ezekiel delivered as an indictment, parts of the contemporary church have apparently received as an instruction manual.
+Some of us read that as an indictment. A few corners of the church seem to have filed it as a business plan.
 
----
+## What Paul and Jesus Said About Money
 
-## What the Salesman Never Mentions
+Paul wrote to Timothy about people who think "godliness is a means to financial gain" (1 Timothy 6:5, NIV), and then described where that road goes.
 
-There is a passage that does not circulate widely in the world of prosperity preaching. Not because those who preach in that world have not read it. Because they have read it, and they know what it would do to their model if their congregation took it seriously.
+> *"But godliness with contentment is great gain. For we brought nothing into the world, and we can take nothing out of it. But if we have food and clothing, we will be content with that. Those who want to get rich fall into temptation and a trap and into many foolish and harmful desires that plunge people into ruin and destruction. For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs."*
+>
+> — 1 Timothy 6:6 to 10 (NIV)
 
-Paul, writing to Timothy, gives one of the most precise anatomies of what happens when faith becomes a fundraising strategy:
+Read it slowly, because it's so often misquoted. Money is not the root of all evil. The love of money is a root of all kinds of evil, which is a more uncomfortable sentence, since most of us can say with a straight face that we don't love the stuff, we only appreciate it warmly. Paul's picture of the damage is physical. People who chase wealth pierce themselves through. And he's describing the people who treat the ministry as a way to get rich, in a letter that was sent from one church leader to another.
 
-> *"They think that godliness is a means to financial gain. But godliness with contentment is great gain. For we brought nothing into the world, and we can take nothing out of it. But if we have food and clothing, we will be content with that. Those who want to get rich fall into temptation and a trap and into many foolish and harmful desires that plunge people into ruin and destruction. For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs."*
-> — 1 Timothy 6:5-10 (NIV)
+Dietrich Bonhoeffer, writing in Germany in 1937, gave the name cheap grace to forgiveness handed out without repentance and without following Christ, a grace you could hold as a possession. The prosperity version has a different price tag, but it makes a similar promise. A blessing you can buy with the right seed is also something you can have without following anyone.
 
-Read that again. Not "money is the root of all evil" — the popular misquotation that provides everyone with a comfortable out, since we can all agree we do not technically love the stuff, we merely appreciate it warmly. The text is exact: the love of money. The orientation of the heart toward wealth as a primary object. The treatment of spiritual service as a vehicle for financial accumulation.
-
-Paul does not say this produces mild inconvenience or a temporary detour. He says it plunges people into ruin and destruction. He says it causes people to wander from the faith. He says it pierces them with many griefs. The imagery is of impalement — not of minor wounds, not of bruises that heal in a week, but of being run through.
-
-And yet an entire ecosystem of Christian media, Sunday preaching, and institutional practice has been constructed on exactly the foundation Paul is warning against. Not despite this passage. Alongside it, in the same Bible, from the same pulpits.
-
-Dietrich Bonhoeffer, writing from within a Germany where institutional Christianity had made its peace with a monstrous regime, described in *The Cost of Discipleship* what he called cheap grace — grace dispensed without repentance, without the cross, without any cost to the recipient. Grace as a product. Grace as the thing you receive by showing up and putting something in the offering bag. He wrote that cheap grace is "the grace we bestow on ourselves" — the theology we construct to justify what we were going to do anyway.
-
-The prosperity gospel is cheap grace wearing a designer suit and sitting in the front row of its own conference.
-
-What the salesman never mentions is Matthew 6:24. Not because he does not know it, but because it dismantles his entire operation from the foundation:
+Jesus put the matter more bluntly than either of them.
 
 > *"No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money."*
+>
 > — Matthew 6:24 (NIV)
 
-You cannot. Not "it will require considerable balance." Not "it is technically possible but difficult." You cannot. Jesus used the word because He was not making a pastoral recommendation. He was describing a structural impossibility. Two masters, one slave — the arithmetic does not resolve. And when an institution is built on the premise that it does resolve, that institution is not preaching the gospel of Jesus Christ. It is preaching something that shares its vocabulary while reversing its logic.
+He said "cannot". He wasn't offering advice about balance. He was describing a job with two employers, where the arithmetic never works out. An institution that builds its whole operation on the idea that it does work out is using the vocabulary of Jesus with the logic turned round.
 
----
+## Why Churches End Up Competing
 
-## The Competition for Customers Nobody Owns
+You can test a church by how it reacts when a member joins the one down the road. In a healthy movement, a soul saved anywhere is good news, whether it happens in a hall with a thousand seats or a sitting room with six chairs. Paul, writing in chains, said he was glad whenever Christ was preached "whether from false motives or true" (Philippians 1:18, NIV).
 
-One of the most revealing symptoms of a church that has become a business is what it does to its relationship with other churches. In a genuine movement of God, the salvation of one soul anywhere — in the congregation down the road, in a small fellowship meeting under a tin roof, in a prayer group of six people in someone's sitting room — is cause for celebration. Paul said as much from a prison cell: that whether Christ was proclaimed from pure motives or impure ones, he rejoiced, because Christ was proclaimed.
+A church that runs on market logic can't say that. The neighbouring church is a rival for market share. The family that moves across town is a customer lost. A new branch opened near yours is an invasion of territory. The vocabulary of branding and customer experience has slipped into church growth talk so easily, and with so little alarm, because the assumption behind it has been quietly accepted. It has very little to do with the shepherd who left ninety nine sheep to go after the one.
 
-The commercial church cannot do this. Competition is not incidental to its structure; competition is structural. The church across the road is not a sister ministry in the work of the Kingdom. It is a competitor for market share. The believer who transfers from your congregation to theirs is not a sheep that found water — they are a customer you lost. The church that opens a branch in a location near your existing branch is not expanding the reach of the gospel; it is encroaching on your territory.
+## The Fair Objection From the Church Treasurer
 
-This is why the same Christianity that proclaims "seek first the Kingdom of God" has produced assemblies that position themselves with the same competitive calculation as retail franchises. This is why the language of branding, product differentiation, and customer experience has migrated so naturally into church growth literature without triggering more alarm than it has. The vocabulary reveals the operating assumption. And the operating assumption, examined honestly, has very little to do with the shepherd who left ninety-nine sheep to go looking for the one that was lost.
+Picture a church treasurer in Ibadan, tired, with the diesel invoice in one hand and the list of teachers' salaries in the other. He has heard enough. "Do you know what it costs to keep this place running? The pastor has a family. And your own Bible says the labourer deserves his pay."
 
-C.S. Lewis, writing Screwtape's advice to a junior devil in *The Screwtape Letters*, observed that one of the most effective strategies for neutralising a believer's prayer life was to get them focused on the quality of the singing, the irritating habits of fellow churchgoers, and the theological shortcomings of the vicar rather than on God. The spiritual danger Lewis identified in a fictional demon's instruction manual has become the marketing strategy of the actual church: make the experience, the production quality, the personality of the speaker, the comfort of the seats — the primary selling point. Put the consumer experience at the centre. And in doing so, move God quietly to the edges, where He remains available for brand association purposes without interfering with the revenue model.
+He's right about the bills, and he's right about Paul.
 
----
+> *"In the same way, the Lord has commanded that those who preach the gospel should receive their living from the gospel."*
+>
+> — 1 Corinthians 9:14 (NIV)
 
-## The Volta: What Still Holds
+A church needs money, and I'd go further and say a church needs honest, well kept accounts more than it needs to be poor. Poverty isn't a spiritual qualification. Nobody should read this and conclude that a generator, a salary or a branded T shirt is a sin.
 
-Here is where the argument must turn not because the critique above has been exhausted, but because a reckoning without a resurrection is merely despair wearing the mask of analysis.
+But look at what Paul does with his own right. A few verses on, he says that his reward is that "in preaching the gospel I may offer it free of charge, and so not make full use of my rights as a preacher of the gospel" (1 Corinthians 9:18, NIV). He grants the principle, and then he refuses to cash it in where cashing it in would put a price on the message.
 
-The church has not been entirely swallowed.
+So the line isn't between churches that handle money and churches that don't. It runs through the questions nobody enjoys asking. Is the blessing priced? Does the sermon get written to move the offering? Ask whether a member can request the accounts without being called a witch, and you'll learn a good deal. A church can have an air conditioner and a conscience. The trouble starts when the air conditioner begins to write the sermon.
 
-This matters enormously. Not as a feel-good ending to a difficult article, but as a fact that requires the same intellectual rigour we have applied to the criticism. If we are going to be honest about the corruption, we must be equally honest about what the corruption has not destroyed.
+## What the Law Can and Cannot Fix
 
-In the same city where a pastor is selling prayer cloths soaked in anointing oil, guaranteed to break financial limitation, there is a woman who drives to a poorer neighbourhood every Saturday to teach children who cannot afford school fees and she does it in the name of Jesus and she wants no credit and there is no camera present. In the same week that a megachurch hosts a paid-entry business summit for believers seeking divine investment returns, a small congregation somewhere takes up an impromptu offering for a widow and presses the full amount into her hands, quietly, without a testimony slot. In the same denomination where titles are handed to new converts to fill volunteer slots, there is an elder who has served the same small fellowship for thirty years and has never once asked what he would receive for it.
+Nigeria's law has been circling this ground, and 2026 has been a busy year for it.
 
-The genuine church — the one Jesus said He would build, and that the gates of hell would not overcome — has survived every corruption thrown at it across two thousand years. It survived the Inquisition. It survived the moment when European Christianity looked at the transatlantic slave trade and decided that the gospel and the slaveholder's whip could coexist in the same theological framework — a wound so deep that the phrase "the white man's God" still carries voltage in certain conversations across West Africa, and rightly so. It survived the Donatist controversy and the Arian controversy and the simony of medieval popes and the sale of indulgences and every other effort to reduce the body of Christ to an instrument of institutional power.
+The reformed tax laws, many provisions of which were due to take effect on 1 January 2026, draw the line the treasurer would rather blur. A guidance paper prepared for Catholic dioceses in December 2025 reads them this way: income tied to a charitable mission stays exempt, while commercial income, such as the rent from an event hall, is taxable and may attract value added tax and withholding tax. Stipends, allowances and housing payments to clergy are treated as taxable pay. In January 2026, BusinessDay reported on an analysis that put it more sharply, saying the legal separation between the sanctuary and the shop was no longer optional, and that although tithes and offerings are not taxed directly, how they are used would be examined more closely. Those are readings by advisers and commentators, not the text of the statute, and church finance officers will want the Acts themselves in front of them.
 
-It survived the American export of the prosperity gospel and its enthusiastic African franchise.
+The other front has been the state's power over churches. The Companies and Allied Matters Act of 2020 let the Corporate Affairs Commission suspend the trustees of religious bodies and appoint interim managers. The Christian Association of Nigeria went to court over it. In March 2023, the Federal High Court in Abuja restrained the Commission from using those powers against the association and churches, and in April 2023 a separate suit, brought by a lawyer, Emmanuel Ekpenyong, produced a judgment striking down sections 839 to 848. In early October 2026, reports said the Court of Appeal in Abuja had upheld that nullification in most of its parts, holding that the sections infringed freedom of religion and association. (It stopped short of a blanket nullification of section 851, ruling that one unconstitutional only to the extent that it let an administrative committee decide disputes in place of the Federal High Court.) Meanwhile the Catholic Bishops' Conference asked the National Assembly in September 2026 to halt the Foreign Aids (Regulation, Transparency and Disclosure) Bill 2026, which they said could let officials refuse registration or renewal to churches and others whose work was judged "not in the national interest".
 
-It will survive this too. Not because the institution is indestructible — history is littered with Christian institutions that fell and deserved to — but because the Head of the church is not an institution. He is a person. And He has never abandoned His people, even when His people have badly misrepresented Him.
+Television ministries have lived under a different kind of rule for years. The scholar Asonzeh Ukah (2011) studied the National Broadcasting Commission's policy on "unverified miracles" and the disputes it provoked after broadcasting was opened up in 1992.
 
-Augustine of Hippo, a North African theologian who understood both the grandeur and the institutional failure of the church from the inside, wrote the sentence that remains, sixteen centuries later, the most exact diagnosis of why no commercial substitute for God will ever ultimately work. He wrote it at the beginning of his *Confessions*, before he had even finished explaining who he was: "Thou hast made us for Thyself, O Lord, and our heart is restless, until it repose in Thee."
+There are good arguments on both sides of these fights, and I won't pretend to settle them. But look at what they add up to. The courts have narrowed the power of government to run a church from outside. The revenue service will ask for receipts. Neither can ask what a congregation ought to ask itself, which is whether anyone left the service closer to God. And with the state stepping back, the audit falls back on the elders and the members. Nobody else is going to examine a church's conscience for it.
 
-Not until we find the correct seed to sow. Not until we identify the right prophetic key. Not until we have given enough to unlock our financial breakthrough. Until it rests in God. This is not a transaction architecture. This is the language of longing, of return, of belonging. And belonging cannot be franchised, cannot be branded, cannot be extracted with a strategic offering moment on a Sunday morning.
+Here the argument has to turn, because a tidy answer would be a false one. The books can be made honest. The question Jesus asked in the temple courts was about whose house this is.
 
-The heart knows this, even when the pew does not.
+## The Church That Is Still Standing
 
----
+If I stopped there, I'd be handing you despair and calling it analysis. The church hasn't been swallowed. That claim needs the same hard look I've given the criticism.
 
-## The Question That Should Keep Everyone Awake
+Picture a woman who drives to a poorer part of town every Saturday to teach children whose parents can't pay school fees. She does it in Jesus' name, there's no camera, and nobody has asked her to give a testimony. Picture a small congregation, in the same week that a big church somewhere charges for a business summit, taking up an unannounced offering for a widow and pressing every naira into her hand with no thanks required. Both scenes are constructed, but anyone who has spent time in Nigerian churches will recognise them. This kind of church rarely makes the news, which is part of how it survives.
 
-This article ends where it must end: not with a new catchphrase, not with a step-by-step guide to finding a better church, not with the hollow comfort of a summary that pretends the problem is simpler than it is. It ends with the question Jesus asked as He finished the parable of the persistent widow — a parable about a woman who refused to quit pressing her case before an unjust judge, who wore down the judge's resistance not through charm or payment but through sheer, unreasonable, unstoppable persistence. A parable, in other words, about faith in its rawest form: the kind that keeps showing up when there is no visible reason to show up.
+The church Jesus said He would build has outlived every corruption thrown at it. It outlived the years when European Christians looked at the transatlantic slave trade and found a way to fit the gospel and the whip into one theology, a wound so deep that "the white man's God" still carries a charge in conversations across West Africa, and rightly so. It outlived the Donatist and Arian quarrels, the selling of church offices and the selling of indulgences. It will outlive the export of the prosperity gospel and its enthusiastic local franchises too. Not because any institution is indestructible (history is littered with Christian institutions that fell and deserved to) but because the Head of the church is a person who hasn't abandoned His people, even when they've misrepresented Him badly.
+
+Augustine of Hippo, a North African who knew both the grandeur and the failures of the church from the inside, wrote near the beginning of his *Confessions* that God had made us for Himself.
+
+> *"Thou madest us for Thyself, and our heart is restless, until it repose in Thee."*
+>
+> — Augustine, Confessions I.1 (E. B. Pusey, Trans.)
+
+Not until we find the right seed. Not until we spot the prophetic key. Until it rests in God. That is the language of longing and return, and it can't be franchised, branded or collected in a strategic offering moment. The heart knows it, even when the pew has forgotten.
+
+## The Question Luke Leaves Open
+
+Luke tells us why Jesus told the parable of the widow and the unjust judge: to show His disciples "that they should always pray and not give up" (Luke 18:1, NIV). She had no money, no influence and no one to speak for her. She kept coming to the judge's door until he gave in. And then Jesus asks something that He doesn't answer.
 
 > *"However, when the Son of Man comes, will he find faith on the earth?"*
+>
 > — Luke 18:8 (NIV)
 
-That question was not rhetorical in the comfortable sense. Jesus did not ask it and then immediately supply the reassurance. He let it hang the way a good question always does, pressing against the chest of the listener, waiting for an answer that must come from somewhere deeper than the intellect.
+A business can't produce that sort of faith. It can produce attendance figures, stadium events and sermon clips that do well online. It can't produce the widow at the door, who keeps coming because there's nowhere else to go and the God is real. That kind of faith is what remains when the air conditioning fails, the guest speaker cancels, the seed hasn't yielded and Sunday comes anyway.
 
-The church that has become a business cannot answer that question well. An enterprise built on the logic of extraction, aspiration, brand loyalty, and competitive positioning cannot produce what Jesus was asking about when He asked about faith. It can produce impressive attendance numbers. It can produce viral sermon clips and stadium events and social media engagement that would make a marketing director weep with gratitude. It cannot produce the widow at the judge's door — the person who prays because they have no other option, who trusts because the alternative is despair, who keeps coming back not because the experience is excellent but because the God is real.
+So here is a small thing to try. At the next meeting of your church where the accounts are read, if there is one, listen to the numbers and ask the question you would ask of any household you were helping to run. Then, before the next Sunday, find the quietest corner of your house, switch off the phone, and pray without a microphone or a service to hold it up. See who answers. I think He will.
 
-Faith — the kind that Luke 18 is pointing toward — is not a product. It is not the outcome of a managed consumer experience. It is what remains when the air conditioning breaks and the celebrity speaker cancels and the congregation discovers the building is mortgaged and the seed that was sown has not produced the promised harvest and Sunday morning still comes anyway. It is what cannot be manufactured, marketed, or sold. Which is precisely why it terrifies a system built on manufacturing, marketing, and selling.
-
-What remains when everything else is stripped away?
-
-That is the question. Not as a rhetorical device to end an article neatly, but as the actual question — the one every person sitting in every assembly, regardless of its size or its theology, must eventually answer for themselves. Not the question of whether your church is a good church or a bad church, whether your pastor is genuine or a fraud, whether the worship team is anointed or merely talented. Those are real questions. They are not the deepest one.
-
-The deepest one is whether you have encountered the living God, or whether you have only encountered the performance that surrounds Him.
-
-He is coming. The only thing this article cannot decide for you is what He will find.
-
----
+***
 
 ## References
 
 ### Biblical References
 
-- **Matthew 21:13 (ESV)** — Used as the opening epigraph and as the historical anchor for the argument that commercialisation of sacred space has precedent in the Temple courts; Jesus's direct confrontation with the monetisation of worship.
-- **Acts 8:19-20 (NIV)** — The account of Simon the sorcerer's attempt to purchase the Holy Spirit and Peter's categorical rebuke; used to establish that the commodification of divine power is an ancient error with apostolic condemnation on record.
-- **Ezekiel 34:2-4 (NIV)** — The prophetic indictment of exploitative shepherds who feed themselves from the flock rather than feeding the flock; used to demonstrate the long biblical history of this failure and the severity with which God addresses it.
-- **1 Timothy 6:5-10 (NIV)** — Paul's diagnosis of godliness deployed as a revenue strategy; the theological spine of the fourth section and the clearest scriptural framework for evaluating the prosperity model.
-- **Matthew 6:24 (NIV)** — Jesus's declaration that no one can serve two masters; used as the definitive structural refutation of any ministry framework built on the dual pursuit of God and financial gain.
-- **Luke 18:8 (NIV)** — The closing question of the parable of the persistent widow; carried from the source material and developed into the article's final challenge to the reader.
+* **Matthew 21:13 (ESV).** The words of Jesus in the temple; the epigraph and the anchor for the argument about commerce in sacred space.
+* **Mark 11:15 to 17 (ESV).** Quoted briefly ("for all the nations") and used for the setting in the outer court and the ban on carrying goods through the temple.
+* **Jeremiah 7:5 to 11 (ESV).** The source of "den of robbers"; read in context to show that the charge concerns a house used as cover for injustice.
+* **John 2:14 to 16 (NIV).** "Stop turning my Father's house into a market!"; supports the parallel with commercial worship.
+* **Acts 8:19 to 20 (NIV).** Simon's offer of money and Peter's rebuke; the ancient case of treating the Spirit as a commodity.
+* **1 Samuel 15:22 to 23 (KJV).** The saying about rebellion and witchcraft, set back in its context of a rebuke to a king.
+* **Ezekiel 34:2 to 4 (NIV).** The prophetic indictment of shepherds who feed themselves from the flock.
+* **1 Timothy 6:5 to 10 (NIV).** Paul on godliness as a means of gain and the love of money.
+* **Matthew 6:24 (NIV).** Jesus on serving two masters.
+* **Philippians 1:15 to 18 (NIV).** Paul's gladness that Christ is preached, even from false motives; used against rivalry between churches.
+* **1 Corinthians 9:14 and 18 (NIV).** The preacher's right to a living and Paul's choice not to use it; the church treasurer's fair objection.
+* **Luke 18:1 and 18:8 (NIV).** The purpose of the parable of the persistent widow and Jesus' closing question.
 
 ### Other Sources
 
-- Augustine of Hippo. (397/1991). *Confessions* (H. Chadwick, Trans.). Oxford University Press. (Original work published c. 397 CE) — The opening of Book I, on the restlessness of the human heart apart from God; used in the penultimate section as the theological diagnosis of why commercial substitutes for God cannot ultimately satisfy.
-- Bonhoeffer, D. (1959). *The cost of discipleship* (R. H. Fuller, Trans.). SCM Press. (Original work published 1937 as *Nachfolge*) — The concept of cheap grace as grace dispensed without repentance or cost; applied as a theological category for the prosperity gospel.
-- Lewis, C. S. (1942). *The Screwtape Letters*. Geoffrey Bles. Screwtape's strategic advice about directing believers toward the peripheral experience of churchgoing rather than toward God; used in the fifth section as a description of how consumer-focused church culture operates.
+* Augustine of Hippo. (2002). *The confessions of St. Augustine* (E. B. Pusey, Trans.). Project Gutenberg. https://www.gutenberg.org/cache/epub/3296/pg3296.txt (Original work published c. 401). Book I, chapter 1, quoted in the closing section.
+* Bonhoeffer, D. (1959). *The cost of discipleship* (R. H. Fuller, Trans.). SCM Press. (Original work published 1937). The idea of cheap grace, paraphrased and not quoted.
+* BusinessDay. (2026, January 20). *Faith groups face new compliance era as Nigeria centralises tax collection*. https://businessday.ng/news/article/faith-finance-inside-nigerias-new-tax-deal-with-churches-mosques/
+* Catholic Secretariat of Nigeria. (2025, December 20). *The general overview of Nigerian tax laws and the influence of taxes in an emerging economy* [Guidance paper prepared for Catholic dioceses; author named as A. R. Odukoya]. Nigeria Catholic Network. https://www.nigeriacatholicnetwork.com/?p=26237
+* Enumah, A. (2026, October 4). *Appeal Court upholds nullification of CAMA on CAC powers over religious groups, others*. ThisDay. https://www.thisdaylive.com/2026/10/04/appeal-court-upholds-nullification-of-cama-on-cac-powers-over-religious-groups-others/
+* Gazette NGR. (2023, March 21). *Court stops FG from suspending, appointing CAN, church's trustees*. https://gazettengr.com/court-stops-fg-from-suspending-appointing-can-churchs-trustees/
+* Pew Research Center. (2010, April 15). *Tolerance and tension: Islam and Christianity in sub-Saharan Africa* (executive summary). https://www.pewresearch.org/religion/2010/04/15/executive-summary-islam-and-christianity-in-sub-saharan-africa/
+* Ukah, A. (2011). Banishing miracles: Politics and policies of religious broadcasting in Nigeria. *Politics and Religion Journal, 5*(1). https://politicsandreligionjournal.com/index.php/prj/article/view/287
+* Vanguard. (2026, September 20). *Catholic Bishops oppose foreign aid regulation bill*. https://www.vanguardngr.com/2026/09/catholic-bishops-oppose-foreign-aid-regulation-bill/
+* Wikipedia contributors. (n.d.). *Cleansing of the Temple*. Wikipedia. https://en.wikipedia.org/wiki/Cleansing_of_the_Temple. Used for the summary of how scholars read the temple action, and for the Tyrian shekel and the outer court.
+
+### Translation Notices
+
+* Scripture quotations marked ESV are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.
+* Scripture quotations marked NIV are taken from the Holy Bible, New International Version, NIV. Copyright 1973, 1978, 1984, 2011 by Biblica, Inc. Used by permission of Zondervan. All rights reserved worldwide.

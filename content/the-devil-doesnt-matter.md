@@ -1,157 +1,146 @@
 ---
 title: The Devil Doesn't Matter
+subtitle: What a physics lesson gets right about the enemy, and where it stops
 category: Spiritual Warfare
 verse: I saw Satan fall like lightning from heaven.
-verse_ref: Luke 10:18 (NIV)
+verse_ref: Luke 10:18 (ESV)
 featured: 6
+summary: A catchy line about the devil losing his place is mostly true, but the Bible says it more carefully than the slogan does, and the difference matters for anyone who feels besieged.
 ---
 
-## A Chair, a Classroom, and the Beginning of Something
+## A Chair in a Demonstration Lesson
 
-It started with a chair.
+Picture a trainee teacher giving a demonstration lesson on matter. She keeps it simple. Matter, she says, is anything that has mass and takes up space. To make it real she points at an ordinary classroom chair, four legs and a backrest, the sort that has held a thousand half asleep students through a thousand morning lectures. It has mass. It takes up space. And unless some force moves it, she says, it stays exactly where it is.
 
-Not a throne. Not an altar. Not any of the furniture you would expect to appear in a piece of theological writing. Just an ordinary classroom chair — four legs, a backrest, the kind that has held a thousand students half-asleep through morning lectures — and a teacher candidate doing what teacher candidates do: trying to make physics feel like something other than an obligation.
+The class nods. Nothing in the lesson is dramatic, which is exactly why a remark like that can go off later. Some explanations are slow. You take them in calmly, walk home, and an hour afterwards they start doing something to your thinking.
 
-The candidate was explaining matter. Matter, she said, is anything that has mass and occupies space. To demonstrate, she pointed at the chair. It sits there, she said. It has mass. It occupies space. As long as no external force moves it, it stays exactly where it is.
+Now picture the same evening. A friend's status update goes past on WhatsApp, a line from a preacher that has been forwarded around Pentecostal circles for a while: *"Learn to confront the devil from your space because he has lost his place."* I couldn't trace who first said it, so I won't put a name to it. But it's a good line. And if you've just been thinking about chairs, a thought arrives uninvited. The chair is in the room. The devil, supposedly, has left it.
 
-The class nodded. Simple enough.
+That's the argument I want to test. I think a good deal of it is true and I think it helps people. I also think it is stated a little too neatly, and that the neatness can leave a tired believer feeling cheated when the enemy plainly hasn't gone quiet. So let's open it up and see what is alive in it and what isn't. If it survives the examination, it will be a better slogan. If it doesn't, we'll have lost nothing except a tidy line for a mug.
 
-But some explanations are time-delayed explosives. You receive them calmly, walk away, and then hours later they go off inside you. That evening, scrolling past a friend's post quoting a pastor — *"Learn to confront the devil from your space because he has lost his place"* — the explosion happened. The chair was still in the room. The devil had left the building. And somewhere in the gap between those two facts, a theological argument was waiting to be assembled.
+## What the Slogan Gets Right
 
-This is that argument.
-
----
-
-## What the Textbook Accidentally Said About the Enemy
-
-Go back to the definition. Matter: anything that has mass and occupies space.
-
-The word to hold is *occupies*. To occupy space is to be present in it, to hold it, to stake a claim on it such that nothing else can exist there simultaneously. Two objects cannot occupy the same space at the same time — this is not a theological principle, it is a law of physics, the kind that does not negotiate or grant exceptions on the basis of religious sincerity. Space is either occupied or it is not.
-
-Now carry that definition out of the physics classroom and into the book of Isaiah. Here is a being who occupied space — significant, elevated, strategic space. The prophet records his ambition in five devastating lines:
-
-> *"I will ascend to the heavens; I will raise my throne above the stars of God; I will sit enthroned on the mount of assembly, on the utmost heights of Mount Zaphon. I will ascend above the tops of the clouds; I will make myself like the Most High."*
-> — Isaiah 14:13-14 (NIV)
-
-Five declarations. Five "I wills." The whole speech is a manifesto of occupation — the desire to possess space that does not belong to the speaker, to plant his mass in territory reserved for Another. This is the original squatter. This is the first illegal occupant in the history of the cosmos.
-
-But squatters get evicted.
-
----
-
-## The Fall That Rewrote Celestial Geography
-
-Jesus said it almost casually, in the middle of a conversation with seventy-two disciples who had just returned buzzing from their first ministry assignment. They were excited that demons had submitted to them. And Jesus, without missing a beat, said:
+Start with Jesus. When the disciples he had sent out came back delighted that even demons submitted to them, he said this.
 
 > *"I saw Satan fall like lightning from heaven."*
-> — Luke 10:18 (NIV)
+>
+> — Luke 10:18 (ESV)
 
-Read that sentence again. Not *I will see.* Not *I have heard it predicted.* Not even the past perfect, as though recalling something distant. He said *I saw* — the simple past of a man describing what he witnessed with his own eyes. The event is complete. The fall has happened. The space has been vacated.
+Nobody agrees on exactly what Jesus was looking at. The verb in Greek is in a tense that can mean "I was watching," so he may be describing something in the past, or he may be describing what he saw happening as the demons yielded. The context favours the second, I think: the success of the mission is the visible edge of a defeat that goes deeper. Either way the direction of travel is clear. Lightning doesn't drift, and the enemy's authority is going down, not up.
 
-Lightning does not drift. Lightning does not meander or take a scenic route. Lightning commits. It goes from where it is to where it is not, instantly, violently, with a crack that leaves no room for doubt. Jesus chose that image for a reason. The fall of Satan was not a gradual decline, not a slow erosion of authority, not a demotion with a grace period. It was a decisive, instantaneous expulsion — the universe's most dramatic eviction notice, served without appeal.
+John records Jesus saying much the same as the cross comes into view.
 
-The prophet Ezekiel fills in the details behind the fall:
+> *"Now is the judgment of this world; now will the ruler of this world be cast out."*
+>
+> — John 12:31 (ESV)
 
-> *"You were blameless in your ways from the day you were created till wickedness was found in you. Through your widespread trade you were filled with violence, and you sinned. So I drove you in disgrace from the mount of God, and I expelled you, guardian cherub, from among the fiery stones."*
-> — Ezekiel 28:15-16 (NIV)
+And Paul says what the cross did to the powers behind the world's cruelty.
 
-Driven in disgrace. Expelled. The one who wanted to occupy the highest space was thrown from the only space he legitimately held. And the word that matters, the word that sits at the centre of all of this, is that he *lost his place.*
+> *"He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him."*
+>
+> — Colossians 2:15 (ESV)
 
-The candidate at the interview was more prophetic than she knew. She pointed at a chair and said: as long as nothing exerts a force to move it, it stays. Well. A force was exerted. And the chair went over.
+So the slogan has solid ground to stand on. The enemy has lost something that matters, and the thing he lost was won at the cross. A believer who learns that is standing on firmer ground than most of us feel we are standing on at three in the afternoon on a bad week.
 
----
+## Where the Physics Gives Out
 
-## The Passage Everyone Quotes and Almost Nobody Finishes Reading
+Here the chair starts to wobble. And I'll say it plainly, because it is usually said in sermons with a straight face.
 
-Here is where the argument makes its decisive turn.
+Two ordinary objects can't be in the same place at once, which is why you can't sit on a chair that somebody else is already sitting on. The sermon version says that Satan once occupied a place in heaven, he was thrown out, believers now sit there, and so he can't. But the textbook definition does him an unexpected favour. Matter has mass and takes up space. A spirit has neither. By the very definition that started this conversation, the devil is not matter, and the tidy proof falls over. The pun in the title is a good pun. It is not a proof.
 
-Most Nigerian believers and, frankly, most believers anywhere in the world know Ephesians 2:6. It shows up on church bulletins, Instagram graphics, and the kind of laminated bookmarks sold at the back of Pentecostal bookshops. It is a verse that has been smiled at, shouted as a declaration, and printed on enough merchandise to stock a small theological gift shop.
+The Bible also puts it differently from the physics. In Ephesians 2:6 Paul says that God has seated believers with Christ in heavenly places.
 
-But read the full context:
+> *"and raised us up with him and seated us with him in the heavenly places in Christ Jesus,"*
+>
+> — Ephesians 2:6 (ESV)
 
-> *"But because of his great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved. And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus."*
-> — Ephesians 2:4-6 (NIV)
+Four chapters later he says this.
 
-Paul is not describing a future promise. He is not saying God will one day, after we have been sufficiently faithful and attended enough prayer meetings, eventually consider seating us in heavenly places. The verb is past tense. *He seated us.* Done. Concluded. Filed and certified.
+> *"For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness, against the spiritual forces of evil in the heavenly places."*
+>
+> — Ephesians 6:12 (ESV)
 
-Now hold that next to what we know: Satan occupied heavenly places, was expelled from them in disgrace, and lost his standing in the celestial order. Meanwhile, by the grace of God, believers have been raised up and *seated* in those same heavenly realms in Christ, which means not by our own righteousness, not because we earned the chair, but because we are hidden in the One who never lost His.
+Same letter, same phrase. The believers are seated in the heavenly places, and the forces of evil are in the heavenly places too. So it can't be that the enemy has been evicted from the space where we sit, because Paul has him in the same neighbourhood. What the New Testament says is subtler and, I think, better. The enemy's authority has been broken, his claim has been cancelled, and our standing has been settled. He can still be loud, and he can still do harm, which is exactly why Paul tells us to wrestle.
 
-Two objects cannot occupy the same space at the same time.
+## A Passage That Can't Carry the Weight
 
-The enemy vacated. We were seated.
+There is one more repair to make, and it concerns a verse that this argument leans on in its popular form.
 
-Do the physics.
+The old sermon lines about Satan wanting to occupy the highest space come from Isaiah 14. There the speaker says, among other things, this.
 
----
+> *"I will ascend above the heights of the clouds; I will make myself like the Most High."*
+>
+> — Isaiah 14:14 (ESV)
 
-## The Devil Has No Mass Here
+Many of us were taught that this is Satan's own voice, the original ambition, five "I wills" in a row. Tertullian and Origen read it that way, and so did a long line of preachers after them. But Isaiah introduces the passage as a taunt against the king of Babylon, and a great many careful commentators, from Calvin to John Oswalt to Daniel Block on the parallel passage in Ezekiel 28, read it as about human kings, with the pride of empire as the real subject (these are summarised in Spriggs, n.d.). Some allow that a darker power lies behind such rulers. Few of them think the passage describes the fall of Satan.
 
-Return to the definition one last time. Matter is anything that has mass and *occupies space.*
+I don't think we should rest the argument on it. It isn't needed. Luke 10:18, John 12:31 and Colossians 2:15 carry the weight without it, and they say what the sermon wants to say. Better to let the passages say what they say than to ask Isaiah to testify in a case he wasn't called for.
 
-The devil, by the legal decree of heaven, has lost his place. He is displaced — and displacement, in the vocabulary of physics, means he no longer occupies the space he once claimed. He has no standing in the realm where believers are now seated. He can threaten from below. He can shout from outside the property line. He can rattle the fence like the neighbourhood dog that has learned that barking is all it has left. But he cannot occupy the space that has been taken by Christ and, in Christ, by every believer who has received the gift of salvation.
+## What Seated Means
 
-Which means — and follow this carefully, because this is the whole weight of the argument landing — the devil doesn't matter. Not in the pop-theology sense of a cute declaration slapped on a mug. In the literal, definitional, scientific sense: he has lost the capacity to occupy the space that belongs to you. By the measure of the very definition that started this conversation in a school interview room, he has forfeited his matter-hood in the heavenly realms. He has mass, yes, but he no longer occupies your space. And if he doesn't occupy your space, he doesn't matter.
+Take the chair seriously for a moment longer, because the Bible does.
 
-This is not a diminishment of the enemy's reality. He is real. His schemes are real. Paul, who was beaten, shipwrecked, and imprisoned for the gospel, did not write to the Ephesians from a comfortable ignorance of spiritual opposition. He wrote from prison. He told them to put on the full armour of God not because the battle is imaginary but because it is relentless. Acknowledge the enemy. Know his strategies. Do not be naive.
+The letter to the Hebrews contrasts the priests of the old order with Christ.
 
-But do not give him a seat he no longer holds.
+> *"And every priest stands daily at his service, offering repeatedly the same sacrifices, which can never take away sins. But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God,"*
+>
+> — Hebrews 10:11 to 12 (ESV)
 
----
+The priests were always on their feet because there was always more to do. Christ sits, and the writer wants us to understand that the work is finished. When Paul says we are seated with him, he isn't telling believers that they've retired from the fight. He is telling us where we are fighting from.
 
-## What It Means to Fight from a Chair
+And yes, that creates a small puzzle you've probably noticed. In the same letter the people who are seated are told, four chapters later, to stand: to put on the armour, to stand firm against the schemes of the enemy. I don't think that is a contradiction. We sit for our position and we stand for our posture. A person who knows she belongs to the winner stands differently from a person who thinks the result is still in doubt. She doesn't charge up the hill to win the right to be there. She holds ground that has already been paid for.
 
-There is a detail in the book of Hebrews that does not receive nearly enough attention. The writer, contrasting the Levitical priests with Jesus, says this:
+## Why the Devil Still Matters
 
-> *"Day after day every priest stands and performs his religious duties; again and again he offers the same sacrifices, which can never take away sins. But when this priest had offered for all time one sacrifice for sins, he sat down at the right hand of God."*
-> — Hebrews 10:11-12 (NIV)
+So does the devil matter? In one sense, no. He doesn't decide who you are, and he can't revoke what Christ has done. In another sense, yes, and Peter does not let us forget it.
 
-The priests stood. Jesus sat.
+> *"Your adversary the devil prowls around like a roaring lion, seeking someone to devour."*
+>
+> — 1 Peter 5:8 (ESV)
 
-In the ancient world, a judge who sat had finished deliberating. A king who sat had asserted his reign. A priest who sat had completed his offering. Standing was the posture of the unfinished. Sitting was the posture of the accomplished. The priests stood forever because the work was never done. Jesus sat because the work was finished.
+Paul himself wrote to the Ephesians as a prisoner, describing himself as an ambassador in chains (Ephesians 6:20), and nobody could accuse him of naivety about spiritual opposition. A lion that has lost his claim to the territory is still a lion. C. S. Lewis put the danger on both sides of the road in the preface to *The Screwtape Letters* (1942), which he signed in July 1941.
 
-And Ephesians 2:6 says we were seated *with Him.* Not standing nervously beside a throne waiting to hear the verdict. Seated. In the posture of the accomplished. In the posture of those for whom the case has been decided.
+> *"There are two equal and opposite errors into which our race can fall about the devils. One is to disbelieve in their existence. The other is to believe, and to feel an excessive and unhealthy interest in them."*
+>
+> — C. S. Lewis, *The Screwtape Letters* (1942), Preface
 
-This is why the pastor's quote carries real weight: *"Learn to confront the devil from your space because he has lost his place."* You are not fighting to obtain a position. You are fighting from a position already obtained. You are not striving upward toward authority. You are enforcing, downward, an authority already granted. The difference between those two postures is the difference between a soldier advancing into enemy territory with no guarantee of outcome and a soldier executing a legal order in territory that has already been liberated.
-
-The chair is occupied. It is your chair. No external force is coming to move it, because the Force that placed you there is stronger than the force that once knocked another occupant off.
-
----
+Anyone who has spent time in Nigerian church life has met both errors, and sometimes in the same household. There's the believer who treats every delayed result and every bad Tuesday as a demonic operation, and there's the cooler one who has quietly stopped believing in any of it. Neither has much to say to the person who is really being harassed, which is why I'd rather lean on what the Bible and the African church have actually said. Kwame Bediako (1993), the Ghanaian theologian, described how African Christians have come to see Jesus as supreme over the spirit realm, writing that "he is supreme over all 'gods' and authorities in the realm of the spirits." That conviction is older than the slogan and sturdier. It doesn't depend on a clever pun about matter. It depends on a resurrection.
 
 ## For the Person Who Doesn't Feel Seated
 
-This is the part where the theology has to become pastoral, because there is always someone reading who has heard the declarations, sang the worship songs, sat under the preaching and still feels like the enemy is winning. Still feels like the intimidation is working. Still wonders, late on a Wednesday night when the praise music has faded and the anxiety is loud, whether any of this is actually real.
+There is always someone reading this who has heard the declarations and sung the songs and still feels the enemy winning. It's late on a Wednesday, the praise music has stopped, and the anxiety is louder than the sermon.
 
-To that person, not to the confident ones who already knew all of this, but to the one who is tired: the truth of where you are seated does not depend on whether you can feel it. Your position in Christ is not a mood. It is a legal status, established by the death and resurrection of Jesus, ratified by the Father, and made accessible to you the moment you put your faith in Christ. The enemy knows this. This is precisely why he spends so much energy trying to make you forget it.
+To that person I'd say two things. First, your position in Christ is not a mood. It doesn't rise and fall with how much you feel on a given evening. Second, feeling besieged is not a sign that you've failed to believe. Believers in every age have written about it honestly, and the psalms are full of it.
 
-He cannot take your seat. He lost his. What he can do is convince you to stand up voluntarily, to vacate the position through unbelief, through fear, through the kind of spiritual amnesia that sets in when life is hard and the noise is loud and the chair feels less solid than the trouble.
+I'd add something a slogan can't. If what you're facing is persistent anxiety, low mood or sleeplessness, it is not unspiritual to see a doctor and talk to someone you trust, and it will not weaken your faith. Plenty of people are helped by prayer and by treatment, and the two were never meant to compete.
 
-Do not stand up.
+The enemy can't take your seat. What he can do is persuade you to stand up and walk off, through fear or tiredness or the sense that the chair has become less solid than the trouble. So the invitation is a small one, and it can be kept this week. When the accusing thought comes, the one that says you're too far gone and God has left the room, answer it out loud with a sentence that Christ has already settled, the way you'd answer a stranger at your gate. If you've never given your life to Jesus, you can begin where Paul begins in Romans 10:9, by saying that he is Lord and trusting that God raised him from the dead. The chair is there for you too.
 
-Not because the trouble is not real. But because the One who seated you is more real still.
+***
 
----
+## References
 
-## Close the Door
+### Biblical References
 
-A chair in a classroom started this. Not a vision. Not a supernatural encounter. Not a mountain-top experience. A physics demonstration by a job candidate on an ordinary day and an evening reflection that turned the ordinary into the revelatory. This is, it turns out, exactly how God tends to work. He hides the deepest truths in the furniture of everyday life and waits for someone to pay attention.
+* **Luke 10:18 (ESV).** Jesus sees Satan fall like lightning; the anchor verse and the frontmatter verse.
+* **John 12:31 (ESV).** The ruler of this world will be cast out; the cross as the point of defeat.
+* **Colossians 2:15 (ESV).** The powers disarmed and shamed at the cross.
+* **Ephesians 2:6 (ESV).** Believers seated with Christ in the heavenly places; quoted as a single verse to keep the wording exact.
+* **Ephesians 6:12 (ESV).** The spiritual forces of evil are also in the heavenly places; used to correct the physics argument.
+* **Isaiah 14:14 (ESV).** The ambition passage; used to show why the Satan reading cannot carry the argument.
+* **Hebrews 10:11 to 12 (ESV).** Standing priests and the seated Christ; the finished work.
+* **1 Peter 5:8 (ESV).** The devil as a roaring lion; quoted from the second sentence only, to keep the wording exact.
+* **Ezekiel 28.** Cited by reference: the parallel passage about the king of Tyre.
+* **Ephesians 6:11 to 14.** Cited by reference: believers are told to stand.
+* **Romans 10:9.** Cited by reference: the confession that closes the article.
 
-The chair holds its space because nothing has moved it. You hold your position in Christ because no power in heaven or earth or under the earth has the authority to remove you from it. The devil fell like lightning. You were seated in grace. The physics are settled. The theology is sound. The case is closed.
+### Other Sources
 
-The only question now is whether you will live like it.
+* Bediako, K. (1993). Jesus in African culture. *Evangelical Review of Theology, 17*(1). https://gospelstudies.org.uk/biblicalstudies/pdf/evangelical-review-of-theology/ert_17-1_bediako.pdf
+* Lewis, C. S. (1942). *The Screwtape letters*. Geoffrey Bles.
+* Rolwes, E. (2018, July 3). Preface to the Screwtape letters [Reproduction of C. S. Lewis's preface]. *The Catholic Thing*. https://www.thecatholicthing.org/2018/07/03/preface-to-the-screwtape-letters/
+* Spriggs, J. (n.d.). *The fall of Satan*. https://julianspriggs.co.uk/Pages/FallOfSatan.aspx
 
----
+### Translation Notices
 
-## Biblical References
-
-- **Luke 10:18** — Jesus' declaration that He saw Satan fall like lightning from heaven; the central scriptural image of the enemy's displacement from heavenly places.
-- **Isaiah 14:13-14** — The five "I will" declarations of the being behind the fall, establishing the original ambition to occupy space reserved for God.
-- **Ezekiel 28:15-16** — God's pronouncement of expulsion against the guardian cherub, providing the judicial language of disgrace and displacement.
-- **Ephesians 2:4-6** — Paul's declaration that believers have been raised and *seated* with Christ in heavenly realms; the anchor passage for the entire argument about positional authority.
-- **Hebrews 10:11-12** — The contrast between the standing priests and the seated Christ; used to establish the theological weight of the seated posture as the posture of accomplished work.
-
----
-
-## External References
-
-- **C.S. Lewis, *The Screwtape Letters* (1942)** — Lewis's satirical exploration of demonic strategy illuminates the enemy's method of operating through suggestion, discouragement, and spiritual amnesia rather than overt frontal assault — consistent with the argument that the devil's primary tactic in the believer's life is convincing them to vacate a position he cannot forcibly remove them from.
-- **Pastor (unnamed), quoted by source** — *"Learn to confront the devil from your space because he has lost his place."* The catalytic quote that bridged the physics illustration and the theological argument. Attributed as quoted; origin unverified beyond the source material.
+* Scripture quotations are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.

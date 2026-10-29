@@ -1,90 +1,122 @@
 ---
-title: Nigeria Is Bleeding. Who Will Answer?
+title: Who Will Answer Nigeria's Bleeding
+subtitle: What Oriire taught us, five months on
 category: Church & Culture
 verse: A voice was heard in Ramah, weeping and loud lamentation, Rachel weeping for her children; she refused to be comforted, because they are no more.
 verse_ref: Matthew 2:18 (ESV)
+summary: A retrospective on the May 2026 Oriire school abductions, what the courts and the data have shown since the captives came home, and what the church can do besides pray.
 ---
 
-## The Morning the Classroom Went Quiet
+## What Happened in Oriire on 15 May
 
-Picture the morning of 15 May 2026 in the Yawota and Ahoro Esiele communities of Oriire Local Government Area, Oyo State. Picture children already seated at their desks, exercise books open, a teacher mid-sentence. Then picture heavily armed men arriving on motorcycles, firing into the air before the first bell of panic could even ring, storming three schools at once: Baptist Nursery and Primary School, Community Grammar School, and L.A. Primary School. Forty-six people, most of them children as young as two, were marched out of their classrooms and into the forest. A teacher named Joel Adesiyan was shot while trying to escape. Another teacher, Michael Oyedokun, was later beheaded in captivity, and the video of it circulated on the same phones his own students once used to send him birthday greetings.
+Picture a Friday morning in Yawota, in Oriire Local Government Area of Oyo State. Exercise books are open. A teacher is mid sentence. Then motorcycles, gunfire, and men walking into classrooms as if they had the timetable.
 
-I am not opening this way to shock you for the sake of shock. Satire has its place in this project, and irony is one of its favourite tools, but there is no clever sentence construction that improves on simply telling you what happened. Sometimes the apologist's task is not to argue. It is to make sure you do not look away.
+That was 15 May 2026. Gunmen struck schools in Yawota and the neighbouring community of Ahoro Esinele, including Baptist Nursery and Primary School, a community secondary school, and L.A. Primary School. The numbers vary by source, which is its own kind of sorrow. Oyo's own officials gave early counts that shifted for days. The figure most often repeated is forty six: thirty nine pupils and seven teachers, according to a report carried by Vanguard in July, with the Christian Association of Nigeria in Oyo describing the captives as mostly children between two and sixteen.
 
-Here is the volta this article was built around. As I write this, the news has just broken. On 10 July 2026, nearly two months after that morning in Yawota, the last of the abducted pupils and teachers were freed. The presidency announced it. Families who had spent fifty-six days not knowing whether their children were alive finally held them again. It should read as good news, and in the narrowest sense it is. But sit with the arithmetic for a moment before you celebrate. Fifty-six days. Forty-six captives. One teacher's life. A ransom demand of one billion naira, two Hilux vehicles, the release of detained commanders, and the imposition of Sharia law in Oyo State, a demand the state government refused. This is not a story with a happy ending. It is a story with a pause in it, and Nigeria has had far too much practice mistaking a pause for a resolution.
+Two teachers died. Accounts differ on when and how, so I'll say only what a court has been told. The charge sheet in Abuja names a teacher called Oyedokun and another called Olaleye as the two victims killed, and the prosecution alleges that one of them was beheaded. Those are allegations until a judge says otherwise. They are also somebody's colleague and somebody's husband.
 
-## Fifty Six Days
+It is now five months since that morning and three months since the children came home. The news has stopped breaking. This is the part where a country usually looks away, so let's not.
 
-The Nigeria Union of Teachers declared an indefinite strike within weeks of the abduction, shutting public schools across Oyo State and staging a rally in Lagos under placards that read, in essence, that teachers wanted to teach in peace rather than in fear. Mothers from Yawota, offered rice and cash by a federal delegation that visited during the ordeal, refused the relief packages outright. They did not want compensation. They wanted their children. The United Nations' own humanitarian coordinator in Nigeria publicly called for the captives' release, which tells you something about how far this single incident travelled beyond Oriire Local Government Area.
+## Fifty Six Days in the Forest
 
-By the time the rescue came, eight suspects had reportedly been taken into custody, and the presidency insisted there had been no concession to the kidnappers' demands. Whatever combination of intelligence work, negotiation, and pressure eventually produced the release, one fact remains uncomfortably true: it took nearly two months, a dead teacher, a viral beheading video, a national teachers' strike, and international attention for the Nigerian state to recover forty-six of its own citizens from a forest less than a day's drive from the nation's most prosperous region. The kidnappers were not an invading army. They were, by most accounts, a relatively small armed group with motorcycles and improvised explosive devices, operating within a state government's own territory for weeks without being dislodged. That is not a story about the strength of the criminals. It is a story about the absence of the state.
+For fifty six days nobody outside the forest knew for certain who was alive. Government told the public little, and what it did say was sometimes contradicted by families. A federal delegation brought rice and cash to Yawota in the last days of May. As reported at the time, the women there turned it down. They had not asked for relief packages. They had asked for their children.
 
-## The Economics of a Kidnap Industry
+The Nigeria Union of Teachers in Oyo shut public schools from 1 June. Teachers rallied in Lagos. On 4 June the United Nations humanitarian coordinator in Nigeria publicly called for the captives' release. The union suspended its strike on 1 July, with the state promising a joint security task force for vulnerable schools, counselling for victims and payment of entitlements to the families of the dead teachers. So the strike ended while the children were still missing. I'd forgotten that until I went back to read the dates, and it's worth remembering, because teachers went back to classrooms for nine more days with their colleagues still in captivity.
 
-Oyo was not an aberration. It was a data point.
+On 10 July the presidency announced that all the pupils and teachers had been rescued. Spokesman Bayo Onanuga said eight members of the gang were in custody of the Department of State Services and that some attackers had been "neutralised". He also said, "There was no quid pro quo in the rescue," meaning the government denied giving up a kingpin whose release the kidnappers had demanded. The agencies promised a fuller account later. As far as I could find, that account has not been published in any detail, so how the children came out is still told mainly in the government's words.
 
-Between July 2024 and June 2025, the geopolitical research firm SBM Intelligence documented 4,722 people kidnapped across Nigeria in 997 separate incidents, with at least 762 people killed in the course of those abductions. Kidnappers demanded roughly 48 billion naira in ransom during that single year. Families and communities, despite a 2022 law criminalising ransom payment, still found ways to pay just over 2.5 billion naira of it, because the choice between obeying the law and burying a child is not really a choice at all. The Northwest region alone accounted for well over 60 percent of victims nationwide, with Zamfara State recording over a thousand abductions on its own. Seventeen Catholic priests were kidnapped that same year, one of them killed. This is not banditry in the old, almost quaint sense of cattle rustlers and highway robbers. SBM Intelligence's own researchers describe it, with chilling precision, as a self-sustaining economic model, an industry that has learned to price a human life in naira and adjust that price for currency devaluation the same way any other market adjusts for inflation.
+I'm not saying the government is lying. I'm saying that three months on, the public knows who has been charged but still doesn't have an independent account of the last days. A mother is entitled to that.
 
-> "Woe to those who devise wickedness and work evil on their beds! When the morning dawns, they perform it, because it is in the power of their hand. They covet fields and seize them, and houses, and take them away; they oppress a man and his house, a man and his inheritance."
-> — Micah 2:1 to 2 (ESV)
+## What the Courts Have Done Since
 
-Micah was writing about landowners exploiting the vulnerable in eighth century Judah, but read his description again: wickedness planned in advance, on beds, calculated with the patience of people who know exactly what they can get away with because they have gotten away with it before. That is not an ancient category. That is a bandit camp in Zamfara with a burner phone and a ransom spreadsheet.
+By 20 July the federal government had named three suspects, all from Suleja in Niger State, and filed a ten count charge at the Federal High Court in Abuja under the Terrorism (Prevention and Prohibition) Act, 2022. The charge sheet says they professed membership of Darul Salam, described as an affiliate of the proscribed group Ansaru. It alleges that the three conspired between January and May with three other men, said to be at large, to carry out the abduction. One of them is also accused of financing terrorism through illegal gold mining.
 
-## Why the Wolves Keep Winning
+In September the Department of State Services brought a new amended charge against five men, again alleged to be Ansaru members. On 17 September, before Justice Salim Ibrahim, all five pleaded not guilty. An earlier hearing had been put off because the men wanted their own lawyer. The prosecution asked for trial to begin at once and the court allowed its witnesses to wear masks. I found no reported trial date after that.
 
-There is a reason this crisis has metastasised rather than shrunk, and it is not simply that Nigeria lacks soldiers. Nigeria has one of the largest militaries in Africa. The problem sits somewhere between capacity and will, and it has three faces worth naming honestly, the way a Nigerian is supposed to name things rather than talk around them for three paragraphs.
+Two of the five carry names resembling those that security sources gave the press in June for commanders the kidnappers wanted freed. I note it as a resemblance only. The court has to decide what those men did, and the rest of us have to leave them the presumption of innocence that we would demand for our own sons.
 
-The first face is the almajiri pipeline in the north, a centuries-old system of informal Quranic education that, in its healthiest form, produced scholars and in its most neglected form has, in recent decades, produced generations of boys with no formal schooling, no vocational training, and no state investment in their future. Not every almajiri becomes a bandit. Most do not. But an economy of desperate, undereducated young men with no stake in the state's success is precisely the recruitment pool banditry and insurgency have exploited for a generation, and Nigeria has known this for a generation without fixing it.
+## What the Kidnap Figures Now Show
 
-The second face is the conflict between herders and farmers across the north central belt, a crisis with genuine roots in climate pressure, shrinking grazing land, and population growth, which has been allowed to curdle into something far more dangerous than a land dispute because no government has invested seriously in ranching infrastructure, grazing reform, or the kind of even-handed policing that would reassure both farming communities and herding communities that the state, rather than their own militias, will protect them.
+Oyo felt like an exception because it happened in the south west, within reach of Ibadan and Lagos. The numbers say otherwise.
 
-The third face is the one this project's readers will find hardest to hear and most necessary to say plainly. When kidnappers in a South Western, historically Christian, state demand the imposition of Sharia law as a condition for releasing kidnapped children, that is not a small detail to skip past for the sake of interfaith diplomacy. It should be named honestly, the way this project has always insisted on naming things honestly, without turning it into a slander against Nigeria's Muslim majority in the north, the overwhelming number of whom are themselves victims of this same violence and have buried their own children to the same bandits. The kidnappers of Oyo were criminals wearing a theological demand as leverage, not representatives of a faith community that has suffered as much from this crisis as anyone. Justice requires precision here, not generalisation in either direction.
+In August, SBM Intelligence published its latest count of kidnapping in Nigeria, covering July 2025 to June 2026. It recorded 7,825 people kidnapped in 1,411 incidents, up from 4,722 the year before, a rise of about 66 percent. At least 1,142 people were killed, against 762 the previous year. Kidnappers demanded 22.86 billion naira, well below the 48 billion of the year before, but families and others paid at least 7.78 billion, compared with about 2.56 billion. In plain terms, the gangs asked for less and collected three times as much. Borno alone accounted for 5.05 billion of the payments.
 
-## What the Church Owes the Bleeding
+I'd read that as a market that works. People pay because the alternative is a funeral, whatever the law says, and each payment funds the next raid. No argument about principle survives a night when your child is in a forest, and the law that forbids paying never had to sit through one.
 
-The Nigerian church has not been a passive witness to any of this. Priests have been kidnapped alongside everyone else, and some have paid ransoms the church rarely speaks of publicly, quietly protecting its own the way every institution eventually learns to. Pastors have led vigils. Congregations have raised money for displaced farming communities. None of that is nothing.
+Anyone who wants to read this crisis as something done to the south by the north, or to Christians by Muslims, should look at where the victims were. SBM counted 7,334 victims in the north, which is 93.7 percent, and 491 in the south. The biggest totals were in Zamfara, with 1,921, then Sokoto with 1,157 and Kaduna with 814. The report doesn't record victims' religion, so I won't pretend it does. But Zamfara and Sokoto are states where most people are Muslim, and they bleed more than anywhere.
 
-But vigils are not a strategy, and this article will not pretend that prayer alone discharges the church's obligation here. Consider Nehemiah again, not now as a model of citizen initiative in general, but specifically as a model of what rebuilding under active threat looks like, because Nehemiah did not rebuild Jerusalem's wall in peacetime. He rebuilt it while surrounded by enemies actively plotting to attack the builders.
+## The Sharia Demand and What It Does Not Prove
 
-> "Those who built the wall and those who bore burdens loaded themselves, each labouring with one hand and holding his weapon with the other hand. And each of the builders had his sword strapped at his side while he built."
-> — Nehemiah 4:17 to 18 (ESV)
+Here's the objection in its strongest form, and I want to state it fairly. A Christian parent in Oyo reads that kidnappers wanted Sharia imposed on a southern state, and concludes that this is a religious war, that the pattern across the country confirms it, and that anyone who tells him otherwise is being polite at his children's expense. That is not a stupid reading. Nigeria has real history of religious violence, and a demand like that, if it was made, would be a deliberate provocation.
 
-That image, a trowel in one hand and a sword in the other, is the model this crisis demands of the Nigerian church and of every Nigerian who claims to love this country. Prayer without practical engagement is a trowel with no sword, sincere but exposed. Vigilantism without prayer and without accountability is a sword with no trowel, dangerous and ultimately just another armed group. What Nigeria needs, and what this crisis has been begging the church to model for a decade, is the discipline to build and to guard at the same time. That means funding and defending community security architecture like the Amotekun corps responsibly rather than cynically. It means discipling young men in almajiri-adjacent communities before banditry recruits them first. It means dioceses and denominations coordinating on security intelligence the way they already coordinate on missions. It means treating advocacy for better governance not as a distraction from spiritual work but as an extension of it, because Nehemiah's prayer in chapter one and his building in chapter three were never two separate projects.
+Start with what is documented. Leadership and other outlets reported in early June that the kidnappers wanted a ransom of one billion naira, two vehicles, the release of detained associates and the implementation of Sharia in Oyo. Sahara Reporters wrote on 10 June that the Sharia claim was one "the victims have debunked", and quoted the activist Francis Nwapa saying that "Whether true or not, no serious government publicly discloses sensitive details of negotiations." I could not find the victims' account first hand, and the prosecution documents I read do not mention a Sharia demand at all. So it is reported, it is disputed, and it has not been tested in court.
 
-## Who Will Answer
+Now suppose it was made. The Muslim community in Oyo State answered within days. A joint statement from its leaders said, "Islam forbids kidnapping, terrorism and the extortion of innocent citizens," and "Terrorists do not represent Islamic values and cannot speak for Muslims." Those who have been charged are accused of belonging to a group the Nigerian state has proscribed as terrorist, and the court papers describe them as men from Niger State. Whatever a gang says to extract money, the accusation in Abuja is terrorism, not a Muslim programme for Oyo.
 
-The prophet Habakkuk opened his book with a complaint that every Nigerian who has ever watched the evening news will recognise instantly.
+None of that makes the demand harmless. Armed men who use the language of a faith to frighten a Christian town have done something wicked, and a Christian is allowed to say so. But the churches that took Oyo's grief seriously should take the grief of Zamfara just as seriously, since the same industry is emptying villages there at a far larger scale, and the mothers there have no cameras waiting for them. Our grief cannot be selective and still be Christian.
 
-> "O LORD, how long shall I cry for help, and you will not hear? Or cry to you 'Violence!' and you will not save? Why do you make me see iniquity, and why do you idly look at wrong? Destruction and violence are before me; strife and contention arise."
-> — Habakkuk 1:2 to 3 (ESV)
+## What Waiting Does to a Nation
 
-God's answer to Habakkuk was not the answer the prophet wanted. It was not immediate rescue. It was a longer, harder word about justice unfolding in God's timing rather than the prophet's, and Habakkuk had to learn to trust that timing even while injustice was still visibly winning around him. That is a difficult word to preach to a mother in Yawota who spent fifty-six nights not knowing if her son was alive. It is also, painfully, the truest word Scripture has to offer a nation that keeps demanding instant deliverance and keeps mistaking a temporary pause in violence for its end.
+The Oriire children are home, and the question now is what home looks like. Parents quoted in July said they were afraid to send them back. One relative, Fausat Akindele, put it this way: "What happened has changed everything for us." The state's information commissioner, Dotun Oyelade, said that it was "understandable if parents do not want to send their children back to those schools," that work had begun on the buildings, and that security was mainly a federal matter. I could not find reporting since then on whether those schools have reopened or how many pupils have returned. That silence tells its own story.
 
-So who will answer Nigeria's bleeding. Not a single president, however competent, and not a single denomination, however faithful, acting alone. The forty-six people freed from that Oyo forest are alive today because teachers refused to go quiet, because mothers refused a bribe of rice, because a union struck, because international pressure mounted, because somewhere, soldiers and police officers and vigilantes did the dangerous work of finding them. That is what an answer to Habakkuk's question actually looks like in practice. Not a miracle that arrives fully formed. A slow, costly, collective refusal to accept the bleeding as normal.
+The prophet Habakkuk would have understood the waiting. He opens his book with a charge against God that no Nigerian who has followed the news needs explained.
 
-You are being asked the same question Isaiah heard in the temple, adapted for a bleeding nation rather than a throne room vision.
+> *"Why do you make me see iniquity, and why do you idly look at wrong? Destruction and violence are before me; strife and contention arise."*
+>
+> — Habakkuk 1:3 (ESV)
 
-> "And I heard the voice of the Lord saying, 'Whom shall I send, and who will go for us?' Then I said, 'Here am I! Send me.'"
+He doesn't get the answer he wants. He gets a longer one, that God is at work and that the wicked will not be left to enjoy what they've taken, and he is told to wait for it. That is a hard sermon to preach in Yawota. I wouldn't preach it fast, and I wouldn't preach it to anyone still waiting for news. But it is honest. The Bible doesn't hand the sufferer a quick answer, and it doesn't tell him he is wrong to ask.
+
+## What the Church Can Do Besides Pray
+
+The church hasn't been absent. Congregations pray, raise money for the displaced, and pay quietly to get their own people back. Priests have been among the kidnapped. None of that is small.
+
+But prayer meetings can't be the whole response, and I doubt most pastors think they are. Nehemiah rebuilt Jerusalem's wall while enemies were planning to stop him, and the account of how he did it is more practical than people remember.
+
+> *"Those who carried burdens were loaded in such a way that each labored on the work with one hand and held his weapon with the other."*
+>
+> — Nehemiah 4:17 (ESV)
+
+He didn't stop building to fight, and he didn't stop praying to organise. His prayer in the first chapter and his building in the third are the same project. For us it might mean something quite ordinary. Church leaders could press local governments to publish what happens after a school attack, as the Oriire families are still waiting to learn. Dioceses and denominations could share what they know about threats, as they already do about missions. Pastors in the south could visit pastors and imams in the north, and listen to what a Zamfara mother says about the last two years before they say a word about their own. Congregations could fund the counselling the Oyo government has promised for rescued children. And every citizen could keep asking, at the ballot box and in the church car park, why a gang with motorcycles ran a school abduction for fifty six days.
+
+None of it is dramatic. Most answers to a bleeding country aren't.
+
+## Answering the Question Isaiah Heard
+
+Isaiah's vision in the temple ends with a question put to nobody in particular.
+
+> *“And I heard the voice of the Lord saying, ‘Whom shall I send, and who will go for us?’ Then I said, ‘Here I am! Send me.’”*
+>
 > — Isaiah 6:8 (ESV)
 
-Nigeria is not short of people willing to weep for it. It is short of people willing to answer Isaiah's question the way Isaiah answered it, with their hand raised before they even knew the full cost of the mission. The teacher who was beheaded in that forest raised his hand every school day for years before anyone ever pointed a gun at him. That is what answering looks like most of the time. It rarely looks heroic while it is happening. It only looks heroic afterward, to people reading about it from a safe distance. Nigeria does not need more people who weep for it from a safe distance. It needs people willing to close that distance.
+Isaiah didn't know the cost when he raised his hand. The teachers of Yawota hadn't known it either, on the morning they set out to teach the alphabet to children of two. Two of them paid, and fourteen weeks after the rescue a court in Abuja is still hearing about it.
 
----
+So here's what I'd ask of you, whoever you are reading this. Find out which school in your area has had a security scare, and who is meant to protect it. Ask your own pastor what your church will do for the next family that goes through this, so the answer isn't invented in the middle of the night. Give to a fund that pays for a teacher's family or a child's counselling, and check that it reaches them. And when the next headline comes, say a prayer, and then say something to someone with the power to act.
+
+***
 
 ## References
 
 ### Biblical References
 
-- **Matthew 2:18 (ESV)** — Used as the opening epigraph, drawing the parallel between Rachel's biblical lament for slaughtered children and the grief of Nigerian parents whose children were taken from their classrooms.
-- **Micah 2:1 to 2 (ESV)** — Used to characterise the calculated, premeditated nature of Nigeria's kidnapping industry through the prophet's condemnation of those who plan exploitation in advance.
-- **Nehemiah 4:17 to 18 (ESV)** — Used as the central metaphor for the article's call to the church, illustrating the necessity of building and defending simultaneously.
-- **Habakkuk 1:2 to 3 (ESV)** — Used to frame the tension between crying out for deliverance and the slower, harder reality of justice unfolding over time.
-- **Isaiah 6:8 (ESV)** — Used to close the article with a direct call to active response rather than passive lament.
+* **Matthew 2:18 (ESV).** Epigraph. Rachel's weeping for children who are gone names the grief of Oriire's families and of every Nigerian parent in the same position.
+* **Habakkuk 1:3 (ESV).** The prophet's complaint to God gives voice to Nigeria's waiting, and God's longer answer frames the sermon the section dares to preach.
+* **Nehemiah 4:17 (ESV).** Builders working with a weapon in hand set out the church's double duty to build and to guard, and Nehemiah's chapters one and three show that prayer and practical work belong together.
+* **Isaiah 6:8 (ESV).** The call and the answer that closes the article.
 
 ### Other Sources
 
-- BellaNaija. (2026, July 11). *All abducted Oyo pupils and teachers rescued after 56 day ordeal*. https://www.bellanaija.com/2026/07/oyo-kidnapped-pupils-teachers-rescued-oriire-2026/
-- Daily Trust. (2026, July 10). *Abducted Oyo pupils, teachers regain freedom after 56 days*. https://dailytrust.com/breaking-kidnapped-oyo-pupils-teachers-regain-freedom/
-- Human Rights Watch. (2026). *World report 2026: Nigeria*. https://www.hrw.org/world-report/2026/country-chapters/nigeria
-- SBM Intelligence. (2025). *Locust business: The economics of Nigeria's kidnap industry, a 2025 update*. As reported in Vanguard News, August 27, 2025. https://www.vanguardngr.com/2025/08/insecurity-4722-abductions-n2-57bn-ransom-paid-to-kidnappers-in-one-year-report/
-- Wikipedia contributors. (2026). *Oyo school kidnappings*. Wikipedia. https://en.wikipedia.org/wiki/Oyo_school_kidnappings
+* Channels Television. (2026, July 10). *Abducted Oyo pupils, teachers regain freedom: Presidency*. https://www.channelstv.com/2026/07/10/breaking-abducted-oyo-pupils-teachers-regain-freedom-presidency/
+* Channels Television. (2026, September 16). *Oyo school abduction: DSS to re arraign five suspected Ansaru terrorists over alleged involvement*. https://www.channelstv.com/2026/09/16/oyo-school-abduction-dss-to-re-arraign-five-suspected-ansaru-terrorists-over-alleged-involvement/
+* Nairametrics. (2026, August 27). *Nigerians pay N7.78 billion ransom as kidnappings surge 66%*. Reporting SBM Intelligence, *The capture of Nigeria's kidnap economy*. https://nairametrics.com/2026/08/27/nigerians-pay-n7-78-billion-ransom-as-kidnappings-surge-66/
+* News Central TV. (2026, June 6). *Oyo Muslims reject terrorists' demands in Oriire*. https://newscentraltv.com/?p=415384
+* Pulse Nigeria. (2026, July 20). *Oyo school kidnap: FG reveals identities of three suspects behind abduction of pupils, teachers*. https://www.pulse.ng/story/oyo-school-kidnap-fg-reveals-identities-of-three-suspects-behind-abduction-of-pupils-teachers-2026072008570965167
+* Sahara Reporters. (2026, June 10). *Oyo government faces backlash over fabricating terrorists' demands amid continued captivity*. https://saharareporters.com/2026/06/10/oyo-government-faces-backlash-fabricating-terrorists-demands-amid-continued-captivity
+* Sahara Reporters. (2026, September 17). *DSS re arraigns five suspected terrorists over Oyo school kidnap, defendants plead not guilty*. https://saharareporters.com/2026/09/17/dss-re-arraigns-five-suspected-terrorists-over-oyo-school-kidnap-defendants-plead-not
+* The Guardian Nigeria. (2026, July 2). *NUT suspends strike, directs Oyo teachers to resume work today*. https://guardian.ng/news/nut-suspends-strike-directs-oyo-teachers-to-resume-work-today/
+* Vanguard (via AllAfrica). (2026, July 13). *Nigeria: After 56 days in captivity our children may not return to schools, Oriire parents*. https://allafrica.com/stories/202607140537.html
+* Wikipedia contributors. (2026). *Oyo school abduction*. Wikipedia. https://en.wikipedia.org/wiki/Oyo_school_kidnappings
+
+### Translation Notices
+
+* Scripture quotations are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.

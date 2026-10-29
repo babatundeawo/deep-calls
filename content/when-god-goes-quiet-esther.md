@@ -1,259 +1,169 @@
 ---
-title: When God Goes Quiet: The Book of Esther and the Sovereignty You Cannot See
+title: When God Goes Quiet
+subtitle: The book of Esther and the sovereignty you cannot see
 category: Sovereignty
-verse: And we know that in all things God works for the good of those who love him, who have been called according to his purpose.
-verse_ref: Romans 8:28 (NIV)
+verse: On that night the king could not sleep.
+verse_ref: Esther 6:1 (ESV)
 featured: 3
+summary: The book of Esther never names God, yet its sleepless king, its forgotten record and its upside down gallows invite us to trust a hand we cannot see while we do the frightening thing in front of us.
 ---
 
-## The Book Where God Never Shows Up
+## The Night the King Could Not Sleep
 
-There is a book in your Bible where God's name does not appear. Not once. Not in passing. Not buried in a genealogy or tucked into a footnote or muttered under the breath of a minor character. No angels descend trailing fire. No audible voice splits the silence. The burning bush stays unlit. The still small voice stays still.
+Somewhere in the palace at Susa, a man is lying awake. He is the most powerful person on the face of the earth, and he cannot sleep. Nobody knows why. The book doesn't say he was ill, or troubled, or full of wine. It says only this.
 
-The book is Esther. And God is absent from every single verse of it in the same way that a master architect is absent from a finished building. The blueprints carry no signature. The walls do not quote the designer. And yet every load-bearing wall, every arch, every window placed exactly where the light needs to fall — all of it speaks of a mind that planned this long before the first stone was laid.
+> *“On that night the king could not sleep.”*
+> — Esther 6:1 (ESV)
 
-This is what theologians call divine providence. And it is one of the most disquieting, most comforting, and most difficult doctrines in the Christian faith. Not difficult because it is complex — a child can grasp it. Difficult because it demands a particular kind of trust: the trust you exercise when you cannot see, cannot hear, and cannot feel. The trust that looks at a situation unravelling at every seam and says, quietly, *He is still in this.*
+Anyone who has lain awake while the generator coughed outside, or while the phone screen lit the ceiling at three in the morning, knows how little that sentence seems to carry. A king can't sleep. It happens. And yet the whole fate of a people turns on it.
 
-If you grew up in a Pentecostal church in Lagos or Ibadan or Enugu or in the diaspora, in a church that still carried the sound and the fire of that tradition — you were probably trained to expect God to show up loud. Tongues of fire. A prophet's word so specific it makes the back of your neck prickle. The kind of prayer service that ends at four in the morning because nobody wants to stop. That encounter is real. I am not dismissing it. But Esther asks you to hold a harder question: what do you do with the God who moves in silence?
+To pass the time, the king asks for a book of records to be read to him. His attendants bring the royal chronicles and begin reading, and by what looks like pure chance they land on an entry about a plot to kill him that was foiled years earlier by a Jewish clerk called Mordecai. The king asks what reward the man received. The young men who attend him answer that nothing has been done for him (Esther 6:1 to 3).
 
-Come. Let us walk through this story together.
+That small exchange, at an hour when no one important is awake to notice, starts to unpick a plan to wipe out every Jew in the Persian Empire.
 
----
+I want to take you through how the story gets to that night, because the strangest thing about Esther sits in plain sight. The book contains no miracle. Nobody prays, at least not in so many words. And nowhere in the Hebrew text does anyone say that God did any of it.
 
-## A Queen Who Said No, and a Vacancy That Was Always the Point
+## A Book That Never Names God
 
-The story opens in Susa, the Persian capital, inside a display of excess so grotesque it reads almost like satire because it is. King Ahasuerus, whom historians identify as Xerxes I, ruler of the Achaemenid Empire from roughly 486 to 465 BC, throws a six-month party to exhibit his wealth, power, and glory to every official, noble, and military commander in the empire (Esther 1:1-4). Six months. The logic of this is not political strategy. It is the logic of insecurity. A man genuinely secure in his power does not need six months to prove it to anyone.
+The Hebrew text of Esther never names God, and that is a plain fact about the book. None of the seven Old Testament names for God occurs in it, and along with the Song of Songs it is one of only two books of the Hebrew Bible that never mention him directly (Hong Kong Baptist Theological Seminary, n.d.; Book of Esther, n.d.). The Greek versions of Esther are another matter. They carry additions that supply prayers by Mordecai and Esther and speak openly of God's intervention (Book of Esther, n.d.). Whoever wrote the Hebrew version left all that out, or never had it.
 
-The party culminates in a seven-day banquet in the palace gardens of Susa, wine flowing by royal decree without restriction, and Ahasuerus sends for Queen Vashti to display her beauty before his guests (Esther 1:10-11).
+Why? Honest scholars say they aren't sure. Benjamin Shaw, who teaches Old Testament at Reformation Bible College, put it this way when asked about the silence: "in a certain sense, none of us really knows why it doesn't" (Shaw, n.d.). He points out that other Old Testament stories, Genesis 37 among them, also get along without naming God, and that he reads Esther as a book where "God is at work behind the scenes."
 
-She refuses.
+There are other readings. Some readers have found the divine name hidden in four acrostics, formed from the first or last letters of consecutive Hebrew words, and three ancient manuscripts marked those letters in red (Book of Esther, n.d.). The Talmud plays on the Hebrew of Deuteronomy 31:18, where God says he will surely hide his face, and finds Esther's name inside the Hebrew word for hide (Book of Esther, n.d.). Whether the author meant any of that, nobody can prove. I think the acrostics are a lovely thing to know and a thin thing to build a sermon on.
 
-The text does not explain her reasons in full, and theologians have debated the precise nature of the summons for centuries. Some argue it was harmless. Others, noting the heavily inebriated atmosphere, the exclusively male gathering, and the deliberate emphasis on her physical appearance, suggest it was something far less honourable than a formal presentation. Whatever the exact nature of the request, Vashti's refusal costs her everything. The king, enraged and guided by advisors who panic that this defiance will inspire wives across the empire to stop obeying their husbands, strips her of her position (Esther 1:19-22).
+What I can say with confidence is that the silence is a feature of the book and not an accident of editing. Fasting appears in it and prayer does not (Hong Kong Baptist Theological Seminary, n.d.). Coincidence after coincidence is left sitting on the page without a label. It is as if the author wanted you, the reader, to stand in the same position as the Jews of Susa, who had no prophet and no pillar of fire and had to read their own lives with nothing but the facts in front of them.
 
-A Yoruba proverb speaks to this moment: a woman who knows her worth does not offer it to just anyone. Vashti is not the hero of this story. The narrative barely pauses on her. But her exit creates the vacancy through which God will position exactly the person He needs, exactly when He needs her.
+That is a position many Nigerian believers know. If you grew up in a church where the vigil ran until four in the morning, where a prophet's word could make the back of your neck prickle, you were taught that God shows up loudly, and sometimes he does. But anyone who has waited for a visa decision, a job, a test result or a husband has also met the other season, where the prayers go up and the sky gives back nothing you could point at. Esther was written for that season.
 
-This is the thing about providence that unsettles comfortable theology. God does not only use the righteous moments. He uses a king's wounded pride. He uses the panic of palace courtiers who were, frankly, frightened of their wives. He uses every petty human decision, every abuse of power, every act of ego — folding it all, without anyone's awareness, into a story whose ending was written before its characters were born.
+## The Queen Who Refused and the Girl Who Was Chosen
 
-> *"The king's heart is a stream of water in the hand of the Lord; he turns it wherever he will."*
-> — Proverbs 21:1 (ESV)
+The story opens in Susa, one of the Persian capitals, with a king called Ahasuerus. Modern historians usually identify him with Xerxes I, whose Persian name lies behind the Hebrew form, and who ruled the Persian Empire from 486 to 465 BC (Xerxes I, n.d.; Book of Esther, n.d.). He is the Xerxes who lost the sea battle of Salamis to the Greeks in September 480 BC. In the third year of his reign he throws a banquet for his nobles and officers that goes on for a hundred and eighty days, followed by a week of feasting for everyone in the citadel (Esther 1:3 to 5). It reads like a man showing off. A person who is quietly sure of his power doesn't need half a year to prove it.
 
----
+At the end of the week he sends for his queen, Vashti, to be brought in wearing her crown so that the guests may look at her beauty. She refuses. The text doesn't tell us why, and I would be making it up if I said I knew. What it does tell us is that the king burns with anger, his advisers panic that every wife in the empire will copy her, and Vashti is removed from her position by a law that cannot be changed (Esther 1:10 to 22).
 
-## The Orphan in the Palace and the Art of Strategic Hiddenness
+Vashti isn't the hero of the book. The narrator moves on from her fast, and the thing I notice is how petty the machinery is. A king's wounded pride, a panel of advisers who are frankly frightened of their own wives, a law that can't be taken back. Nobody in that room is serving a divine plan, and nobody thinks they are. Yet the vacancy they create is the one the story needs. But her refusal opens a vacancy, and a search begins for a new queen. Young women are collected from across the empire and put through twelve months of preparation before each is taken in to the king (Esther 2:12 to 14). Among them is a Jewish orphan named Hadassah, raised by her older cousin Mordecai, and known in the palace by her second name, Esther. Mordecai tells her to say nothing about her people (Esther 2:10). It looks like prudence, and it is also a card put face down on the table. The king prefers her to all the rest and sets the royal crown on her head (Esther 2:7, 10, 17).
 
-With the throne empty, Ahasuerus launches what can only be described as a kingdom-wide search for a replacement queen: young women gathered from every province, delivered to the palace harem, put through twelve months of beauty treatments, and presented to the king one by one. The winner keeps the crown. The others join the harem and spend the rest of their lives waiting for a summons that, for most, will never come (Esther 2:12-14).
+The dates matter here, because they show how slowly the story moves. The text puts Esther's presentation to the king in his seventh year (Esther 2:16). On the dates above, that is within a couple of years of Salamis, which is to say a king who has just been humbled by the Greeks has come home and is looking for a new queen. A modern reader might guess that God had been preparing a Jewish queen for years. The text says something smaller and more believable. A king lost a war, a queen lost her place, and a girl with no power happened to be in the right city.
 
-Into this story steps Hadassah — a Jewish orphan raised by her older cousin Mordecai after the deaths of her parents. She is of the tribe of Benjamin, one of the exiles carried from Jerusalem when Babylon came (Esther 2:5-7). In the palace, she takes a Persian name: Esther.
+Then comes a detail that is easy to read past. Mordecai, sitting near the king's gate, overhears two of the king's doorkeepers plotting to kill him. He passes the news to Esther, she passes it on to the king in Mordecai's name, the plot is checked out, the men are put to death, and the incident is written into the chronicles (Esther 2:21 to 23).
 
-Mordecai's instruction is precise: hide who you are. Tell no one you are Jewish (Esther 2:10). This is not cowardice. It is the wisdom of Joseph, who navigated Potiphar's house and Pharaoh's court without becoming Egyptian in his soul. It is the wisdom of Daniel, who served Nebuchadnezzar faithfully without surrendering his identity to Babylon. The hiddenness is not permanent. It is strategic. There is a moment coming when the hidden thing will need to be revealed, and when it is revealed, the revelation must carry maximum force.
+And then the book moves on, and the matter is forgotten. Nothing comes to Mordecai. The record goes into a store and stays there for years.
 
-Esther finds favour. With the eunuch appointed over the harem. With everyone who sees her. Finally, with the king himself who loves her above all the others and crowns her queen, holding a grand feast in her honour (Esther 2:17). The text mentions this quietly, almost without ceremony, as though God is simply marking a completed step in a plan He has been running since before Esther drew her first breath.
+## A Man Who Could Not Bear One Refusal
 
-Meanwhile, Mordecai, working near the palace gate, overhears a conspiracy. Two of the king's eunuchs, Bigthan and Teresh, are plotting to assassinate Ahasuerus. Mordecai reports it through Esther. The plot is foiled. The conspirators are executed. The incident is written into the royal chronicles and then apparently forgotten (Esther 2:21-23).
+Chapter 3 introduces Haman, whom the king promotes above all his officials, and the temperature in the book drops. All the king's servants at the gate are ordered to bow to him. Mordecai doesn't.
 
-Apparently.
+The text is brief about why. It says only that when the others asked him day after day, he told them he was a Jew (Esther 3:4). Readers have guessed at his reasons for centuries, and it's possible that Mordecai himself could not have given a tidy answer. There is a history behind the encounter, though. Haman is called an Agagite, and Agag was the Amalekite king whom Saul failed to destroy when God told him to (1 Samuel 15:8 to 9). Mordecai's family line runs back through a man called Kish (Esther 2:5), the same name Saul's father bore, and the text seems to want us to hear the echo. An old quarrel between two families may be walking around Susa in court clothes.
 
-That word will matter later.
+What Haman does next is the part that ought to alarm us. A normal offended official would want Mordecai disciplined or removed. Scapegoating works exactly like this. It takes one grievance and finds a whole category of people to carry it, and it has never needed much more than a persuasive tone and someone willing to sign. Haman looks at one man who won't bow and decides that Mordecai's whole people must go (Esther 3:5 to 6). Don't tell me that evil is only structural, a matter of poor institutions and inherited habits that better schooling will iron out. Esther 3 shows what can live in the heart of a man who has the ring, the rank and the bowing crowd, and still can't enjoy any of it because one person at the gate stays upright.
 
----
+He then goes to the king and describes this people in careful, bloodless language. They are scattered, their laws differ from everyone else's, and it does not profit the king to tolerate them (Esther 3:8). He offers silver. The king doesn't ask who they are or what they have done. He hands over his ring. Lots are cast, which is where the festival of Purim gets its name, to pick a day, and the day chosen is the thirteenth of the twelfth month, Adar (Esther 3:7, 13). On the dates the book supplies, the decree is issued in the twelfth year of the king's reign, about 474 BC, and the killing is set for March 473 BC (Book of Esther, n.d.).
 
-## The Man Who Needed the Whole World to Bow
+The couriers ride out. The king and Haman sit down to drink, and the text tells us the city of Susa was perplexed (Esther 3:15).
 
-Haman arrives in Chapter 3 and the temperature drops.
+## What Mordecai Said to a Frightened Queen
 
-He is an Agagite — a detail the original Hebrew audience would not have missed. The Agagites were descendants of Agag, king of the Amalekites, the ancient enemies of Israel. When Saul failed to destroy Agag as God had commanded (1 Samuel 15:9), he set something loose in history that refused to stay buried. Centuries later, an Agagite sits at the right hand of the most powerful ruler on earth, and a Benjaminite named Mordecai from the same tribe as Saul himself stands at the gate. History does not always repeat itself as tragedy. Sometimes it returns as a bill that was never paid.
+When the news reaches Mordecai he tears his clothes, puts on sackcloth and ashes, and goes out through the city crying aloud. Esther, inside the palace, hears of it, and the two of them begin to exchange messages through a servant. He sends her a copy of the decree and asks her to go to the king and plead for her people (Esther 4:8).
 
-The king commands all his servants at the gate to bow to Haman. Mordecai refuses. The text is quiet about his precise reasoning, but its weight is unmistakable: for a man shaped by the Torah, the prostrate reverence commanded here belongs to God alone (Exodus 20:3-5). Mordecai bows before no man the way he bows before the Lord.
+She hesitates, and I don't think we should judge her for it. She reminds Mordecai of the rule every servant of the king knows. Anyone who goes into the inner court without being summoned is put to death, unless the king holds out his golden sceptre, and she has not been called to him for thirty days (Esther 4:11). It was a rule with real teeth. Herodotus, who wrote within living memory of Xerxes' reign, tells a story about the six men who joined Darius in his coup. They were given the right to enter the king's palace unannounced, except when he was with a woman (Herodotus, 1920 to 1925, 3.84). That privilege would have meant nothing if everybody else could walk in. Esther isn't dramatising. She is counting the cost out loud.
 
-Haman notices.
+Mordecai's reply is the hinge of the whole book, and it is a strange mixture of comfort and threat.
 
-And here is where we must stop and look at what happens in a human heart when pride is wounded — because what follows is not a political calculation. It is a theological study in the architecture of evil. A reasonable man, even a deeply offended one, would have Mordecai punished. Perhaps publicly humiliated. Perhaps reassigned. But Haman does not want Mordecai punished. He wants Mordecai's entire nation erased from the earth.
+> *“Do not think to yourself that in the king’s palace you will escape any more than all the other Jews. For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father’s house will perish. And who knows whether you have not come to the kingdom for such a time as this?”*
+> — Esther 4:13 to 14 (ESV)
 
-> *"Pride goes before destruction, a haughty spirit before a fall."*
-> — Proverbs 16:18 (NIV)
+Look at what he assumes. He assumes that the people will be saved, and that the saving doesn't depend on Esther. Relief will come from another place. He doesn't say where. This is the closest the book comes to talking about God, and he still doesn't use the name. What he refuses to assume is that she will be part of it. She might sit it out, in which case she and her family will be lost along with everything else she thought she had secured.
 
-One man's refusal to bow escalates into a proposed genocide. Do not tell me that evil is merely structural. Do not tell me that sin is only systemic, a problem of inherited institutions that better education will eventually fix. Read Esther 3 and look at what lives inside a human heart that has never been submitted to God. Haman sits in the most powerful court on earth, an entire empire bowing around him, and it is not enough because one Jewish man at the gate will not bend. The man decorated with the king's ring, draped in royal honour, cannot enjoy a single day of his prosperity as long as one person refuses to worship at the altar of his importance.
+And then his last sentence is a question. Who knows? He isn't announcing that she was put there for this purpose. He is asking her to consider whether that might be so. That seems to me an honest way for a believer to speak about providence. He claims no view from heaven. The facts of your life have an arrangement to them, he says, you can't prove who arranged it, and you are now being asked to act as though somebody did.
 
-That is not a political problem. That is a spiritual one. And it has not become less common in the centuries since.
+Esther sends her answer back.
 
-Haman approaches the king with a masterpiece of manipulation. There is a certain group of people, he tells Ahasuerus, who are scattered throughout the provinces with customs different from all other peoples, who do not keep the king's laws, and it is not to the king's profit to tolerate them (Esther 3:8). He offers silver. He requests a decree. And the king, without asking who these people are or what they have done, hands Haman his ring.
-
-The edict goes out. On a date selected by casting lots — the pur, from which the festival of Purim takes its name — every Jew in every province of the Persian Empire is to be killed, and their possessions plundered.
-
-Susa is thrown into confusion. The city does not know what to do with this news. Haman sits down to drink (Esther 3:15).
-
----
-
-## For Such a Time as This and the Weight Those Words Actually Carry
-
-When the decree reaches Mordecai, he tears his clothes, puts on sackcloth and ashes, and walks through the city crying with a loud and bitter cry. When Esther hears of it, she sends a servant to find out what is wrong. Mordecai sends back the full account — a copy of the decree, a command to go to the king, a plea to beg for her people's lives (Esther 4:8).
-
-And Esther hesitates.
-
-She reminds Mordecai of the law every Persian subject understood: no one enters the king's inner court without being summoned. Not a noble. Not a minister. Not even the queen. The penalty for approaching uninvited is death, unless the king raises his golden sceptre. She has not been summoned in thirty days (Esther 4:11).
-
-Now, I want you to sit with this for a moment. Esther is not being cowardly here. She is being precise. The threat is real. The law is real. She is not dramatising. Persian court records and classical accounts, including those of Herodotus, confirm the ruthless formality of Achaemenid royal protocol. To approach uninvited was genuinely to risk one's life. Esther is not shrinking from a challenge. She is naming the obstacle clearly before she decides to walk through it anyway.
-
-Mordecai's response does not offer her comfort. It offers her clarity:
-
-> *"Do not think that because you are in the king's house you alone of all the Jews will escape. For if you remain silent at this time, relief and deliverance for the Jews will arise from another place, but you and your father's family will perish. And who knows whether you have not come to the kingdom for such a time as this?"*
-> — Esther 4:13-14 (ESV)
-
-Three things live in these two verses, and we should not rush past any of them.
-
-The first: God's purposes are not hostage to your obedience. "Relief and deliverance for the Jews will arise from another place." This is not a threat. It is a fact stated plainly, with something almost like compassion behind it. The God who set history in motion before you drew your first breath will complete His purposes. He has always completed His purposes. The only open question is whether you will be part of the story, or whether you will be a footnote in a chapter about someone else's courage.
-
-The second: your position is a calling, not merely a privilege. Esther had not fought her way to the throne. She had been chosen, prepared, and placed. The comfort of the palace was not the point of the placement. The placement was for this. This exact crisis. This exact moment. A Yoruba proverb holds this truth: as we walk, we look to where we came from. Esther needed to look back along the road from exile to orphanhood to palace and recognise that the road had a destination she had not chosen but had been given.
-
-The third: the famous phrase "for such a time as this" is a question, not a declaration. Mordecai does not announce it as established fact. He asks it. *Who knows?* This is not triumphalist certainty. This is the language of faithful discernment: I cannot prove to you that God brought you here for this moment. But I cannot look at your life and believe it was an accident. Someone placed you here. Someone arranged these circumstances. And the question now is whether you will respond to the arrangement or pretend you did not notice it.
-
-Esther's reply is the volta of the entire book. The moment the floor shifts:
-
-> *"Go, gather all the Jews to be found in Susa, and hold a fast on my behalf, and do not eat or drink for three days, night or day. I and my young women will also fast as I do. Then I will go to the king, though it is against the law, and if I perish, I perish."*
+> *“Go, gather all the Jews to be found in Susa, and hold a fast on my behalf, and do not eat or drink for three days, night or day. I and my young women will also fast as you do. Then I will go to the king, though it is against the law, and if I perish, I perish.”*
 > — Esther 4:16 (ESV)
 
-*If I perish, I perish.*
+This is where the book turns, and it is easy to miss what changes. Before this verse the story has been something that happens to people. After it, the people begin to decide. Esther has stopped managing the outcome and started offering herself to it. Three days of fasting follow, and then she puts on her royal robes and walks into the inner court, and the king holds out the sceptre (Esther 5:1 to 2).
 
-In the history of human courage, there is a short list of sentences that land like a fist on a table. Shadrach, Meshach, and Abednego telling Nebuchadnezzar that their God was able to deliver them from the furnace but that even if He did not, they still would not bow (Daniel 3:17-18). Paul writing from prison that for him to live was Christ and to die was gain (Philippians 1:21). Esther, wrapping herself in the irreversibility of her decision, walking toward a throne with nothing behind her but three days of communal fasting and the weight of an entire people on her shoulders.
+## Two Banquets and a Gallows Going Up
 
-This is what courage looks like when it has been handed to God. Not the absence of fear. Not the guarantee of survival. Not the cheerful certainty of a prosperity gospel testimony. The settled, costly conviction that obedience is its own reward, and that dying faithful is not the same thing as dying defeated.
+What she does next puzzles people. The king asks what she wants, offering her up to half the kingdom, and she answers by inviting him and Haman to dinner. At the dinner he asks again and she invites them back the next evening (Esther 5:3 to 8). The text gives no reason. Maybe she was frightened. Maybe she was testing the mood. Maybe she had learned the one thing the impatient among us find hardest to learn, which is that an open door isn't the same as a signal to speak.
 
-Three days pass. Then Esther dresses in her royal robes and walks into the inner court.
+Meanwhile Haman walks home from the first dinner feeling like the most important man in Persia, until he passes Mordecai at the gate, still not bowing. He gathers his wife and friends, lists his wealth and his honours, and confesses that none of it counts for anything while that one Jew sits at the gate (Esther 5:9 to 13). They tell him what to do, and the book records the advice in a single line.
 
-The sceptre rises (Esther 5:2).
+> *“Let a gallows fifty cubits high be made.”*
+> — Esther 5:14 (ESV)
 
-Let that land for a moment. The fast was heard. The obedience was received. Esther had walked through the door she was afraid to open, and God moved the king's heart before she could speak a single word. This is the quiet confirmation embedded inside the drama that Mordecai was right, that the placement was purposeful, that the God who goes silent is not the God who goes absent.
+A cubit was about forty five centimetres, so Haman's gallows stood nearly twenty three metres tall, about the height of a seven storey building. The Hebrew word is the ordinary word for wood, and some readers take it to mean impalement on a stake. That would fit the empire's habits. Herodotus says that Darius, once he had retaken Babylon, impaled about three thousand of its leading men (Herodotus, 1920 to 1925, 3.159). Haman is ordering something the empire already did.
 
-But Esther does something unexpected. The king asks what she wants, offering up to half the kingdom (Esther 5:3). She does not ask it. She invites him and Haman to a banquet that evening. They come. The king asks again: what is your request? Again, she does not answer. She invites them to a second banquet the following day (Esther 5:7-8).
+The night that follows is the one we began with. On one side of Susa a queen has fasted and has two dinners to get through. On the other side a man is admiring the gallows he has just had built. And between them, in the palace, a king who answers to neither of them can't sleep.
 
-Theologians have argued about her reasons for centuries. Was she afraid? Was she testing the atmosphere? Was she waiting for divine confirmation? The text offers no explanation, and perhaps none is needed. What the restraint reveals is this: Esther had surrendered her timing along with her safety. She had said *if I perish, I perish* — which meant she was no longer managing outcomes. She was simply being faithful in each moment as it came, waiting for the moment that felt right, trusting that the God who had gotten her through the door would tell her when to speak.
+The chronicles are read, the old entry about Mordecai turns up, and the attendants admit that nothing has been done for him. Then Haman walks in, early, to ask permission to hang Mordecai. The king speaks first. What should be done for a man the king wants to honour? Haman, certain the king means him, describes robes from the king's wardrobe, the king's horse and a herald crying out through the square. The king says to do all of that for Mordecai the Jew, and to leave out nothing (Esther 6:4 to 10).
 
-This is a form of faith that the impatient church has largely stopped practising. We are trained to rush the ask. To treat every open door as a mandate for immediate action. To interpret access as urgency. But Esther sits at a banquet table with the two most powerful men in her world, the decree against her people still circulating across the empire, and she chooses twice to wait.
+The text doesn't describe Haman's face. It doesn't need to.
 
-Meanwhile, on the other side of the palace gates, Haman is walking home from that first banquet feeling like the most important man alive. Exclusively invited, seated beside the king, the favourite of the queen herself. And then he sees Mordecai at the gate, still upright, still unbowed (Esther 5:9). The entire evening collapses into that one moment. He goes home, gathers his wife and friends, catalogues his wealth, his position, his honours — and then confesses that none of it means anything as long as that one man sits at the gate (Esther 5:12-13). His wife and friends advise him to build a gallows twenty-two metres high and have Mordecai hanged first thing in the morning. Haman is delighted. The wood is ordered. The gallows go up.
+At the second dinner Esther finally speaks. She is a Jew, her people have been sold, and the man behind it is sitting at the table. The secret Mordecai told her to keep is now the only card she holds, and she plays it at the one moment it can still count. The king storms out into the garden. When he comes back, Haman has thrown himself on the couch where Esther is lying to beg for his life, and the king takes it for an assault. One of the attendants mentions that a gallows fifty cubits high is standing in Haman's courtyard, and Haman is hanged on it (Esther 7:3 to 10).
 
-Evil, it turns out, is always building something. And it is always building it for someone else.
+Evil, it turns out, is always building something, and it is usually building it for someone else.
 
----
+## What the Coincidences Do Not Prove
 
-## The Night a King Could Not Sleep
+The strongest objection to everything I've said is a simple one, and a sceptic would put it fairly like this. Stories collect coincidences. A king who can't sleep, a clerk whose good deed was filed and forgotten, a convenient reading of the wrong page of the chronicle, a villain who builds his own gallows. In a long enough history, a few things line up. And in a book that never says God did any of it, why would you be the one to say so? You'd be reading your own faith into the gaps.
 
-That same night — the night after the first banquet, the night before the second, the night Haman's gallows stands freshly built in his courtyard — the king cannot sleep.
+I'd concede the logic. The author of Esther never gives you a proof, and I suspect that is deliberate. If the book had written "and God made the king sleepless," it would have given a sceptic nothing to argue about and the believer nothing to do. As it stands, the evidence is exactly as ambiguous as most of our lives are. You can read the night of Esther 6 as luck or as hand. The book simply won't take that decision away from you.
 
-Ahasuerus cannot sleep.
+But I would say two things in reply. The first is that the coincidences are not scattered. They have a direction. A queen is removed, a girl is promoted, a plot is foiled and forgotten, a refusal to bow is magnified into a decree, and the whole thing converges on one night, one entry and one reversal. A single lucky break is luck. A chain in which every link seems to bear the weight of the next one is harder to wave away. Several Old Testament narratives work this way, which is why Shaw can say that God works behind the scenes without having to read a name into the text (Shaw, n.d.).
 
-Notice what is happening in the geography of this single night. On one side of the palace, Esther is in her chambers fast finished, first banquet done, waiting for the moment to speak. She has been obedient. She has been patient. She has done everything faithfulness requires of her — and now she is holding the rest.
+The second is that Esther does not describe a world where hidden providence keeps everybody safe. The decree could not be cancelled, because Persian law didn't allow it, so a second decree was issued allowing the Jews to defend themselves (Esther 8:11). Fighting followed, and the book counts the dead on the other side, five hundred in Susa and seventy five thousand in the provinces (Esther 9:6, 16). That is a hard passage and I'm not going to tidy it. The deliverance in Esther is real and it is not clean. It comes with a battle, it takes fear, and it doesn't undo the grief of anyone who was already in the way.
 
-On the other side of the city, Haman is at home with his wife and friends, admiring the gallows he just had built.
+There is a further thing to say honestly. Mordecai's good deed was not rewarded for years. The king whose sleeplessness saved a people was himself murdered in August 465 BC by Artabanus, the captain of his own bodyguard (Xerxes I, n.d.). Nothing in Esther claims that a well placed providence makes a palace safe. Providence in this book is no guarantee that the right people stay alive. It is the claim that no decree, however irrevocable, and no villain, however well supplied, is the last word on what happens to the people of God.
 
-And in the middle, the man neither of them can control — the king cannot sleep.
+I find that more believable than the version that promises you a clean testimony by Friday. Plenty of testimonies are true and clean, and I'd never want to play them down. But many of us are living in the long stretch between the decree and the reversal, and for that stretch the church needs a book that tells the truth about waiting.
 
-This is the connective tissue the book asks you not to miss. Esther's three-day fast was not merely a private spiritual discipline. It was an act of faith that set something in motion she could not see. The people of God in Susa went without food and water for three days, not because fasting magically compels God to perform on demand, but because fasting is how the body enacts what the soul already believes: that this situation is beyond human management, that the only resource left is the one that was always sufficient. And on the other end of that fast, God reached into the night of a pagan king and held his eyelids open.
+Picture a young woman in Enugu, a scene I am inventing, though you may recognise her. She finished her degree two years ago. She has sent out applications, queued for interviews, and prayed through the nights with her mother. Her friends post their good news on WhatsApp status and she types a congratulation each time. Nothing has moved. If someone tells her that God is working all things together, she is entitled to ask for the evidence. Esther's answer is neither a slogan nor a scolding. It hands her a story in which the evidence is only visible from the far side, and then asks what a person does on the near side.
 
-He calls for the royal chronicles to be read aloud — the ancient equivalent of scrolling through documents at two in the morning because your mind will not settle — and the passage his servants read happens to be the account of Mordecai exposing the assassination plot. The king asks what honour was given to this man. His servants answer: nothing was done (Esther 6:1-3).
+## Trusting a God Who Does Not Speak
 
-Nothing was done. The record sat in the archives for years. The deed went unrewarded. From a human vantage point, it looked like a forgotten act of loyalty swallowed by the machinery of an indifferent empire. From God's vantage point, it was a loaded weapon stored in an archive, and the right moment to retrieve it had not yet come. Esther's fast opened a window. The sleepless night climbed through it.
+Paul says in Romans 8:28 that "we know that for those who love God all things work together for good." The line gets printed on mugs, and the weight of it is easy to lose that way. In Esther you can see what it looks like when it's true. Every single thing in the book works toward the deliverance, the bad things included. A king's temper, a drunken command, a villain's grudge, an insomniac night. And nobody in the book is given a way of seeing it while it happens. The people in Susa fasted and waited without knowing how it would end.
 
-Now Haman has arrived at the court early that same morning to request permission to hang Mordecai on the gallows he has already had built. The king summons him before he can speak and asks what should be done for a man the king delights to honour. Haman, confident beyond all reason that the king is speaking about him, suggests royal robes from the king's own wardrobe, the king's own horse, and a procession through the city square with a herald crying before him: "Thus shall it be done to the man whom the king delights to honour!" (Esther 6:7-9).
+That seems to be the lesson the author was after. Esther didn't wait for a sign before she walked in. She asked others to fast, she set her own life against the law, and she told them plainly that she might die. Her courage reads like the decision of a woman who has weighed the odds and chosen to act as though Mordecai's question had an answer. I think this is the sort of trust that God honours most, because it needs no proof to start.
 
-The king agrees. Then he tells Haman to do all of this for Mordecai the Jew.
+The Jews who still keep the festival of Purim have never forgotten that. This year it was kept from the evening of 2 March to 3 March, and it is still marked with the reading of the whole book of Esther, gifts of food to friends, charity to the poor and a festive meal (Hebcal, n.d.). The festival remembers a rescue that arrived without a heavenly voice, which is perhaps why the scroll is read aloud to the end every year.
 
-The text does not describe Haman's face in that moment. It does not need to.
+If you are in that kind of night, I can't promise you a king who will lose sleep on your behalf. I don't know how your story ends, and anyone who says they do should be asked for their source. But I can tell you what the book does with silence. It treats it as a room where the next faithful act still has to be done, and where someone you cannot see may be arranging more than you can count.
 
-> *"He who watches over Israel will neither slumber nor sleep."*
-> — Psalm 121:4 (NIV)
+So here is a modest thing to try. Read Esther in a single sitting this week, all ten chapters, which will take you less time than most of the videos in your phone. Don't hunt for a lesson. Just watch for the places where the author could have written God's name and left a blank. Then think of the thing in your own life that you have been waiting to see explained, and ask whether there is something in front of you that you can do while the explanation hasn't come. Esther did not know that the king would be awake. She went in anyway.
 
-There is no prophet in this scene. No angel. No dream. God reached into the king's night, held his eyelids open, and guided a servant's hand to exactly the right page of exactly the right record at exactly the right hour. No fanfare. No announcement. Just the quiet, relentless management of history by a God who was never absent from any of it.
+***
 
-He was awake in Susa while His people fasted and wept. He is awake now, in whatever city you are in, in whatever silence you are living through. The record of your faithfulness has not been forgotten. It is sitting in an archive. And the right moment to retrieve it has not yet come.
+## References
 
----
+### Biblical References
 
-## The Gallows Built for Someone Else
+* **Esther 6:1 (ESV).** The epigraph and the opening scene: the king's sleepless night, the first link in the reversal.
+* **Esther 6:1 to 3 (ESV).** The reading of the chronicles and the discovery that nothing had been done for Mordecai (6:1 quoted, 6:2 to 3 paraphrased).
+* **Esther 4:13 to 14 (ESV).** Mordecai's message to Esther, quoted in full as the hinge of the argument.
+* **Esther 4:16 (ESV).** Esther's reply, "if I perish, I perish," quoted in full as the turn from events to decision.
+* **Esther 5:14 (ESV).** "Let a gallows fifty cubits high be made," quoted in part; the height is converted at about forty five centimetres to the cubit as the ESV footnote gives.
+* **Esther 1:3 to 5 and 1:10 to 22.** The feast, Vashti's refusal and her removal (paraphrased, not quoted).
+* **Esther 2:5, 7, 10, 12 to 14, 16 to 17, 21 to 23.** Mordecai's line, Esther's background, the search for a queen, the date of her presentation and the foiled plot (paraphrased, not quoted).
+* **Esther 3:4 to 8, 13 and 15.** Mordecai's refusal, Haman's reaction, the lots, the decree and the city's confusion (paraphrased, not quoted).
+* **Esther 4:8 and 4:11.** The copy of the decree and the rule about the inner court (paraphrased, not quoted).
+* **Esther 5:1 to 13.** The sceptre raised, the two banquets and Haman's boasting (paraphrased, not quoted).
+* **Esther 6:4 to 10 and 7:3 to 10.** The honour given to Mordecai and Haman's hanging (paraphrased, not quoted).
+* **Esther 8:8, 8:11 and 9:6, 16.** The second decree and the numbers killed (paraphrased, not quoted).
+* **1 Samuel 15:8 to 9.** Agag and Saul, the background to Haman as an Agagite (paraphrased, not quoted).
+* **Romans 8:28 (ESV).** The first clause is quoted ("And we know that for those who love God all things work together for good"); the rest of the verse is not quoted.
+* **Genesis 37.** A narrative that does not name God, cited through Shaw (not quoted).
+* **Deuteronomy 31:18.** The verse about God hiding his face, cited through the Talmudic play on Esther's name (not quoted).
 
-At the second banquet, Esther reveals everything. She is Jewish. Her people have been condemned to death. The man responsible is sitting right there at the table with them (Esther 7:3-6).
+### Other Sources
 
-The king rises from his wine in fury and walks out into the palace garden. When he returns, Haman has collapsed across Esther's couch, begging for his life. To the king it looks like assault. One of the eunuchs mentions, almost in passing, the gallows Haman had built for Mordecai twenty-two metres high, standing in his own courtyard. The king needs nothing further. Haman is hanged on the gallows he built (Esther 7:9-10).
+* Book of Esther. (n.d.). In *Wikipedia*. https://en.wikipedia.org/wiki/Book_of_Esther
+* Hebcal. (n.d.). *Purim 2026*. https://hebcal.com/h/purim-2026?i=on
+* Herodotus. (1920 to 1925). *The Histories* (A. D. Godley, Trans.). Harvard University Press. Book 3, sections 84 and 159, read at https://cts.perseids.org/read/greekLit/tlg0016/tlg001/perseus-eng2/3.84.1-3.84.3 and https://cts.perseids.org/read/greekLit/tlg0016/tlg001/perseus-eng2/3.159.1-3.159.2
+* Hong Kong Baptist Theological Seminary. (n.d.). *Where is God in the book of Esther?* https://www.hkbts.edu.hk/en/?p=68424
+* Shaw, B. (n.d.). Why isn't God mentioned in the book of Esther? [Audio podcast episode]. In N. W. Bingham (Host), *Ask Ligonier*. Ligonier Ministries. https://learn.ligonier.org/podcasts/ask-ligonier/why-isnt-god-mentioned-in-the-book-of-esther
+* Xerxes I. (n.d.). In *Wikipedia*. https://en.wikipedia.org/wiki/Xerxes_I
 
-> *"Do not be deceived: God is not mocked, for whatever one sows, that will he also reap."*
-> — Galatians 6:7 (ESV)
+### Translation Notices
 
-An Igbo proverb describes this precisely: the one who lights a fire is the one it burns. Haman's pride drafted the decree. Haman's ego arranged the parade that honoured his enemy. Haman's ambition constructed the gallows that received him. At every step, God allowed the plan to proceed. He did not intervene before the gallows were built. He did not stop the decree before it was signed. He waited — not because He was indifferent, but because He was letting the rope grow long enough to catch exactly the right neck.
-
-This is the part of providence that makes us uncomfortable, particularly those of us trained in a theology where God's goodness is measured primarily by how quickly He intervenes. We want the miracle before the gallows are finished. We want the deliverance before the decree goes out. We want the sceptre raised before we have to walk through the door. And sometimes God provides exactly that. But in Esther, God's timing is later than we would have chosen, and more devastating to evil than we could have planned. The gallows were not prevented. They were repurposed.
-
----
-
-## From the Ashes of Mourning, a Festival That Still Runs
-
-The aftermath is swift and complete. Mordecai receives Haman's position and the king's signet ring (Esther 8:2). A counter-decree goes out allowing the Jews to defend themselves against any who attack them. When the appointed day arrives, they prevail. Haman's sons are executed. The Jews in Susa celebrate with feasting and gladness.
-
-Mordecai and Esther establish the festival of Purim named for the lots Haman cast to choose the date of destruction as a permanent annual celebration, marked by feasting, joy, and giving gifts to the poor (Esther 9:20-22). The festival still runs. Jewish communities around the world observe Purim to this day, reading the scroll of Esther aloud, drowning out Haman's name with noise whenever it is spoken. The story keeps being told. The rescue keeps being remembered.
-
-> *"Weeping may endure for a night, but joy comes in the morning."*
-> — Psalm 30:5 (NKJV)
-
-The night in Esther was not a single night. It was years of exile, of hiddenness, of a scattered people in a foreign empire with no prophet's voice and no temple standing, no burning cloud by day and no pillar of fire by night. No name of God written over any of it. Just ordinary people in extraordinary danger, fasting and waiting and trusting that the silence was not the same thing as abandonment.
-
-The morning came anyway. Through a queen who fasted. Through a cousin who kept records. Through a king who could not sleep. Through a gallows that turned around.
-
-It came.
-
----
-
-## What Esther Asks of You Now
-
-The Book of Esther does not demand that you be inspired. It does not require that you feel a particular emotion or arrive at a neat application point by the final chapter. It asks something harder.
-
-It asks whether you trust the God who goes quiet.
-
-Not the God who speaks every morning in a prayer journal and whispers reassurances whenever you open your Bible to a comforting psalm. Not the God who makes every circumstance make sense within a week. Not only the God of the clean testimony *I prayed on Monday and by Friday the diagnosis changed* though that God is real and those testimonies are true and they are not to be minimised.
-
-The God of Esther is the one you have to trust on the long Wednesday. When the decree has gone out and you do not have a countermeasure. When the fast has ended and you still do not know how this ends. When you are standing at the entrance to the inner court and the sceptre has not yet moved, and you have already looked at the worst possible outcome and made your peace with it.
-
-Not because the worst outcome doesn't matter. Because something matters more.
-
-That is the God this book is about. And He is asking you the same question Mordecai asked Esther, with the same gentleness and the same absolute seriousness:
-
-*Who knows whether you have not come to this place for such a time as this?*
-
-Your exile was not an accident. Your position however ordinary it looks from where you are standing, however unlikely it seemed from where you started was not random. The hiddenness you have been living through is not abandonment. The silence you have been hearing is not the sound of an empty heaven.
-
-God does not need to speak to be sovereign.
-
-He never has.
-
-The fingerprints are everywhere. You just have to know what you are looking for.
-
----
-
-## Biblical References
-
-- **Esther 1:1-22** — The opening context: Ahasuerus's feast, Vashti's refusal, and her removal, which creates the vacancy God will fill
-- **Esther 2:5-23** — Esther's background and positioning in the palace; Mordecai's exposure of the assassination plot, recorded but unrewarded
-- **Esther 3:1-15** — Haman's elevation, Mordecai's refusal to bow, and the decree ordering the death of all Jews in the empire
-- **Esther 4:1-16** — Mordecai's charge to Esther; her declaration, "If I perish, I perish"
-- **Esther 5:1-14** — Esther's approach after the fast; the sceptre rising; the strategic patience of her two-banquet delay; Haman's elation and his order to build the gallows for Mordecai
-- **Esther 6:1-13** — The king's sleepless night, the unearthed record of Mordecai's loyalty, and Haman's humiliation
-- **Esther 7:1-10** — Esther's revelation at the second banquet; Haman's execution on his own gallows
-- **Esther 8 9** — The counter-decree, the Jews' victory, and the establishment of Purim
-- **Romans 8:28** — The theological anchor of the entire article: God works all things for good for those called according to His purpose
-- **Proverbs 21:1** — The king's heart is in the Lord's hand; applied to God's sovereignty over Ahasuerus's decisions
-- **Proverbs 16:18** — Pride precedes destruction; the theological framing of Haman's character arc
-- **Psalm 121:4** — The Lord neither slumbers nor sleeps; applied to God's active, unseen management of events in Susa
-- **Psalm 30:5** — Joy comes in the morning; the closing note on the reversal from mourning to celebration
-- **Galatians 6:7** — Whatever a man sows he will reap; the theological spine of Haman's downfall
-- **Daniel 3:17-18** — Shadrach, Meshach, and Abednego's defiance; placed in parallel with Esther's "if I perish" declaration
-- **Philippians 1:21** — Paul on life and death; placed alongside Esther's irreversible decision
-- **1 Samuel 15:9** — Saul's failure to destroy Agag; provides the centuries-long backstory behind the Haman-Mordecai confrontation
-- **Exodus 20:3-5** — The commandment against other gods; grounds Mordecai's refusal to bow to Haman
-
----
-
-## External References
-
-- **Herodotus, *Histories*, Book VII** — Classical account of Xerxes I (Ahasuerus) and the Achaemenid court; provides historical grounding for Persian royal protocol and the formality of the inner court
-- **Amélie Kuhrt, *The Persian Empire: A Corpus of Sources from the Achaemenid Period* (2007)** — Academic background on Achaemenid court structure and the historical setting of Susa
-- Yoruba oral tradition: a woman who knows her worth does not offer herself to just anyone. Applied to Vashti's refusal.
-- Yoruba oral tradition: as we walk, we look to where we came from. Applied to Esther's need to recognise the purpose in her positioning.
-- Igbo oral tradition: the one who lights a fire is the one it burns. Applied to Haman's destruction by the trap he built for Mordecai.
+* Scripture quotations are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.

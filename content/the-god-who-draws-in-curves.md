@@ -1,165 +1,135 @@
 ---
 title: The God Who Draws in Curves
+subtitle: What a seventeenth century puzzle says about delay
 category: Sovereignty
-verse: Your road led through the sea, your pathway through the mighty waters a pathway no one knew was there.
-verse_ref: Psalm 77:19 (NLT)
+verse: Your way was through the sea, your path through the great waters; yet your footprints were unseen.
+verse_ref: Psalm 77:19 (ESV)
 featured: 1
+summary: A famous problem in mathematics shows that the shortest road is not always the quickest, and Scripture says the same about the roads God chooses for his people.
 ---
 
-## A Seventeenth-Century Equation and the Man Who Already Knew the Answer
+## A Challenge Posted in 1696
 
-In 1696, the Swiss mathematician Johann Bernoulli issued a challenge to the greatest minds of Europe. He called it the *brachistochrone problem* — from the Greek *brachistos*, meaning "shortest," and *chronos*, meaning "time." The question, stripped of its Latin elegance, was this: if you roll a ball from point A to point B under the force of gravity alone, what shape of track will get it there the fastest?
+In June 1696 the Swiss mathematician Johann Bernoulli printed a puzzle in the journal *Acta Eruditorum* and invited the best minds in Europe to solve it. Take two points, one higher than the other, and join them with a track. Let a bead slide down the track under gravity alone, with no friction to spoil the sums. What shape of track gets the bead from the top to the bottom in the least time? He gave the problem a Greek name, the brachistochrone, from words meaning shortest time.
 
-Every sensible person gave the sensible answer. A straight line, obviously. The shortest distance between two points is a straight line. Euclid said so. Common sense confirmed it. Surely speed and directness walk hand in hand.
+Most people who hear it give the answer you would give. A straight line. It is the shortest distance between two points, Euclid says so, and a Lagos driver who has never opened Euclid will tell you the same. Surely the shortest road is the quickest.
 
-They do not.
+It isn't.
 
-The actual answer — proved independently by Leibniz, Newton, and the Bernoulli brothers themselves — is a curve. Specifically, a cycloid: the arc traced by a point on the rim of a rolling wheel. The ball released along this curve accelerates quickly in the early descent, builds velocity it would not have gathered on a flat path, and arrives at the destination faster than the ball that took the straight road. The curved path is the fastest path. Geometry, as it turns out, has a sense of humour.
+Galileo had half seen this already. According to the St Andrews history of the problem, he showed in 1638 that a path bent into two straight pieces can beat the straight line from the same start to the same finish. Then he overreached and decided the very quickest path must be a circular arc. He was wrong. The true answer, the one Bernoulli was fishing for, is the cycloid, the curve traced by a point on the rim of a rolling wheel.
 
-I want to suggest to you that God has known this since before Bernoulli was born.
+Bernoulli had planned to give six months, and Leibniz persuaded him to allow longer, so the deadline was stretched to Easter 1697. Isaac Newton heard about the puzzle at four in the afternoon on 29 January 1697, by the usual account, and had finished by four the next morning. He sent his solution in without his name. It was printed anonymously in the *Philosophical Transactions* of the Royal Society, and Bernoulli is said to have known the author at once, as one knows a lion by its claw. Jakob Bernoulli, Leibniz, Ehrenfried von Tschirnhaus and the Marquis de l'Hôpital also answered, and Johann, who had set the puzzle, reportedly needed about two weeks for his own solution. That made five solutions in all.
 
----
+I have lingered on the history because it is a good story, but the story is not why it matters. The Bible has been saying something very like this about roads for far longer than mathematics has.
 
-## The Route God Did Not Take
+## Why the Straight Line Loses
 
-The Israelites had just watched the most powerful nation on earth drown in the Red Sea. Pharaoh's chariots, his officers, his horses gone. The water closed over them like a curtain drawn across an embarrassment. Four hundred and thirty years of bondage, ended in a night.
+The cycloid wins because of what happens at the start. It drops steeply at first, so the bead picks up speed early, and then it carries that speed across the flatter stretch that follows. The straight track is shorter, but the bead on it spends too long going slowly. Distance was never the only thing that counted. Speed along the way counts too, and the curve is built to buy speed early and spend it later.
 
-Canaan was waiting. It was not far. The most direct road from Egypt to the Promised Land — the coastal highway, the ancient road the Egyptians themselves called the *Way of Horus* — would have brought the people there in eleven days. Eleven days. You can walk it in a fortnight on tired feet.
+Anyone who has driven from Ibadan to Lagos on a Friday evening knows a version of this. There is always a driver who leaves the expressway for a side road because it looks shorter on the map, and who is not seen again until you are home. The shortest line on the map and the quickest line through the traffic are two different lines.
 
-God looked at that road and chose a different one.
+I want to suggest that God knows this about the roads he sets in front of us, and that a good deal of our praying is a request for the straight line.
 
-> *"When Pharaoh let the people go, God did not lead them on the road through the Philistine country, though that was shorter. For God said, 'If they face war, they may change their minds and return to Egypt.' So God led the people around by the desert road toward the Red Sea."*
-> — Exodus 13:17-18 (NIV)
+## God Chose the Longer Road to Canaan
 
-Read that passage slowly, because it does something uncomfortable. It does not say God was unaware of the shorter road. It says He saw it and deliberately turned away from it. He looked at the straight line and chose the curve. He looked at eleven days and chose forty years. And He explained why, with a pastoral directness that should unsettle every Christian who has ever prayed for the fast route: because the short road would have broken them.
+Look at what happens as Israel leaves Egypt. There was a direct way into Canaan. Archaeologists call it the Way of Horus, an ancient road lined with Egyptian military fortresses that connected Egypt and Canaan (Windle, 2022). Scripture's name for it is the way of the land of the Philistines. And here is what the text says about the choice.
 
-They were not ready for what was on the straight path. The Philistines were not a footnote; they were a military power, and a people who had known nothing but slavery for four centuries were not equipped for that confrontation on day three of their freedom. God, who is not merely omniscient but wise — and there is a difference — understood that the direct path was not the fastest path to where He was actually taking them. The destination was not just Canaan. The destination was a people. And people, unlike balls on a frictionless track, require formation before they can receive what they are being formed for.
+> *"When Pharaoh let the people go, God did not lead them by way of the land of the Philistines, although that was near. For God said, 'Lest the people change their minds when they see war and return to Egypt.' But God led the people around by the way of the wilderness toward the Red Sea."*
+> — Exodus 13:17 to 18 (ESV)
 
-The wilderness was not the detour. The wilderness was the route.
+Notice what the verse does not say. It does not say God overlooked the near road. It says he saw it, called it near, and still turned the people away from it, because he knew what they would do at the first sign of a fight. A people who had spent centuries as slaves were not ready to meet a war on their third day of freedom, and God, who is wise as well as all knowing, preferred a road that would form them to a road that would only shorten them.
 
----
+And the road he chose ran straight into the sea. The crossing of the Red Sea, in the very next chapters, was not an obstacle placed on the route. It was the route. The psalmist remembers it this way.
 
-## Joseph and the Algorithm Nobody Prayed For
+> *"Your way was through the sea, your path through the great waters; yet your footprints were unseen."*
+> — Psalm 77:19 (ESV)
 
-If you had told Joseph, at the age of seventeen, that his brachistochrone ran through the bottom of a cistern, through the slave markets of Egypt, through the house of Potiphar, through the prison of Pharaoh, and through several years of patient, unrewarded faithfulness before arriving at the throne room he would have asked you to leave. Respectfully, but firmly. He would have shown you the coat his father gave him and pointed out that this was not the attire of a man being prepared for a pit.
+Nobody on the shore could see a path in the water. It was there all the same.
 
-We know the story so well that we have lost the ability to feel it. Thirteen years. From the pit to the palace, the commentators say breezily, as though thirteen years is a comma in a sentence rather than the whole of an adolescence and the first decade of adulthood. Thirteen years of watching the straight path recede. Thirteen years of being excellent — and this is the part that really stings — and having that excellence produce, for a long time, absolutely nothing that looked like progress.
+I should be honest about the limits of the comparison. The wilderness didn't cure Israel. When they reached the edge of Canaan a generation later, ten of the twelve scouts brought back a report of fear, and the forty years that followed are tied in the Book of Numbers to that refusal. The long road was not a guarantee that everyone on it would grow. It was a road on which growth was possible, which is a different thing, and the text offers more than one reason for the wilderness years. But the first choice, at the start, was a deliberate one. God picked the curve over the line on purpose.
 
-And yet.
+## Thirteen Years Between the Pit and the Palace
 
-> *"You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives."*
-> — Genesis 50:20 (NIV)
+If you had told Joseph at seventeen that his road to the throne room ran through a dry cistern, a slave market, a steward's house and a prison, he would have asked you to leave. Politely, perhaps. He would have pointed at his father's coat.
 
-That single verse contains an entire theology of curved paths. Not: God permitted the harm. Not: God watched helplessly as bad things happened to a good man and then scrambled to make something out of the wreckage. The Hebrew word translated "intended" is the same word *chashav* used for both Joseph's brothers and for God. They plotted. God also plotted. The same events, two entirely different purposes, one sovereign trajectory. What looked from inside the story like abandonment was, from above the story, architecture.
+Genesis tells us he was seventeen when his brothers turned on him, and thirty when he stood before Pharaoh. That is thirteen years. We tell the story in a few minutes and so we feel nothing of it. Thirteen years is the whole of a young man's twenties and the end of his teens, and for a long stretch of it the only visible result of his faithfulness was another locked door.
 
-The pit was not an interruption of Joseph's calling. The pit was the first room of it.
+When the road finally arrived somewhere, Joseph read it back to his brothers in one sentence.
 
----
+> *"As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today."*
+> — Genesis 50:20 (ESV)
 
-## What Our Churches Told Us Instead
+The Hebrew behind "meant" is the same verb in both halves of the sentence. The brothers planned something and God planned something, over the same events, and the second plan was the one that stood. Joseph does not say the brothers were innocent, and he does not say the pit was pleasant. He says the pit was inside a larger design, and that he can see it now only because the road is behind him.
 
-There is a theology that has taken root across the Pentecostal landscape of West Africa and spread, via satellite and streaming, to diaspora churches from Peckham to Peachtree City that treats the curved path as a spiritual malfunction. It goes by several names: the anointing of acceleration, the grace of divine speed, the breaking of delays and hindrances. The vocabulary is vigorous. The promise is essentially Bernoulli's instinct before his calculation: the straight line is fastest. Pray hard enough, sow deep enough, confess boldly enough, and God will flatten your curves.
+## Seventy Years in Babylon
 
-It is a seductive theology because it is partly true. God does intervene. God does accelerate. God did, in fact, shorten some journeys and straighten some roads. The Bible is full of sudden reversals, instantaneous healings, Jericho walls that fell in a week. Miracles are real. I am not arguing against miracles.
+Most of us have met a famous sentence from the book of Jeremiah on a mug or a graduation card, the one about plans for welfare, a future and a hope. The sentence is true. It is also part of a letter written to people who had just been marched to Babylon, and the verse just before it sets the timetable.
 
-I am arguing against the theology that makes the absence of a miracle into evidence of a deficiency in the believer. Because that theology produces a particular kind of damage: it trains people to misread their own lives. It tells them that the curve is the enemy. It makes the wilderness feel like punishment. It turns thirteen years of Joseph's formation into thirteen years of Joseph's failure. And it produces, eventually, people who have prayed themselves into exhaustion over a delay that was never a delay — it was the route.
+> *"For thus says the Lord: When seventy years are completed for Babylon, I will visit you, and I will fulfill to you my promise and bring you back to this place."*
+> — Jeremiah 29:10 (ESV)
 
-A West African proverb puts it plainly: the eye of the road does not see as deeply as the inner eye. What is visible to us from inside the journey is not the whole picture. What looks like the long way around is sometimes the only way through.
+Seventy years. Many of the people who first read that letter would not live to see the end of it. God's plan for their welfare ran through a long exile in a foreign empire, and the letter itself told them to settle in and build, which is not what anyone says to a people expecting rescue by Friday. In the next verse the promise of a future and a hope is made to people who would have to wait for it across a generation. The line from the mug is still there, but it has a long road attached to it.
 
----
+## What Some Churches Promise Instead
 
-## The Passage Everyone Quotes and Almost Nobody Finishes Reading
+There is a stream of Pentecostal teaching in West Africa, and in the diaspora churches that watch it by satellite and stream, that treats the curved road as a malfunction. I should say what it gets right before I say what it gets wrong. Its strongest case goes like this. The Bible is full of sudden reversals. Walls fell at Jericho, the sick were healed in a moment, a widow's jar did not run dry. People in Nigeria are tired of being told that poverty is a form of holiness, and a gospel that tells them God wants them to flourish is a relief to a person who is watching the price of garri go up. The anthropologist Daniel Jordan Smith, writing on the Nigerian prosperity churches, notes that members credit them with practical gains such as business opportunities, school admissions and housing (Smith, 2021b). That should not be waved away.
 
-> *"For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."*
-> — Jeremiah 29:11 (NIV)
+The scale of the belief is also real. Christianity Today reported in 2007 on a Pew Forum survey from 2006 in which 95 percent of Nigerian Pentecostals agreed that God will grant material prosperity to all believers who have enough faith (Christianity Today, 2007). I have not found a more recent figure that I can verify, so I leave that one as a snapshot of what was already widely believed.
 
-This verse has been cross-stitched onto more cushions than any other passage in the Old Testament. It appears on mugs, on graduation cards, on the bio sections of Christian Instagram accounts. It is the theological equivalent of a warm handshake everyone loves it, nobody argues with it, and very few people read what comes immediately before it.
+My quarrel is with one inference. If God gives prosperity to people who have enough faith, then the person who is still waiting must not have enough. Delay becomes evidence against the believer. And Joseph's thirteen years, Israel's wilderness and Judah's seventy years all become, by that logic, a record of people who failed to pray hard enough. Smith has described a related puzzle in his own work. These churches voice real anger at government corruption, he writes, while also offering what he calls "divine justification for the pursuit and accumulation of wealth" (Smith, 2021a). A theology that sorts people into the blessed and the insufficiently faithful will do that sorting wherever it finds them, including on the platform.
 
-What comes before it is this:
+I am not arguing against miracles. God does shorten roads. What I won't accept is a theology that reads every long road as a punishment, because it teaches people to misread their own lives. It tells the believer in her third year of waiting that something is wrong with her, when the Bible would have told her that something is being done in her.
 
-> *"This is what the Lord says: 'When seventy years are completed for Babylon, I will come to you and fulfil my good promise to bring you back to this place.'"*
-> — Jeremiah 29:10 (NIV)
+## The Cross Was the Route All Along
 
-Seventy years. God's plan to prosper them ran through seventy years of exile in a foreign empire. The hope and the future were real. The prosperity was genuine. And the path to it was long enough that most of the people who heard the original promise would not live to see its fulfilment. God was writing a brachistochrone across generations.
+If you want the ultimate case of God declining the straight road, leave Joseph and Moses and go to Calvary.
 
-Jeremiah 29:11 without Jeremiah 29:10 is a fortune cookie. With it, it is a theology of perseverance.
+The incarnation is already a curve. The one who spoke the world into being came into it as an infant, in a province of the Roman Empire, to a young woman from a town people made jokes about. He could have arrived differently, and didn't. He chose to come small.
 
----
+And then he told his disciples where it was going.
 
-## The Fastest Road Has Always Run Through the Cross
+> *"Far be it from you, Lord! This shall never happen to you."*
+> — Matthew 16:22 (ESV)
 
-Here is where the argument turns.
+That is Peter, and I do not read it as cowardice. It is logic. Kings do not take their thrones by way of a Roman execution. The cross looked to Peter exactly as the curved track looked to Bernoulli's readers, like the wrong answer. A moment later Jesus told him, in the same passage, that he was thinking the thoughts of men rather than of God.
 
-If you want the ultimate example of a God who refuses the straight path, do not go to Joseph. Do not go to Moses. Go to Golgotha.
+The resurrection wasn't a recovery from the cross. It was where the cross had been pointed from the beginning. Three days inside the worst thing that ever happened turned out to be the quickest way to the best thing ever offered, because there was no other road by which sin could be answered and death defeated. God did not take a detour through the cross. The cross was the road.
 
-The incarnation itself is a curve. The God who spoke existence into being from outside of time chose to enter time as an infant, in a province of the Roman Empire, to a teenage girl in a town nobody had heard of. He could have arrived differently. He could have descended in glory, suspended over Jerusalem, announcing Himself in a way that required no faith and left no room for doubt. He did not. He came small. He came curved.
+## Living on the Curve You Are On
 
-And then He went to the cross. And His disciples, who had followed Him for three years, watching the lame walk and the dead rise and the bread multiply — His disciples looked at the cross and saw the same thing Bernoulli's contemporaries saw in the curved track. They saw the wrong answer. They saw defeat. Peter had made his opinion on the subject plain: *"Never, Lord! This shall never happen to you!"* (Matthew 16:22, NIV). He was not being cowardly. He was being logical. This is not the path. This is not how kings take their thrones. This is the wrong road.
+So you are in a season that does not look like progress. A prayer you have prayed for three years has not produced what you asked. The job that should have come has not come, and neither has the result, or the visa, or the marriage, or the healing. The thing you can see clearly at the end of the road keeps curving away from you.
 
-> *"For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God."*
-> — 1 Corinthians 1:18 (NIV)
+I won't tell you that nothing is wrong. Some bends in a Nigerian road are the work of providence, and some are the work of a contractor who was paid and did not finish. Not every delay is a design, and a person who treats every closed door as a divine lesson will sometimes sit in a bad situation far too long. Ask for wisdom. Ask a friend who loves you whether you are being formed or simply stuck.
 
-The cross is the ultimate brachistochrone. It is the path that looks, to every human instinct and calculation, like the slowest and most catastrophic possible route — and it turns out to be the only route by which the sin of the whole world could be atoned for, death could be defeated, and the kingdom of God could be established on the earth. The resurrection was not a recovery from the cross. The resurrection was the destination the cross was always aimed at. Three days inside the worst thing that had ever happened was the fastest path to the best thing that has ever been offered.
+But if you have asked, and nothing in the road is your own doing, then consider what James says about trials of many kinds, that the testing of faith produces steadfastness and that steadfastness has its full effect so that you may be complete. That is the destination he names, and no straight track reaches it, because the straight track does not run through the places where it is made. Paul, writing in chains, put it in a sentence I will quote only in part, because I could not honestly stretch it further. For those who love God, he wrote, "all things work together for good" (Romans 8:28, ESV). The good is real, and it is promised to a particular people, and it is promised over all things, including the bends.
 
-God did not take a detour through the cross. The cross was always the route.
+The bead on Bernoulli's curve is not lost when it drops steeply. It is gathering something it will need further down.
 
----
+So here is something to try tonight. Write out the prayer you have been praying, in the words you actually use. Under it, list what this road has already put into you that the short road would not have, the skill you were forced to learn, the friend who stayed, the habit of praying when nothing was moving. Then read the page to someone who knows you. You may still want the straight road, and God doesn't mind you asking for it. He might simply want to show you what the long one has been building while you were looking the other way.
 
-## What You Do With the Curve You Are Currently On
+***
 
-So you are in a season that does not look like progress. The prayer you have been praying for three years has not yet produced what you were expecting. The career that should have arrived by now has not arrived. The relationship, the healing, the breakthrough — the thing you can see clearly from a distance but cannot seem to reach — remains at the end of a road that keeps curving away from you.
+## References
 
-I am not going to tell you that God is not with you. I am not going to tell you that the delay is simply to be endured. What I want to offer you is more uncomfortable than comfort, and ultimately more useful: the possibility that you are not delayed. The possibility that the curve you are on is precisely the curve you need to be on to arrive at the destination God has prepared, with the character and the capacity to inhabit it.
+### Biblical References
 
-James puts it plainly, without the softening that we might prefer:
+* **Psalm 77:19 (ESV).** The epigraph, and the picture in the body of a road through the sea that no one on the shore could see.
+* **Exodus 13:17 to 18 (ESV).** The central text: God deliberately turns Israel from the near road to the longer one, and gives his reason.
+* **Genesis 50:20 (ESV).** Joseph's own reading of his thirteen years; the same Hebrew verb is used of the brothers' intention and of God's.
+* **Jeremiah 29:10 (ESV).** The timetable of seventy years that stands beside the better known promise in the next verse; the letter was sent to exiles.
+* **Matthew 16:22 (ESV).** Peter's protest against the cross, the natural reaction to a road that looks wrong.
+* **Romans 8:28 (ESV).** Quoted in part only, as the promise to those who love God that all things work together for good.
+* **Numbers 13 and 14; Genesis 37:2 and 41:46; James 1:2 to 4; Matthew 16:23.** Referred to without direct quotation, for Israel's refusal at the border, Joseph's ages, the purpose of trials, and Jesus' reply to Peter.
 
-> *"Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything."*
-> — James 1:2-4 (NIV)
+### Other Sources
 
-Mature and complete. Not lacking anything. That is the destination. And it is not reached by the straight path because the straight path does not go through the trials that produce perseverance, and perseverance is not optional equipment. It is load-bearing structure.
+* Brachistochrone curve. (n.d.). In *Wikipedia*. https://en.wikipedia.org/wiki/Brachistochrone_curve
+* Christianity Today. (2007, July). *Gospel riches*. https://christianitytoday.com/2007/07/gospel-riches
+* MacTutor History of Mathematics Archive. (n.d.). *The brachistochrone problem*. University of St Andrews. https://mathshistory.st-andrews.ac.uk/HistTopics/Brachistochrone
+* Smith, D. J. (2021a). The Pentecostal prosperity gospel in Nigeria: Paradoxes of corruption and inequality. *The Journal of Modern African Studies, 59*(1), 103–122. https://doi.org/10.1017/S0022278X2000066X
+* Smith, D. J. (2021b, May 26). *Nigeria's prosperity gospel: Pentecostal churches may reinforce inequalities and corruption*. Africa at LSE. https://blogs.lse.ac.uk/africaatlse/2021/05/26/nigeria-prosperity-gospel-pentecostal-churches-may-reinforce-inequalities-corruption
+* Windle, B. (2022, March 8). *Ancient wells discovered along the Horus Road through the Sinai*. Associates for Biblical Research. https://biblearchaeology.org/ancient-wells-discovered-along-the-horus-road-through-the-sinai/
 
-An Igbo proverb says: he who brings kola brings life. The kola nut, before it reaches the elder's hand, has been carried a distance. It is not the arrival that gives it meaning — it is the carrying. There is something in the journey itself that makes the offering what it is.
+### Translation Notices
 
-You are being carried. Not abandoned. Carried.
-
----
-
-## Trust the Mathematician
-
-Bernoulli's curve works because of a principle that is not immediately visible to the eye: the ball accelerates early, gains velocity, and uses that stored momentum to cover the remaining distance faster than the ball that took the flat road. The curve front-loads something that pays off later. What looks like the long way is actually the optimised way.
-
-This is what Paul meant when he wrote, from inside his own brachistochrone — chains on his wrists, Roman prison around him, his missionary journeys interrupted, his plans rerouted, the straight path to the churches he loved blocked by imperial whim:
-
-> *"And we know that in all things God works for the good of those who love him, who have been called according to his purpose."*
-> — Romans 8:28 (NIV)
-
-Not some things. All things. The pit and the palace. The Philistine road not taken and the forty years of wilderness chosen instead. The exile and the prophecy that ran seventy years beyond the people who first heard it. The cross that the disciples wept over on Friday and could not explain on Saturday and only understood on Sunday.
-
-All things.
-
-There is a God who has been drawing in curves since before time began. He is not lost. He has not made a mistake with your life. He is not scrambling to recover something He dropped. He is the one who looked at the straight line, understood it better than you ever will, and chose the curve instead because He is not only omniscient but wise, and wisdom knows that the fastest path to who you are supposed to become does not run through the road that looks shortest from where you are standing.
-
-The brachistochrone is His signature. The curve is His design.
-
-Trust the Mathematician.
-
----
-
-## Biblical References
-
-- **Psalm 77:19** — Used as the opening epigraph; God's pathway through the sea as the archetype of the route that is invisible until it is behind you.
-- **Exodus 13:17-18** — The foundational text of the article; God's deliberate choice of the longer road for Israel to protect their formation before their confrontation.
-- **Genesis 50:20** — Joseph's summary of his own brachistochrone; the pivot verse on which the article's theology of providence turns.
-- **Jeremiah 29:10-11** — Cited in full to restore the verse most commonly used in isolation; the seventy years of exile that precede the famous promise reframe the promise entirely.
-- **Matthew 16:22** — Peter's protest against the cross as the human instinct that reads the curved path as the wrong path.
-- **1 Corinthians 1:18** — Paul on the cross as foolishness to those who cannot read the curve; the cross as the ultimate brachistochrone.
-- **James 1:2-4** — The theological warrant for the formation that happens on the curved path; trials producing perseverance, perseverance producing maturity.
-- **Romans 8:28** — The doxological conclusion; all things working together as the promise that the curve is not an accident but a design.
-
----
-
-## External Sources and Notes
-
-- **Johann Bernoulli**, *Problema Novum* (1696) — The original brachistochrone challenge, posed to European mathematicians; the historical anchor of the article's central metaphor.
-- West African proverb: the eye of the road does not see as deeply as the inner eye. Used to ground the epistemological humility required when reading one's own season of life.
-- Igbo proverb: he who brings kola brings life. Used to affirm the meaning carried within the journey itself, not only at its destination.
+* Scripture quotations are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.

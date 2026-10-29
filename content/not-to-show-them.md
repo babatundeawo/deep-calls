@@ -1,167 +1,128 @@
 ---
 title: God Did Not Raise You So You Could Show Them
 category: Grace & Identity
-verse: Do not say, 'I'll pay you back for this wrong!' Wait for the LORD, and he will avenge you.
-verse_ref: Proverbs 20:22 (NIV)
+verse: Do not say, “I will repay evil”; wait for the LORD, and he will deliver you.
+verse_ref: Proverbs 20:22 (ESV)
+summary: A prayer point that asks God to raise us above those who disgraced us is examined against the angry psalms, the table of Psalm 23, and the lives of Joseph and David.
 ---
 
-## The Prayer That Started an Argument in My Head
+## The Prayer Point That Brought the House Down
 
-Someone once raised a prayer point at a vigil — the kind of vigil where the fluorescent lights are too bright and the plastic chairs have been defeating spines since 1997 — and the prayer point went something like this: *"Everywhere I have been disgraced, Lord, raise me up to become their leader."*
+Picture a vigil. The fluorescent tubes are too bright, the plastic chairs have been defeating spines since before the choir was formed, and the leader has just announced the next prayer point. *Everywhere I have been disgraced, Lord, raise me up to become their leader.*
 
-The congregation thundered. People wept. Feet stamped the ground with the particular fervour of people who have a list, and the list is long, and everybody on the list is about to hear about themselves.
+The room answers at once. Feet stamp. Somebody near the front is weeping, and she is not weeping for the kingdom of God. She is weeping because she has a list, the list is long, and everyone on it is about to hear about themselves. Anyone who has spent enough nights at Nigerian prayer meetings knows this scene, or one very like it. Under all that noise, a small cold question is waiting for someone to ask it.
 
-I did not thunder. I sat there with a slow, uncomfortable question forming in my chest, the kind you can't shake off by singing another chorus. The question was this: when we pray for elevation, what exactly are we asking for? Are we asking for the kingdom to advance, for lives to be served, for God's purposes to be fulfilled — or are we asking for a front-row seat at the humiliation of everyone who ever doubted us?
+What exactly are we asking for?
 
-Because those are two very different prayers. And God, who reads the fine print of every human heart, knows which one you are actually praying, even when the words sound identical.
+It could be that we are asking for the work of God to go forward and for the people in our care to be served. It could also be that we are asking for a front row seat at the humiliation of everyone who ever doubted us. The two prayers can use identical words, and the congregation will shout them with identical volume. God, who hears what sits under the words, knows which one is being prayed.
 
----
+Before going further, though, the angry person deserves a fair hearing. Most people who pray that prayer have been genuinely wronged.
 
-## A Boy Who Could Have Made It About Himself
+## What the Angry Psalms Are Actually For
 
-Let us go to Bethlehem, to the house of Jesse, on the day that changed everything.
+Whoever has been lied about, sacked unfairly, cheated of an inheritance or humiliated in front of the whole village doesn't need a lecture on turning the other cheek. Not first, anyway. They need to know that the Bible has room for their rage, and it does. Scripture doesn't tidy up the grief of wronged people for polite company.
 
-Samuel has arrived. The prophet is in the building. Jesse, knowing what prophets mean when they show up unannounced with a horn of oil, has assembled his sons — his real sons, the ones worth assembling. Seven of them, broad-shouldered and present, each one looking more like a king than the last.
+Consider the psalm written by exiles beside the rivers of Babylon, people who had watched their city burn and their children die.
 
-> *"When they arrived, Samuel saw Eliab and thought, 'Surely the LORD's anointed stands here before the LORD.' But the LORD said to Samuel, 'Do not consider his appearance or his height, for I have rejected him. The LORD does not look at the things people look at. People look at the outward appearance, but the LORD looks at the heart.'"*
-> — 1 Samuel 16:6-7 (NIV)
+> *“O daughter of Babylon, doomed to be destroyed, blessed shall he be who repays you with what you have done to us! Blessed shall he be who takes your little ones and dashes them against the rock!”*
+> — Psalm 137:8 and 9 (ESV)
 
-Seven sons. Seven rejections. And then Samuel, presumably with the pastoral grace of a man who has been standing in this field for a while now, asks Jesse: is this all of them?
+Nobody reads that aloud on a Sunday morning if they can help it. Yet it sits in the Bible, uncensored, and it is there on purpose. Psalm 94 opens with the same cry in cleaner language (“O LORD, God of vengeance, O God of vengeance, shine forth!”), and it ends its first three verses with a question that every oppressed person has asked: *how long shall the wicked exult?* Even in the last book of the Bible, the martyrs under the altar cry out in the voice of the Psalter.
 
-Is this all of them.
+> *“O Sovereign Lord, holy and true, how long before you will judge and avenge our blood on those who dwell on the earth?”*
+> — Revelation 6:10 (ESV)
 
-Jesse's answer is one of the most quietly devastating sentences in Scripture: *"There is still the youngest, but he is tending the sheep."* The Hebrew carries a faint note of dismissal that no translation fully captures. There is still the youngest. As in: there is one more, but I did not think to bring him. As in: I have a son, and I did not consider him worth including in the line-up. The father who did not call his youngest son when a prophet came to anoint a king.
+So the question is not whether Christians are allowed to want justice. They are. Erich Zenger, the German Old Testament scholar, argued in *A God of Vengeance?* that these psalms are best read as laments, the honest speech of people suffering violence, and he thought they still have a place in how believers pray. Miroslav Volf came at the same ground from the wreckage of the war in the former Yugoslavia. His argument, as I read it, is that a person can only give up violence if they believe God will deal with violence himself. A God who did not mind injustice would be a God not worth worshipping, and someone who gave up revenge without believing that would simply be giving up on justice. Volf's own hard remark was that the idea comes easily in a quiet suburban house and badly in a land soaked with innocent blood.
 
-David was forgotten before he was famous. His own family had written the footnote on him before God had written the title.
+Nigerians don't need the point explained. After military rule ended, President Olusegun Obasanjo set up a panel under the retired Supreme Court justice Chukwudifu Oputa to hear what had been done to people between 1966 and 1999. The commission finished in 2002. Its report was never officially published, and it was a coalition of pressure groups, the Civil Society Forum, that released it in January 2005. If you are a family that stood in that queue to testify, you will understand why a country gets hungry for someone, anyone, to say that the wicked will not simply win.
 
-> *"So he sent for him and had him brought in. He was glowing with health and had a fine appearance and handsome features. Then the LORD said, 'Rise and anoint him; this is the one.'"*
-> — 1 Samuel 16:12 (NIV)
+## Two Men Who Could Have Settled Scores
 
-What nobody talks about enough is what David did with this moment. He did not walk back into that room and arrange his face into the particular expression of a man who has been vindicated. He did not glance at Eliab — the tall one, the obvious one, the one Samuel himself had nearly anointed by mistake — with the satisfaction of someone whose score has just been settled.
+The psalmists, however, do something the vigil prayer does not. They hand the case to God and leave the room. The cry is addressed to the judge, and the sentence is left in his hands. The vigil prayer asks God to promote the plaintiff so that the plaintiff can deliver the sentence in person.
 
-He went back to the sheep. He killed a lion. He killed a bear. He practiced his sling. He wrote psalms in the dark. He kept doing the thing he was doing, except now the Spirit of the Lord was upon him in power, and Saul was on the throne above him, and the road between where he stood and where God had said he was going was going to be longer and stranger and bloodier than anyone could have predicted.
+Take Joseph, since he is the man everyone reaches for. He was seventeen when his brothers threw him into a pit at Dothan, and the story does not spare us the picture of them sitting down to eat while he was in it. Slavery followed in the house of Potiphar, then a prison term he did not earn because a powerful man's wife lied, then two full years in which a cupbearer he had helped simply forgot him. If any man in the Bible had earned a revenge fantasy, it was Joseph.
 
-David did not use his anointing as a weapon against the people who had overlooked him. He used it as a responsibility before the God who had chosen him.
+Yet when Pharaoh needed a dream explained and Joseph was finally brought up from the cell, he did not say *watch me*. He said, as far as the story tells it, that the answer would come from God. And the end of the story, when his brothers were frightened and entirely in his power, is the strangest part.
 
----
+> *“Do not fear, for am I in the place of God? As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today.”*
+> — Genesis 50:19 and 20 (ESV)
 
-## The Man in the Pit Who Became the Man in the Palace
+Am I in the place of God? Joseph never claims the evil was small, or tells his brothers it was nothing. He names it. *You meant evil against me.* What he refuses is the judge's chair. The famine ran for seven years, and the grain stored in the good years fed Egypt and the families around it. His elevation had a purpose, and the purpose was bread.
 
-Joseph's story is almost too much. It reads like something a first-year theology student would invent to make a point about providence, except it actually happened, and the details are too specific and too brutal for anyone to have invented them for comfort.
+David's story begins from the same insult. When Samuel came to Jesse's house to anoint a king, the family lined up seven sons and, by the account in 1 Samuel 16, left the youngest out with the sheep. God's word to Samuel that day is worth keeping close.
 
-He is seventeen. His father loves him in the demonstrative, slightly unwise way that fathers sometimes love a favourite child — the coat is famous, but the favouritism behind it was the kindling. His brothers hate him. They hate him for his dreams, for his father's affection, for the particular quality of his presence that makes them feel smaller just by standing next to him. And one day, out in the fields at Dothan, they throw him into a pit.
+> *“For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart.”*
+> — 1 Samuel 16:7 (ESV)
 
-> *"So when Joseph came to his brothers, they stripped him of his robe — the ornate robe he was wearing — and they took him and threw him into the cistern. The cistern was empty; there was no water in it."*
-> — Genesis 37:23-24 (NIV)
+David was anointed in front of his brothers, and the next thing the narrative shows him doing is carrying on with ordinary work. When he later talked himself into a fight with Goliath, the credentials he offered Saul were a lion and a bear he had dealt with while minding his father's sheep (1 Samuel 17:34 to 37). Nobody had clapped for any of it. The road to the throne turned out long, and Saul spent a great deal of it trying to kill him. Twice David had Saul at his mercy and walked away, and nothing in the record suggests he spent those years rehearsing how his brothers would look when he returned in glory.
 
-No water. Just darkness and the sound of his brothers sitting down to eat, directly above him, negotiating a price.
+Picture a young man in Ibadan whose uncle gave away his school fees money, and who watched cousins he had once helped pass him at a wedding without a greeting. Years later he becomes a person of some standing, and the first thing he notices is how often he checks who in the hall has seen him arrive. That checking is the thing to be afraid of. It does not need an enemy to be present. It only needs a memory and a room.
 
-From the pit to Potiphar's house. From Potiphar's house to prison — this time not because of any failing of his own, but because a woman lied, and the truth is not always the strongest thing in the room. From prison to the forgotten corner of prison, because the cupbearer whose dream Joseph interpreted correctly went back to Pharaoh's court and did not remember the Hebrew in the cell for two full years.
+## The Table Laid in Front of Enemies
 
-Two years. Let that settle. Two years of being the man who was right, who helped someone, who asked for nothing except to be remembered and was not remembered.
+Here is the verse that most vigils reach for when the prayer point gets going, and it deserves a slower reading than it usually gets.
 
-Here is what Joseph did not do in those two years. He did not rehearse a speech. He did not practise the face he would make when his brothers finally stood before him. He did not spend his nights composing the version of events where he arrives at the top and they arrive at his feet and justice finally looks the way justice is supposed to look. If he prayed — and we have every reason to believe he did — his prayer was not *let me show them.* His prayer was, by the evidence of his character when the moment finally came, something closer to *let me be ready for whatever You are building.*
+> *“You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows.”*
+> — Psalm 23:5 (ESV)
 
-Because when Pharaoh's dream needed an interpreter and the cupbearer finally remembered, Joseph walked out of prison, stood before the most powerful man in the known world, and said something that only a man whose ambition had been completely reoriented by suffering could say:
+The popular reading runs like this. God will seat me at a banquet, my enemies will be made to stand at the wall and watch me eat, and they will be sorry. It is a satisfying picture. It is also a picture the verse does not draw. Look at what the text actually says. The enemies are present, yes, and they are not removed. But they are not described. They don't weep, they don't apologise, and nobody confesses to having been wrong about you. All the attention of the verse falls on the host, the table, the oil and the cup. The psalm is about being fed and being safe while the people who wanted you gone are still in the room.
 
-> *"'I cannot do it,' Joseph replied to Pharaoh, 'but God will give Pharaoh the answer he desires.'"*
-> — Genesis 41:16 (NIV)
+Another scene in David's life shows what that table looked like when he was on the other side of it. In 2 Samuel 17 David himself is the man in flight, hungry and worn out, with Absalom's rebellion behind him. Three men meet him at Mahanaim with beds, basins, wheat, barley, lentils, honey and cheese, because, as the text says, the people are hungry and weary and thirsty in the wilderness. One of the three is Machir, son of Ammiel, from Lo Debar.
 
-I cannot do it. Not: watch me. Not: I have been waiting for this moment. Not even: finally. Just the quiet, unperformative acknowledgment that whatever gift he carried had never belonged to him, and whatever throne was coming was not about him, and whatever the brothers who sold him thought about his elevation was genuinely not the point.
+That name should sound familiar. Lo Debar is the place where, some chapters earlier, Jonathan's crippled son Mephibosheth was found living in Machir's house. When David became king, with the house of Saul no longer a danger to anyone, he asked a question that nobody in his court would have expected.
 
-The point was forty-two months of famine. The point was seven years of grain stored in silence. The point was a nation Egypt preserved, and through it, the twelve tribes from whom the Messiah would eventually come. Joseph was not elevated so that his brothers could feel small. He was elevated so that the people could live.
+> *“Is there still anyone left of the house of Saul, that I may show him kindness for Jonathan's sake?”*
+> — 2 Samuel 9:1 (ESV)
 
----
+The king did not ask whom he might settle accounts with. And Mephibosheth, a man who had every reason to expect a knife, was given a seat at the king's table. The place called Lo Debar, a name Strong's and the NAS concordance gloss as *pastureless*, ended up supplying the food that fed the king when the king was the hungry one. Whatever else you make of that, it is hard to read it as a story about winning an argument.
 
-## The Prayer Point, Revisited
+I should be honest, though, that David's record does not make him a saint of forgiveness. In 2 Samuel 21, after a three year famine, David handed seven of Saul's descendants over to the Gibeonites, who hanged them. Mephibosheth was spared, the text says, because of the oath between David and Jonathan. The same king who laid a table for one grandson of Saul gave seven other members of Saul's house to the Gibeonites. David was a political animal in a violent age, and his kindness was real and also partial. He makes a poor hero for a tidy story about revenge refined into mercy, and the New Testament doesn't leave the matter with him.
 
-Back to the vigil.
+## What to Pray Once the Anger Is Said
 
-I want to be fair to the people who prayed that prayer, because fairness matters more than point-scoring. There is a real and legitimate theology of vindication in Scripture. The psalms are full of it. David himself, surrounded by enemies, cried out to God for justice with a frankness that would make some of our more decorous churches quietly uncomfortable. The imprecatory psalms exist. God does not ask us to pretend that injustice did not happen or that the people who harmed us deserve no consequences.
+What the New Testament says is simple enough, and it isn't gentle about the part that costs us. Proverbs had already told us not to say *I will repay evil*, and to wait for the LORD. Paul takes the ancient line and gives it a purpose.
 
-> *"Do not take revenge, my dear friends, but leave room for God's wrath, for it is written: 'It is mine to avenge; I will repay,' says the Lord."*
-> — Romans 12:19 (NIV)
+> *“Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, ‘Vengeance is mine, I will repay, says the Lord.’”*
+> — Romans 12:19 (ESV)
 
-The issue is not whether God vindicates. He does. The issue is what we want the vindication to accomplish. Do we want it to clear the path for service, or do we want it to clear the room so we can take a bow?
+Paul doesn't say the vengeance will never come. He says it isn't ours to carry, and a few lines later he finishes the thought with a sentence every wronged person should print and keep somewhere visible: “Do not be overcome by evil, but overcome evil with good” (Romans 12:21, ESV). Jesus pushes the same direction, saying in Luke 6:27 and 28 to love your enemies and pray for those who abuse you.
 
-A Yoruba proverb says: the child who dances to his own praise does not hear the music anymore. There is something that happens to a person who organises their entire spiritual life around the moment when the ones who doubted them are forced to eat their words. The obsession becomes its own prison. You spend so much energy watching the door for your enemies to arrive at your feet that you miss the actual work God has called you to do while you are waiting.
+That is a hard word for anyone with an honest grievance, and I don't want to soften it. Nothing in it says the injustice was imaginary, that the wicked will never face God, or that you must feel warm toward a person who hasn't repented. What changes is the prayer. Say the angry thing to God in full, in the words of the psalms if you need them, with the name attached. Then leave the sentencing where Joseph left it. The judge isn't you.
 
-David, once he became king, had every political and personal justification to make life difficult for the house of Saul. Saul had tried to kill him. Saul had destroyed Jonathan, who was David's closest friend. The house of Saul was the rival house, and rival houses have historically had a way of disappearing once the new dynasty stabilises. David's advisors would have understood. The politics would have supported it.
+There is a practical cost to the other kind of prayer, too. Anyone who spends the waiting years watching the door for enemies to arrive at their feet is not doing the work in front of them. The obsession becomes its own small prison. And a position built on the need to prove something to somebody is a performance, which means it needs an audience, and audiences get bored. One day the crowd that was supposed to be so impressed stops looking, and the person on the platform finds that the whole thing was a mirror.
 
-Instead, David asked a question that no one in his court expected:
+And ask for the elevation anyway, if you want it, but ask for the right reason. Joseph's promotion fed a region. David's reached a crippled man in a hiding place. Neither of them was raised so that someone else could be made smaller, and the prayer worth praying at the next vigil asks for the same shape of future. *Raise me so that they can be fed.*
 
-> *"'Is there anyone still left of the house of Saul to whom I can show kindness for Jonathan's sake?'"*
-> — 2 Samuel 9:1 (NIV)
+When the prayer point comes round again and the room begins to stamp, you will not need to stop anyone. Just take the name from your own list, the one that really hurts, and say it to God as plainly as the exiles did by the river. Then ask him what a table would look like if you were the one who got to lay it. You may find the answer surprises you, and I suspect it will take longer than one vigil to learn.
 
-Is there anyone left? Not: is there anyone left to settle accounts with. Is there anyone left to whom I can show kindness? And when they found Mephibosheth — Jonathan's son, crippled in both feet, hiding in Lo Debar, which means literally *the place of nothing* — David did not see a threat to manage. He saw a promise to keep. He saw a covenant that was bigger than his own personal narrative.
+***
 
-Mephibosheth ate at the king's table for the rest of his life. Not because David had forgotten what Saul did. But because David understood that his kingship was not a monument to himself. It was a stewardship for others.
+## References
 
----
+### Biblical References
 
-## Sarah Laughed, But Not the Way You Think
-
-The note on Sarah deserves its own space.
-
-When Sarah, at ninety years old, gave birth to Isaac after decades of barrenness, after the detour through Hagar, after the collapse of every reasonable expectation that this promise would ever arrive in biological form — what she said was not what you would expect from a woman who had been waiting that long.
-
-> *"Sarah said, 'God has brought me laughter, and everyone who hears about this will laugh with me.'"*
-> — Genesis 21:6 (NIV)
-
-Everyone who hears about this will laugh *with* me. Not: everyone who laughed *at* me will now weep. Not: the ones who whispered about my barrenness will now see what God did and be ashamed. With me. The laughter is communal, not competitive. The joy is for sharing, not for weaponising.
-
-Sarah had every reason to be bitter. She had been given away twice by her own husband to protect his skin — once to Pharaoh's household in Egypt, once to Abimelech's household in Gerar — and both times God had to intervene because Abraham's fear had overridden his faith. She had lived for decades with the particular ache of a woman whose body refused to do the thing that mattered most in the culture she lived in. She had watched other women produce children while she remained empty. She could have spent the moment of Isaac's birth turning it into a verdict on everyone who had ever doubted her.
-
-Instead, she threw a party and invited everyone to the joy.
-
-That is not weakness. That is not the resignation of a woman who has simply decided to make peace with her enemies because she is too tired to fight. That is the specific freedom of someone who has stopped making other people's responses the measuring rod of God's faithfulness. When your joy is finally untethered from whether the right people are watching and whether they are sufficiently impressed, you discover that the joy itself gets bigger. It fills the whole room. It spreads.
-
----
-
-## What You Are Actually Praying For
-
-So let me ask the question plainly, because the Nigerian apologist does not spend four sections building to a point and then mumble the point into his collar.
-
-When you pray for elevation, what are you actually praying for?
-
-Are you praying to be raised so that the people who overlooked you will be forced to reckon with what they missed? Because if that is the engine of the prayer, you are praying for a throne that will exhaust you. A throne built on the need to prove something to someone is not a seat of authority. It is a performance. And performances require an audience, and audiences are fickle, and one day the crowd that was watching you be vindicated will leave — or worse, stop being impressed — and you will discover that the kingdom you built was actually just a mirror, and the thing you were worshipping was not God at all.
-
-Or are you praying to be raised so that the people God has assigned to your care can be served? Because Joseph did not become Prime Minister of Egypt so that his brothers could eat humble pie. He became Prime Minister of Egypt so that the world could eat. The breadbasket of the ancient world passed through his hands, and the lives of nations — not just his family, not just his enemies turned supplicants, but whole peoples — were preserved because one man let God refine the motive behind the gift before He gave the platform.
-
-Not everyone who disgraced you in the past will be downcast by your emergence in the future. And that should be fine. That should, in fact, be the evidence that God has done something real in you: that you have reached the place where their response to your elevation is genuinely not the first thing you think about when you wake up.
-
----
-
-## The Invitation
-
-Forget the former things. That is not poetic language. That is not motivational filler. It is a command issued by a God who knows that the rearview mirror has a way of swallowing the road ahead.
-
-> *"Forget the former things; do not dwell on the past. See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland."*
-> — Isaiah 43:18-19 (NIV)
-
-There is a way being made in your wilderness right now. There are streams forming in the dry places. But you will not see either of them if you are too busy watching the faces of the people who put you in the wilderness to notice that God has already started building the exit.
-
-Be like David, who remembered Mephibosheth when no one expected him to. Be like Joseph, who wept over his brothers in Genesis 45 — not because he was weak but because he was free — free enough to see that what they intended for evil, God had rerouted for life. Be like Sarah, who laughed with an open door and an open table and an open invitation for the world to share the joy that God had finally, spectacularly, brought.
-
-And when the next vigil raises a prayer point about being elevated above your enemies, you are allowed to close your eyes and pray a different one. Not *raise me so they can see.* Something more like: *raise me so they can be fed.*
-
-That prayer, God answers with both hands.
-
----
-
-## Biblical References
-
-- **1 Samuel 16:6-7** — Used to establish the moment of David's anointing and God's rebuke of appearance-based evaluation; grounds the argument that human neglect does not equal divine rejection.
-- **1 Samuel 16:12** — David's anointing in the field; the pivot point from overlooked youngest son to chosen king.
-- **Genesis 37:23-24** — Joseph thrown into the pit by his brothers; the founding wound of his story and the beginning of a providence he could not yet see.
-- **Genesis 41:16** — Joseph before Pharaoh; cited as evidence of a man whose ambition has been completely reoriented — the definitive statement that the gift belongs to God, not to the gifted.
-- **Romans 12:19** — Paul's directive to leave vengeance to God; used to affirm that vindication theology is legitimate while redirecting the motive behind it.
-- **2 Samuel 9:1** — David's question about the house of Saul; the pivot that demonstrates how a man with every reason for bitterness chose covenant kindness instead.
-- **Genesis 21:6** — Sarah's response at Isaac's birth; used to illustrate joy that is communal rather than competitive, shared rather than weaponised.
-- **Isaiah 43:18-19** — God's command to forget the former things; the scriptural anchor for the article's closing invitation to release the past and perceive what God is already building.
-
----
-
-## External References
-
-- Yoruba proverb: the child who dances to his own praise does not hear the music anymore. Used to illustrate the spiritual cost of organising one's life around vindication at others' expense.
+* **Proverbs 20:22 (ESV).** The epigraph and the old wisdom that revenge is handed over to God.
+* **Psalm 137:8 and 9 (ESV).** The exiles' curse, quoted to show that Scripture keeps the voice of the wronged.
+* **Psalm 94:1 to 3 (ESV).** The cry to the God of vengeance, quoted in part to show how the angry psalms address their anger to God.
+* **Revelation 6:10 (ESV).** The martyrs' prayer for justice, showing that the plea for vindication continues in the New Testament.
+* **Genesis 37; 40:23 to 41:1; 41:16; 41:29 to 30 (ESV).** Joseph's pit, the forgetful cupbearer, his answer before Pharaoh and the seven years of famine, summarised and not quoted.
+* **Genesis 50:19 and 20 (ESV).** Joseph's refusal to take the place of God, and the purpose of his elevation.
+* **1 Samuel 16:7 (ESV).** God's rebuke of appearances at David's anointing.
+* **1 Samuel 17:34 to 37; 24; 26 (ESV).** David's lion and bear, and the two occasions he spared Saul, summarised and not quoted.
+* **Psalm 23:5 (ESV).** The table among enemies, read closely.
+* **2 Samuel 17:27 to 29 (ESV).** Machir of Lo Debar supplying David in his flight.
+* **2 Samuel 9:1 and 4 (ESV).** David's question about the house of Saul, and Mephibosheth's hiding place in Machir's house.
+* **2 Samuel 21:1 to 9 (ESV).** The Gibeonite demand and Mephibosheth's being spared, used to keep the account of David honest.
+* **Romans 12:19 and 21 (ESV).** Paul's instruction to leave vengeance to God and overcome evil with good.
+* **Luke 6:27 and 28 (ESV).** Jesus' teaching on loving enemies and praying for those who abuse.
+
+### Other Sources
+
+* Dash, D. (2008, February 14). *More Volf on non retaliation and God's justice* [Blog post]. DashHouse. https://dashhouse.com/2008214more-volf-on-non-retaliation-and-gods-justice-html. Used only to confirm Volf's thesis and his remarks about suburban quiet and a land soaked in innocent blood.
+* The New Humanitarian. (2005, January 12). *Nigeria: Rights panel wanted three ex military rulers probed for killings*. https://www.thenewhumanitarian.org/report/52654/nigeria-rights-panel-wanted-three-ex-military-rulers-probed-killings. Source for the panel's origin, chair, completion in 2002, and the release of its report by the Civil Society Forum.
+* Volf, M. (1996). *Exclusion and embrace: A theological exploration of identity, otherness, and reconciliation*. Abingdon Press. Paraphrased, not quoted.
+* Zenger, E. (1996). *A God of vengeance? Understanding the psalms of divine wrath* (L. M. Maloney, Trans.). Westminster John Knox Press. Paraphrased, not quoted.
+
+### Translation Notices
+
+* Scripture quotations are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.

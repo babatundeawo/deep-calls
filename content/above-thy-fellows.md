@@ -1,228 +1,165 @@
 ---
-title: Above Thy Fellows: Why God's People Have No Business Being Ordinary
+title: Above Thy Fellows
+subtitle: Ambition, excellence and humility in the light of Hebrews 1:9
 category: Grace & Identity
 verse: Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.
 verse_ref: Hebrews 1:9 (KJV)
+summary: Hebrews 1:9 is first a verse about the Son, and reading it honestly rules out both the sermon that praises smallness and the sermon that sells oil, leaving a Christian ambition that serves, works well, and expects to pay for it.
 ---
 
-## We Have Confused Humility With Mediocrity, and the Church Has Paid the Price
+## Two Sermons and Neither Reads the Verse
 
-Somewhere along the line, a particular theology quietly infected the African church. It is not written in any confession of faith. It does not appear in any church's statement of doctrine. But you can feel it in the air of certain sanctuaries, sense it in the unspoken assumptions of certain sermons, watch it play itself out in the lives of people who are genuinely born again, genuinely prayerful, genuinely sincere and genuinely, inexplicably, unremarkably average.
+Two sermons are preached in Nigerian churches, and a good many believers have sat under both without noticing that they contradict each other.
 
-The theology goes something like this: the truly spiritual person does not chase success. Ambition is worldly. Wanting to be the best at what you do is dangerously close to pride. And since pride goes before a fall, the safest thing is to stay modest. Stay small. Stay in your lane. Trust God, attend service on Sunday, pay your tithe and whatever happens, happens.
+The first says that wanting to be good at anything is dangerously close to pride. Stay small, stay quiet, pay your tithe, and whatever happens, happens. The people who hold this view are sincere, and they are not lazy. They have simply learned that ambition is worldly and that average is where the humble live, and so they let their expectations of themselves shrink to fit.
 
-This is not humility. This is not even theology. It is, if we are being precise about it, a creative misreading of Scripture that has managed to spiritualise ordinariness and call it virtue. The people who hold this view are sincere. They are not lazy. They have simply absorbed an idea that was never in the text and allowed it to govern their expectations of themselves and of God.
+The second sermon says you were born to be above your fellows. It has a verse for this, and the verse is Hebrews 1:9. It comes with declarations, and sometimes with a small bottle of oil offered at a price, and a promise that your destiny will wake up by next week. Anyone who has scrolled through church adverts on a phone for ten minutes knows the style.
 
-The God of Scripture is not ordinary. He has never been ordinary. And He has never called His children to be.
-
----
-
-## The Name Above Everything Including the Ceiling You Have Accepted
-
-Before we talk about what excellence looks like in your career, your classroom, your ministry, or your marriage, we have to begin where all good theology begins: with who God is.
-
-The psalmist did not frame it gently. He declared it with the full weight of a man who had seen the night sky, watched the tide obey its boundary, and stood trembling in the presence of the living God:
-
-> *"O LORD, our Lord, how excellent is thy name in all the earth!"*
-> — Psalm 8:1 (KJV)
-
-Not adequate. Not sufficient. Not commendable. Excellent. The Hebrew word here is *'addir* majestic, noble, mighty, magnificent. A word you do not use for things that are merely functional.
-
-Everything God makes carries His signature. The mathematics folded inside a nautilus shell. The moment when a thunderstorm builds over Lagos in August and the sky turns the colour of charcoal before the rain comes down like applause. The particular blue that appears in water only at a certain depth. God does not do approximate work. He does not produce near misses. Every created thing is executed to the full expression of its design, and nothing He has ever made could be described as an afterthought.
-
-You were made in the image of that God. Not the pale, tired, mediocre deity that certain pulpits seem to worship but the God whose thoughts are higher than the heavens and whose ways make human wisdom look like the arithmetic of a first-year student. Excellence is not a standard imposed on you from outside. It is the original condition you were made for.
-
-The fall disrupted it. Sin distorted it. But redemption does not merely forgive — it restores. And it is precisely this restoration that the writer of Hebrews was announcing when he lifted a line from Psalm 45 and placed it over the life of the anointed Son:
+Both sermons get the verse wrong, and I think the first does more quiet damage, because nobody argues with it. A believer who has spiritualised being ordinary will sit through a whole career doing the minimum and call it trust in God. The second does its damage out loud. So the verse is worth reading slowly, from the beginning, before anyone is told what it promises.
 
 > *"Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows."*
+>
 > — Hebrews 1:9 (KJV)
 
-This verse is doing more than describing Jesus. It is revealing a principle — one that operates with the dependability of a law of nature.
+## Whose Fellows Are These
 
----
+The writer of Hebrews is quoting. These words come from Psalm 45, which a translators' note describes as a wedding song for a royal bridegroom (SIL International, n.d.). The Hebrew word the King James Version renders "fellows" means associates or companions, and the ESV prefers "companions" (Bible Hub, n.d.). In the psalm, then, the oil of gladness sets the king above the other royals gathered around him at his wedding. Nobody in that room is being told to compare their salary with their cousin's.
 
-## The Passage Everyone Quotes and Almost Nobody Finishes Reading
+Hebrews 1:8 and 9 quote Psalm 45:6 and 7 (Ellingworth & Nida, 1983), and the writer applies the words to God's Son (SIL International, n.d.). It does so in a chapter whose whole business is the Son's rank above the angels. The verse is a statement about who Jesus is. Its first meaning is that God has set him over every created thing.
 
-Hebrews 1:9 is a three-part architecture. Most people camp in the final room and never examine the foundation.
+That has a plain consequence for anyone who wants to turn the verse into a personal promise. If the fellows are the other kings in the psalm, and the angels in the letter, then "above thy fellows" is not a guarantee that you will outrank your colleagues at the ministry, or your classmates, or the man who got the promotion. Reading it that way takes the one verse in the chapter that is about Christ's unique place and makes it a promise about yours.
 
-They hear "anointed above thy fellows" and they want it — the elevation, the distinction, the standing before kings that Proverbs 22:29 promises to the man who excels in his work. They want the oil. They declare the oil. They sing about the oil. Some of them, if we are being honest, have paid considerable sums of money to receive the oil in a small bottle from a man on a stage who promises it will activate their destiny by next Tuesday.
+I'd rather say that plainly than build a whole essay on a misreading and hope nobody checks.
 
-But the passage begins somewhere else entirely. Before the anointing, there is a condition. Before the oil, there is an orientation of the soul. Before God intervenes, something has already happened in the life of the person being elevated.
+## The Anointing Came by the Road of Obedience
 
-*"Thou hast loved righteousness, and hated iniquity."*
+The verse has a shape that is easy to miss. Before the oil comes the cause. He loved righteousness and hated iniquity, and therefore God anointed him. The "therefore" is the hinge, and it says that the lifting follows the life.
 
-Not tolerated righteousness. Not attempted righteousness when convenient. Not kept righteousness as a Sunday category of life while the rest of the week operated under entirely different rules. Loved it. Pursued it. Ordered the whole direction of the soul toward it and simultaneously, with equal intensity, turned from everything that contradicts it. The love and the hatred are not separate clauses. They are two faces of the same commitment, and you cannot claim one while quietly nursing the other.
+Hebrews does not leave the Son's exaltation floating in the air either. A chapter later the writer says that we see Jesus, who for a little while was made lower than the angels,
 
-This is the condition. It is not comfortable, and it is not casual.
+> *"crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone."*
+>
+> — Hebrews 2:9 (ESV)
 
-The consequence follows with the force of a logical conclusion: *"therefore God, even thy God, hath anointed thee."* The word "therefore" is doing enormous work in this sentence. It establishes causality. It tells you that God's intervention in a life is not random, not arbitrary, and certainly not available as a purchased commodity. It is the response of a faithful God to a life aligned with His character.
+Glory because of suffering. That is the order of events in the one life the verse is actually about. The oil of gladness was poured on a man who went to a cross.
 
-And the result? *"The oil of gladness above thy fellows."* Above the norm. Beyond the generation. Elevated over those who occupy the same field, the same institution, the same city — regardless of their gifts, their connections, or their head start.
+So here is the first thing the prosperity talk leaves out. If the believer is to share in this anointing at all, and I think in a real sense the believer does, because the title Christ means the anointed one, and we are in him, then the sharing comes by union with a person whose road went through suffering. It does not come by claiming a position over other people.
 
-Excellence, in the biblical framework, is not the fruit of human striving alone. It is what happens when righteousness meets divine anointing.
+And the second thing is that the condition, loving righteousness and hating iniquity, cannot be a performance requirement, or none of us would qualify. Paul gives the answer to Corinth.
 
----
+> *"For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God."*
+>
+> — 2 Corinthians 5:21 (ESV)
 
-## The New Testament Twist You Cannot Afford to Miss
+The righteousness that the verse names as the condition has been handed to the believer in Christ. You are not trying to earn the anointing by being good enough. You are asked to live as someone who has already been given the standing, and to let the love of righteousness grow into a habit.
 
-Here is where the good news becomes genuinely extraordinary.
+## The Strongest Case for Claiming the Oil
 
-The condition in Hebrews 1:9 — loving righteousness, hating iniquity — could, if we read it carelessly, sound like a performance requirement. Work hard enough at being holy, and perhaps God will notice and pour out the oil. Try harder. Sin less. Be more consistent. Earn it.
+Let me put the best objection in words its holders would accept. It runs like this. The Bible shows God lifting people. Daniel was preferred above the other officials, and the king thought to set him over the whole realm. The Son was anointed, and we are told to follow him. A church that has spent generations telling its young people to expect little has produced a lot of talent buried in the ground. If the "claim it" teachers are guilty of excess, they are at least trying to correct a real sickness, and the other side has only offered silence.
 
-But Paul, writing to the Corinthians, delivered a sentence that should have dismantled that entire framework permanently:
+I think that is half right, and the half that is right matters. The sickness is real. Many believers do treat mediocrity as modesty, and it does hurt them, their families and the witness of the church. Nothing in Scripture tells us to be bad at our work, and plenty tells us otherwise.
 
-> *"For He made Him who knew no sin to be sin for us, that we might become the righteousness of God in Him."*
-> — 2 Corinthians 5:21 (NKJV)
+But the cure the objection offers is aimed at the wrong thing. It takes God's lifting, which Scripture shows as his own act and often in his own time, and turns it into an entitlement that can be claimed on demand. It also quietly changes the question from "what am I for?" to "where do I rank?". And once ranking is the question, you have made the Son's unique position into a ladder, and you have put yourself on it.
 
-Read it slowly. Not that we might produce righteousness by effort. Not that we might approximate righteousness through discipline. That we might *become* the righteousness of God in Christ. Through the exchange of the cross, what Jesus was by nature, you are now by grace.
+## Ambition That Points at Other People
 
-This means that every born-again believer already carries the qualifying condition for the anointing of Hebrews 1:9. The righteousness is not something you manufacture. It was given, freely, at the moment of your new birth. The anointing that follows righteousness — the oil that sets a life above its generation — is not waiting for you to be good enough. It is already authorised. The question is only whether you are walking in what you have been given: daily, consistently, in the parts of your life where no one is watching, and in the parts where everyone is.
+Jesus was not shy about ambition. When James and John asked for the best seats in his kingdom (Mark 10:35 to 41), he did not tell them to want nothing. He redirected what they wanted. The other disciples were indignant, and he called them all together.
 
-The Apostle Paul had already confessed, with brutal honesty, the impossibility of producing this by flesh alone:
+> *"But it shall not be so among you. But whoever would be great among you must be your servant, and whoever would be first among you must be slave of all."*
+>
+> — Mark 10:43 to 44 (ESV)
 
-> *"For I know that in me (that is, in my flesh) dwelleth no good thing."*
-> — Romans 7:18 (KJV)
+Greatness is allowed. What changes is the direction. Great means useful to somebody.
 
-He was not being self-pitying. He was being theologically precise. Left to itself, human nature does not trend toward excellence — it trends toward the line of least resistance. What lifts a life above that gravitational pull is not willpower. It is the anointing of a God who has made you the righteousness of His Son and expects the oil to show.
+Paul does the same thing in an unexpected place. He tells the Thessalonians to
 
----
+> *"aspire to live quietly, and to mind your own affairs, and to work with your hands"*
+>
+> — 1 Thessalonians 4:11 (ESV)
 
-## Three Portraits from the Gallery of the Excellent
+The word is aspire. Even the quiet life is something he wants them to reach for with effort. He isn't forbidding a drive. He's pointing it at ordinary faithfulness, a daily job done properly, and a household that does not depend on anyone's charity.
 
-History is not short of evidence. Let us look at three.
+The Paul who writes that also says, in a verse that holds ambition and humility in one hand, that he worked harder than any of the other apostles, "though it was not I, but the grace of God that is with me" (1 Corinthians 15:10, ESV). He doesn't pretend that he was lazy, and he doesn't pretend the work was his own achievement. If you want a model of how to be excellent without being proud, there it is. You work as hard as you can, and then you tell the truth about where the strength came from.
 
-### The Young Man Who Refused the King's Menu
+There are two tests I'd put to my own ambitions, and you can borrow them. Who gains if I succeed, besides me? And what will I do if I'm passed over and the person who gets the post is less able than I am? An ambition that has no answer to the first question is hunger, and one that falls apart at the second has been resting on the ranking all along.
 
-When Nebuchadnezzar's empire swept Daniel and his three companions into captivity, they found themselves surrounded by every mechanism designed to remake them in Babylon's image — its language, its literature, its food, its philosophy, its gods. Every other deportee, it seems, found a way to accommodate. The argument for compromise was airtight: you are in a foreign land with foreign rulers and you have no leverage. Survival is a powerful argument.
+So humility was never the opposite of excellence. It is what excellence sounds like when it knows who paid for it.
 
-But Daniel made a decision before the pressure arrived:
+## When Excellence Gets You Into Trouble
 
-> *"But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank."*
-> — Daniel 1:8 (KJV)
+Now the part that the oil sermons skip, because it is bad for sales.
 
-Purpose in the heart, before the moment of testing, is the architecture of excellence. What you decide in advance is what survives under pressure. What you improvise under pressure is usually whatever costs you the least in that moment.
+Daniel is the standard example of excellence in the Bible, and he deserves it. The king found him ten times better than his rivals (Daniel 1:20), and long afterwards, under another empire,
 
-The result was not long in coming. When the king examined these four young men at the end of their training, he found them beyond comparison:
-
-> *"In all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm."*
-> — Daniel 1:20 (KJV)
-
-Ten times. Not marginally ahead. Not commendably skilled. Ten times better than every professional in the most sophisticated empire on earth — and they were teenagers in a foreign country with no institutional support, no alumni network, and no one lobbying on their behalf.
-
-Years later, when Daniel had outlasted two dynasties and was serving under a third king in a second empire, the verdict had not changed:
-
-> *"Then this Daniel was preferred above the presidents and princes, because an excellent spirit was in him."*
+> *"this Daniel was preferred above the presidents and princes, because an excellent spirit was in him; and the king thought to set him over the whole realm."*
+>
 > — Daniel 6:3 (KJV)
 
-An excellent spirit. Not an excellent strategy. Not an excellent network. A spirit — something resident inside him, consistent across decades, operating in every department of his life, regardless of the season, the king, or the threat. This is the difference between excellence as performance and excellence as character. Performance fluctuates. Character compounds.
+Read the next verse before you celebrate. The other officials looked for a ground for complaint against him, and found none, "because he was faithful, and no error or fault was found in him" (Daniel 6:4, ESV). Their answer to a man they could not fault was to make a law against his prayers. The excellence that made him preferred was the reason he ended up in a den of lions. God shut the lions' mouths, and that is the good news of the chapter, but it was not a reward for being good at his job. Daniel could not have known in advance that it would end that way.
 
-### The Shepherd Boy Who Was Already Prepared
+I'm not saying this to scare anyone. I'm saying it because most Nigerians already know it from the office. Do your work well in a place where others cut corners and see what happens to your standing with them. Refuse to inflate a figure and watch who stops inviting you. Excellence is admired in the abstract and resented in the building. If your picture of the anointing leaves out the resentment, you will be shocked the first time it arrives, and you may decide you misheard God.
 
-No one in Israel's army was expecting David. King Saul stood head and shoulders above every man in Israel. The warriors of Benjamin were famous across the ancient Near East for their marksmen, soldiers who could sling a stone to a hair's breadth without missing. And yet for forty days, Goliath's challenge hung in the air of the Valley of Elah like an unanswered letter, and not one of them could move toward it.
+History gives the same warning in two African lives.
 
-Then came the shepherd.
+Samuel Ajayi Crowther was taken from his home in March 1821, at about twelve years old, by slave raiders, and sold to Portuguese traders. A Royal Navy ship freed the captives and landed them at Freetown. He became the first student admitted to Fourah Bay College, was consecrated at Canterbury in 1864 as the first African Anglican bishop, and supervised the Yoruba Bible that was completed in the mid 1880s (Wikipedia contributors, n.d.b). By any measure that is a life above his fellows. Then, in 1890, two European missionaries accused several African pastors of fraud, ignorance and immorality and held Crowther responsible, and he was pressured out of the Niger mission, with the work placed under European secretaries (Oke, n.d.). A later writer notes that the accusations were almost unanimously refuted by the time anyone checked, and that by then the damage was done (Guthrie, 2017). He died in Lagos on 31 December 1891 (Wikipedia contributors, n.d.b). I haven't found anything that tells us what he said in his last year, and I won't guess. What the record shows is that excellence in the church could be rewarded and punished in the same life.
 
-The difference was not David's sling. It was the wilderness. It was the lion and the bear he had already killed in the secret place, when no one was watching and the only audience was God. Excellence is always built somewhere private before it is displayed somewhere public. The valley of Elah did not discover David. It simply revealed what the wilderness had already formed.
+Ameyo Adadevoh, the lead consultant physician at First Consultant Medical Centre in Lagos, was the doctor who suspected in July 2014 that Patrick Sawyer, a Liberian traveller who said he had malaria and wanted to go to a conference, had Ebola. She kept him in the hospital against the request of his country's ambassador, saying that for the greater public good she would not release him. She died of the disease on 19 August 2014, aged 57 (Wikipedia contributors, n.d.a). The sources I read are silent on her religious faith, and I'm not going to claim her for any camp. What they do show is skill and firmness under pressure, and her son has said that the Liberian government pressed her to let Sawyer go (NPR, 2014). She did not live to see any recognition. The national honour, Officer of the Order of the Niger, came in October 2022, eight years after her death (Wikipedia contributors, n.d.a).
 
-> *"Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts, the God of the armies of Israel, whom thou hast defied."*
-> — 1 Samuel 17:45 (KJV)
+Neither life fits the promise that you will be elevated over your fellows. Both fit the verse, if the verse is about a path through cost to a gladness that arrives, when it arrives, on God's schedule and not ours.
 
-David did not arrive at Goliath by accident. He arrived as a conclusion — the logical outcome of years of faithfulness in a field where no one promoted you, no one celebrated you, and the only reward for killing a predator was that the sheep you were responsible for stayed alive another day. What the valley revealed, the wilderness had prepared.
+## Excellence on an Ordinary Tuesday
 
-### The Fullest Expression
+So what do we do with all this on a Tuesday morning in an ordinary office, or a lecture hall, or a classroom full of children who need someone to mark their books?
 
-Jesus of Nazareth is the ultimate case study and also the source from which all other cases derive their power. Even in childhood, His excellence was irrepressible:
+We do what Paul told the church in Colossae to do, which was to take the work in front of us seriously and leave the distinction to God.
 
-> *"And Jesus increased in wisdom and stature, and in favour with God and men."*
-> — Luke 2:52 (KJV)
+> *"Whatever you do, work heartily, as for the Lord and not for men,"*
+>
+> — Colossians 3:23 (ESV)
 
-At twelve years old, He sat in the temple courts among scholars who had spent their entire lives in the text — not performing for approval, not competing for attention, but engaging with the depth of a mind already occupied with His Father's business. The teachers questioned Him and came away astonished.
+Notice who the audience is. It is not the supervisor, who might not notice. It is not the congregation, who might clap. The standard is set by the person you work for, and he sees the version of the job that nobody checks. The Nigerian student who has learned exactly how much to write to clear the pass mark has a skill, but it is a skill for an examiner. A student who studies to understand is working for someone else.
 
-In ministry, the pattern continued and intensified. Peter, speaking to Cornelius's household, summarised the entire arc of Christ's earthly work in one sentence:
+The same goes for the clerk who could pad a figure and doesn't, the teacher who marks every script when half the pile would pass unread, and the young pastor who prepares as carefully for twelve people on a rainy Wednesday as he would for twelve hundred. Nobody gives out prizes for these. Most of them will never be noticed at all. That is exactly why they are the real test. A person who is excellent only when watched is acting, and the Lord, who is the one reading the work, has seen the acting before.
 
-> *"How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him."*
-> — Acts 10:38 (KJV)
+There is also a smaller honesty to be kept. False modesty is a kind of pride too. The person who says "I'm just a small person, who am I to do that" about work they could plainly do well is often protecting themselves from the risk of failing in public. God didn't give the gift for that purpose. If you can do a thing well and the need is real, saying so, and then doing it, is not arrogance. It's obedience.
 
-And then came the promise that every serious believer should read with both excitement and soberness:
+And if lifting does come, as it came to Daniel, take it as a loan. The oil is for the room you've been put in, and it isn't for display.
 
-> *"He who believes in Me, the works that I do he will do also; and greater works than these he will do, because I go to My Father."*
-> — John 14:12 (NKJV)
+I will leave you with one small task and one question. Pick one piece of your work that you currently do at about seventy percent because no one will check it, a lesson note, a report, a small repair, a reply to a customer, and do it properly this week, as though the Lord were the one reading it. Then ask yourself honestly what you wanted from it. If the answer is applause, you have found out something worth knowing. If the answer is only that it should be right, then you are closer to the verse than you thought. And whatever you find, tell someone you trust, and let them ask you again in a month how it went.
 
-The Spirit of excellence that rested on Jesus without measure rests, through the same Spirit, on every believer who has been born again. The question is not whether the resource is available. The question is whether we are giving it room to operate or whether we have buried it under low expectations, theological timidity, and a spiritualised tolerance for ordinariness.
-
----
-
-## Excellence Is Not a Spiritual Gift — It Is a Spiritual Obligation
-
-There is a tendency in certain circles to treat excellence as the special calling of a few — the unusually gifted, the visibly anointed, those whose talent is so obvious that hiding it would simply be embarrassing. Everyone else, the reasoning goes, is called to faithful ordinariness. God is not asking for your best; He is asking for your love.
-
-This is a half-truth, which means it is a whole lie wearing a partial disguise.
-
-> *"Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest."*
-> — Ecclesiastes 9:10 (KJV)
-
-Not the talented hand. Not the specially called hand. Whatever hand. Yours. The Preacher is making a universal claim and its urgency is sharpened by the reminder that time is finite and the grave does not accept late submissions.
-
-In the workplace, this means the kind of diligence that does not require a supervisor's eye to activate. The kind of punctuality that is a personal value, not a response to a policy document. The kind of integrity that survives the moment when cutting a corner would save you an afternoon and no one would ever know. Proverbs 12:24 is not motivational decoration: "The hand of the diligent shall bear rule." That is a principle of governance. Diligence rises; sloth serves.
-
-In education, it means studying to master, not merely to pass. The Nigerian student who has refined the art of reading an examiner's pattern and producing just enough to clear the cutoff has acquired a skill but not the spirit of Daniel. Daniel did not aim to pass Nebuchadnezzar's examination. He aimed to be ten times better than everyone else in the room. Study to show yourself approved, Paul told Timothy — not approved by the grading curve, but approved by God — a workman who has no cause to be ashamed of his craftsmanship.
-
-In character — and this may be the hardest theatre of all — excellence means being the same person in the prayer meeting and in the office, on Sunday morning and on Monday afternoon, when you are celebrated and when you have been passed over. The Apostle Peter laid out the curriculum with the precision of a master builder:
-
-> *"Add to your faith virtue; and to virtue knowledge; and to knowledge temperance; and to temperance patience; and to patience godliness; and to godliness brotherly kindness; and to brotherly kindness charity."*
-> — 2 Peter 1:5–7 (KJV)
-
-This is not a sprint. It is a life's work, compounding daily, shaping the soul into something that reflects the God from whom all true excellence flows.
-
----
-
-## The Light Does Not Negotiate With the Darkness
-
-The character you form in private is what you carry into every public arena. And the believer who stands in Hebrews 1:9 territory does not stand there by declaration alone. They have been shaped by the Word, by righteousness embraced not as a burden but as a love, by the secret place, by the daily and deliberate choice to walk in what they have already been given in Christ.
-
-Isaiah's ancient call was not given to the extraordinary. It was given to a people who were about to emerge from a season of darkness into something they had not yet imagined:
-
-> *"Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee."*
-> — Isaiah 60:1 (KJV)
-
-You are not being asked to perform. You are being asked to *be* — to be what you already are in Christ, fully, consistently, without apology. The world is not waiting for another Christian who is indistinguishable from their surroundings. It is waiting for the kind of life that makes people pause and ask questions they did not know they had. The Daniel kind. The David kind. The kind that walk into a room and shift its atmosphere not by announcement but by presence.
-
-The oil of excellence is already upon you. The righteousness of Christ has already qualified you for every promise contained in Hebrews 1:9. What remains is not another prayer meeting, not another seed sown into a man's ministry, not another declaration spoken into the bathroom mirror.
-
-What remains is to arise.
-
-Walk in it at work. Walk in it in the classroom. Walk in it in your home, in your ministry, in the unremarkable middle of your ordinary Tuesday. Let every space you occupy carry the fingerprint of a God who has never, in all of history, produced anything that could be described as merely average.
-
-Paul's closing benediction over the Ephesian church is not a ceremonial flourish. It is a statement of what is already available to you, by a God who defines abundance upward from anything you are capable of asking or thinking:
-
-> *"Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us, unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen."*
-> — Ephesians 3:20–21 (KJV)
-
-The power that works *in* you is not a small power. It is the power of the God for whom "exceeding abundantly above" is simply the baseline.
-
-Rise to it.
-
----
+***
 
 ## References
 
 ### Biblical References
 
-- **Psalm 8:1 (KJV)** — Used to establish that excellence originates in the nature of God Himself, whose name is *'addir* excellent over all the earth.
-- **Hebrews 1:9 (KJV)** — The anchor text: a three-part formula linking the love of righteousness to God's direct intervention — to anointing above one's peers.
-- **Romans 7:18 (KJV)** — Paul's honest confession that the flesh, unaided, produces nothing excellent; establishes the necessity of divine enablement.
-- **Proverbs 22:29 (KJV)** — The principle that skill and excellence position a person before people of influence and authority.
-- **2 Corinthians 5:21 (NKJV)** — The gospel foundation: every believer has already received, through Christ, the qualifying righteousness for the anointing of Hebrews 1:9.
-- **Daniel 1:8 (KJV)** — Daniel's preemptive decision not to defile himself; illustrates that excellence is purposed before it is demonstrated.
-- **Daniel 1:20 (KJV)** — The outcome: ten times better than every expert in the Babylonian empire.
-- **Daniel 6:3 (KJV)** — The lasting verdict after decades: an excellent spirit, consistent across empires and seasons.
-- **1 Samuel 17:45 (KJV)** — David's declaration before Goliath; establishes that excellence built in the secret place is revealed at the appointed public moment.
-- **Luke 2:52 (KJV)** — Jesus increasing in wisdom and stature: the pattern of excellence evidenced from childhood.
-- **Acts 10:38 (KJV)** — Peter's summary of Christ's ministry as the anointed life, going about doing good by the power of God.
-- **John 14:12 (NKJV)** — The promise that the Spirit of excellence resident in Christ is accessible to every believer who believes.
-- **Ecclesiastes 9:10 (KJV)** — The universal call to work with full effort, without qualification by field, status, or gifting.
-- **Proverbs 12:24 (KJV)** — The governance principle: the diligent hand rises; the slothful serves.
-- **Exodus 18:21 (KJV)** — Jethro's counsel to Moses: leadership excellence requires men who are able, God-fearing, and truthful.
-- **2 Peter 1:5-7 (KJV)** — The compounding curriculum of character: virtue, knowledge, temperance, patience, godliness, brotherly kindness, love.
-- **Isaiah 60:1 (KJV)** — The call to arise and shine as the natural expression of a life upon which the glory of God has risen.
-- **Ephesians 3:20-21 (KJV)** — The doxological conclusion: God is able to do exceeding abundantly above all that we ask or think, by the power already at work within us.
+* **Hebrews 1:9 (KJV).** The epigraph and the anchor text; read as a statement first about the Son, whose anointing follows his love of righteousness.
+* **Hebrews 1:4 to 14.** Referred to by reference only: the chapter in which the Son is set above the angels.
+* **Psalm 45:7.** Referred to by reference; the wedding song for a royal bridegroom that Hebrews quotes, with "fellows" or "companions" as the groom's peers.
+* **Hebrews 2:9 (ESV).** Jesus crowned with glory and honour because of suffering; shows that the exaltation the verse describes came by the road of the cross.
+* **2 Corinthians 5:21 (ESV).** The righteousness named as the condition is given in Christ, not manufactured.
+* **Mark 10:35 to 41.** Referred to by reference only: James and John ask for the best seats.
+* **Mark 10:43 to 44 (ESV).** Jesus redirects ambition toward service.
+* **1 Thessalonians 4:11 (ESV).** Paul tells believers to aspire to a quiet life of honest work.
+* **1 Corinthians 15:10 (ESV).** Paul works harder than the others and credits the grace of God.
+* **Daniel 1:20.** Referred to by reference only: the king finds Daniel and his companions ten times better than his advisers.
+* **Daniel 6:5 to 9.** Referred to by reference only: the officials' law against Daniel's prayers.
+* **Daniel 6:3 (KJV).** Daniel preferred because of an excellent spirit.
+* **Daniel 6:4 (ESV).** The officials find no fault in Daniel; his faithfulness becomes the occasion of the plot.
+* **Colossians 3:23 (ESV).** Work as for the Lord, the standard that governs the closing invitation.
+
+### Other Sources
+
+* Bible Hub. (n.d.). *Psalm 45:7* [Parallel translations and lexicon]. https://biblehub.com/psalms/45-7.htm
+* Ellingworth, P., & Nida, E. A. (1983). *A handbook on the letter to the Hebrews* (UBS Handbook Series). United Bible Societies. Read through https://tips.translation.bible/tip_verse/heb-18/page/2/
+* Guthrie, H. (2017, February 22). The triumph and tragedy of Anglicanism's first African bishop. 9Marks. https://www.9marks.org/article/the-triumph-and-tragedy-of-anglicanisms-first-african-bishop/
+* NPR. (2014, December 31). *A son is lost without his mother, so is a country*. NPR Goats and Soda. https://www.npr.org/sections/goatsandsoda/2014/12/31/374024919/a-son-is-lost-without-his-mother-so-is-a-country
+* Oke, K. (n.d.). *Samuel Ajayi Crowther, Black Victorians and the future of Africa*. University of Oxford, Faculty of History. https://www.history.ox.ac.uk/node/2168791
+* SIL International. (n.d.). *Translator's notes on Hebrews 1:8*. Read through https://tips.translation.bible/tip_verse/heb-18/page/2/
+* Wikipedia contributors. (n.d.a). *Ameyo Adadevoh*. Wikipedia. https://en.wikipedia.org/wiki/Ameyo_Adadevoh
+* Wikipedia contributors. (n.d.b). *Samuel Ajayi Crowther*. Wikipedia. https://en.wikipedia.org/wiki/Samuel_Ajayi_Crowther
+
+### Translation Notices
+
+* Scripture quotations marked ESV are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.
+* Scripture quotations marked KJV are from the King James Version, which is in the public domain in most of the world.

@@ -1,130 +1,135 @@
 ---
 title: The Atheist Who Shouted Jesus
+subtitle: What a burst tyre on the Lagos to Ibadan road says about prayer, argument and the hope we owe a doubter
 category: Hard Questions
-verse: Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect.
+verse: But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect,
 verse_ref: 1 Peter 3:15 (NIV)
+summary: A constructed scene on a Lagos to Ibadan bus shows why shouting Scripture at an unbeliever fails, what Peter actually asked of apologists, and how little a frightened shout can prove.
 ---
 
-## What Twenty-Five Minutes of Prayer on a Moving Bus Actually Tells You
+## A bus on the Lagos to Ibadan road
 
-Nobody asked him to stop. That was the first problem.
+Here is a scene. I have built it from pieces that anyone who has travelled that road will recognise, so please read it as a scene and not as a report.
 
-The bus had barely cleared Ojota when the man in the third row decided that what the Lagos-Ibadan expressway really needed in addition to its kamikaze articulated lorries and its philosophical approach to lane markings was a full-length intercessory prayer session. Twenty-five minutes. The man rebuked the spirit of accidents with the confidence of someone who had personally overseen its last prosecution. He declared angelic escorts over the vehicle. He commanded the road to cooperate, and at some point, I believe he addressed the tyres directly.
+A commercial bus leaves the park in Lagos on a weekday morning, every seat sold, and has hardly settled into the traffic when a man in the third row stands, grips the seat in front, and begins to pray over the trip. He prays for twenty five minutes. He rebukes the spirit of accidents. He declares angels along the whole length of the road. At some point he seems to address the tyres directly. Nobody asked him to stop, and nobody tries, because it is a Nigerian bus and you don't interrupt a man who is praying.
 
-Now, I want to be careful here, because the instinct itself is not wrong. The Lagos-Ibadan expressway has a body count that would humble a battlefield, and the man who does not pray before travelling it has either never read the news or has decided that fatalism is a spiritual gift. Praying before you travel is not superstition. It is, frankly, wisdom. The issue is not whether to pray. The issue is what kind of praying this was.
+Now I want to be fair to him. The instinct is sound. The Lagos to Ibadan expressway is about 128 kilometres long, and media reports cited by Africa Check put the toll at 645 deaths over twenty seven months, and 73 deaths from 175 crashes in the first quarter of 2025 alone (Africa Check, 2026). A traveller who does not pray before that road has either not read the news or has decided that fatalism is a spiritual gift. Praying before you set out is plain good sense.
 
-There is a faith that prays because it knows God quietly, directly, almost conversationally, the way you speak to someone whose number you actually have. It does not need an audience because it is not auditioning for one. And then there is a fear that prays because it is terrified of what will happen if it stops. This second kind of prayer is loud, lengthy, and never quite sure it has said enough. The writer of Hebrews describes a certain category of person as those who, "through fear of death," are "all their lives subject to bondage" — not freed by their faith, but driven by their dread.
+What I would ask about is the kind of praying. Some prayer comes from a person who knows God the way you know someone whose number you actually have, and it can be quiet because it is not performing for anybody. And some prayer is driven by dread, loud and long and never sure it has said enough, because stopping feels dangerous. The letter to the Hebrews describes the people Christ came for in just those terms.
 
-> *"...and free those who all their lives were held in slavery by their fear of death."*
+> *"and free those who all their lives were held in slavery by their fear of death."*
+>
 > — Hebrews 2:15 (NIV)
 
-I am not diagnosing the man. I do not know his heart, and God does. But I know the difference between intercession and anxiety wearing a church suit, and that bus had heard both by the time the prayer leader sat down, presumably satisfied that Heaven had received sufficient notice of our travel intentions.
+I can't see inside the man in the third row, and neither can you. He may be the most settled believer on the bus having a loud morning. Hold that thought, because the scene is not about him.
 
-That was when the atheist spoke.
+Somewhere past the first toll point, a passenger two rows behind says, in the local language and loud enough for the driver to hear, that he would like to do his own ministration now. Then he turns to the driver and tells him to drive carefully and bring everybody safely, since nobody is watching over us except the satellites in space.
 
-## The Prayer to the Driver
+The bus laughs. I'd have laughed too. It was well made, that jab. He had kept the shape of a prayer, the address and the petition and the confident close, and swapped God for GPS.
 
-"Can I do my ministration now?"
+## Why the quoting did not land
 
-That question. That magnificent, perfectly timed, borderline callous question. The man who had just ministered for the better part of half an hour had no idea what was coming for him.
+What happens next is something Nigeria produces better than anywhere I know. Half the bus turns on him. Someone gives him Genesis. Someone gives him John. A woman by the window delivers Psalm 23 with the force of a person who has known it since before she could tie her shoes. The man listens to each verse, shrugs it off, and waits for the next. He is not rude about it. He simply does not accept the premise.
 
-The atheist — I use the word as a description, not a verdict — addressed the driver in Yoruba. I will translate loosely, because the spirit of the thing must survive the translation: *"Great driver, how about you drive carefully and deliver us safely? I believe no one is watching over us except the satellites in space."*
+And here I have to say something that will sound disloyal. He's right to refuse the method. His conclusion is wrong, but his refusal of the method is correct. If I quote a book to you as proof, and you have not agreed that the book has any standing, then I have made a claim and not an argument. A Christian who cannot feel that difference will lose the debate before anyone speaks, and not because the Bible is weak. They skipped the step that makes the Bible usable in that conversation.
 
-I laughed. I could not help it. Not because I agreed with him — I did not agree with him, and I will get to that — but because the architecture of the provocation was genuinely elegant. He had taken the form of prayer and evacuated its content. He had mirrored the call-and-response structure and replaced God with GPS. It was, objectively, well-constructed.
+The people on that bus were sincere. They had the right God. But they were building a case the one man who needed it couldn't walk into.
 
-The Alfa seated next to me was not available to appreciate the construction. He was running at a temperature and the interior of that bus rose accordingly.
+There is a second thing I would say, and it matters more. Nobody on that bus had actually asked for an answer, and that's the part we skip. He had made a joke. Hold that against what Peter wrote, because Peter is the verse people reach for at this exact point.
 
-## When the Crowd Had the Right God but the Wrong Argument
+## What Peter meant by a defence
 
-What followed was the kind of debate that Nigeria produces more naturally than anywhere else on earth: loud, passionate, unafraid of confrontation, and — this is the part that stayed with me — almost entirely beside the point.
+Most of us quote 1 Peter 3:15 as a slogan for being ready in an argument. Read it again with its neighbours and it sounds quite different.
 
-The religious passengers descended on this lone dissenter with the full weight of Scripture. Genesis. John. Psalm 23, delivered with the particular ferocity of people who have known it since before they could tie their own shoes. The atheist listened, considered each verse, and dismissed them all. He was not rude about it. He simply did not accept the premises.
+Peter is writing to scattered exiles in Asia Minor who were being slandered, shut out and sometimes persecuted by their own families (Nichols, 2019). He tells them not to be frightened, and then he gives the instruction. The very first clause is not about arguments at all. It is about worship. In your hearts, revere Christ as Lord. The apologist's foundation is that Jesus is actually Lord of him, which is a harder thing than being clever.
 
-And here is the thing about that: he was not wrong to reject the method. Not the conclusion — the conclusion was wrong — but the method. To quote a book as evidence to someone who has not granted that book any authority is not an argument. It is an assertion. There is a difference between those two things, and a Christian who cannot feel that difference in an actual debate will lose that debate before it begins, not because the Bible is weak, but because they have skipped the step that makes the Bible usable in that conversation.
+The word behind "answer" is *apologia*. It is a courtroom word, the speech a person makes when called to account. Socrates gave one in Athens. Paul gave one to the crowd in Jerusalem in Acts 22 and before Festus in Acts 25, and he described his whole Roman imprisonment in Philippians as a defence of the gospel (Nichols, 2019). So Peter is not asking Christians to start fights. He is asking them to be able to stand up and explain themselves when someone with a real question puts them on the stand.
 
-The religious passengers kept quoting. The atheist kept dismissing. Both sides were sincere. Only one side was building a case the other could hear.
+Notice who triggers it. The answer is for "everyone who asks." Peter doesn't say everyone within earshot. He expects the question to come, often because people have watched how his readers live under pressure and want to know what is holding them up. And what is asked for is a reason for the hope, which is wider than a proof of a theory. Mikel Del Rosario says the verse is about hope, a relationship and not only philosophical ideas (Del Rosario, 2019), and I think he has it right. Finally, the whole thing is to be done "with gentleness and respect." Nichols points out that the word translated respect can also mean reverence, the same word used for how we approach God (Nichols, 2019). So the person across the table from you gets treated with a trace of the awe you bring to your Lord.
 
-Here is what I would have wanted to say.
+Measured against that, a bus full of Christians shouting verses at a man who made a joke was a fine display of conviction and a poor display of 1 Peter 3:15. Nobody had asked for a reason, and nobody was offering one in a voice he could hear without flinching.
 
-## The Witness Stand Is Not the Same as the Pulpit
+One more point before leaving the passage. The scene is invented, but the cost of being the dissenter on a Nigerian bus is not. Mubarak Bala, a Nigerian atheist, was convicted over Facebook posts that were found to blaspheme Islam, saw his sentence cut on appeal, and was released in January 2025 after four years in prison. One report of his release carried the headline that he feared for his life (Gazette, 2025). I raise it not to argue about the law, which is for another day, but because it should slow us down. Anyone in this country who says openly that he does not believe in God is paying a price for saying it. The least we owe such a person is the courtesy of an argument.
 
-The apostles understood something that our bus passengers, in their genuine and passionate defence of God, had forgotten: you do not open with doctrine when you are speaking to someone who has not yet accepted your premises. You open with evidence. You find the ground you share and you stand on it first.
+## How the apostles argued with strangers
 
-When Peter stood at Pentecost — three thousand converts before the sun had moved very far — he did not lead with theology. He led with history. He appealed to what his audience already knew: the publicly documented life of a man from Nazareth, whose miracles had been performed openly, in the same city, before many of the same people now listening. He was not asking them to take his word for anything mystical. He was pointing to what they themselves had witnessed.
+Look at how the apostles actually went about it with people who did not share their book.
 
-> *"Fellow Israelites, listen to this: Jesus of Nazareth was a man accredited by God to you by miracles, wonders and signs, which God did among you through him, as you yourselves know."*
-> — Acts 2:22 (NIV)
+At Pentecost, Peter did not open with doctrine. He opened with what his hearers already knew. He told them Jesus of Nazareth was "a man attested to you by God" through works God did among them, which they had seen for themselves (Acts 2:22, ESV). The thing came first and the interpretation came second. He was standing on shared ground before he asked anyone to move, and the Acts account has him ending the day with about three thousand people baptised.
 
-*As you yourselves know.* That phrase is carrying enormous weight. Peter is building his case from shared ground before he invites them to the conclusion that will change their lives. He is a lawyer, not a preacher, in that moment. The sermon comes after the evidence. The altar call comes after the argument.
+Stephen, before the council that was about to condemn him, walked his judges through their own history, from Abraham to the prophets, and used it to show them a pattern in their own tradition of refusing the messenger God sent. He argued from their book, because they accepted it. Paul on the Areopagus in Athens had a different audience, so he used a different door. He began with an altar to an unknown god, which he could see, and then quoted their poets.
 
-Stephen, standing before the Sanhedrin with his verdict already decided and his funeral already pending, did not defend himself with appeals to private spiritual experience or the authority of the Torah over people who had already decided to disregard it. He walked them through the entire sweep of their own history — Abraham in Mesopotamia, Joseph in Egypt, Moses on Sinai, the tabernacle, the temple, the prophets — and then showed them, from their own tradition, that they had always done this. Every time God sent someone they were not expecting, they rejected him. This was not new behaviour. It was a pattern.
+> *"'For in him we live and move and have our being.' As some of your own poets have said, 'We are his offspring.'"*
+>
+> — Acts 17:28 (NIV)
 
-> *"Was there ever a prophet your ancestors did not persecute? They even killed those who predicted the coming of the Righteous One. And now you have betrayed and murdered him."*
-> — Acts 7:52 (NIV)
+The NIV footnotes name two sources, the Cretan philosopher Epimenides and the Cilician Stoic Aratus (Christianity.com, n.d.). Paul read pagan literature carefully enough to quote it accurately and then turned it toward the resurrection. Nobody who did that opened with "the Bible says."
 
-Paul before Agrippa. Paul before the philosophers on Mars Hill, who had altars to gods they had not yet named — and Paul standing in front of one, saying: *the God you do not know, I will introduce to you.* He did not begin with Isaiah. He began with a Greek poet. He found common ground in a pagan stadium and walked from there to the resurrection.
+None of this means Scripture drops out. It means a Christian earns the hearing. The case that the New Testament deserves to be taken seriously has real support, and it can be offered as a case. Greek manuscripts of the New Testament number about 5,795 in the tally Clay Jones cites, with Homer's *Iliad* next at 1,757 and Plato at 210, which is far more than the old figure of seven that apologists quoted for years (Jones, 2012/2013). Jones makes a point that I wish more of us took to heart, which is that many popular figures in our circles are "woefully out of date," and that being careless with them does us no favours. The New Testament still comes out by far the best attested ancient work. And the claim that Jesus rose was not a legend that took centuries to grow. Paul passes on a statement of the gospel in 1 Corinthians 15 that scholars across the spectrum, including the sceptics Bart Ehrman and Gerd Lüdemann, place before Paul wrote. Lüdemann dates the elements of the tradition to the first two years after the crucifixion, and Ehrman says the creed was already circulating before Paul's letters (Credo House, n.d.). That is a claim made in the lifetime of people who could have contradicted it.
 
-Not one of them opened with: "The Bible says." They earned the right to say what the Bible says by first establishing that the book itself is worth taking seriously. The New Testament documents are not religious mythology — they are among the most rigorously attested writings of the ancient world, more manuscript copies than the works of Plato or Tacitus, composed within the lifetimes of people who could and sometimes did contradict them publicly. The resurrection is not a legend that grew slowly over centuries. It is a claim made within decades of the event, in the same city where the tomb was, by people who had everything to lose by making it. That is not a faith claim. That is a historical claim, and it deserves to be argued on those terms.
+A man who rejects the resurrection will still need to deal with that, and a verse thrown at him will not do it for him. Paul told Timothy to be a worker who handles the word of truth correctly (2 Timothy 2:15), and handling it correctly includes knowing when it is the argument and when the argument has to introduce it.
 
-Every Christian is an apologist. Not every Christian needs a philosophy degree, but every Christian needs to know why they believe what they believe in terms that someone outside the faith can engage with. Paul told Timothy not to let anyone look down on him — not because Timothy was ordained, but because Timothy was grounded.
+## The tyre and the shout
 
-> *"Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth."*
-> — 2 Timothy 2:15 (NIV)
+Back to the bus, which has now reached one of those recently resurfaced stretches that make a driver lower his guard.
 
-Correctly handling the word of truth means knowing when the word is the argument and when the word needs an introduction first. On that bus, it needed an introduction.
+A tyre bursts.
 
-## The Tyre
+It is loud, and the bus lurches, and for a second or two every position in the vehicle is suspended, the pastor's and the Muslim cleric's and the sceptic's. There are only people who have been told without warning that they might not arrive.
 
-Then the tyre burst.
+And the man who twenty minutes earlier had promoted the satellites to guardian angels shouts the name of Jesus. Not as punctuation, and not ironically. He shouts it like someone in the dark with nobody to impress.
 
-On the Lagos-Ibadan expressway. At speed. On one of those recently repaved stretches that trick you into thinking everything is fine, that make you lower your guard just before the road reminds you whose territory you are travelling through.
+The driver is a professional. His hands know what to do before his mind has caught up. The bus slows, and stops, and everyone is alive. Then comes the laughter that people laugh when they have been shown something about themselves and are not sure what to do with it.
 
-The bus lurched. Something shifted in the air — not a metaphor, a physical thing, the barometric pressure of a vehicle suddenly fighting physics. In the half-second between the explosion of rubber and the driver beginning his correction, every theological position in that vehicle was suspended. There were no atheists. There were no Alfas. There were no denominational distinctions. There were only human beings who had just been informed, without warning, that they might not arrive.
+It would be easy to stop here and announce that God has been proved. I'd rather be honest about how much a shout is worth.
 
-And the atheist — the same man who had, not thirty minutes earlier, redirected prayer to a bus driver and submitted that satellites were our only guardians — shouted the name of Jesus.
+## What a shout can and cannot prove
 
-Not quietly. Not as a figure of speech, the way some people use holy names as punctuation. Not ironically. He shouted it the way people shout it in the dark when there is no audience and no argument left — from somewhere below theology, below the careful positions a person constructs over years of thinking, from the place where a man keeps what he actually trusts when the floor falls out.
+It doesn't prove much to anyone but the shouter. Frightened people call on whatever name they grew up with, and in this country that is a name many people have heard since childhood. It could be reflex. It could be habit, or residue. And the research that tests the old saying about foxholes points the awkward way. In a 2012 set of studies, reminders of death pushed Christians and Muslims toward stronger belief in their own God, while atheists showed no such response, and the researchers concluded atheists do not turn to religion when confronted with death (LiveScience, 2012). Heflick and Goldenberg (2012) found something quieter and interesting. Atheists' anxiety about death eased when their view that there is no afterlife was affirmed, and it did not ease when that view was challenged. The authors saw the same pattern in believers. So the folk wisdom that the sceptic always cracks in the end is not safe to build on. If we tell the story of the bus as a proof, a thoughtful sceptic will reply that we have misread our own side's data.
 
-The driver was extraordinary. His hands knew what to do before his mind had finished processing. The vehicle slowed. It stopped. Everyone on that bus remained alive, which, on that road, is not a guarantee anyone can offer.
+But there is still something left, and I don't want to throw it out. The man did not plan the shout. It came from below the positions a person builds over years, and it came in Jesus' name and not the name of a satellite. That is worth noticing, gently, and then worth asking about. Why that name? The honest answer might be culture, or it might be more, and the right use of the scene is as the start of a conversation and not the end of one. C. S. Lewis, who spent years in unbelief himself, wrote that "God whispers to us in our pleasures, speaks in our conscience, but shouts in our pains: it is His megaphone to rouse a deaf world" (Lewis, 1940, as quoted in Christ and Pop Culture, n.d.). Whether the man on the bus heard anything in that tyre is between him and God. What I can say is that the megaphone was on, and the man heard something.
 
-The laughter that filled the bus afterward was the laughter of people who had just been shown something about themselves and were not entirely sure what to do with it. The atheist's theology, in the moment of crisis, had voted differently from his mouth in the moment of argument. Both moments were real. Both were instructive.
+I should also say what the scene does not teach. It does not teach that the quiet man in the third row was a hypocrite, or that a loud prayer is a bad one. It does teach that faith which has been examined and found true can afford to be calm in the same moment that fear of death makes everyone else noisy.
 
-I gave a quiet smile at the passengers who were praising the driver who was, make no mistake, a genuinely skilled professional, and whose skill was exactly the kind of instrument through which Providence tends to operate. God rarely suspends natural law to protect us. He more often places competent hands in the right seat at the right moment and calls it grace.
+## Prepared hands and an open invitation
 
-## What the Expressway Was Actually Teaching
+The driver also deserves a word, since I have been so busy with the theology. God rarely suspends the road to protect us. More often he puts competent hands in the right seat at the right moment, and I would call that grace without apology. Nehemiah, rebuilding Jerusalem under threat, prayed and then posted a guard (Nehemiah 4:9). The prayer and the guard were the same posture.
 
-Pray. God listens. This is not a sentiment or a feeling or a cultural habit. It is a verified claim, and one more data point was added to the pile on that road between Lagos and Ibadan.
+That has a public edge in Nigeria today. On 30 June 2026 the Federal Government confirmed that the Ibadan end of this very expressway was, in the words of the Minister of Works, "failing very badly," and announced that the damaged section would be rebuilt in reinforced concrete (Nairametrics, 2026). Earlier, in May 2025, repairs had begun on failing expansion joints on bridges at Kara, Arepo and Magboro after a crash at Arepo (Nairametrics, 2026). I don't know what burst the tyre in my scene, and it needs no villain. But a believer who prays for his trip and says nothing about the state of the road, the condition of the tyres, or the speed of the driver has not finished praying. Part of the work of faith is to ask for what the Government is paid to supply.
 
-Prepare. Adequately. The tyre was going to burst regardless of how long the prayer session had been. The driver's competence was the preparation that met the moment — not as a replacement for faith, but as its expression. A Yoruba proverb puts it precisely: prayer in one hand, work in the other. These are not opposites. They are the two hands of a single posture before God. The believer who prays and does not prepare is not holier than the one who prepares and does not pray. They are simply differently mistaken.
+So here is what I would invite you to do with this. Next time somebody in your family, or your office, or your lecture hall says something outrageous about God, and you feel the verse rising in your throat, wait a moment. Ask them what they actually think and why. Find out what they will grant you. Find a place where you both already stand, and say something true from there, as gently as you can, and see whether they ask a second question. If they do, you are in 1 Peter 3:15 territory, and you will have earned the right to say what the Bible says.
 
-God exists. The atheist's involuntary invocation in the moment of crisis is not a proof in any formal philosophical sense — desperate people call on whatever name fear produces, and that could be coincidence, conditioned reflex, cultural residue. But it is interesting. It is very interesting. It suggests that even the most carefully constructed unbelief sits on top of something older, something less argued, something that has not been talked out of the person yet — something that, when the tyre bursts, rises on its own.
+Jesus Christ is Lord of every road, at every speed, and through every burst tyre and every joke that does not quite land. The tomb outside Jerusalem is empty, and the witnesses are on record. That is worth saying quietly to someone who has asked.
 
-C.S. Lewis, who himself once lived in the house of unbelief and knows its floor plan, wrote that "God whispers to us in our pleasures, speaks in our conscience, but shouts in our pains." The expressway shouted. Whether the atheist heard it as anything more than coincidence is between him and God. But the shout went out. I heard it, too.
+***
 
-And common sense exists. The woman at the bus stop who pressed her mouth an inch from a stranger's ear and sprayed her conviction along with her words into his face was not an evangelist. She was a disturbance. The man who prayed for twenty-five minutes in a shared vehicle — not out of faith but out of fear — was not a man of great spiritual authority. He was a man of great anxiety, and there is a meaningful difference. Faith looks different. It is quieter, more anchored, less dependent on volume to feel real. It does not need the bus to know it has been heard.
+## References
 
-The goal for every Nigerian Christian, for every Christian anywhere is to be the kind of person whose belief is so clearly genuine, so clearly rooted in something examined and found true, so clearly unafraid even when the road misbehaves, that even the atheist in the next seat pays attention. Not because you shouted. Not because you prayed longer. But because, when the tyre burst, you were already calm.
+### Biblical References
 
-Not because nothing happened. Something happened.
+* **Acts 2:22 (ESV).** Peter at Pentecost argues from what his hearers had seen. Quoted in part; the ESV was opened at biblia.com, where only a short excerpt could be displayed.
+* **Acts 17:28 (NIV).** Paul quotes pagan poets on the Areopagus; the footnotes name Epimenides and Aratus.
+* **Hebrews 2:15 (NIV).** The fear of death as a form of slavery, used to frame prayer that comes from dread.
+* **1 Peter 3:15 (NIV).** The epigraph and the centre of the argument: revere Christ, answer those who ask, with gentleness and respect.
+* **2 Timothy 2:15.** Referred to in paraphrase, as the call to handle the word of truth correctly.
+* **Nehemiah 4:9.** Referred to in paraphrase: Nehemiah prays and posts a guard.
 
-Because you knew who you had called on before the road decided to test you.
+### Other Sources
 
-Jesus Christ is still Lord. On every road. At every speed. Through every burst tyre and every argument that does not quite land. He is still Lord — not because the passengers in a Lagos danfo said so, but because the tomb outside Jerusalem is empty, the witnesses are on record, and the evidence, examined honestly, has only ever pointed one way.
+* Africa Check. (2026, February 4). *Factsheet: Road safety in Nigeria in wake of high profile crash*. https://africacheck.org/fact-checks/factsheets/factsheet-road-safety-nigeria-wake-high-profile-crash
+* Christ and Pop Culture. (n.d.). *Celebrating C. S. Lewis: The Problem of Pain*. https://christandpopculture.com/celebrating-c-s-lewis-the-problem-of-pain/
+* Christianity.com. (n.d.). *Acts 17:28 (NIV)*. https://www.christianity.com/bible/niv/acts/17-28
+* Credo House. (n.d.). *How we know 1 Corinthians 15:3 to 7 is a very early creed*. https://credohouse.org/blog/how-we-know-1-corinthians-153-7-is-a-very-early-creed
+* Del Rosario, M. (2019, August 5). *What every apologist needs to know about 1 Peter 3:15*. Cross Examined. https://crossexamined.org/?p=76828
+* Gazette. (2025, January 8). *Atheist, Mubarak Bala, jailed for blasphemy fears for life despite release after four years in prison*. https://gazettengr.com/?p=348294
+* Heflick, N. A., & Goldenberg, J. L. (2012). No atheists in foxholes: Arguments for (but not against) afterlife buffers mortality salience effects for atheists. *British Journal of Social Psychology, 51*(2), 385-392. https://digitalcommons.usf.edu/psy_facpub/1474
+* Jones, C. (2013, October 1). *The bibliographical test updated*. Christian Research Institute. (Original work published 2012 in *Christian Research Journal, 35*(3)). https://www.equip.org/articles/the-bibliographical-test-updated/
+* Lewis, C. S. (1940). *The problem of pain*. (Publisher to be added from the owner's own copy.)
+* LiveScience. (2012). *Thoughts of death make only the religious more devout*. https://www.livescience.com/20994-death-religion-coping.html
+* Nairametrics. (2026, June 30). *Lagos Ibadan expressway: FG confirms failed Ibadan section, orders rebuild*. https://nairametrics.com/2026/06/30/lagos-ibadan-expressway-fg-confirms-failed-ibadan-section-orders-rebuild/
+* Nichols, S. (2019, March 25). *An apology for apologetics*. Ligonier Ministries. https://learn.ligonier.org/articles/apology-apologetics
 
----
+### Translation Notices
 
-## Biblical References
-
-- **Hebrews 2:15** — Used to frame the distinction between fear-driven and faith-driven prayer; specifically the category of those whose lives are shaped by the terror of death rather than the confidence of faith.
-- **1 Peter 3:15** — The epigraph; the foundational apostolic mandate for apologetics: always be ready to give a reason, with gentleness and respect.
-- **Acts 2:22** — Peter's address at Pentecost, cited as the model of evidence-first apologetics: beginning with what the audience already witnessed before presenting the theological conclusion.
-- **Acts 7:52** — Stephen's defence before the Sanhedrin, used to illustrate the method of arguing from within the audience's own tradition before applying the gospel claim.
-- **2 Timothy 2:15** — Paul's instruction to Timothy on correctly handling the word of truth; cited as the apologist's mandate for groundedness and preparation.
-
----
-
-## External References
-
-- **C.S. Lewis, *The Problem of Pain* (1940)** — The line "God whispers to us in our pleasures, speaks in our conscience, but shouts in our pains" is drawn from Chapter 6. Used to frame the theological significance of crisis as a moment of divine communication.
-- Yoruba proverb: prayer in one hand, work in the other. Cited as the African communal frame for the relationship between faith and practical preparation.
-- **New Testament manuscript tradition** — The historical reliability of the New Testament documents, including the density of extant manuscripts and the early dating of the resurrection claim, is a standard point of reference in Christian apologetics. See F.F. Bruce, *The New Testament Documents: Are They Reliable?* (1943), and Josh McDowell, *Evidence That Demands a Verdict* (1972).
+* Scripture quotations marked (NIV) are taken from the Holy Bible, New International Version, NIV. Copyright 1973, 1978, 1984, 2011 by Biblica, Inc. Used by permission. All rights reserved worldwide.
+* Scripture quotations marked (ESV) are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.

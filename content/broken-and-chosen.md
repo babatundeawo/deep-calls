@@ -1,192 +1,156 @@
 ---
-title: Broken and Chosen: God Has Never Once Advertised for Perfect People
+title: Broken and Chosen
+subtitle: God has never once advertised for perfect people
+summary: God keeps calling people who are slow of speech, frightened, limping or ill, and the Bible says plainly why, so that nobody mistakes the vessel for the power.
 category: Grace & Identity
-verse: But God has chosen the foolish things of the world to put to shame the wise, and God has chosen the weak things of the world to put to shame the things which are mighty.
-verse_ref: 1 Corinthians 1:27 (NKJV)
+verse: But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong;
+verse_ref: 1 Corinthians 1:27 (ESV)
 ---
 
-## The Job Description God Never Posted
+## The Advertisement God Never Placed
 
-Imagine the advertisement. Seeking a deliverer for three million enslaved people. Must be eloquent, commanding, confident before royalty. Fluent in Egyptian court protocol and Hebrew pastoral leadership. Strong communicator. No speech impediments. No family drama. No criminal history involving impulsive manslaughter in broad daylight. Apply within.
+Imagine the notice. Wanted, a deliverer for a nation of slaves. Must speak well, carry himself like a man who has stood before kings, and have nothing in his past that a newspaper could use. No speech difficulty. No family trouble. Certainly no record of killing a man and burying him in the sand. Apply in person.
 
-God never posted that advertisement.
+Nobody posted that notice, and the man who got the job would have failed every line of it. He was somewhere at the back of the Midian desert, a shepherd who had spent decades away from the palace that raised him, and when God told him he was the one, he did the sensible thing and listed his reasons why not.
 
-What He did instead was walk into the back end of a Midian desert, find a man who had been in exile for forty years, who flinched at his own voice, who had run from every version of his identity that had ever been handed to him, and say: you are the one. You are going to stand in front of the most powerful man on earth and not move until he blinks.
+Moses said, in effect, that the Lord had clearly not thought this through.
 
-Moses said, essentially: Lord, you have clearly not thought this through.
+I'd like to put a question to you, as one person to another, and then spend the rest of this essay answering it. If you carry something that makes you feel you're the wrong person for whatever God has been stirring in you, an illness, an old wound, a failure you can't undo, does that thing disqualify you? The Bible's answer is no. It's also more interesting than a plain no, and a good deal less comfortable than most of what gets said on the subject.
 
-And God said: I made your mouth. Now go.
+## Who Counts as Unhealthy Here
 
-That exchange at the burning bush is not a minor footnote in redemption history. It is a policy statement. It tells you everything you need to know about the kind of people God has always preferred to use. Not the polished ones. Not the credentialled ones. Not the ones whose résumé reads like a devotional calendar.
+Let me say what I mean, because the word can be made too small. I'm not only talking about people with a diagnosis, though they're included. I mean the woman whose pain has outlasted six months of prayer and a good many visitors who told her to claim her healing. I mean the man who walks into church with depression sitting on his chest like a stone, and sings loudly because he's afraid that if he stops the stone will get heavier. I mean the leader who mentors fifty people and then drives home alone to cry. I mean people whose nervous systems were set to high alert by something that happened before they were old enough to say no to it, and people whose failures were public and humiliating and still come back at three in the morning.
 
-The broken ones. The struggling ones. The ones you would not call up to the front of church on a Sunday morning because they might embarrass everyone, including themselves.
+Sickness, weakness, grief, trauma, failure. All of it. The question is whether any of it takes you out of the running. I'll try to answer that slowly, because the people who most need the answer are the ones least likely to believe a quick one.
 
-Those are exactly the ones He calls.
+## Three Callings That Began With an Excuse
 
----
+Start with Moses, because he's the plainest case. In Exodus 4 he lays out his objection honestly.
 
-## What We Mean When We Say "Unhealthy"
+> *"Oh, my Lord, I am not eloquent, either in the past or since you have spoken to your servant, but I am slow of speech and of tongue."*
+>
+> — Exodus 4:10 (ESV)
 
-Before we build the case, we need to be clear about what we are arguing, because the word "unhealthy" can be narrowed in ways that miss the point entirely.
+The older English versions render the Hebrew as heavy of mouth and heavy of tongue, which sounds less like nerves and more like a real difficulty with speech. I wouldn't diagnose a man across three thousand years. I'd just say that he believed it about himself, and so did God, because God doesn't argue the point. He answers it.
 
-We are not talking only about people with diagnosed medical conditions, though that is certainly included. We are talking about the full spectrum of human brokenness. Chronic physical illness that does not go away despite six months of prayer and three rounds of prophetic declaration. The kind of weakness that wakes you up at 2am with pain you have learned to name but not to explain. We are talking about emotional wounds from things that happened to you before you were old enough to consent to any of it. Trauma that rewired your nervous system before you knew what a nervous system was.
+> *"Who has made man's mouth? Who makes him mute, or deaf, or seeing, or blind? Is it not I, the LORD? Now therefore go, and I will be with your mouth and teach you what you shall speak."*
+>
+> — Exodus 4:11 to 12 (ESV)
 
-We are talking about the person who walks into the building on Sunday morning carrying depression like a stone in their chest, singing praise songs with everything they have because they know that if they stop singing, the stone gets heavier. We are talking about the leader who mentors fifty people and goes home to cry in a bathroom they share with no one. We are talking about past failures of the spectacular and humiliating variety, the kind that have a way of reappearing in your mind at inconvenient moments to remind you of exactly who you used to be.
+Notice what God doesn't do. He doesn't heal Moses first and send him afterwards. He sends him with the mouth he has, and promises to be present in it.
 
-All of that is "unhealthy" as this conversation means it. Sickness. Weakness. Emotional pain. Trauma. Failure. The whole territory.
+Gideon is the next, and he's a funnier case. The angel finds him threshing wheat in a winepress, hiding from the Midianites, and greets him as "O mighty man of valor" (Judges 6:12, ESV). Gideon, who knows exactly what he is, replies with a complaint about his family. His clan, he says, is the weakest in Manasseh, and he is "the least in my father's house" (Judges 6:15, ESV). God doesn't correct the CV. He says, "But I will be with you" (Judges 6:16, ESV).
 
-And the question on the table is whether any of that disqualifies you from being used by God.
+Then Jeremiah, who tells God he's too young and doesn't know how to speak, and gets the same reply. "Do not be afraid of them, for I am with you to deliver you, declares the LORD" (Jeremiah 1:8, ESV).
 
-The answer, delivered without hesitation or caveat, is no. Not even close.
+Three men, three excuses, and one answer each time. The excuse is never refuted. It's outweighed by a presence. If you've been waiting for God to argue you out of your list of reasons, you may be waiting for something he has never once done.
 
----
+## What Jacob, Timothy and Paul Carried
 
-## The Gallery of the Cracked and the Called
+The Bible is not shy about bodies. After wrestling through the night at the Jabbok, Jacob's hip was put out of joint, and as the sun rose he passed Penuel "limping because of his hip" (Genesis 32:31, ESV). He kept that limp for the rest of the story. I find it striking that the text never pretends otherwise.
 
-Walk with me through it. This will not take long, because the Bible does not try to hide this pattern. It practically advertises it.
+Timothy was young, and sent by Paul to carry weight in a major church. Paul also tells him, in the middle of a letter about church order, to stop drinking only water and "use a little wine for the sake of your stomach and your frequent ailments" (1 Timothy 5:23, ESV). A man with a stomach that gave him trouble, leading a congregation. And the second letter reads to me like an older man steadying a nervous younger one, though that's my reading and not a diagnosis the text gives.
 
-Moses stood before Pharaoh as the greatest liberator in Israel's history, and he did it with a tongue that did not cooperate with his instructions. In Exodus 4, he told God explicitly:
+Then Paul, the man credited with thirteen of the New Testament's twenty seven books, who writes about a thorn.
 
-> *"Please, Lord, I have never been eloquent, neither recently nor in time past, nor since You have spoken to Your servant; for I am slow of speech and slow of tongue."*
-> — Exodus 4:10 (NASB)
+> *"So to keep me from becoming conceited because of the surpassing greatness of the revelations, a thorn was given me in the flesh, a messenger of Satan to harass me, to keep me from becoming conceited. Three times I pleaded with the Lord about this, that it should leave me."*
+>
+> — 2 Corinthians 12:7 to 8 (ESV)
 
-The Hebrew behind that phrase is heavier than the English translation suggests. The original reads "heavy of mouth and heavy of tongue." This was not a man with mild public speaking anxiety who just needed a confidence workshop. This was a man with a genuine, documented, self-reported communication disability, standing at the hinge point of Israel's entire history, telling God that he was the wrong person for the job.
+He never names it. Scholars have guessed at an eye complaint, a recurring fever, an opponent, and I think the silence is a kindness, because it means anyone in any century can read their own pain into it. What matters is the answer he got.
 
-God's response is extraordinary. He did not say: alright, I hear you, let me heal you first and then send you. He said: Who made your mouth? Now go.
+> *"My grace is sufficient for you, for my power is made perfect in weakness."*
+>
+> — 2 Corinthians 12:9 (ESV)
 
-He sent Moses into the most important negotiation in the ancient world with the very same tongue that Moses considered his primary disqualification. And the conversation between Moses and Pharaoh that followed is now the founding testimony of an entire civilisation.
+Read it slowly. Paul asked for removal and God answered with sufficiency. The weakness stayed, and the power arrived inside it.
 
-Then there is Jacob, who walked with a limp for the rest of his life after wrestling with God at the Jabbok crossing in Genesis 32. That limp was not incidental. It was the mark of encounter, the permanent physical testimony that he had been in a place most people only read about. Every step Jacob took after that night was a sermon. His body preached before his mouth opened.
+## An Objection From the Sickroom
 
-Then there is Timothy. The young pastor Paul mentored through two letters of the New Testament was not a picture of robust health. He had a stomach problem that Paul addressed practically in 1 Timothy 5:23, telling him to take wine for his ailments. This is the man Paul called his true son in the faith and sent to represent him to entire churches in his absence. A man with a chronic digestive condition, managing anxiety that Paul acknowledged directly in 2 Timothy 1:7, leading the church at Ephesus while dealing with whatever his body and his nerves were throwing at him on any given day.
+Now the sceptic in the back row deserves a hearing, and he has a good point. It goes like this. Preachers who tell the sick that their weakness is a calling are doing something suspect. They're dressing up unanswered prayer as strategy. The Bible also records Jesus healing people on the roadside, Peter's mother in law up from her fever, a paralysed man carried through a roof. If God can heal, then talk of power in weakness is a theology for people who haven't been healed, and a convenient one for pastors who can't deliver.
 
-And then there is Paul himself. The most prolific theologian in the New Testament. The man who wrote nearly half the letters in the canon. The apostle who planted churches from Jerusalem to Rome and whose thinking has shaped Christian theology for two thousand years. That man carried something he called a thorn in the flesh, something permanent and painful enough that he petitioned God three times to remove it. He never named it. Scholars have speculated for centuries: an eye condition, recurring illness, a speech impediment of his own. He refused to identify it specifically, and that refusal is itself a kind of gift, because it means every suffering believer in every century can lean into Paul's thorn as their own.
+I'll concede a good deal of that. Healing is real in Scripture and I'd never tell anyone to stop praying for it. Paul himself prayed three times. And it would be cruel to read this passage to someone in a hospital ward and imply that their illness was God's plan for their ministry. Nor does Paul tell Timothy to endure his stomach in silence. He prescribes medicine. Anyone who has sat beside a sickbed in a Nigerian hospital knows the visitor who says the patient only needs more faith, and knows what that sentence does to a family at two in the morning. It isn't in the Bible.
 
-What God said to Paul when he prayed for removal is among the most important sentences in Scripture:
+Here's where the objection stops short, though. It assumes that the only options are healing or abandonment. Paul's story has a third. The prayer was heard, the thorn stayed, and the call went on. Whether God heals is one question. Whether the unhealed are still wanted is another, and the Bible answers the second with a firm yes whatever happens with the first.
 
-> *"My grace is sufficient for you, for my power is made perfect in weakness. Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me."*
-> — 2 Corinthians 12:9 (NIV)
+## A Man Who Still Prays for Arms and Legs
 
-Read that again, slowly. Not: my power will be activated despite your weakness. Not: once you are healed, my power will come. The power is made perfect in the weakness itself. The weakness is not the obstacle to anointing. The weakness is the address where anointing lives.
+You may want a living example, and there's one I find hard to dismiss. I should say that I know Nick Vujicic only through what he and others have published.
 
----
+He was born in Melbourne on 4 December 1982 without arms or legs, and nobody could say why. Three sonograms had shown nothing unusual. His parents, according to an ABC News profile, went through grief and confusion, and it took about four months before they came to terms with it. His father, Boris, was a church founder and an author. By the age of ten Nick has said he was suicidal, and that he blamed God for his pain. I mention that plainly because it's part of the story and because some readers will have walked that road. If the stone on your chest is that heavy, tell a doctor or someone you trust this week, and don't wait for a better moment.
 
-## Strength That Looks Like a Scandal
+Today his ministry's own website reports that it has reached 946 million people digitally and 11 million in person, that 1.5 million have started a relationship with Jesus Christ, and that he has spoken in 87 countries, with a goal of one billion more by 2028. Those are the organisation's figures. They're counted by the ministry and not audited by anyone I can point you to, and the numbers that appear on other pages differ a little, so hold them as an estimate of scale and not a score.
 
-Here is what makes this theology genuinely radical rather than merely comforting: it is not a consolation prize. God is not using weak people because He has exhausted His supply of strong ones.
+What I find more telling is what he said this year. A documentary about his life, called *No Limbs, No Limits*, was scheduled for release in American cinemas from 25 September, and I haven't seen it. In coverage of it in May, he was quoted as saying, "I still pray for arms and legs," and "God is not a genie." He is not a man who got his miracle and then told the story. He is a man who didn't, and told it anyway. The film also deals with the death of his father in 2017, a loss that he says he found hard to talk about.
 
-He is using weak people because weakness is the optimal condition for divine power. On purpose. By design.
+So here is where I'd turn the whole argument. The stronger case for God using broken people isn't the person who got well and then became useful. It's the person who is still praying, still limited, and being used in the meantime.
 
-Paul makes the argument in 1 Corinthians 1, and he makes it without softening the edges:
+## Where the Glory Lands
 
-> *"But God has chosen the foolish things of the world to put to shame the wise, and God has chosen the weak things of the world to put to shame the things which are mighty; and the base things of the world and the things which are despised God has chosen, and the things which are not, to bring to nothing the things that are, that no flesh should glory in His presence."*
-> — 1 Corinthians 1:27–29 (NKJV)
+So why does God work this way? Paul gives his reason in 1 Corinthians 1, and he doesn't soften it.
 
-That last clause is the engine of the whole argument. "That no flesh should glory in His presence." God is not primarily interested in making us impressive. He is interested in making Himself visible. And the problem with a strong, eloquent, healthy, put-together instrument is that when the miracle happens, people spend the next six months talking about how talented the vessel was. When the miracle happens through someone broken, shaking, sick, limping, tongue-tied, traumatised, running on empty, there is only one explanation available.
+> *"But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong; God chose what is low and despised in the world, even things that are not, to bring to nothing things that are, so that no human being might boast in the presence of God."*
+>
+> — 1 Corinthians 1:27 to 29 (ESV)
 
-That is not a coincidence. That is a strategy.
+Read it against the way many of us have learned to pick leaders. We look for the flawless testimony, the confident voice, the suit that sits right on the platform, and we quietly decide that anyone with a visible struggle should sit nearer the back. Paul's list is the reverse of that seating plan. The foolish, the weak, the low and the despised aren't a reserve team called on when the strong ones are unavailable. They are the first choice.
 
-The Crossway commentary on 2 Corinthians 12 captures this with unusual precision: "Competence is not where God's power lies. Frailty is." What Paul experienced when God refused to remove his thorn was not abandonment. It was initiation into a deeper operating principle of the Kingdom: that the power of God does not flow most freely through capacity. It flows most freely through surrender. And the people who are most fully surrendered are almost always the people who have run out of options, who have tried everything else, who have nothing left to pretend with.
+Look at the last clause. The purpose is that nobody boasts. When a gifted, polished, healthy person does great things, people talk about the gift, and they're not wrong to, because that's how attention works. But when it's somebody sick, shaking or limping, the conversation has nowhere else to land. Dane Ortlund puts it well in an article for Crossway on Paul's thorn: "Competence is not where God's power lies. Frailty is."
 
-That is not weakness being tolerated. That is weakness being weaponised for the glory of God.
+C. S. Lewis made a related point in *The Problem of Pain* (1940), when he described pain as God's megaphone to a deaf world. I don't think he meant that suffering is good. He meant that it can strip away the noise that keeps us from hearing. Many believers could tell you that their most useful season came after the worst one, and that what they have to give now comes from what they went through. Anyone who has spent time among Nigerian congregations knows that the prayers that carry weight are often prayed by people who have been through the fire, and they don't need to say so. Ask them to pray for you, if you doubt it.
 
-C.S. Lewis, writing about pain and suffering, observed that "God whispers to us in our pleasures, speaks in our conscience, but shouts in our pain." There is a kind of hearing that only opens in suffering. There is a kind of usefulness that only unlocks in brokenness. The healthy, undisturbed person can still be used, yes. But the person who has been cracked open by life and held together by nothing but grace has a testimony that no seminar can manufacture and no curriculum can replicate.
+## What You Might Do This Week
 
----
+If you've been reading this with something on your chest, I'd offer one small thing, and not a slogan.
 
-## The Man Without Arms Who Has Preached to Nearly a Billion People
+Think of the line you've been using to tell yourself that you're the wrong person. Maybe it's the health condition, the divorce, the breakdown, the old failure, or the stammer. Now notice that Moses, Gideon, Jeremiah and Paul all had a line like that, and God answered each of them in the same way. Not with a refutation, but with himself.
 
-If the biblical gallery feels like ancient history, then let us come forward several thousand years to a delivery room in Melbourne, Australia, on the 4th of December 1982.
+> *"The LORD is near to the brokenhearted and saves the crushed in spirit."*
+>
+> — Psalm 34:18 (ESV)
 
-Nick Vujicic was born without arms and without legs. Three separate sonograms had failed to detect what was coming. When his father, a pastor, walked into that delivery room and saw his son for the first time, he walked straight back out and was sick in the corridor. His mother would not hold the baby for four months.
+He isn't waiting for you to get well before he turns up. Paul came to the same conclusion about his thorn, and wrote it down.
 
-By the time he was eight years old, Nick Vujicic had written his own suicide note.
+> *"For when I am weak, then I am strong."*
+>
+> — 2 Corinthians 12:10 (ESV)
 
-Today, his ministry has shared the Gospel with nearly one billion people. According to the most recent reports from NickV Ministries, over 812 million people have heard the Gospel through his outreach, and over one million individuals have made decisions for Christ through events connected to his organisation across 87 countries. He has met 37 heads of state. He has preached to crowds of 800,000 people at a time. Billy Graham, the man history calls the greatest evangelist of the twentieth century, invited him to his home in 2012 to pray over him and encourage him, one great man commissioning another.
+So say the thing out loud to one person this week. Tell a friend, a pastor, a cell leader, or your sister on the phone what you think disqualifies you, and ask them to pray with you about it. Then see what God does with a vessel that has stopped hiding its cracks.
 
-A man with no arms. No legs. A childhood defined by isolation and bullying and suicidal despair. Standing in stadiums that hold the population of some African cities, telling the Gospel to people who came to see what they expected to be a curiosity and left having met Jesus Christ.
-
-You want a case for God using unhealthy people? There it is. Still breathing. Still preaching. Still counting.
-
----
-
-## Why God Does It This Way
-
-By now the pattern is undeniable. Moses. Jacob. Paul. Timothy. Nick Vujicic. And ten thousand more whose names did not make it into the canon or the news cycle, but who led people to God from hospital beds, from wheelchairs, from the rubble of broken marriages and demolished careers and seasons of depression so dark they could taste it.
-
-Why does God work this way? We have touched the answer already, but it deserves to be said plainly.
-
-He works this way because the glory must land in the right place.
-
-If you are healthy, gifted, eloquent, confident, and successful, and things go well for you in ministry, the world will praise your gifts. They will read your books and buy your conference tickets and quote your Instagram captions and the conversation will, again and again, circle back to you. This is not wickedness. It is just how human attention works. We are drawn to excellence and we attribute the results to the excellent.
-
-But when a man with no arms leads a million people to Christ, and when a woman in the middle of clinical depression preaches a sermon that cracks someone's wall open, and when a pastor who cries every Saturday night before Sunday morning stands at the pulpit and the Holy Spirit shows up anyway, and when a young person still raw from abuse becomes the safest person in the room for others who are raw from abuse, something else happens. The conversation cannot find anywhere to land except on God. The miracle is too obvious. The gap between the vessel and the result is too wide to fill with talent.
-
-That gap is not a problem to be solved. That gap is the signature of grace.
-
-Tim Keller, in his writing on suffering, observed that "one of the main ways we move from abstract knowledge about God to a personal encounter with him as a living reality is through the furnace of affliction." The furnace does something to the person inside it that comfortable living simply cannot replicate. It burns away the pretending. It burns away the performance. What is left, when everything else is gone, is either authentic faith or nothing at all. And authentic faith, leaning hard on a God who is real and present and sufficient, is the most powerful thing this world has ever seen.
-
-The African church knows this. You cannot spend any serious time among the churches of Nigeria, of Congo, of Uganda, of Ghana, and walk away thinking that prosperity and ease are the soil in which the most powerful testimonies grow. The testimonies that stop a room are the ones that begin with devastation. The prayers that carry the most weight are the ones prayed by people who prayed their way through the worst years of their lives and have the receipts. There is a quality of intercession that only comes from someone who has needed God at the level of desperation, not convenience. That quality is not taught. It is forged.
-
----
-
-## The Only Question That Remains
-
-So here is where this lands.
-
-If you are reading this while carrying something you wish you were not carrying, some physical thing, some emotional thing, some past thing, some present thing, something that has made you feel disqualified from whatever it is you sense God has been saying to you, this is what the biblical record is telling you:
-
-You have misread the requirements.
-
-Not that God is indifferent to your suffering. He is not. He is the God who is close to the brokenhearted and saves those who are crushed in spirit, as Psalm 34:18 tells us. He sees the thorn. He has not forgotten your name. He has not lost the address of your pain. But He is also the God who, when you ask Him to remove the thing that is humbling you, sometimes answers with something better than removal: grace that is sufficient, power that is made perfect, and a testimony that no conference speaker with a flawless life could buy at any price.
-
-Your weakness is not evidence that God has passed you by. Your weakness is evidence that God is setting something up.
-
-Moses went to Pharaoh with a heavy tongue and brought out a nation.
-
-Paul wrote letters with a thorn he never named that are still being read by two billion people two thousand years later.
-
-Nick Vujicic walked into a stadium with no arms and no legs and the people who came to see a curiosity left weeping at the cross.
-
-None of them were qualified, by any metric the world respects, for what they did.
-
-All of them did it anyway, leaning into a God who was not waiting for them to get well before showing up. He was already there, in the breaking.
-
-He is already there, in yours.
-
-> *"The LORD is close to the brokenhearted and saves those who are crushed in spirit."*
-> — Psalm 34:18 (NIV)
-
-> *"That is why, for Christ's sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong."*
-> — 2 Corinthians 12:10 (NIV)
-
----
+***
 
 ## References
 
 ### Biblical References
 
-- **Exodus 4:10 (NASB)** — Cited to establish Moses' self-reported speech impediment and his protest against God's commissioning; central to the argument that God calls the broken into their purpose.
-- **Exodus 4:11–12 (NASB)** — God's response to Moses, asserting divine sovereignty over human limitation and the promise of His presence in the act of speaking; foundational to the article's core claim.
-- **Genesis 32:24–31 (NKJV)** — Alluded to in the reference to Jacob's limp as the physical mark of his encounter with God; used to show that weakness can become testimony.
-- **Psalm 34:18 (NIV)** — Cited in the closing section to ground the comfort of the article in God's nearness to the suffering; functions as pastoral anchor.
-- **1 Corinthians 1:27–29 (NKJV)** — Core theological text for the article's central argument; cited in full to establish that God's preference for the weak is intentional and purposive.
-- **2 Corinthians 12:9 (NIV)** — The defining verse of the article's theological framework; God's response to Paul's request for the removal of his thorn, establishing that divine power is perfected in human weakness.
-- **2 Corinthians 12:10 (NIV)** — Cited in the closing as Paul's personal resolution and doxology of weakness; used as the theological and emotional climax of the invitation.
-- **1 Timothy 5:23 (NIV)** — Alluded to in the section on Timothy to establish his chronic physical illness and Paul's practical pastoral response to it; grounds the argument in the New Testament's own acknowledgment of ministerial weakness.
+* **Exodus 2:12 (referenced, not quoted).** Moses killing an Egyptian, the record the imagined notice could not accept.
+* **Exodus 4:10 (ESV).** Moses names his speech difficulty as his reason to refuse the call.
+* **Exodus 4:11 to 12 (ESV).** God's reply to Moses, which promises presence and does not offer a cure first.
+* **Judges 6:11 (referenced, not quoted).** Gideon threshing wheat in a winepress.
+* **Judges 6:12, 15, 16 (ESV).** Gideon's greeting, his protest that he is the least, and God's promise to be with him.
+* **Jeremiah 1:8 (ESV).** God answers Jeremiah's youth and fear with his own presence (verse 6 referenced for the protest).
+* **Matthew 8:14 to 15 and Mark 2:1 to 12 (referenced, not quoted).** Peter's mother in law and the paralysed man, used for the sceptic's point that Jesus healed.
+* **Genesis 32:22 to 31 (referenced; verse 31 quoted, ESV).** Jacob limping after the wrestling at the Jabbok.
+* **1 Timothy 5:23 (ESV).** Paul's practical advice to Timothy about his stomach and frequent ailments.
+* **2 Timothy 1:6 to 7 (referenced, not quoted).** The background for reading the second letter as encouragement to a nervous younger leader.
+* **2 Corinthians 12:7 to 8 (ESV).** Paul's thorn and his three petitions.
+* **2 Corinthians 12:9 (ESV).** The answer that grace is sufficient and power is made perfect in weakness.
+* **2 Corinthians 12:10 (ESV).** Paul's conclusion, used in the closing invitation.
+* **1 Corinthians 1:27 to 29 (ESV).** Paul's stated reason that God chooses the weak, so that no one boasts.
+* **Psalm 34:18 (ESV).** God's nearness to the brokenhearted, used in the closing.
 
 ### Other Sources
 
-- Crossway. (2021, December 29). *What was Paul's thorn in the flesh? (2 Corinthians 12)*. Crossway Articles. https://www.crossway.org/articles/what-was-pauls-thorn-in-the-flesh-2-corinthians-12/
+* ABC News. (n.d.). *Born without limbs, refusing limitations*. https://abcnews.com/Health/story?id=4531209
+* Christianity.com. (2026, August 18). *Nick Vujicic reflects on loss, fatherhood, and faith in new film*. https://www.christianity.com/wiki/current-events/nick-vujicic-reflects-on-loss-fatherhood-and-faith-in-new-film.html
+* K24 Digital. (2026, May 17). *Evangelist Nick Vujicic opens up on almost ending his life at age 10*. https://k24.digital/entertainment/evangelist-nick-vujicic-opens-up-on-almost-ending-his-life-at-age-10
+* Lewis, C. S. (1940). *The problem of pain*. Geoffrey Bles.
+* NickV Ministries. (2024). *Nick biography*. https://nickvministries.org/about/nick-biography/
+* NickV Ministries. (2026). *Home*. https://nickvministries.org/
+* Nick Vujicic doc "No Limbs, No Limits" explores faith, family and finding purpose through pain. (2026, May 6). *The Christian Post*. https://www.christianpost.com/news/nick-vujicic-doc-no-limbs-no-limits-explores-faith-family.html
+* Ortlund, D. C. (2021, December 29). *What was Paul's thorn in the flesh? (2 Corinthians 12)*. Crossway. https://www.crossway.org/articles/what-was-pauls-thorn-in-the-flesh-2-corinthians-12/
+* WaterBrook & Multnomah. (2017, May 16). *WaterBrook & Multnomah mourns the loss of author Boris Vujicic* [Press release]. https://waterbrookmultnomah.com/?p=27679
 
-- Hamilton Strategies. (2025, December 22). *NickV Ministries plots 'Onward for 1 Billion More' global outreach campaign for 2026*. Hamilton Strategies Press. https://hamiltonstrategies.com/2025/12/22/nickv-ministries-plots-onward-for-1-billion-more-global-outreach-campaign-for-2026/
+### Translation Notices
 
-- Keller, T. (2013). *Walking with God through pain and suffering*. Dutton.
-
-- Lewis, C. S. (1940). *The problem of pain*. Geoffrey Bles.
-
-- NickV Ministries. (2024). *Nick biography*. https://nickvministries.org/about/nick-biography/
-
-- Shellnutt, K. (2023, September 5). Nick Vujicic challenges "delusional" American Church to repent: "Demons are laughing in your face." *The Christian Post*. https://www.christianpost.com/news/nick-vujicic-challenges-delusional-american-church-to-repent.html
-
-- Smith, J. (2026, May 6). Nick Vujicic doc "No Limbs, No Limits" explores faith, family and finding purpose through pain. *The Christian Post*. https://www.christianpost.com/news/nick-vujicic-doc-no-limbs-no-limits-explores-faith-family.html
+* Scripture quotations are from the ESV® Bible (The Holy Bible, English Standard Version®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.

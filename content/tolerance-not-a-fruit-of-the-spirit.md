@@ -1,187 +1,166 @@
 ---
 title: When Loving People Means Telling Them the Truth
+subtitle: Patience is a fruit of the Spirit, and approval is not on the list
+summary: The old tolerance meant bearing patiently with people who differ, and Christians owe that to everyone, but the newer meaning asks us to affirm every belief, which love cannot do, because love tells the truth to the people it sits with.
 category: Church & Culture
-verse: The most dangerous thing you can do to another person is tell them a comfortable lie.
-verse_ref: Anonymous
+verse: Faithful are the wounds of a friend; profuse are the kisses of an enemy.
+verse_ref: Proverbs 27:6 (ESV)
 ---
 
-## Everyone Is Welcome. Not Everything Is.
+## A Thumbs Up Nobody Quite Meant
 
-There is a man somewhere in Lagos right now — perhaps in Victoria Island, perhaps in Surulere — who has discovered that the safest opinion he can hold is no opinion at all. He has learned that the shortest route to social peace is to smile at everything, affirm everything, and reserve his actual convictions for the inside of his own skull. He has been told, in language that sounds kind but carries the weight of a verdict, that he is *intolerant*. And because no one in the modern world wants to be that word, he has started to wonder whether his faith, with its insistence on things like truth and repentance and the uniqueness of Christ, is not some kind of personality defect in need of correction.
+Picture a family WhatsApp group on a Sunday afternoon. Somebody's cousin posts a graphic with a sunset on it and a line underneath saying that all religions lead to the same God, and within a minute the thumbs have come in. The aunty who runs the group sends three. A nephew just back from his master's degree abroad adds a clapping emoji. And one man, who goes to church every week and who has been taught that Jesus is the only way to the Father, reads the line twice and puts his phone face down on the table.
 
-This man is not alone. He sits in churches from Abuja to Atlanta, from Accra to Aberdeen. He has been made to feel that the most Christian thing he can do is hold the door of belief wide open and wave every idea through with a smile. The church, it seems, has confused hospitality with theology. It has mistaken open arms for an open mind. And in its desperate hunger for the approval of a culture that has never particularly loved it, it has traded the sharpness of the gospel for the smoothness of a press release.
+He doesn't reply. He's been called intolerant before, at a dinner and once on a bus, and he has noticed that the word works like a verdict. You can't appeal it. It arrives sounding kind, and the only answer anyone expects from you is an apology. So he does what many of us have done, and he decides the safest opinion he can hold is none at all. He will smile, nod, and keep what he actually believes inside his own head, where it can't offend anybody.
 
-Let us talk about tolerance. Not dismiss it — talk about it. Because the conversation is worth having, and the confusion is worth clearing.
+I'd like to speak to that man, because I think he's been handed a false choice. He has been told that the Christian options are to approve of everything or to be a bigot, and he has been quietly agreeing to a tidy arrangement that neither Scripture nor common sense supports. The word that sits in the middle of the arrangement is *tolerance*. It deserves a better hearing than it usually gets, from both sides, and the argument has more than two ends.
 
----
+## What the Word Used to Mean
 
-## The Word That Changed Its Meaning Without Telling Anyone
+Words don't announce when they change. They shift the way a river shifts course over decades, and one morning you look up and the water is somewhere else.
 
-Words do not announce when they are quietly changing meaning. They simply shift, the way a river shifts course over decades and one morning you look up and realise the water is no longer where it used to be.
+The Bible scholar D. A. Carson, in *The Intolerance of Tolerance* (2012), argued that this is exactly what has happened to the word. In its older sense, tolerance meant putting up with views you thought were wrong. You let someone hold a belief, say it aloud, and argue for it, and you kept the right to say you thought they were mistaken. That was the point. There was nothing to tolerate if you agreed. In the newer sense, on Carson's account, the weight has moved from allowing contrary opinions to accepting all of them. In a line quoted by Daniel Snape in his review for *The Pneuma Review*, Carson describes the shift as one "from allowing the free expression of contrary opinions to the acceptance of all opinions" (Carson, 2012, pp. 3 to 4, as quoted in Snape, 2016).
 
-*Tolerance* is that kind of word.
+You can see the difference in public documents. The UNESCO Declaration of Principles on Tolerance, adopted in Paris on 16 November 1995, begins by saying that "Tolerance is respect, acceptance and appreciation of the rich diversity of our world's cultures," and the sentence goes on from there. In the next clause, it adds something that I'd like Christians and their critics to read together: "Tolerance is not concession, condescension or indulgence." So even the most official definition of the word keeps a line between respecting a person and agreeing with everything the person says.
 
-Earlier dictionaries understood tolerance as the endurance of things one finds objectionable — the capacity to let someone exist, to live alongside them, without requiring that you approve of everything they do or believe. This was, in its own way, a serious virtue. It asked something of you. It cost you something. It meant sitting across from someone whose ideas you found dangerous or wrong, and choosing not to crush them.
+Nigerians are better placed than most to understand why the older meaning matters. Section 38 of our constitution gives every person freedom of thought, conscience and religion, including the freedom to change his religion or belief, and to "manifest and propagate" it in worship, teaching, practice and observance. Look at what that sentence protects. It protects a Muslim's right to call people to Islam and a Christian's right to call people to Christ, and it protects a person's right to say no to both. Nobody in that sentence is required to agree with anybody. They are required to let each other speak, and to live in the same country afterwards. That is the old tolerance, written into law, and I'd defend it against all comers.
 
-Today's definition has moved. Significantly. Tolerance now means, in the mouths of most who wield it, the *acceptance* of feelings, habits, and beliefs different from your own — not mere endurance, but embrace. The word has been promoted from referee to cheerleader. It no longer asks you to let ideas exist; it asks you to applaud them. And it reserves its fiercest condemnation — here is the irony that deserves to be printed large — for anyone who dares to say that some ideas might be wrong.
+## The Best Case for Calling Us Intolerant
 
-There is a name for the position that demands tolerance from everyone while extending it to no one. The name is hypocrisy. And the people who shout loudest for tolerance tend to be the ones least willing to tolerate the possibility that Jesus Christ is who he said he was.
+Before I say what I think is wrong with the new meaning, I owe it a fair hearing, because the person who holds it is not stupid and often not unkind.
 
-The apologist Rich Deem made the observation that has stayed with me: the "intolerance" of Christians is a direct result of the teachings of their founder — a man who, by today's standards, would be among the most intolerant figures in recorded history.
+Here is how I think such a person would put it, and I hope she'd say yes, that's my view. You tell me every human being is made in God's image, and I believe you mean it. But then you tell my brother his relationship is a sin, or my friend that her religion is false, and what I hear underneath the kindness is a ranking. In my experience, "I'm only telling you the truth" has too often been the sentence that comes before a door closing. People have been sent out of family gatherings with it, and out of churches, and in some places out of their lives. And in this country we have buried far too many neighbours who were killed by people who were perfectly certain they were right. When I ask you to tolerate everything, I'm asking for peace. I'm not trying to destroy your faith. I'm trying to get everybody home alive.
 
-His name is Jesus of Nazareth. We should probably spend some time with him.
+I think that is a serious position, and parts of it are simply correct. Christians have used the truth as a weapon, and some of us have enjoyed it. The fear of religious violence in Nigeria is not an invention, and the people who carried it out did not all belong to one faith. A church that answers this with a lecture on logic deserves the contempt it gets.
 
----
+But the argument has a weak joint in it, and it's the place where peace and agreement are treated as the same thing. They aren't. Peace comes from restraint, and Nigerians have learned over a long and bloody history that it can survive a very great deal of disagreement. It cannot survive one side deciding that the other has no right to hold its view. The new tolerance, by asking for applause, makes the same mistake from the other direction. And it is worth noticing how quickly it turns hard on anyone who won't clap, so that the loudest calls for tolerance sometimes come attached to the least patience for a person who says *I disagree*.
 
-## The Passage Everyone Quotes and Almost Nobody Finishes Reading
+## Patience Is a Fruit and Approval Is Not
 
-Matthew 15 is a chapter that makes modern religious sensibility very uncomfortable. The Pharisees have arrived with a complaint: Jesus' disciples are not observing the tradition of the elders. They are not washing their hands in the ceremonially prescribed way. This is not, to them, a trivial matter. It is identity, heritage, culture, religion — all bound up together in the water poured over hands before a meal.
+Paul gives a list in his letter to the Galatians, and it is a good place to check what the Spirit actually produces.
 
-Jesus does not soften his response. He calls them hypocrites. He quotes Isaiah at them. He accuses them of nullifying the Word of God for the sake of their traditions. And then, after they leave and the disciples come to him with the nervous question that disciples have always brought to prophets — *Do you know that what you said offended them?* — he says something that would have earned him a strongly worded letter from the modern church's committee on public relations:
+> *"But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,"*
+>
+> — Galatians 5:22 (ESV)
 
-> *"Every plant that my heavenly Father has not planted will be pulled up by the roots. Leave them; they are blind guides. If the blind lead the blind, both will fall into a pit."*
-> — Matthew 15:13-14 (NIV)
+The verse carries on into gentleness and self control. Look through the list and tolerance isn't on it, in either meaning. Patience is. That is a different word, and I think it is closer to what the old tolerance was reaching for. Patience is the capacity to bear with a difficult person for a long time without giving up on them. Paul uses the idea again when he tells the Colossians what to do with each other.
 
-Leave them. Blind guides. A pit. This is not the language of someone calibrating his message for maximum inoffensiveness. This is not a man worried about what the Jerusalem Post would say tomorrow morning. This is a man who loved people enough to tell them, with the unflinching directness of a physician who has seen the X-ray, exactly what the diagnosis was.
+> *"bearing with one another and, if one has a complaint against another, forgiving each other;"*
+>
+> — Colossians 3:13 (ESV)
 
-The church at Thyatira received a different kind of rebuke — not for being too harsh, but for being too accommodating. They had made space for a woman whose teaching was leading people into sin:
+Notice that the verse takes it for granted that there is a complaint. Bearing with someone presupposes that something about them is hard to bear, and the apostle doesn't ask us to pretend otherwise. We are asked to stay in the room, to keep forgiving, and to stay patient with the person while continuing to say, when it's time, that something is wrong. This is more costly than applause. It's easy to affirm a stranger, and it's much harder to put up with a difficult uncle for thirty years.
 
-> *"Nevertheless, I have this against you: You tolerate that woman Jezebel, who calls herself a prophet. By her teaching she misleads my servants into sexual immorality and the eating of food sacrificed to idols."*
-> — Revelation 2:20 (NIV)
+So when a friend tells me that a Christian ought to be tolerant, I'm happy to agree, as long as we're clear which tolerance we mean. If you mean bearing with people, listening to them, defending their right to speak and to worship, sitting at the same table and refusing to treat them as enemies, then yes, and Jesus was more tolerant than most of us. He was accused of eating with sinners, which is exactly what the Pharisees said of him in Luke 15. If you mean approving of every belief and calling every road the same road, then no. That isn't on Paul's list and it isn't love. Love doesn't need me to believe everything you believe. It needs me to stay.
 
-Read that sentence again. *I have this against you.* The charge is not cruelty. The charge is not harshness. The charge is *tolerance*. The church had been so eager to keep the peace, so reluctant to cause offence, that it had allowed a false teacher to do her work unchallenged — and the risen Christ, standing among his lampstands, called it a failure.
+## Where Jesus Was Not Gentle
 
-There are cities in West Africa and in North America, and in Europe where the same charge could be levelled today. Churches so anxious not to offend that they have stopped proclaiming. Pulpits so occupied with affirmation that they have run out of room for truth. Congregations so culturally fluent that they have become theologically illiterate. They have tolerated Jezebel and called it love.
+It would be dishonest to stop there, because the gospels show Jesus saying things that no public relations adviser would have signed off on. In Matthew 15 the Pharisees complain that his disciples don't wash their hands in the way the elders required, and Jesus answers that they have set aside the commandment of God for the sake of their tradition. The disciples are worried. They come to him afterwards with the kind of nervous question that Nigerian families know very well, the one that begins *Sir, do you realise that they are offended?*
 
----
+> *"Do you know that the Pharisees were offended when they heard this saying?"*
+>
+> — Matthew 15:12 (ESV)
 
-## What Jesus Was Actually Doing When He Offended People
+He doesn't apologise. He says this.
 
-It is important to say plainly: Jesus was not deliberately provocative. He did not wake up each morning looking for someone to upset. He was not the religious equivalent of a man who picks fights at bus stops for sport. The offence was not the point. The truth was the point. The offence was simply what happened when truth entered a room that had been furnished entirely with comfortable lies.
+> *"Let them alone; they are blind guides. And if the blind lead the blind, both will fall into a pit."*
+>
+> — Matthew 15:14 (ESV)
 
-When he taught in his hometown, they took offence at him not because he insulted them, but because they could not reconcile the carpenter's son with the authority of his words. When he said *"Blessed is he who does not stumble on account of me"* (Matthew 11:6, ESV), he was acknowledging something real: following him would cost something, and not everyone was prepared to pay it. When he cleared the temple, turning over tables and driving out merchants, the offence was the cost of what was being protected — a house of prayer that had been converted into a marketplace.
+There's a physician's directness in that, and I don't think it is cruelty. It's what a doctor does when he has read the scan and decides not to talk about the weather. But I should add that the offence was never the aim. Jesus didn't wake up looking for people to upset, and he spent far more of his time with the broken than with the proud. The offence was what happened when the truth entered a room that had been furnished with comfortable stories. John the Baptist lost his life for telling a king the truth about his marriage (Mark 6:17 to 18). James was put to the sword by Herod (Acts 12:2). Neither man was killed for rudeness.
 
-John the Baptist lost his head because he told a king the truth about his marriage. The apostles were killed not for being provocative but for being persistent. Not for agitating but for proclaiming. The beheadings and crucifixions of the early church were not the price of rudeness. They were the price of clarity.
+The one place in the New Testament where *tolerate* is used as a charge is worth reading with care, because it's often stretched further than it goes. In the letter to the church at Thyatira, the risen Christ says this.
 
-Truth has always been the most dangerous substance in the world. More dangerous than money, more volatile than politics, more threatening to the powerful than any army. And the history of the church — the real history, not the sanitised version sold in comfortable paperback — is the history of people who chose truth over safety and paid for it with everything they had.
+> *"But I have this against you, that you tolerate that woman Jezebel, who calls herself a prophetess and is teaching and seducing my servants to practice sexual immorality and to eat food sacrificed to idols."*
+>
+> — Revelation 2:20 (ESV)
 
-We in Nigeria know this in our bones. The earliest Christian converts in Yorubaland did not step away from the Orisa quietly or without consequence. To confess Christ in a compound where every ancestor had poured libations was not a polite lifestyle choice. It was a rupture. Families fractured. Inheritance was withheld. The converts knew what they were walking into, and they walked in anyway. They were not tolerant of what they had left behind. They were converted which is, when you examine it closely, the most intolerant act a human being can perform. It is the act of saying: this old thing is false, and I am choosing the true one.
+That is a rebuke of a church for what it allowed *inside itself*. A teacher inside the congregation was leading Christians into immorality and idol feasts, and the elders had let her carry on. It isn't a verse about how we should treat our unbelieving neighbours, and nobody should use it as one. What it does show is that the risen Christ can hold a church responsible for its silence. A congregation can be so anxious not to give offence that it stops teaching altogether, and that, too, is a failure of love. A pastor who has noticed that the whole village is following a false road and says nothing because the village is friendly has not shown kindness. He has avoided an awkward conversation.
 
----
+## Two Anglican Answers in 2026
 
-## The God Who Is Slow to Anger and Will Not Be Mocked Forever
+If this all sounds like a tidy argument for the classroom, look at what happened in the Anglican Communion this year, because it shows how hard the question is for people who love both truth and one another, and who take both seriously.
 
-Here is where the argument gets careful, because the truth requires holding two things at once — things that the modern mind, trained on clean binaries, finds difficult to carry in the same hand.
+In March 2026, the Global Anglican Future Conference (GAFCON) met in Abuja from the third to the sixth of the month. According to a report by Joseph Maina for Religion Unplugged, 436 delegates from 48 countries attended, and they dissolved the group's Primates' Council and set up a new Global Anglican Council, with Archbishop Laurent Mbanda of Rwanda as its first chair. The movement had announced in October 2025 that it no longer recognised the traditional structures of the Communion as authoritative. Mbanda criticised the appointment of Sarah Mullally as Archbishop of Canterbury, saying that Canterbury had "chosen a leader who will further divide an already split Communion." The wider dispute goes back to the Church of England's decision in 2023 to allow blessings for same sex couples.
 
-God is intolerant of sin. This is not a minor footnote in the biblical story; it is the reason the story exists. The whole narrative of Scripture — the covenants, the law, the prophets, the cross, the resurrection, the coming judgment — is the story of a holy God dealing with a creation that has broken his design. His holiness is not a cold abstraction. It is the burning fire that cannot coexist with what corrupts. He is not merely uncomfortable with sin. He is fundamentally, essentially, cosmically opposed to it.
+A few weeks later, on 25 March, Mullally was installed at Canterbury Cathedral, with, according to the Episcopal News Service, twenty six Anglican primates in attendance. She said she would work to "break down the walls that divide us."
 
-And yet:
+I'm not using this to settle the dispute, and I don't think a short essay could. What I notice is that both sides believe they are acting out of love. As I understand the Abuja position, a communion that cannot say what Scripture teaches is not united in anything worth the name, and walking apart is the honest alternative to pretending. As I understand the Canterbury position, walking apart is itself a failure to bear with one another, and a family that leaves the table has given up on the one thing it was called to do. Both can quote Paul. Both have been hurt by the other. And a slogan about tolerance helps neither of them, because each side is using the word to mean something the other would not recognise.
 
-> *"This is good, and it is pleasing in the sight of God our Savior, who desires all people to be saved and to come to the knowledge of the truth."*
-> — 1 Timothy 2:3-4 (ESV)
+What helps, I think, is a question that comes before the doctrine, and it's the question the rest of this essay is about. Whatever you believe is true, how do you say it to a person you actually love?
 
-The same God who cannot look upon sin without judgment desires that every sinner — every single one — would come home. He is, as Peter puts it, *"not wishing that any should perish, but that all should reach repentance"* (2 Peter 3:9, ESV). His longsuffering is not weakness; it is strategy. He is giving time, because he knows what judgment costs, and he would rather save than condemn.
+## What Truth Costs the One Who Tells It
 
-A Yoruba proverb puts it plainly: the Lord keeps calling, hoping you will turn back. The God of Scripture is precisely this: patient beyond all reasonable expectation, long-suffering past the point where any human judge would have closed the file, yet absolutely firm about where the road ends if repentance does not come.
+This is where I think the usual argument turns. We've been asking whether Christians are allowed to say hard things, and the honest answer is yes, they have to. But the better question is whether we've earned the right to be believed.
 
-This is not contradiction. This is holiness in full. Love that tells you the truth about your condition, and justice that means the truth will eventually be enforced. God tolerates much. He has been tolerating us for centuries — our idolatry, our pride, our creative theological inventions that have the shape of worship and the content of self-service. But there is a horizon. And beyond it, as Jesus told the cities of Chorazin, Bethsaida, and Capernaum, is something worse than Sodom:
+Think about what we trust in ordinary life. If a doctor knows the growth is malignant and says nothing, we call it negligence. If a friend knows the bridge is out and waves you cheerfully towards it, we call it betrayal. Nobody calls either of them tolerant. And yet if a stranger leans out of a passing car to shout that you're going to hell, we don't call him loving either. We call him loud. What separates the doctor from the shouter is not the content of the message. It's that one of them has been in the room with you, has read your file, and will still be there tomorrow.
 
-> *"But I tell you that it will be more bearable for Sodom on the day of judgment than for you."*
-> — Matthew 11:24 (NIV)
+The proverb has it exactly.
 
-Sodom, which burned. More bearable for Sodom than for the cities that had seen miracles and looked away. This is not a God who tolerates everything indefinitely. This is a God who loves with a ferocity that demands a response.
+> *"Faithful are the wounds of a friend; profuse are the kisses of an enemy."*
+>
+> — Proverbs 27:6 (ESV)
 
----
+The wound is faithful because it comes from a friend. Take the friendship away and the same words are just a wound. And take the wound away and what remains is a very large number of kisses, and they come from an enemy, the writer says, because someone who will only ever flatter you has stopped caring where you end up. The new tolerance is a great deal of kissing. The shouted verdict from a passing car is a great deal of wounding. Neither is what Paul had in mind when he told the Ephesians what a grown up church does.
 
-## The Night Someone Offended Me Into the Kingdom
+> *"Rather, speaking the truth in love, we are to grow up in every way into him who is the head, into Christ,"*
+>
+> — Ephesians 4:15 (ESV)
 
-There is a testimony buried in the source material for this article that deserves to be pulled into the light, because it says something that no amount of theological argument can say as well.
+The phrase is not *speaking truth, and also being nice*. It's truth spoken in love, and for that you have to be there. You have to know the person's name and their children's names and where the pain is. You have to be willing to drive to the hospital. That is why I distrust both the church that will say nothing to anyone and the Christian who treats every conversation as a chance to score.
 
-A young man's car breaks down late at night. A friend — a teenager, no seminary training, no carefully crafted evangelism strategy — stops and offers him a ride. The very first words out of his mouth: *"Are you a Christian? If you aren't, you're going to hell."*
+Stories of a certain kind get told in churches, and I'd treat them as scenes and not as records, because I can't trace this one to a source. Picture a young man whose car breaks down at night. A teenager stops, gives him a lift, and says within the first minute that if he isn't a Christian he is going to hell. The young man nearly asks to be dropped at the roadside, but it's a long walk in the dark, so he stays. Years later he comes to faith, and he says the blunt question is what stayed with him. If that happened, I'm glad for him. But I'd be careful what I learn from it. For every young man who is eventually grateful to the stranger in the car, there must be many more who were simply driven away and never came back, and we never hear their side. Truth does sometimes arrive without manners and still find its mark. It would be a strange policy to plan for that.
 
-The man who received that question almost asked to be dropped at the side of the road. The words landed on him like an open palm. He stayed only because the alternative was a long walk in the dark. And the young evangelist, apparently unaware that he was supposed to be more pastoral about this, kept sharing the gospel until they reached the destination.
+## The Sentence Nobody Can Soften
 
-Five years passed. And the man gave his life to Christ.
-
-That question — blunt, graceless by modern standards, utterly without technique — nagged him for five years. Because he knew it was true. Not because it was delivered perfectly. Not because the messenger had calibrated his emotional intelligence to the moment. But because truth, even when it arrives without manners, has a way of finding the wound it was made for.
-
-I want to be careful here. This is not a licence for cruelty. This is not permission to bludgeon people with Bible verses and call it evangelism. The Christian life is one of love — genuine, sacrificial, costly love for people — and that love includes the patience to earn the right to be heard. But it also includes the courage to speak when the moment comes, without first sanding down every hard edge of the gospel until nothing remains sharp enough to cut through indifference.
-
-The cross is an offence. Paul says so, plainly. *"The word of the cross is folly to those who are perishing"* (1 Corinthians 1:18, ESV). You cannot make it palatably inoffensive without making it useless. You cannot remove the scandal without removing the salvation.
-
----
-
-## The Most Intolerant Sentence Ever Spoken
-
-If we are honest — and the apologist must be honest, even when it is inconvenient — there is one statement in all of human history that the modern world finds more offensive than almost anything else. Not a political manifesto. Not a religious law. Not a philosophical claim. A sentence spoken by a carpenter on the night before his death:
+None of this lets us off the hook about the thing that makes the world most uncomfortable with us. In the upper room, the night before his death, Jesus said this.
 
 > *"I am the way, and the truth, and the life. No one comes to the Father except through me."*
+>
 > — John 14:6 (ESV)
 
-Not *a* way. *The* way. Not one truth among many truths. *The* truth. Not a life option on the menu of spiritual experience. *The* life.
+There's no softer reading of this that does justice to the words. It does not say that Jesus is one good teacher among several, or that every road leads up the same mountain. It says that he is the way. I'd rather say that plainly than offer a gentler version of it that I'd have to defend later to my own conscience.
 
-This sentence has no room for the polite pluralism that the modern world requires of all religions. It makes no allowance for the comfortable idea that all roads lead to the same place and the differences between them are merely aesthetic. It stands in the middle of history like a wall, and it says: here, and not elsewhere. This way, and not that one.
+But look at what sort of claim it is. It's a claim about a person. It isn't a ranking of cultures or a verdict on anybody's grandmother. A Muslim neighbour who holds that the final revelation came through the Prophet is making an exclusive claim as well, and I would never ask him to stop, because that's what it is to hold a faith and not a hobby. What I'd ask of both of us is what the constitution asks, that we let each other make the claim aloud, listen to the reasons, and go on being neighbours. The Christian who believes John 14:6 has no need to hate or to hurry anyone. If anything, the claim tells him he's in no position to take the credit for any of it, because he didn't find the door. He was shown it, and shown it by someone who was not ashamed to sit with him.
 
-All roads may lead to the top of the mountain. Perhaps. Different traditions, different philosophies, different spiritual quests, all ascending. But at the summit there is a door. And the man who built the door has told us what the key is. You can dispute his authority to make that declaration. You can reject the claim and live with the consequences. What you cannot do what intellectual honesty will not permit is pretend he said something other than what he said.
+I find that this changes the tone. A person who thinks he has won an argument tends to sound triumphant. A person who thinks he has been rescued tends to sound like someone who knows what the water was like.
 
-He said: no one. He meant: no one.
+## A Word to the Man With His Phone Face Down
 
-This is not Christianity at its most arrogant. This is Christianity at its most honest. The gospel does not offer a buffet. It offers a rescue. And rescues, by their nature, come with conditions — you must acknowledge that you are in danger, and you must accept the hand being extended. Telling someone they are drowning is not unkind. Pretending they are fine while they go under — that is the real cruelty.
+Go back to the family group chat. The thumbs are still coming in, and the man at the table has been staring at the screen for a while.
 
----
+I'd like to suggest that he has more options than a thumbs up or a sermon. He could write something short and warm, the way you'd talk to a person you've known all your life. He might say that he doesn't agree that all religions say the same thing, that he'd love to talk about it over a meal, and that he's not going anywhere. Or he might say nothing in the group, and ring the cousin afterwards. What he shouldn't do is bury the conviction for the sake of a quiet Sunday, because the people in that chat are the very ones to whom he owes it.
 
-## What Love Actually Demands
+You may be this man. If you've been called intolerant one time too many, I hope you can hear that the discomfort you feel isn't a defect in your faith. Some of it is the ordinary friction of holding a belief in company that doesn't hold it. Do not go looking for offence, and don't be afraid of it either. Be the kind of person who is patient with people for decades, who can be trusted with their secrets and their grief, and who can therefore be heard on the day you finally say the hard thing.
 
-Here is the volta. Here is where the floor shifts.
+Say it slowly. Say it to someone you'd be willing to sit up with all night. And if you can't think of a person you'd do that for, then start there, because you have found the first thing the truth needs from you.
 
-We have spent this entire article talking about intolerance and we have not yet said the thing that matters most. Because the question is not really whether Christians should be tolerant or intolerant. The question is what it actually means to love someone.
+***
 
-If a doctor knows that the growth is malignant and does not tell the patient, we do not call that kindness. We call it negligence. If a friend knows the bridge is out and waves you cheerfully toward it anyway, we do not call that compassion. We call it betrayal. Love — real love, the kind that costs something, the kind that was willing to go to a cross to prove its point — does not withhold the truth to protect the comfort of the moment. It speaks, even when speaking is harder than staying silent.
+## References
 
-The church is not called to be the world's most enthusiastic validator. It is called to be the pillar and foundation of the truth (1 Timothy 3:15). Not a pillar of niceness. Not a foundation of affirmation. Truth. The thing that, as Jesus himself said, sets people free.
+### Biblical References
 
-You can love a person genuinely, warmly, sacrificially love them while believing that what they believe is wrong. You can treat every human being as a person made in the image of God, and mean it with your whole heart, while also refusing to pretend that all belief systems lead to the same place. These are not contradictions. They are the two hands of authentic Christian witness, held together in the same person, at the same time, toward the same people.
+* **Proverbs 27:6 (ESV).** The epigraph, and the verse that grounds the argument that truth needs friendship to be heard and that flattery is a kind of neglect.
+* **Galatians 5:22 (ESV).** The fruit of the Spirit includes patience, and the list contains no word for approval of every belief.
+* **Colossians 3:13 (ESV).** Bearing with one another presupposes a complaint; patience is staying in the room.
+* **Matthew 15:12 to 14 (ESV).** Jesus answers the Pharisees' offence with a plain diagnosis; used to show that truth sometimes offends without being unkind.
+* **Mark 6:17 to 18 (paraphrased).** John the Baptist confronts Herod about his marriage.
+* **Acts 12:2 (paraphrased).** James killed by Herod; used with John the Baptist to show the cost of speaking plainly.
+* **Luke 15:1 to 2 (paraphrased).** The Pharisees accuse Jesus of eating with sinners; Jesus' welcome as the model of patience.
+* **Revelation 2:20 (ESV).** The church at Thyatira rebuked for tolerating a teacher who led others into immorality and idolatry; read as a charge about what a church allows within itself.
+* **Ephesians 4:15 (ESV).** Truth spoken in love as the way a church grows; used to show that the two cannot be separated.
+* **John 14:6 (ESV).** The exclusive claim of Christ, treated as a claim about a person.
 
-What we cannot do — what faithfulness will not allow — is choose between love and truth as though they were rivals. They are not rivals. They are married. Separate them and you get, on one side, a loveless truth that beats people over the head with a Bible, and on the other side, a truthless love that holds people's hands as they walk toward a cliff.
+### Other Sources
 
-Neither of those is the gospel. The gospel is both. Always both.
+* Carson, D. A. (2012). *The intolerance of tolerance*. Eerdmans. (Cited as quoted in Snape, 2016.)
+* Episcopal News Service. (2026, March 25). Anglican leaders gather for installation of Archbishop of Canterbury Sarah Mullally. https://episcopalnewsservice.org/2026/03/25/anglican-leaders-gather-for-installation-of-archbishop-of-canterbury-sarah-mullally/
+* Federal Republic of Nigeria. (1999). *Constitution of the Federal Republic of Nigeria 1999*, section 38 (as amended). Text consulted at Nigerian Constitution. https://nigerian-constitution.com/?p=519
+* Maina, J. (2026, March 11). Conservative Anglicans reshape church leadership at historic Nigeria gathering. *Religion Unplugged*. https://religionunplugged.com/news/global-conservative-anglicans-reshape-church-leadership-at-historic-nigeria-gathering
+* Snape, D. P. (2016, June 7). D. A. Carson: The intolerance of tolerance [Book review]. *The Pneuma Review*. https://pneumareview.com/d-a-carson-the-intolerance-of-tolerance/
+* United Nations Educational, Scientific and Cultural Organization. (1995). *Declaration of Principles on Tolerance*. Text consulted at the University of Minnesota Human Rights Library. https://hrlibrary.umn.edu/instree/decl-tol.html
 
----
+### Translation Notices
 
-## The Invitation
-
-There is a reader somewhere at the end of this article who has been called intolerant one too many times. Who has started to wonder whether their convictions are a problem to be solved rather than a gift to be offered. Who has watched their church drift toward affirmation and away from proclamation, and has felt the creeping suspicion that something precious is being traded away for something cheap.
-
-To that reader: you were not wrong to notice. The discomfort you feel is the friction of truth against compromise, and it is supposed to feel like friction. Do not mistake the discomfort for a sign that you should stop believing. It may be the most important sign that you should keep going.
-
-Speak the truth. Speak it in love — real love, not the sentimental kind that flinches at hard sentences, but the kind that was willing to be crucified to make the truth available. Speak it with the patience of someone who knows that seeds take time, and the courage of someone who has read the end of the book and knows how the story finishes.
-
-Offend, when the truth requires it. Do not go looking for offence. Do not cultivate it. But do not run from it either, when it arrives as the natural consequence of saying something real in a world that has grown very comfortable with beautiful lies.
-
-And remember — because this is the thing that steadies the hand when the pushback comes — that somewhere, five years from now, someone may receive the truth you spoke today and discover that it has been nagging them all along. Not because you were clever. Not because you were eloquent. But because the truth you carried was alive, and alive things find a way.
-
-The most intolerant statement ever made was also the most loving. *No one comes to the Father except through me.* Not because it excludes, but because it shows the door. Not because it condemns, but because it saves everyone who chooses to walk through it.
-
-That door is still open.
-
----
-
-## Biblical References
-
-- **Matthew 15:13-14 (NIV)** — Used to establish that Jesus responded to false religious tradition with what modern culture would call intolerance, dismissing the Pharisees without apology or softening.
-- **Revelation 2:20 (NIV)** — The rebuke to the church at Thyatira, where *tolerance* of false teaching is identified as a spiritual failure, not a virtue.
-- **Matthew 11:6 (ESV)** — Jesus' acknowledgment that he would be a stumbling block; establishes that offence caused by truth is not a pastoral failure.
-- **Matthew 5:45 (NIV)** — God's common grace extended to the righteous and unrighteous alike; distinguishes universal love from universal theological agreement.
-- **Matthew 11:24 (NIV)** — The comparative judgment on cities that rejected Christ's miracles; demonstrates that tolerance of unbelief carries eternal consequences.
-- **1 Timothy 2:3-4 (ESV)** — God's desire for all people to be saved; used to hold divine holiness and divine mercy in necessary tension.
-- **2 Peter 3:9 (ESV)** — God's longsuffering as the logic behind his patience with a sinful world; paired with Yoruba proverbial wisdom on God's persistent call.
-- **1 Corinthians 1:18 (ESV)** — The word of the cross as folly to the perishing; establishes that the gospel's offensiveness is inherent, not incidental.
-- **John 14:6 (ESV)** — The centrepiece of the argument: the exclusive claim of Christ as the way, the truth, and the life — the most intolerant and most loving sentence ever spoken.
-- **1 Timothy 3:15 (NIV)** — The church as pillar and foundation of truth; frames the church's vocation as proclamation, not validation.
-
----
-
-## External Sources and Figures Referenced
-
-- **Rich Deem** (Christian apologist, GodAndScience.org) — Quoted on the "intolerance" of Christ as the logical origin of Christian exclusivism.
-- Yoruba proverb: the Lord keeps calling, hoping you will turn back. Used to illustrate God's longsuffering and persistent call toward repentance, grounding the biblical portrait of God in African communal wisdom.
+* Scripture quotations marked ESV are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.
