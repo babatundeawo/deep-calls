@@ -3,7 +3,7 @@ title: God Did Not Raise You So You Could Show Them
 category: Grace & Identity
 verse: Do not say, “I will repay evil”; wait for the LORD, and he will deliver you.
 verse_ref: Proverbs 20:22 (ESV)
-summary: A prayer point that asks God to raise us above those who disgraced us is examined against the angry psalms, the table of Psalm 23, and the lives of Joseph and David.
+summary: A prayer asking God to raise us above those who shamed us, tested against the angry psalms, Psalm 23, and the lives of Joseph and David.
 ---
 
 ## The Prayer Point That Brought the House Down

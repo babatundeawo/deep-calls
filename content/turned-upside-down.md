@@ -4,7 +4,7 @@ subtitle: On the Subversive Intelligence of Heaven
 category: Church & Culture
 verse: For my thoughts are not your thoughts, neither are your ways my ways, declares the Lord.
 verse_ref: Isaiah 55:8 (ESV)
-summary: The charge laid against Paul and Silas in Thessalonica was meant as an insult, but it describes how the kingdom of Jesus really works, by a logic of giving, serving and dying that Rome could not read and that still unsettles every system built on climbing.
+summary: The charge against Paul and Silas in Thessalonica was an insult, yet it describes how the kingdom of Jesus works, by giving, serving and dying.
 ---
 
 ## What the Crowd Said in Thessalonica

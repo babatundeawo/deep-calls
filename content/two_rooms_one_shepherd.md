@@ -4,7 +4,7 @@ subtitle: Can a believer lose salvation
 category: Hard Questions
 verse: "I give them eternal life, and they will never perish, and no one will snatch them out of my hand."
 verse_ref: John 10:28 (ESV)
-summary: Reformed, Arminian and Pentecostal believers answer the question of falling away differently, yet Scripture sets promise and warning side by side for the same flock, and the honest response is to hear both and follow the Shepherd.
+summary: Reformed, Arminian and Pentecostal believers answer the question of falling away differently, yet Scripture sets promise and warning side by side.
 ---
 
 ## Two Rooms and One Question

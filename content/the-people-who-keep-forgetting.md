@@ -3,7 +3,7 @@ title: The People Who Keep Forgetting a Faithful God
 category: Sovereignty
 verse: But this I call to mind, and therefore I have hope.
 verse_ref: Lamentations 3:21 (ESV)
-summary: The Bible treats forgetting what God has done as one of the oldest dangers in faith, and builds remembering into stones, tables, records and the stubborn choices a believer makes in the dark.
+summary: The Bible treats forgetting what God has done as an old danger, and builds remembering into stones, a table, records and choices made in the dark.
 ---
 
 ## Three Hours Into the Prayer Meeting

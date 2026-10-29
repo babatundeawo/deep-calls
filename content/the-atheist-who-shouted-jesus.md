@@ -4,7 +4,7 @@ subtitle: What a burst tyre on the Lagos to Ibadan road says about prayer, argum
 category: Hard Questions
 verse: But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect,
 verse_ref: 1 Peter 3:15 (NIV)
-summary: A constructed scene on a Lagos to Ibadan bus shows why shouting Scripture at an unbeliever fails, what Peter actually asked of apologists, and how little a frightened shout can prove.
+summary: A scene on a Lagos to Ibadan bus shows why shouting Scripture fails, what 1 Peter 3:15 asks of apologists, and what a frightened shout proves.
 ---
 
 ## A bus on the Lagos to Ibadan road

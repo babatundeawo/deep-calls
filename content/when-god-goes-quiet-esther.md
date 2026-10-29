@@ -5,7 +5,7 @@ category: Sovereignty
 verse: On that night the king could not sleep.
 verse_ref: Esther 6:1 (ESV)
 featured: 3
-summary: The book of Esther never names God, yet its sleepless king, its forgotten record and its upside down gallows invite us to trust a hand we cannot see while we do the frightening thing in front of us.
+summary: Esther never names God, yet its sleepless king, forgotten record and reversed gallows invite trust in a hand we cannot see.
 ---
 
 ## The Night the King Could Not Sleep

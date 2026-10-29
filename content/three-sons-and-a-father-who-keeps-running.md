@@ -1,7 +1,7 @@
 ---
 title: Three Sons and a Father Who Keeps Running
 subtitle: Luke 15 is waiting for a brother who goes out to find the lost
-summary: Luke 15 gives us a younger son who leaves, an elder son who stays and sulks, and a father who runs to both, and the story leaves one chair empty for the brother who goes looking, which is the place Jesus was filling while he told it.
+summary: In Luke 15 a father runs to both sons, and one chair stays empty for the brother who goes looking, the place Jesus was filling as he spoke.
 category: Grace & Identity
 verse: And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.
 verse_ref: Luke 15:20 (KJV)

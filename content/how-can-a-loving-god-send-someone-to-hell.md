@@ -4,7 +4,7 @@ category: Hard Questions
 verse: There are only two kinds of people in the end: those who say to God, 'Thy will be done,' and those to whom God says, in the end, 'Thy will be done.' All that are in Hell, choose it.
 verse_ref: C. S. Lewis, *The Great Divorce*, chapter 9
 featured: 2
-summary: Hell is a question a serious Christian has to meet slowly, by asking what love is, who does the sending, what believers have actually taught about hell, and what none of us is entitled to say about the dead.
+summary: Hell is a question to meet slowly: what love is, who does the sending, what Christians have taught, and what none of us may say about the dead.
 ---
 
 ## Two People Asking the Same Question

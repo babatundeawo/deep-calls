@@ -4,7 +4,7 @@ subtitle: Ambition, excellence and humility in the light of Hebrews 1:9
 category: Grace & Identity
 verse: Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.
 verse_ref: Hebrews 1:9 (KJV)
-summary: Hebrews 1:9 is first a verse about the Son, and reading it honestly rules out both the sermon that praises smallness and the sermon that sells oil, leaving a Christian ambition that serves, works well, and expects to pay for it.
+summary: Hebrews 1:9 is first about the Son. It rules out praising smallness and selling oil, and leaves ambition that serves and works well.
 ---
 
 ## Two Sermons and Neither Reads the Verse

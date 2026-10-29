@@ -3,7 +3,7 @@ title: The Blessing That Asks Something of You
 category: Grace & Identity
 verse: The blessing of the LORD, it maketh rich, and he addeth no sorrow with it.
 verse_ref: Proverbs 10:22 (KJV)
-summary: Proverbs 10:22 says the LORD is the source of wealth and that his gift comes clean, and the same Scripture asks the person who receives it for honesty, generosity and knowledge.
+summary: Proverbs 10:22 says the LORD is the source of wealth and that his gift comes clean, and Proverbs asks honesty and generosity of the receiver.
 ---
 
 ## A Billboard on the Ibadan Expressway

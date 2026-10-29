@@ -4,7 +4,7 @@ subtitle: What Oriire taught us, five months on
 category: Church & Culture
 verse: A voice was heard in Ramah, weeping and loud lamentation, Rachel weeping for her children; she refused to be comforted, because they are no more.
 verse_ref: Matthew 2:18 (ESV)
-summary: A retrospective on the May 2026 Oriire school abductions, what the courts and the data have shown since the captives came home, and what the church can do besides pray.
+summary: A retrospective on the May 2026 Oriire school abductions: what the courts and data show since the captives came home, and what the church can do.
 ---
 
 ## What Happened in Oriire on 15 May

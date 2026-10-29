@@ -4,7 +4,7 @@ subtitle: What three sayings in Proverbs say about the favour of God
 category: Wisdom
 verse: A threefold cord is not quickly broken.
 verse_ref: Ecclesiastes 4:12 (ESV)
-summary: Three sayings in Proverbs about obtaining favour from the LORD, on wisdom, on goodness and on marriage, are read slowly, with Ecclesiastes 4:12 as a picture and the life of Jesus as the test of what favour means.
+summary: Three sayings in Proverbs about the favour of the LORD, on wisdom, goodness and marriage, tested against the life of Jesus.
 ---
 
 ## What Proverbs Means by Favour

@@ -4,7 +4,7 @@ subtitle: On denominations, theological triage, and the difference between a fam
 category: Church & Culture
 verse: There is one body and one Spirit, just as you were called to one hope when you were called; one Lord, one faith, one baptism; one God and Father of all, who is over all and through all and in all.
 verse_ref: Ephesians 4:4 to 6 (NIV)
-summary: Why the claim of tens of thousands of Christian denominations says less than it seems to, how to tell a family argument from a real fracture, and what the Anglican and Methodist divisions of the last few years show about where the line runs.
+summary: Why claims of tens of thousands of denominations say less than they seem to, and how to tell a family argument from a real fracture.
 ---
 
 ## The Number Your Colleague Will Quote

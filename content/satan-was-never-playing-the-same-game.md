@@ -4,7 +4,7 @@ subtitle: What the devil misread about the cross, and why it matters to you
 category: Spiritual Warfare
 verse: And all who dwell on earth will worship it, everyone whose name has not been written from the foundation of the world in the book of life of the Lamb who was slain.
 verse_ref: Revelation 13:8 (ESV)
-summary: Paul says the rulers behind the cross did not understand it, and this essay follows that failure through Eden, the wilderness and Good Friday, handling the translation question in Revelation 13:8 honestly along the way.
+summary: Paul says the rulers behind the cross did not understand it. This essay follows that failure from Eden to Good Friday.
 ---
 
 ## The One Thing the Rulers Missed

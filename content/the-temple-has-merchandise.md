@@ -5,7 +5,7 @@ category: Church & Culture
 verse: It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers.
 verse_ref: Matthew 21:13 (ESV)
 featured: 5
-summary: What happens when a church starts to run on the logic of the marketplace, what Scripture and Nigeria's courts and tax laws have to say about it, and what is still standing when the business model fails.
+summary: What happens when a church runs on the logic of the marketplace, what Scripture says about it, and what stands when the business model fails.
 ---
 
 ## A Sunday Morning That Looks Like Business

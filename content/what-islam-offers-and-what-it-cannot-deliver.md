@@ -4,7 +4,7 @@ subtitle: A Christian answer to eight Muslim claims, given in terms a Muslim wou
 category: Hard Questions
 verse: For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all, which is the testimony given at the proper time.
 verse_ref: 1 Timothy 2:5 to 6 (ESV)
-summary: A Christian takes the strongest Muslim claims seriously, answers each in terms a Muslim would accept as fair, and asks what a religion of submission can and cannot do for the human heart, in a Nigeria where both communities carry wounds.
+summary: A Christian takes the strongest Muslim claims seriously, answers them fairly, and asks what a religion of submission can do for the human heart.
 ---
 
 ## Two coursemates and one long argument

@@ -1,7 +1,7 @@
 ---
 title: When Loving People Means Telling Them the Truth
 subtitle: Patience is a fruit of the Spirit, and approval is not on the list
-summary: The old tolerance meant bearing patiently with people who differ, and Christians owe that to everyone, but the newer meaning asks us to affirm every belief, which love cannot do, because love tells the truth to the people it sits with.
+summary: Tolerance once meant bearing patiently with people who differ. Affirming every belief is another thing, because love tells the truth.
 category: Church & Culture
 verse: Faithful are the wounds of a friend; profuse are the kisses of an enemy.
 verse_ref: Proverbs 27:6 (ESV)

@@ -4,7 +4,7 @@ subtitle: The Lamb slain from the foundation of the world, and what it means for
 category: Hard Questions
 verse: even as he chose us in him before the foundation of the world, that we should be holy and blameless before him.
 verse_ref: Ephesians 1:4 (ESV)
-summary: The cross was in God's eternal purpose before Eden, and that changes how a believer can hold suffering and doubt, with the Revelation 13:8 translation question handled honestly and the weight carried by Ephesians 1:4 and 1 Peter 1:19 to 20.
+summary: The cross was in God's purpose before Eden, which changes how a believer can hold suffering and doubt, with Revelation 13:8 handled honestly.
 ---
 
 ## The Story We Tell Children

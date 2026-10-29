@@ -5,7 +5,7 @@ category: Spiritual Warfare
 verse: I saw Satan fall like lightning from heaven.
 verse_ref: Luke 10:18 (ESV)
 featured: 6
-summary: A catchy line about the devil losing his place is mostly true, but the Bible says it more carefully than the slogan does, and the difference matters for anyone who feels besieged.
+summary: A catchy line about the devil losing his place is mostly true, but the Bible says it more carefully, and the difference matters if you feel besieged.
 ---
 
 ## A Chair in a Demonstration Lesson
