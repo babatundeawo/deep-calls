@@ -2,6 +2,7 @@
 title: Turned Upside Down
 subtitle: The subversive intelligence of heaven
 category: Church & Culture
+topics: Church, Culture
 verse: For my thoughts are not your thoughts, neither are your ways my ways, declares the Lord.
 verse_ref: Isaiah 55:8 (ESV)
 summary: The charge against Paul and Silas in Thessalonica was an insult, yet it describes how the kingdom of Jesus works, by giving, serving and dying.

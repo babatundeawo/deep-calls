@@ -2,6 +2,7 @@
 title: No Other Branch
 subtitle: On gods that cannot save and the one who can
 category: Hard Questions
+topics: Jesus, Other faiths, Salvation
 verse: You shall have no other gods before me.
 verse_ref: Exodus 20:3 (ESV)
 summary: Jesus claimed to be the only way to the Father. Seen rightly, that claim is a kindness to people queuing at counters where they hold no account.

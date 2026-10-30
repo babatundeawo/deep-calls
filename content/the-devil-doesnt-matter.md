@@ -2,6 +2,7 @@
 title: The Devil Doesn't Matter
 subtitle: What a physics lesson gets right about the enemy, and where it stops
 category: Spiritual Warfare
+topics: Scripture, Assurance
 verse: I saw Satan fall like lightning from heaven.
 verse_ref: Luke 10:18 (ESV)
 featured: 6

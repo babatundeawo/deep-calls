@@ -2,6 +2,7 @@
 title: The People Who Keep Forgetting a Faithful God
 subtitle: Why the Bible builds remembering into stones, tables and records
 category: Sovereignty
+topics: Providence, Faith
 verse: But this I call to mind, and therefore I have hope.
 verse_ref: Lamentations 3:21 (ESV)
 summary: The Bible treats forgetting what God has done as an old danger, and builds remembering into stones, a table, records and choices made in the dark.

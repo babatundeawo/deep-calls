@@ -2,6 +2,7 @@
 title: The Stone He Could Have Thrown
 subtitle: John 8 and the one person who could carry out the sentence
 category: Grace & Identity
+topics: Forgiveness, Justice
 verse: Let him who is without sin among you be the first to throw a stone at her.
 verse_ref: John 8:7 (ESV)
 summary: A crowd quotes Moses against a woman in John 8, only one person present can carry out the sentence, and the passage's place in our Bibles is told honestly.

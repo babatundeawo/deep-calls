@@ -3,6 +3,7 @@ title: Broken and Chosen
 subtitle: God has never once advertised for perfect people
 summary: God keeps calling people who are slow of speech, frightened, limping or ill, and the Bible says plainly why, so that nobody mistakes the vessel for the power.
 category: Grace & Identity
+topics: Calling, Identity
 verse: But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong;
 verse_ref: 1 Corinthians 1:27 (ESV)
 ---

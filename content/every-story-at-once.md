@@ -2,6 +2,7 @@
 title: Every Story at Once
 subtitle: What it means that God knows eight billion lives in detail
 category: Sovereignty
+topics: Providence, Jesus
 verse: When I look at your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is man that you are mindful of him, and the son of man that you care for him?
 verse_ref: Psalm 8:3 to 4 (ESV)
 summary: The sky is vast, yet the Bible says God knows every life on earth in detail, and that he came to live one of them.

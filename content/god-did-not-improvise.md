@@ -2,6 +2,7 @@
 title: God Did Not Improvise
 subtitle: The Lamb slain before the world began, and what that says to suffering
 category: Hard Questions
+topics: Suffering, The cross, Assurance
 verse: even as he chose us in him before the foundation of the world, that we should be holy and blameless before him.
 verse_ref: Ephesians 1:4 (ESV)
 summary: The cross was in God's purpose before Eden, which changes how a believer can hold suffering and doubt, with Revelation 13:8 handled honestly.

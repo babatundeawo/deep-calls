@@ -2,6 +2,7 @@
 title: One Gospel, Many Rooms
 subtitle: Denominations, theological triage and a family argument that is not a fracture
 category: Church & Culture
+topics: Denominations, Church, Truth
 verse: There is one body and one Spirit, just as you were called to one hope when you were called; one Lord, one faith, one baptism; one God and Father of all, who is over all and through all and in all.
 verse_ref: Ephesians 4:4 to 6 (NIV)
 summary: Why claims of tens of thousands of denominations say less than they seem to, and how to tell a family argument from a real fracture.

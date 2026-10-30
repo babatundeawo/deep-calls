@@ -2,6 +2,7 @@
 title: The God Who Draws in Curves
 subtitle: What a seventeenth century puzzle says about delay
 category: Sovereignty
+topics: Providence, Waiting
 verse: Your way was through the sea, your path through the great waters; yet your footprints were unseen.
 verse_ref: Psalm 77:19 (ESV)
 featured: 1

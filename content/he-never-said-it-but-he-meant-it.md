@@ -2,6 +2,7 @@
 title: He Never Said It But He Meant It
 subtitle: Jesus never spoke those exact words, and what he did say is stronger
 category: Hard Questions
+topics: Jesus, Scripture
 verse: Whoever has seen me has seen the Father.
 verse_ref: John 14:9 (ESV)
 summary: Jesus never spoke the sentence "I am God, worship me", and this essay shows why that silence is a poor test and what he said and did instead.

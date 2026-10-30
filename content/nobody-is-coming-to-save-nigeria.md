@@ -3,6 +3,7 @@ title: Nobody Is Coming to Save You
 subtitle: Why the wall in front of us is ours to rebuild
 summary: Nigeria keeps waiting for a leader or an election to end the waiting, while Scripture asks a people to rebuild the wall in front of them.
 category: Church & Culture
+topics: Nigeria, Church, Calling
 verse: And they said, Let us rise up and build.
 verse_ref: Nehemiah 2:18 (KJV)
 ---

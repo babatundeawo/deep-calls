@@ -11,6 +11,7 @@ Each file in `content/` starts with a block between `---` lines:
 title: Your essay title
 subtitle: One line shown under the title (optional)
 category: Hard Questions
+topics: Providence, Waiting
 verse: For God so loved the world
 verse_ref: John 3:16
 featured: 2
@@ -22,6 +23,7 @@ Your essay text in Markdown.
 ```
 
 * Every line is optional. With no block at all, the first `# Heading` becomes the title, the category is guessed from the wording (`category_keywords` in `site.config.json`, falling back to `default_category`), and the date is the day the file was added (turn off with `"auto_date": false`).
+* `topics` are optional comma separated tags (two or three is plenty). They show on the essay, and readers can filter by them in the library.
 * `category` should match a name in `site.config.json`. A new name is added automatically. Set it yourself when you want to be sure: the automatic guess is only a best effort.
 * `featured` (1 to 6) places an essay in the home page's featured list. Leave it out otherwise.
 * `date` is optional. Use `YYYY-MM-DD`; it helps search engines.

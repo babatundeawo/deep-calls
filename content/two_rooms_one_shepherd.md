@@ -2,6 +2,7 @@
 title: Two Rooms, One Shepherd
 subtitle: Can a believer lose salvation
 category: Hard Questions
+topics: Salvation, Assurance, Denominations
 verse: "I give them eternal life, and they will never perish, and no one will snatch them out of my hand."
 verse_ref: John 10:28 (ESV)
 summary: Reformed, Arminian and Pentecostal believers answer the question of falling away differently, yet Scripture sets promise and warning side by side.

@@ -2,6 +2,7 @@
 title: Who Will Answer Nigeria's Bleeding
 subtitle: What Oriire taught us, five months on
 category: Church & Culture
+topics: Nigeria, Justice, Church
 verse: A voice was heard in Ramah, weeping and loud lamentation, Rachel weeping for her children; she refused to be comforted, because they are no more.
 verse_ref: Matthew 2:18 (ESV)
 summary: A retrospective on the May 2026 Oriire school abductions: what the courts and data show since the captives came home, and what the church can do.

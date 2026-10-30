@@ -2,6 +2,7 @@
 title: You Did Not Come to Worship Henry Beecher
 subtitle: A famous story about an empty pulpit, and what church is for
 category: Church & Culture
+topics: Church, Worship
 verse: God is spirit, and those who worship him must worship in spirit and truth.
 verse_ref: John 4:24 (ESV)
 summary: A story told for a century and a half about a congregation facing an empty pulpit, offered honestly as a story, and what we come to church for.

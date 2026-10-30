@@ -86,6 +86,7 @@ class Site:
         found = sorted({e.category for e in essays} - set(listed))
         self.categories = [c for c in listed if any(e.category == c for e in essays)] + found
         self.hue = {name: (i % 8) + 1 for i, name in enumerate(listed + found)}
+        self.topics = sorted({x for e in essays for x in e.topics}, key=str.lower)
         self.cat_count = {c: sum(1 for e in essays if e.category == c) for c in self.categories}
         self.total_words = sum(e.words for e in essays)
         self.total_minutes = sum(e.minutes for e in essays)
@@ -345,7 +346,7 @@ def essay_card(site: Site, e: Essay, rp: str, icon: IconSet, *, variant: str = "
         extra = (
             f' data-essay data-cat="{esc(e.category)}" data-hay="{esc(e.search_text)}"'
             f' data-title="{esc(e.title)}" data-min="{e.minutes}" data-featured="{1 if e.featured else 0}"'
-            f' data-date="{esc(e.date)}"'
+            f' data-date="{esc(e.date)}" data-topics="{esc("|".join(e.topics))}"'
         )
     art = ""
     if variant == "feature":
@@ -505,7 +506,7 @@ def build_home(site: Site) -> str:
 def build_library(site: Site) -> str:
     icon = IconSet()
     rp = ""
-    icon.need("search", "empty", "arrow-right", "shuffle")
+    icon.need("search", "empty", "arrow-right", "shuffle", "chevron-down")
     n = len(site.essays)
     chips = '<button type="button" class="chip" data-chip="" aria-pressed="true">All essays</button><button type="button" class="chip chip--saved" data-chip-saved aria-pressed="false">Saved <span class="chip__count" data-saved-count hidden>0</span></button>' + "".join(
         f'<button type="button" class="chip" data-chip="{esc(c)}" data-hue="{site.hue[c]}" aria-pressed="false">{esc(c)} </button>'
@@ -514,6 +515,13 @@ def build_library(site: Site) -> str:
     sort_options = [("newest", "Newest first"), ("oldest", "Oldest first"), ("az", "Title, A to Z"), ("quick", "Quickest read"), ("long", "Longest read")]
     options = "".join(f'<option value="{v}">{l}</option>' for v, l in sort_options)
     cards = "".join(essay_card(site, e, rp, icon, reveal=False, data=True, level=2) for e in site.essays)
+    topic_chips = "".join(
+        f'<button type="button" class="chip chip--topic" data-topic="{esc(x)}" aria-pressed="false">{esc(x)}</button>' for x in site.topics
+    )
+    topics_html = (
+        f'<details class="topics" data-js-only><summary>Topics{icon("chevron-down")}</summary><div class="chips" role="group" aria-label="Filter by topic">{topic_chips}</div></details>'
+        if site.topics else ""
+    )
 
     body = f"""
 <div class="container page-hero">
@@ -535,6 +543,7 @@ def build_library(site: Site) -> str:
       <label class="sort" data-js-only>Sort <select class="control" data-sort>{options}</select></label>
     </div>
     <div class="chips" role="group" aria-label="Filter by theme" data-js-only>{chips}</div>
+    {topics_html}
   </div>
   <p class="result-count" data-count role="status" aria-live="polite"></p>
   <div class="grid" data-grid>{cards}</div>
@@ -801,6 +810,12 @@ def build_essay(site: Site, e: Essay) -> str:
         pn += f'<a class="postnav__link postnav__link--older" href="{rp}{older.url}"><span class="postnav__dir">Older{icon("arrow-right")}</span><span class="postnav__title">{esc(older.title)}</span></a>'
     postnav = f'<nav class="container postnav" aria-label="More recent and older essays">{pn}</nav>' if pn else ""
     desc = e.description
+    topics_line = (
+        '<ul class="topic-list" aria-label="Topics">'
+        + "".join(f'<li><a href="{rp}library.html?topic={quote(x)}">{esc(x)}</a></li>' for x in e.topics)
+        + "</ul>"
+        if e.topics else ""
+    )
 
     body = f"""
 <div class="progress" data-ehue="{site.ehue(e)}" aria-hidden="true"><span class="progress__bar" data-progress></span></div>
@@ -810,6 +825,7 @@ def build_essay(site: Site, e: Essay) -> str:
   <a class="tag" href="{site.cat_href(rp, e.category)}" data-hue="{site.hue[e.category]}">{esc(e.category)}</a>
   <h1>{esc(e.title)}</h1>
   {sub}
+  {topics_line}
   <ul class="essay-meta">
     <li>{icon('clock')}{e.minutes} min read</li>
     {date_li}

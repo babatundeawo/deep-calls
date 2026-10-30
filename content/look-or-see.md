@@ -2,6 +2,7 @@
 title: Look or See
 subtitle: What the eye receives and what the heart understands
 category: Church & Culture
+topics: Faith, Doubt
 verse: Open my eyes, that I may behold wondrous things out of your law.
 verse_ref: Psalm 119:18 (ESV)
 summary: People stand in the same place and look at the same thing yet see different realities, so faith begins with sight only God can give.

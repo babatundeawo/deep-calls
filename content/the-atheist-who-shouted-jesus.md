@@ -2,6 +2,7 @@
 title: The Atheist Who Shouted Jesus
 subtitle: A burst tyre on the Lagos to Ibadan road and the hope we owe a doubter
 category: Hard Questions
+topics: Doubt, Prayer, Nigeria
 verse: But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect,
 verse_ref: 1 Peter 3:15 (NIV)
 summary: A scene on a Lagos to Ibadan bus shows why shouting Scripture fails, what 1 Peter 3:15 asks of apologists, and what a frightened shout proves.

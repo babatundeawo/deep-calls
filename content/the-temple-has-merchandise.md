@@ -2,6 +2,7 @@
 title: The Temple Has Merchandise
 subtitle: On the church we traded for a business model
 category: Church & Culture
+topics: Church, Money
 verse: It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers.
 verse_ref: Matthew 21:13 (ESV)
 featured: 5

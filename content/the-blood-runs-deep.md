@@ -2,6 +2,7 @@
 title: What the Bible Says About Generational Curses
 subtitle: A pastoral case for taking family patterns seriously and fearing them less
 category: Hard Questions
+topics: Family, Scripture
 verse: The soul who sins shall die. The son shall not suffer for the iniquity of the father, nor the father suffer for the iniquity of the son.
 verse_ref: Ezekiel 18:20 (ESV)
 summary: Family patterns of sin and suffering are real, but Scripture does not teach an inherited curse that Christ has not already dealt with.

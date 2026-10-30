@@ -2,6 +2,7 @@
 title: How Can a Loving God Send Someone to Hell?
 subtitle: A hard question that deserves a slow answer
 category: Hard Questions
+topics: Hell, Justice
 verse: There are only two kinds of people in the end: those who say to God, 'Thy will be done,' and those to whom God says, in the end, 'Thy will be done.' All that are in Hell, choose it.
 verse_ref: C. S. Lewis, *The Great Divorce*, chapter 9
 featured: 2

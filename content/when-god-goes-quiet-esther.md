@@ -2,6 +2,7 @@
 title: When God Goes Quiet
 subtitle: The book of Esther and the sovereignty you cannot see
 category: Sovereignty
+topics: Providence, Waiting
 verse: On that night the king could not sleep.
 verse_ref: Esther 6:1 (ESV)
 featured: 3

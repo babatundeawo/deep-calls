@@ -28,8 +28,9 @@
   const DEFAULT_SORT = "newest";
   const params = new URLSearchParams(window.location.search);
   const categories = chips.map((c) => c.dataset.chip).filter(Boolean);
-  const state = { q: params.get("q") || "", cat: "", sort: params.get("sort") || DEFAULT_SORT, saved: params.get("saved") === "1" };
+  const state = { q: params.get("q") || "", cat: "", sort: params.get("sort") || DEFAULT_SORT, saved: params.get("saved") === "1", topic: (params.get("topic") || "").trim() };
   const shelf = window.DC && window.DC.shelf;
+  const topicChips = Array.from(document.querySelectorAll("[data-topic]"));
   const savedChip = document.querySelector("[data-chip-saved]");
 
   // Accept exact names, and older links where "&" cut the value short ("Church ").
@@ -46,6 +47,7 @@
     if (state.q) next.set("q", state.q);
     if (state.cat) next.set("cat", state.cat);
     if (state.saved) next.set("saved", "1");
+    if (state.topic) next.set("topic", state.topic);
     if (state.sort !== DEFAULT_SORT) next.set("sort", state.sort);
     const query = next.toString();
     history.replaceState(null, "", window.location.pathname + (query ? `?${query}` : ""));
@@ -58,16 +60,20 @@
     ordered.forEach((card) => {
       const okCat = !state.cat || card.dataset.cat === state.cat;
       const okQuery = tokens.every((t) => card.dataset.hay.includes(t));
+      const okTopic = !state.topic || (card.dataset.topics || "").split("|").includes(state.topic);
       const okSaved = !state.saved || (shelf && shelf.has(card.dataset.slug));
-      card.hidden = !(okCat && okQuery && okSaved);
+      card.hidden = !(okCat && okQuery && okSaved && okTopic);
       if (!card.hidden) shown += 1;
       grid.appendChild(card);
     });
 
     chips.forEach((chip) => chip.setAttribute("aria-pressed", String(!state.saved && (chip.dataset.chip || "") === state.cat)));
+    topicChips.forEach((chip) => chip.setAttribute("aria-pressed", String(chip.dataset.topic === state.topic)));
+    const topicsBox = document.querySelector(".topics");
+    if (topicsBox && state.topic) topicsBox.open = true;
     if (savedChip) savedChip.setAttribute("aria-pressed", String(state.saved));
     if (countEl) {
-      const filtered = state.cat || tokens.length || state.saved;
+      const filtered = state.cat || tokens.length || state.saved || state.topic;
       countEl.textContent = filtered ? `${shown} ${shown === 1 ? "match" : "matches"}` : "";
     }
     if (empty) {
@@ -97,13 +103,14 @@
     sortSel.addEventListener("change", () => { state.sort = sortSel.value; apply(); });
   }
   chips.forEach((chip) => chip.addEventListener("click", () => { state.cat = chip.dataset.chip || ""; state.saved = false; apply(); }));
+  topicChips.forEach((chip) => chip.addEventListener("click", () => { state.topic = state.topic === chip.dataset.topic ? "" : chip.dataset.topic; apply(); }));
   if (savedChip) savedChip.addEventListener("click", () => { state.saved = !state.saved; if (state.saved) state.cat = ""; apply(); });
   if (shelf) shelf.onChange(() => { if (state.saved) apply(); });
 
   const clear = document.querySelector("[data-clear]");
   if (clear) {
     clear.addEventListener("click", () => {
-      state.q = ""; state.cat = ""; state.saved = false; state.sort = DEFAULT_SORT;
+      state.q = ""; state.cat = ""; state.topic = ""; state.saved = false; state.sort = DEFAULT_SORT;
       if (input) input.value = "";
       if (sortSel) sortSel.value = DEFAULT_SORT;
       apply();
