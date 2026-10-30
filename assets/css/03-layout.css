@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Site chrome: header, navigation, mobile menu, footer
+   Site chrome: header, navigation, tab bar, footer
    ========================================================================== */
 
 .site-header {
@@ -62,19 +62,19 @@
 
 /* Logo colours (used by the inline SVG mark) */
 .mark-bg {
-  fill: #0e1c30;
+  fill: #0a2a2e;
 }
 
 .mark-ring {
-  fill: #f5f0e4;
+  fill: #f6f4ee;
 }
 
 .mark-gap {
-  fill: #0e1c30;
+  fill: #0a2a2e;
 }
 
 .mark-core {
-  fill: #ff7a57;
+  fill: #f4b73f;
 }
 
 /* ---- Primary navigation ---- */
@@ -215,86 +215,133 @@
   display: block;
 }
 
-.nav__menu-btn {
+/* ---- Navigation, mobile first ---- */
+/* Small screens: the primary links live in the bottom tab bar. */
+.nav__links {
   display: none;
 }
 
-/* ---- Mobile navigation ---- */
-@media (max-width: 52rem) {
-  .search-trigger kbd {
-    display: none;
-  }
+.search-trigger kbd {
+  display: none;
+}
 
-  /* Keep the accessible name, hide the word visually. */
-  .search-trigger__label {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
+/* Keep the accessible name, hide the word visually. */
+.search-trigger__label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+
+.search-trigger {
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0;
+  justify-content: center;
+  background: transparent;
+  border-color: transparent;
+  color: var(--text-2);
+}
+
+@media (min-width: 52rem) {
+  .nav__links {
+    display: flex;
   }
 
   .search-trigger {
-    width: 2.75rem;
-    height: 2.75rem;
-    padding: 0;
-    justify-content: center;
-    background: transparent;
-    border-color: transparent;
-    color: var(--text-2);
+    width: auto;
+    height: 2.5rem;
+    padding: 0 0.85rem 0 0.8rem;
+    justify-content: flex-start;
+    background: var(--bg-raised);
+    border-color: var(--line-strong);
+    color: var(--text-3);
   }
 
-  .nav__menu-btn {
-    display: inline-grid;
+  .search-trigger__label {
+    position: static;
+    width: auto;
+    height: auto;
+    overflow: visible;
+    clip: auto;
   }
 
-  .js .nav__links {
-    position: fixed;
-    inset: var(--header-h-compact) 0 auto 0;
-    flex-direction: column;
-    align-items: stretch;
-    gap: 0;
-    padding: var(--space-sm) var(--gutter) var(--space-lg);
-    background: var(--bg);
-    border-bottom: var(--border-w) solid var(--line);
-    box-shadow: var(--shadow-3);
-    max-height: calc(100dvh - var(--header-h-compact));
-    overflow-y: auto;
-    opacity: 0;
-    visibility: hidden;
-    transform: translateY(-0.75rem);
-    transition: opacity var(--dur) var(--ease-out),
-      transform var(--dur) var(--ease-out),
-      visibility 0s linear var(--dur);
+  .search-trigger kbd {
+    display: inline-block;
   }
+}
 
-  .js .nav__links[data-open="true"] {
-    opacity: 1;
-    visibility: visible;
-    transform: none;
-    transition-delay: 0s;
-  }
+/* ---- Bottom tab bar (phones and small tablets) ---- */
+.tabbar {
+  position: fixed;
+  inset: auto 0 0 0;
+  z-index: 40;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding-bottom: env(safe-area-inset-bottom, 0);
+  background: var(--header-bg);
+  backdrop-filter: saturate(1.4) blur(14px);
+  -webkit-backdrop-filter: saturate(1.4) blur(14px);
+  border-top: var(--border-w) solid var(--line);
+}
 
-  .js .nav__link {
-    min-height: 3.25rem;
-    padding: 0;
-    font-size: var(--step-1);
-    font-family: var(--font-display);
-    letter-spacing: -0.015em;
-    border-bottom: var(--border-w) solid var(--line);
-  }
+.tabbar__link {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.15rem;
+  min-height: 3.5rem;
+  font: 500 0.6875rem/1 var(--font-ui);
+  color: var(--text-3, var(--text-2));
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
 
-  .js .nav__link::after {
+.tabbar__link .i {
+  width: 1.4rem;
+  height: 1.4rem;
+}
+
+.tabbar__link[aria-current="page"] {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.tabbar__badge {
+  position: absolute;
+  top: 0.4rem;
+  left: calc(50% + 0.35rem);
+  min-width: 1.05rem;
+  padding: 0 0.3rem;
+  font: 700 0.625rem/1.05rem var(--font-ui);
+  text-align: center;
+  color: var(--bg);
+  background: var(--accent);
+  border-radius: var(--radius-pill);
+}
+
+.tabbar__badge[hidden] {
+  display: none;
+}
+
+/* Leave room so the bar never covers the footer or the back to top button. */
+body {
+  padding-bottom: calc(3.5rem + env(safe-area-inset-bottom, 0));
+}
+
+@media (min-width: 52rem) {
+  .tabbar {
     display: none;
   }
 
-  /* Without JS the links simply wrap under the brand. */
-  .no-js .nav {
-    flex-wrap: wrap;
-    height: auto;
-    padding-block: var(--space-xs);
+  body {
+    padding-bottom: 0;
   }
+
 }
 
 /* ---- Footer ---- */
@@ -389,7 +436,7 @@
 .toast {
   position: fixed;
   left: 50%;
-  bottom: max(1.25rem, env(safe-area-inset-bottom));
+  bottom: calc(4.75rem + env(safe-area-inset-bottom, 0));
   z-index: var(--z-toast);
   max-width: min(92vw, 26rem);
   padding: 0.8rem 1.1rem;
@@ -414,7 +461,7 @@
 .to-top {
   position: fixed;
   right: max(1rem, env(safe-area-inset-right));
-  bottom: max(1rem, env(safe-area-inset-bottom));
+  bottom: calc(4.5rem + env(safe-area-inset-bottom, 0));
   z-index: var(--z-popover);
   width: 3rem;
   height: 3rem;
@@ -585,4 +632,14 @@
 .i--solid {
   fill: currentColor;
   stroke: none;
+}
+
+@media (min-width: 52rem) {
+  .to-top {
+    bottom: max(1rem, env(safe-area-inset-bottom));
+  }
+
+  .toast {
+    bottom: max(1.25rem, env(safe-area-inset-bottom));
+  }
 }

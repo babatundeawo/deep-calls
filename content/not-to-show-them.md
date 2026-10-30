@@ -1,5 +1,6 @@
 ---
 title: God Did Not Raise You So You Could Show Them
+subtitle: A prayer to be lifted above those who shamed us, tested against Scripture
 category: Grace & Identity
 verse: Do not say, “I will repay evil”; wait for the LORD, and he will deliver you.
 verse_ref: Proverbs 20:22 (ESV)

@@ -129,15 +129,32 @@ def header(site: Site, rp: str, current: str | None, icon: IconSet) -> str:
   <div class="container nav">
     {brand(site, rp)}
     <nav aria-label="Primary">
-      <ul class="nav__links" id="primary-menu" data-menu data-open="false">{links}</ul>
+      <ul class="nav__links">{links}</ul>
     </nav>
     <div class="nav__actions">
       <a class="search-trigger" href="{rp}library.html" data-search-open aria-keyshortcuts="Control+K Meta+K">{icon('search')}<span class="search-trigger__label">Search</span><kbd data-kbd-hint aria-hidden="true">Ctrl K</kbd></a>
       <button type="button" class="icon-btn theme-toggle" data-theme-toggle data-js-only aria-label="Dark mode" aria-pressed="false">{icon('sun', 'i-sun')}{icon('moon', 'i-moon')}</button>
-      <button type="button" class="icon-btn nav__menu-btn" data-menu-btn data-js-only aria-label="Open menu" aria-expanded="false" aria-controls="primary-menu">{icon('menu')}</button>
     </div>
   </div>
 </header>"""
+
+
+TABS = [
+    ("home", "Home", "index.html", "home"),
+    ("library", "Library", "library.html", "book"),
+    ("saved", "Saved", "library.html?saved=1", "bookmark"),
+    ("about", "About", "about.html", "compass"),
+]
+
+
+def tabbar(rp: str, current: str | None, icon: IconSet) -> str:
+    """Bottom tab bar for small screens. Plain links, so it works without JS."""
+    items = []
+    for key, label, href, ico in TABS:
+        badge = '<span class="tabbar__badge" data-saved-count hidden>0</span>' if key == "saved" else ""
+        cur = ' aria-current="page"' if key == current else ""
+        items.append(f'<a class="tabbar__link" href="{rp}{href}"{cur}>{icon(ico)}<span>{label}</span>{badge}</a>')
+    return f'<nav class="tabbar" aria-label="Quick navigation">{"".join(items)}</nav>'
 
 
 def footer(site: Site, rp: str, icon: IconSet) -> str:
@@ -150,7 +167,7 @@ def footer(site: Site, rp: str, icon: IconSet) -> str:
     <div class="footer__grid">
       <div class="footer__brand">
         {brand(site, rp)}
-        <p>Essays on scripture, doubt, and the God who is never in a hurry. Written for the curious, the skeptical, and the tired.</p>
+        <p>Essays on scripture, doubt, and the God who is never in a hurry. Written for the curious, the sceptical, and the tired.</p>
       </div>
       <nav aria-label="Footer">
         <h2 class="footer__title">Explore</h2>
@@ -197,9 +214,9 @@ def head(
 ) -> str:
     canonical = site.abs(path)
     robots = "noindex, follow" if noindex else "index, follow, max-image-preview:large"
-    full_title = title if title == site.name else f"{title} — {site.name}"
+    full_title = title if title == site.name else f"{title} | {site.name}"
     if title == site.name:
-        full_title = f"{site.name} — {site.tagline}"
+        full_title = f"{site.name} | {site.tagline}"
     og_url = site.abs(og_image)
     preloads = "\n".join(
         f'<link rel="preload" href="{rp}assets/fonts/{f}" as="font" type="font/woff2" crossorigin>' for f in FONTS_PRELOAD
@@ -216,8 +233,8 @@ def head(
 <meta http-equiv="Content-Security-Policy" content="{esc(CSP)}">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="color-scheme" content="light dark">
-<meta name="theme-color" content="#f5f0e4" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#09111f" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f6f4ee" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#061a1c" media="(prefers-color-scheme: dark)">
 <meta property="og:type" content="{og_type}">
 <meta property="og:site_name" content="{esc(site.name)}">
 <meta property="og:locale" content="{esc(site.cfg['locale'])}">
@@ -262,11 +279,11 @@ def page(
     body_class: str = "",
 ) -> str:
     """Wrap a page body in the shared document shell."""
-    icon.need("search", "arrow-up", "sun", "moon", "menu")
+    icon.need("search", "arrow-up", "sun", "moon", "home", "book", "bookmark", "compass")
     header_html = header(site, rp, current, icon)
     footer_html = footer(site, rp, icon)
     script_tags = "\n".join(
-        f'<script src="{rp}assets/js/{name}.js?v={site.version}" defer></script>' for name in ["core", *(scripts or [])]
+        f'<script src="{rp}assets/js/{name}.js?v={site.version}" defer></script>' for name in ["core", "shelf", *(scripts or [])]
     )
     head_html = head(
         site,
@@ -287,6 +304,7 @@ def page(
 {body}
 </main>
 {footer_html}
+{tabbar(rp, current, icon)}
 <button type="button" class="to-top" data-to-top data-show="false" aria-label="Back to top">{icon('arrow-up')}</button>
 <div class="toast" data-toast role="status" aria-live="polite"></div>
 {icon.sprite()}
@@ -326,7 +344,7 @@ def essay_card(site: Site, e: Essay, rp: str, icon: IconSet, *, variant: str = "
     if variant == "feature":
         circles = "".join(f'<circle cx="260" cy="0" r="{r}"/>' for r in range(50, 400, 55))
         art = f'<div class="card__art" aria-hidden="true"><svg viewBox="0 0 260 260">{circles}</svg></div>'
-    return f"""<a class="{cls}" href="{rp}{e.url}" data-hue="{site.hue[e.category]}"{' data-reveal' if reveal else ''}{extra}>
+    return f"""<a class="{cls}" href="{rp}{e.url}" data-slug="{esc(e.slug)}" data-hue="{site.hue[e.category]}"{' data-reveal' if reveal else ''}{extra}>
   {art}<span class="tag">{esc(e.category)}</span>
   <h{level} class="card__title">{esc(e.title)}</h{level}>
   <p class="card__excerpt">{esc(e.excerpt)}</p>
@@ -371,9 +389,9 @@ def build_home(site: Site) -> str:
 <section class="hero">
   <div class="container hero__grid">
     <div>
-      <p class="eyebrow">A library of long-form essays</p>
+      <p class="eyebrow">A library of long form essays</p>
       <h1>Faith that survives <em>the hard questions.</em></h1>
-      <p class="hero__lede">{esc(site.tagline)} Essays on scripture, doubt, culture, and the God who draws in curves &mdash; written to be read slowly, argued with, and returned to.</p>
+      <p class="hero__lede">{esc(site.tagline)} Essays on scripture, doubt, culture, and the God who draws in curves. They are written to be read slowly, argued with, and returned to.</p>
       <div class="hero__actions">
         <a class="btn" href="library.html">Browse the library {icon('arrow-right', 'i--arrow')}</a>
         <a class="btn btn--outline" href="about.html">What this is</a>
@@ -400,11 +418,13 @@ def build_home(site: Site) -> str:
   </div>
 </div>
 
+<div class="container" data-continue hidden></div>
+
 <section class="section" id="start">
   <div class="container">
     <div class="section-head" data-reveal>
       <h2>Start here</h2>
-      <p>A handful of essays to begin with. The full, searchable library &mdash; {n} essays across {len(site.categories)} themes &mdash; lives on its own page.</p>
+      <p>A handful of essays to begin with. The full, searchable library of {n} essays across {len(site.categories)} themes lives on its own page.</p>
     </div>
     <div class="bento">{cards}</div>
     <p class="actions actions--center"><a class="btn btn--outline" href="library.html">Browse all {n} essays {icon('arrow-right', 'i--arrow')}</a></p>
@@ -427,12 +447,12 @@ def build_home(site: Site) -> str:
       <h2>Not a sermon. Not a comment-section reply. <em>A real answer, slowly built.</em></h2>
     </div>
     <div data-reveal>
-      <p>Most writing about faith online is built for a scroll: a quote card, a hot take, a clip stripped of its argument. Deep Calls is the opposite bet &mdash; essays long enough to actually make a case, quiet enough to sit with, honest enough to name the hard parts of the question before offering an answer.</p>
-      <p>Every piece here starts with a real question someone actually asked &mdash; at a vigil, in a comment section, over jollof rice after service &mdash; and tries to answer it the way it deserves: with scripture, with history, with logic, and without pretending the question was easy.</p>
+      <p>Most writing about faith online is built for a scroll: a quote card, a hot take, a clip stripped of its argument. Deep Calls is the opposite bet: essays long enough to actually make a case, quiet enough to sit with, honest enough to name the hard parts of the question before offering an answer.</p>
+      <p>Every piece here starts with a real question someone actually asked, whether at a vigil, in a comment section or over a meal after service, and tries to answer it the way it deserves: with scripture, with history, with logic, and without pretending the question was easy.</p>
       <ul class="principles">
         <li><span><strong>Written to be argued with.</strong> Every essay engages the strongest version of the counter-argument, not a strawman.</span></li>
         <li><span><strong>Scripture first.</strong> Claims are traced back to the text, not just asserted from the pulpit.</span></li>
-        <li><span><strong>Built for the long haul.</strong> No clickbait, no countdown timers &mdash; just essays meant to be read twice.</span></li>
+        <li><span><strong>Built for the long haul.</strong> No clickbait and no countdown timers, just essays meant to be read twice.</span></li>
       </ul>
       <a class="btn btn--on-ink" href="about.html">Read the full story {icon('arrow-right', 'i--arrow')}</a>
     </div>
@@ -444,7 +464,7 @@ def build_home(site: Site) -> str:
     <div class="cta" data-reveal>
       <div>
         <h2>Have a question that deserves an essay?</h2>
-        <p>Every essay here started as a real question from a real person. If you have one, send it &mdash; it might become the next writeup.</p>
+        <p>Every essay here started as a real question from a real person. If you have one, send it, and it might become the next writeup.</p>
       </div>
       <a class="btn" href="contact.html">Get in touch {icon('arrow-right', 'i--arrow')}</a>
     </div>
@@ -487,16 +507,16 @@ def build_home(site: Site) -> str:
 def build_library(site: Site) -> str:
     icon = IconSet()
     rp = ""
-    icon.need("search", "empty", "arrow-right")
+    icon.need("search", "empty", "arrow-right", "shuffle")
     n = len(site.essays)
-    chips = '<button type="button" class="chip" data-chip="" aria-pressed="true">All essays</button>' + "".join(
+    chips = '<button type="button" class="chip" data-chip="" aria-pressed="true">All essays</button><button type="button" class="chip chip--saved" data-chip-saved aria-pressed="false">Saved <span class="chip__count" data-saved-count>0</span></button>' + "".join(
         f'<button type="button" class="chip" data-chip="{esc(c)}" data-hue="{site.hue[c]}" aria-pressed="false">{esc(c)} <span class="chip__count">{site.cat_count[c]}</span></button>'
         for c in site.categories
     )
     sort_options = [("featured", "Featured first")]
     if site.has_dates:
         sort_options.append(("newest", "Newest first"))
-    sort_options += [("az", "Title, A–Z"), ("quick", "Quickest read"), ("long", "Longest read")]
+    sort_options += [("az", "Title, A to Z"), ("quick", "Quickest read"), ("long", "Longest read")]
     options = "".join(f'<option value="{v}">{l}</option>' for v, l in sort_options)
     cards = "".join(essay_card(site, e, rp, icon, reveal=False, data=True, level=2) for e in site.essays)
 
@@ -506,6 +526,7 @@ def build_library(site: Site) -> str:
   <p class="eyebrow">The full archive</p>
   <h1>Every essay, in one place.</h1>
   <p class="page-hero__lede">Search by title or theme, or filter by category. New writeups are added here as they&rsquo;re written.</p>
+  <p class="page-hero__actions" data-js-only><button type="button" class="btn btn--outline btn--sm" data-surprise>{icon('shuffle')}Surprise me</button></p>
 </div>
 
 <section class="container">
@@ -525,7 +546,7 @@ def build_library(site: Site) -> str:
   <div class="empty" data-empty data-show="false">
     {icon('empty')}
     <h2>Nothing matches that yet</h2>
-    <p>Try a different word, or clear the filters to see everything.</p>
+    <p data-empty-text>Try a different word, or clear the filters to see everything.</p>
     <button type="button" class="btn btn--outline btn--sm" data-clear>Clear filters</button>
   </div>
 </section>
@@ -564,19 +585,19 @@ def build_about(site: Site) -> str:
     values = [
         ("quill", "Argued with, not around", "Every essay engages the strongest version of the counter-argument, not a strawman built to lose."),
         ("compass", "Scripture first", "Claims are traced back to the text itself, not just asserted from the pulpit or assumed as background."),
-        ("anchor", "Built for the long haul", "No clickbait, no countdown timers, no manufactured outrage — essays meant to be read twice."),
+        ("anchor", "Built for the long haul", "No clickbait, no countdown timers, no manufactured outrage. Essays meant to be read twice."),
         ("shield", "Honest about doubt", "The hard parts of a question get named plainly before an answer is offered, not buried under certainty."),
-        ("scroll", "Long-form on purpose", "Some things can’t be said in a caption. These essays take the space the question actually needs."),
-        ("heart", "Written for real people", "Every essay starts from an actual question someone asked — not a hypothetical, not a strawman."),
+        ("scroll", "Long form on purpose", "Some things can’t be said in a caption. These essays take the space the question actually needs."),
+        ("heart", "Written for real people", "Every essay starts from an actual question someone asked, not a hypothetical and not a strawman."),
     ]
     value_html = "".join(
         f'<div class="value" data-reveal>{icon(i)}<h3>{esc(t)}</h3><p>{esc(d)}</p></div>' for i, t, d in values
     )
     steps = [
-        ("A real question", "Every essay starts with something someone actually asked — in a comment section, at a vigil, over a meal after church."),
-        ("Scripture and sources", "The text is read slowly, cross-referenced, and checked against history, theology, and — where the topic touches current events — up-to-date reporting."),
+        ("A real question", "Every essay starts with something someone actually asked, in a comment section, at a vigil or over a meal after church."),
+        ("Scripture and sources", "The text is read slowly, cross-referenced, and checked against history and theology, and, where the topic touches current events, against current reporting."),
         ("The strongest counter-case", "Before an answer is written, the best version of the opposing view gets a fair hearing. Weak arguments don’t get the final word."),
-        ("A slow draft", "Long-form, unhurried, written to be read twice — not skimmed once."),
+        ("A slow draft", "Long form and unhurried, written to be read twice and not skimmed once."),
     ]
     step_html = "".join(f"<li data-reveal><h3>{esc(t)}</h3><p>{esc(d)}</p></li>" for t, d in steps)
 
@@ -585,13 +606,13 @@ def build_about(site: Site) -> str:
   {breadcrumb([("Home", "index.html"), ("About", None)])}
   <p class="eyebrow">Why this exists</p>
   <h1>Not a sermon. Not a comment-section reply.</h1>
-  <p class="page-hero__lede">A real answer, slowly built &mdash; for the curious, the skeptical, and the tired.</p>
+  <p class="page-hero__lede">A real answer, slowly built, for the curious, the sceptical and the tired.</p>
 </div>
 
 <section class="container--narrow">
   <div class="prose-lg">
-    <p>Most writing about faith online is built for a scroll: a quote card, a hot take, a clip stripped of its argument. Deep Calls is the opposite bet &mdash; essays long enough to actually make a case, quiet enough to sit with, honest enough to name the hard parts of the question before offering an answer.</p>
-    <p>Every piece here starts with a real question someone actually asked &mdash; at a vigil, in a comment section, over jollof rice after service &mdash; and tries to answer it the way it deserves: with scripture, with history, with logic, and without pretending the question was easy.</p>
+    <p>Most writing about faith online is built for a scroll: a quote card, a hot take, a clip stripped of its argument. Deep Calls is the opposite bet: essays long enough to actually make a case, quiet enough to sit with, honest enough to name the hard parts of the question before offering an answer.</p>
+    <p>Every piece here starts with a real question someone actually asked, whether at a vigil, in a comment section or over a meal after service, and tries to answer it the way it deserves: with scripture, with history, with logic, and without pretending the question was easy.</p>
   </div>
 </section>
 
@@ -641,7 +662,7 @@ def build_contact(site: Site) -> str:
   {breadcrumb([("Home", "index.html"), ("Contact", None)])}
   <p class="eyebrow">Get in touch</p>
   <h1>Ask a question. Suggest a topic. Point out a mistake.</h1>
-  <p class="page-hero__lede">Every essay here started as a real question from a real person. If you have one, send it &mdash; it might become the next writeup.</p>
+  <p class="page-hero__lede">Every essay here started as a real question from a real person. If you have one, send it, and it might become the next writeup.</p>
 </div>
 
 <section class="container contact-grid">
@@ -761,7 +782,7 @@ def related(site: Site, e: Essay, count: int = 3) -> list[Essay]:
 def build_essay(site: Site, e: Essay) -> str:
     icon = IconSet()
     rp = "../"
-    icon.need("clock", "book", "chevron-down", "volume", "play", "pause", "stop", "share", "link", "x", "whatsapp", "facebook", "copy", "arrow-right", "calendar")
+    icon.need("clock", "chevron-down", "volume", "play", "pause", "stop", "share", "link", "whatsapp", "copy", "arrow-right", "calendar", "bookmark", "type", "arrow-left")
     url = site.abs(e.url)
     enc_url, enc_title = quote(url, safe=""), quote(e.title, safe="")
 
@@ -785,19 +806,25 @@ def build_essay(site: Site, e: Essay) -> str:
 
     body = f"""
 <div class="progress" aria-hidden="true"><span class="progress__bar" data-progress></span></div>
-<article>
+<article data-essay-page data-slug="{esc(e.slug)}" data-title="{esc(e.title)}">
 <div class="container essay-head">
-  {breadcrumb([("Home", rp + "index.html"), ("Library", rp + "library.html"), (e.category, site.cat_href(rp, e.category))])}
+  <a class="back" href="{rp}library.html">{icon('arrow-left')}Library</a>
   <a class="tag" href="{site.cat_href(rp, e.category)}" data-hue="{site.hue[e.category]}">{esc(e.category)}</a>
   <h1>{esc(e.title)}</h1>
   {sub}
   <ul class="essay-meta">
     <li>{icon('clock')}{e.minutes} min read</li>
-    <li>{icon('book')}{e.words:,} words</li>
     {date_li}
   </ul>
   {epigraph}
   <div class="essay-tools">
+    <div class="essay-tools__row">
+      <button type="button" class="btn btn--outline btn--sm save-btn" data-save="{esc(e.slug)}" data-js-only aria-pressed="false">{icon('bookmark')}<span data-save-label>Save for later</span></button>
+      <div class="textsize" data-textsize data-js-only role="group" aria-label="Text size">
+        <button type="button" class="icon-btn" data-textsize-step="-1" aria-label="Smaller text"><span aria-hidden="true">A</span></button>
+        <button type="button" class="icon-btn" data-textsize-step="1" aria-label="Larger text"><span aria-hidden="true" class="textsize__big">A</span></button>
+      </div>
+    </div>
     <div class="listen" data-listen hidden>
       <button type="button" class="listen__toggle" data-listen-toggle aria-expanded="false">{icon('volume')}<span>Listen to this essay</span></button>
       <div class="listen__controls" data-listen-controls hidden>
@@ -821,9 +848,7 @@ def build_essay(site: Site, e: Essay) -> str:
         <span class="share__label">Share this essay</span>
         <button type="button" class="icon-btn" data-share-native data-tip="Share" aria-label="Share">{icon('share')}</button>
         <button type="button" class="icon-btn" data-copy-link data-tip="Copy link" aria-label="Copy link">{icon('link')}</button>
-        <a class="icon-btn" data-tip="Share on X" aria-label="Share on X (opens in a new tab)" target="_blank" rel="noopener noreferrer" href="https://x.com/intent/post?text={enc_title}&amp;url={enc_url}">{icon('x')}</a>
         <a class="icon-btn" data-tip="Share on WhatsApp" aria-label="Share on WhatsApp (opens in a new tab)" target="_blank" rel="noopener noreferrer" href="https://wa.me/?text={enc_title}%20{enc_url}">{icon('whatsapp')}</a>
-        <a class="icon-btn" data-tip="Share on Facebook" aria-label="Share on Facebook (opens in a new tab)" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/sharer/sharer.php?u={enc_url}">{icon('facebook')}</a>
       </div>
     </div>
   </div>

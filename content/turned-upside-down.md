@@ -1,6 +1,6 @@
 ---
 title: Turned Upside Down
-subtitle: On the Subversive Intelligence of Heaven
+subtitle: The subversive intelligence of heaven
 category: Church & Culture
 verse: For my thoughts are not your thoughts, neither are your ways my ways, declares the Lord.
 verse_ref: Isaiah 55:8 (ESV)

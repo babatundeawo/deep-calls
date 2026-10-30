@@ -1,5 +1,6 @@
 ---
 title: The Stone He Could Have Thrown
+subtitle: John 8 and the one person who could carry out the sentence
 category: Grace & Identity
 verse: Let him who is without sin among you be the first to throw a stone at her.
 verse_ref: John 8:7 (ESV)

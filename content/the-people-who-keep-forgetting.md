@@ -1,5 +1,6 @@
 ---
 title: The People Who Keep Forgetting a Faithful God
+subtitle: Why the Bible builds remembering into stones, tables and records
 category: Sovereignty
 verse: But this I call to mind, and therefore I have hope.
 verse_ref: Lamentations 3:21 (ESV)

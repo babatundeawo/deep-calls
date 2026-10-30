@@ -1,5 +1,6 @@
 ---
 title: The Blessing That Asks Something of You
+subtitle: Proverbs 10:22 and what the gift of God expects from us
 category: Grace & Identity
 verse: The blessing of the LORD, it maketh rich, and he addeth no sorrow with it.
 verse_ref: Proverbs 10:22 (KJV)

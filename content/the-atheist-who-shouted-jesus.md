@@ -1,6 +1,6 @@
 ---
 title: The Atheist Who Shouted Jesus
-subtitle: What a burst tyre on the Lagos to Ibadan road says about prayer, argument and the hope we owe a doubter
+subtitle: A burst tyre on the Lagos to Ibadan road and the hope we owe a doubter
 category: Hard Questions
 verse: But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect,
 verse_ref: 1 Peter 3:15 (NIV)

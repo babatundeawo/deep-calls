@@ -1,6 +1,6 @@
 ---
 title: God Did Not Improvise
-subtitle: The Lamb slain from the foundation of the world, and what it means for suffering and assurance
+subtitle: The Lamb slain before the world began, and what that says to suffering
 category: Hard Questions
 verse: even as he chose us in him before the foundation of the world, that we should be holy and blameless before him.
 verse_ref: Ephesians 1:4 (ESV)

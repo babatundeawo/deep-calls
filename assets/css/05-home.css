@@ -251,19 +251,29 @@
   border-left: var(--border-w) solid var(--line);
 }
 
-.stat:first-child {
+/* Two columns on phones: no rule on the left edge, a rule between the rows. */
+.stat:nth-child(odd) {
   border-left: 0;
   padding-left: 0;
 }
 
-@media (max-width: 43.99rem) {
-  .stat:nth-child(odd) {
-    border-left: 0;
-    padding-left: 0;
+.stat:nth-child(n + 3) {
+  border-top: var(--border-w) solid var(--line);
+}
+
+@media (min-width: 44rem) {
+  .stat {
+    border-left: var(--border-w) solid var(--line);
+    padding-left: var(--space-md);
   }
 
   .stat:nth-child(n + 3) {
-    border-top: var(--border-w) solid var(--line);
+    border-top: 0;
+  }
+
+  .stat:first-child {
+    border-left: 0;
+    padding-left: 0;
   }
 }
 

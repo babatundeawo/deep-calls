@@ -234,17 +234,28 @@
   transform: rotate(180deg);
 }
 
-@media (max-width: 71.99rem) {
-  /* Until the script has chosen open/closed, show it collapsed so nothing jumps. */
+/* Phones and tablets: a collapsed card. Wide screens override this below. */
+.js .toc:not([data-ready]) ol {
+  display: none;
+}
+
+.toc {
+  padding: 0 var(--space-md);
+  background: var(--bg-raised);
+  border: var(--border-w) solid var(--line);
+  border-radius: var(--radius-md);
+}
+
+@media (min-width: 72rem) {
   .js .toc:not([data-ready]) ol {
-    display: none;
+    display: block;
   }
 
   .toc {
-    padding: 0 var(--space-md);
-    background: var(--bg-raised);
-    border: var(--border-w) solid var(--line);
-    border-radius: var(--radius-md);
+    padding: 0;
+    background: none;
+    border: 0;
+    border-radius: 0;
   }
 }
 
@@ -278,7 +289,7 @@
 
 /* ---- Prose ---- */
 .prose {
-  --read-size: clamp(1.0625rem, 1rem + 0.3vw, 1.2rem);
+  --read-size: calc(clamp(1.0625rem, 1rem + 0.3vw, 1.2rem) * var(--ts, 1));
   max-width: 34em;
   font: 400 var(--read-size) / var(--lh-reading) var(--font-text);
   font-optical-sizing: auto;

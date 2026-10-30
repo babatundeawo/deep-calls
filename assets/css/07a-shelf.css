@@ -1,0 +1,115 @@
+/* ==========================================================================
+   Shelf: save button, text size, back link, continue card, text size scale
+   ========================================================================== */
+:root[data-ts="-1"] { --ts: 0.92; }
+:root[data-ts="1"] { --ts: 1.1; }
+:root[data-ts="2"] { --ts: 1.22; }
+:root[data-ts="3"] { --ts: 1.36; }
+
+.back {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-3xs);
+  min-height: 2.75rem;
+  margin-bottom: var(--space-2xs);
+  font: 500 var(--step--1) var(--font-ui);
+  color: var(--text-3);
+  text-decoration: none;
+}
+
+.back:hover {
+  color: var(--accent);
+}
+
+.back .i {
+  width: 1rem;
+  height: 1rem;
+}
+
+.essay-tools__row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-xs);
+  margin-bottom: var(--space-xs);
+}
+
+.save-btn[aria-pressed="true"] {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.save-btn[aria-pressed="true"] .i {
+  fill: currentColor;
+}
+
+.textsize {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-3xs);
+  margin-left: auto;
+  font-family: var(--font-display);
+}
+
+.textsize .icon-btn {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.textsize .icon-btn:disabled {
+  opacity: 0.35;
+}
+
+.textsize__big {
+  font-size: 1.25rem;
+}
+
+.chip--saved[aria-pressed="true"] {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.page-hero__actions {
+  margin-top: var(--space-sm);
+}
+
+.page-hero__actions .btn .i {
+  margin-right: var(--space-3xs);
+}
+
+.continue {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3xs);
+  padding: var(--space-sm) var(--space-md);
+  margin-top: var(--space-md);
+  background: var(--bg-raised);
+  border: var(--border-w) solid var(--line);
+  border-left: 4px solid var(--accent);
+  border-radius: var(--radius-md);
+  color: var(--text);
+  text-decoration: none;
+  transition: border-color var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
+}
+
+.continue:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.continue__label {
+  font: 600 var(--step--2) var(--font-ui);
+  letter-spacing: var(--track-caps);
+  text-transform: uppercase;
+  color: var(--text-3);
+}
+
+.continue__title {
+  font: 600 var(--step-1) / 1.2 var(--font-display);
+}
+
+@media (min-width: 44rem) {
+  .continue {
+    max-width: 36rem;
+  }
+}

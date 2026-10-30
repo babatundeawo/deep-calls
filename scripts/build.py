@@ -30,7 +30,7 @@ except ImportError:  # pragma: no cover
 
 DIST = ROOT / "dist"
 ASSETS = ROOT / "assets"
-JS_FILES = ["core", "home", "library", "article", "listen", "contact"]
+JS_FILES = ["core", "shelf", "home", "library", "article", "listen", "contact"]
 
 
 def write(path: Path, text: str) -> None:
@@ -124,8 +124,8 @@ def main() -> int:
         "start_url": site.base_path,
         "scope": site.base_path,
         "display": "standalone",
-        "background_color": "#f5f0e4",
-        "theme_color": "#0e1c30",
+        "background_color": "#f6f4ee",
+        "theme_color": "#0a2a2e",
         "icons": [
             {"src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
             {"src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
@@ -137,7 +137,7 @@ def main() -> int:
 
     # Brand imagery: icons and social cards
     images.write_icons(DIST)
-    images.write_card(DIST / "assets" / "og" / "default.png", "Faith that survives the hard questions.", "A library of long-form essays", site.name, site.host)
+    images.write_card(DIST / "assets" / "og" / "default.png", "Faith that survives the hard questions.", "A library of long form essays", site.name, site.host)
     for essay in site.essays:
         images.write_card(DIST / "assets" / "og" / f"{essay.slug}.png", essay.title, essay.category, site.name, site.host)
 
