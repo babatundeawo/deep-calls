@@ -30,7 +30,7 @@ except ImportError:  # pragma: no cover
 
 DIST = ROOT / "dist"
 ASSETS = ROOT / "assets"
-JS_FILES = ["core", "shelf", "home", "library", "article", "listen", "contact"]
+JS_FILES = ["core", "shelf", "home", "library", "article", "contact"]
 
 
 def write(path: Path, text: str) -> None:

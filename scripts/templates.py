@@ -782,7 +782,7 @@ def related(site: Site, e: Essay, count: int = 3) -> list[Essay]:
 def build_essay(site: Site, e: Essay) -> str:
     icon = IconSet()
     rp = "../"
-    icon.need("clock", "chevron-down", "volume", "play", "pause", "stop", "share", "link", "whatsapp", "copy", "arrow-right", "calendar", "bookmark", "type", "arrow-left")
+    icon.need("clock", "chevron-down", "share", "link", "whatsapp", "copy", "arrow-right", "calendar", "bookmark", "type", "arrow-left")
     url = site.abs(e.url)
     enc_url, enc_title = quote(url, safe=""), quote(e.title, safe="")
 
@@ -823,15 +823,6 @@ def build_essay(site: Site, e: Essay) -> str:
       <div class="textsize" data-textsize data-js-only role="group" aria-label="Text size">
         <button type="button" class="icon-btn" data-textsize-step="-1" aria-label="Smaller text"><span aria-hidden="true">A</span></button>
         <button type="button" class="icon-btn" data-textsize-step="1" aria-label="Larger text"><span aria-hidden="true" class="textsize__big">A</span></button>
-      </div>
-    </div>
-    <div class="listen" data-listen hidden>
-      <button type="button" class="listen__toggle" data-listen-toggle aria-expanded="false">{icon('volume')}<span>Listen to this essay</span></button>
-      <div class="listen__controls" data-listen-controls hidden>
-        <button type="button" class="icon-btn" data-listen-playpause aria-label="Play" data-state="idle">{icon('play', 'i-play')}{icon('pause', 'i--pause-state')}</button>
-        <button type="button" class="icon-btn" data-listen-stop aria-label="Stop">{icon('stop')}</button>
-        <button type="button" class="listen__speed" data-listen-speed aria-label="Reading speed">1&times;</button>
-        <span class="listen__progress" data-listen-progress></span>
       </div>
     </div>
   </div>
@@ -896,7 +887,7 @@ def build_essay(site: Site, e: Essay) -> str:
         current="library",
         body=body,
         icon=icon,
-        scripts=["article", "listen"],
+        scripts=["article"],
         og_image=f"assets/og/{e.slug}.png",
         og_alt=f"{e.title}, an essay on {site.name}",
         og_type="article",
