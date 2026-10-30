@@ -16,19 +16,19 @@
   const chips = Array.from(document.querySelectorAll("[data-chip]"));
   const countEl = document.querySelector("[data-count]");
   const empty = document.querySelector("[data-empty]");
-  const total = cards.length;
-
+  
   const sorters = {
-    featured: (a, b) => Number(b.dataset.featured) - Number(a.dataset.featured) || a.dataset.title.localeCompare(b.dataset.title),
+    oldest: (a, b) => (a.dataset.date || "").localeCompare(b.dataset.date || "") || a.dataset.title.localeCompare(b.dataset.title),
     newest: (a, b) => (b.dataset.date || "").localeCompare(a.dataset.date || "") || a.dataset.title.localeCompare(b.dataset.title),
     quick: (a, b) => Number(a.dataset.min) - Number(b.dataset.min) || a.dataset.title.localeCompare(b.dataset.title),
     long: (a, b) => Number(b.dataset.min) - Number(a.dataset.min) || a.dataset.title.localeCompare(b.dataset.title),
     az: (a, b) => a.dataset.title.localeCompare(b.dataset.title),
   };
 
+  const DEFAULT_SORT = "newest";
   const params = new URLSearchParams(window.location.search);
   const categories = chips.map((c) => c.dataset.chip).filter(Boolean);
-  const state = { q: params.get("q") || "", cat: "", sort: params.get("sort") || "featured", saved: params.get("saved") === "1" };
+  const state = { q: params.get("q") || "", cat: "", sort: params.get("sort") || DEFAULT_SORT, saved: params.get("saved") === "1" };
   const shelf = window.DC && window.DC.shelf;
   const savedChip = document.querySelector("[data-chip-saved]");
 
@@ -39,14 +39,14 @@
       || categories.find((c) => c.toLowerCase().startsWith(wanted))
       || "";
   }
-  if (!sorters[state.sort]) state.sort = "featured";
+  if (!sorters[state.sort]) state.sort = DEFAULT_SORT;
 
   const syncUrl = () => {
     const next = new URLSearchParams();
     if (state.q) next.set("q", state.q);
     if (state.cat) next.set("cat", state.cat);
     if (state.saved) next.set("saved", "1");
-    if (state.sort !== "featured") next.set("sort", state.sort);
+    if (state.sort !== DEFAULT_SORT) next.set("sort", state.sort);
     const query = next.toString();
     history.replaceState(null, "", window.location.pathname + (query ? `?${query}` : ""));
   };
@@ -68,9 +68,7 @@
     if (savedChip) savedChip.setAttribute("aria-pressed", String(state.saved));
     if (countEl) {
       const filtered = state.cat || tokens.length || state.saved;
-      countEl.textContent = filtered
-        ? `${shown} of ${total} essays`
-        : `${total} essays`;
+      countEl.textContent = filtered ? `${shown} ${shown === 1 ? "match" : "matches"}` : "";
     }
     if (empty) {
       empty.dataset.show = String(shown === 0);
@@ -105,9 +103,9 @@
   const clear = document.querySelector("[data-clear]");
   if (clear) {
     clear.addEventListener("click", () => {
-      state.q = ""; state.cat = ""; state.saved = false; state.sort = "featured";
+      state.q = ""; state.cat = ""; state.saved = false; state.sort = DEFAULT_SORT;
       if (input) input.value = "";
-      if (sortSel) sortSel.value = "featured";
+      if (sortSel) sortSel.value = DEFAULT_SORT;
       apply();
       if (input) input.focus();
     });

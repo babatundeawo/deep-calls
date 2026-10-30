@@ -24,7 +24,7 @@ Deep Calls is a library of long form Christian apologetics essays written from N
 
 ## Features
 
-* 29 essays across six themes, with search (press Ctrl or Cmd + K), filters and sorting
+* A blog style library, newest essays first, with an RSS feed, themes, search (press Ctrl or Cmd + K), filters and sorting
 * Calm reading: clear type, contents list, reading progress and estimated reading time
 * Save for later, adjustable text size, and continue reading where you stopped
 * Select a passage to copy it as a quote with a link back

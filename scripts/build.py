@@ -114,6 +114,29 @@ def main() -> int:
         sitemap.append(f"  <url><loc>{t.esc(loc)}</loc>{f'<lastmod>{lastmod}</lastmod>' if lastmod else ''}</url>")
     sitemap.append("</urlset>")
     write(DIST / "sitemap.xml", "\n".join(sitemap) + "\n")
+    # RSS feed, newest first, so readers can follow new essays like a blog
+    from email.utils import format_datetime
+    import datetime
+
+    items = []
+    for e in site.essays[:30]:
+        pub = ""
+        if e.date:
+            d = datetime.datetime.fromisoformat(e.date).replace(tzinfo=datetime.timezone.utc)
+            pub = f"<pubDate>{format_datetime(d)}</pubDate>"
+        items.append(
+            f"<item><title>{t.esc(e.title)}</title><link>{t.esc(site.abs(e.url))}</link>"
+            f"<guid isPermaLink=\"true\">{t.esc(site.abs(e.url))}</guid>{pub}"
+            f"<category>{t.esc(e.category)}</category><description>{t.esc(e.excerpt)}</description></item>"
+        )
+    feed = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>'
+        f"<title>{t.esc(site.name)}</title><link>{t.esc(site.url)}</link>"
+        f"<description>{t.esc(site.tagline)}</description><language>{t.esc(site.cfg['language'])}</language>"
+        + "".join(items)
+        + "</channel></rss>\n"
+    )
+    write(DIST / "feed.xml", feed)
     write(DIST / "robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {site.abs('sitemap.xml')}\n")
 
     manifest = {

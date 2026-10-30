@@ -17,6 +17,7 @@ import hashlib
 import html
 import json
 import re
+import zlib
 from urllib.parse import quote, urlparse
 
 from content import Essay
@@ -75,10 +76,11 @@ class Site:
         self.version = version
         self.has_dates = any(e.date for e in essays)
 
-        # Library order: featured first (by their number), then A-Z by title.
-        self.essays = sorted(essays, key=lambda e: (e.featured == 0, e.featured, e.title.lower()))
+        # Blog order: newest first. Essays added on the same day fall back to A to Z.
+        by_title = sorted(essays, key=lambda e: e.title.lower())
+        self.essays = sorted(by_title, key=lambda e: e.date, reverse=True)
         self.by_slug = {e.slug: e for e in self.essays}
-        self.featured = [e for e in self.essays if e.featured]
+        self.featured = sorted((e for e in self.essays if e.featured), key=lambda e: e.featured)
 
         listed = list(config.get("categories", []))
         found = sorted({e.category for e in essays} - set(listed))
@@ -87,6 +89,10 @@ class Site:
         self.cat_count = {c: sum(1 for e in essays if e.category == c) for c in self.categories}
         self.total_words = sum(e.words for e in essays)
         self.total_minutes = sum(e.minutes for e in essays)
+
+    def ehue(self, e: Essay) -> int:
+        """Each essay keeps its own accent colour, chosen from its slug so it never changes."""
+        return zlib.crc32(e.slug.encode()) % 8 + 1
 
     # ---- URLs ----
     def abs(self, path: str = "") -> str:
@@ -253,6 +259,7 @@ def head(
 <link rel="icon" href="{rp}favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="{rp}apple-touch-icon.png">
 <link rel="manifest" href="{rp}site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="{esc(site.name)}" href="{rp}feed.xml">
 {preloads}
 <link rel="stylesheet" href="{rp}assets/css/site.css?v={site.version}">
 <script>{THEME_INIT}</script>
@@ -344,11 +351,11 @@ def essay_card(site: Site, e: Essay, rp: str, icon: IconSet, *, variant: str = "
     if variant == "feature":
         circles = "".join(f'<circle cx="260" cy="0" r="{r}"/>' for r in range(50, 400, 55))
         art = f'<div class="card__art" aria-hidden="true"><svg viewBox="0 0 260 260">{circles}</svg></div>'
-    return f"""<a class="{cls}" href="{rp}{e.url}" data-slug="{esc(e.slug)}" data-hue="{site.hue[e.category]}"{' data-reveal' if reveal else ''}{extra}>
+    return f"""<a class="{cls}" href="{rp}{e.url}" data-slug="{esc(e.slug)}" data-hue="{site.hue[e.category]}" data-ehue="{site.ehue(e)}"{' data-reveal' if reveal else ''}{extra}>
   {art}<span class="tag">{esc(e.category)}</span>
   <h{level} class="card__title">{esc(e.title)}</h{level}>
   <p class="card__excerpt">{esc(e.excerpt)}</p>
-  <div class="card__foot"><span>{e.minutes} min read</span><span class="card__go">Read {icon('arrow-right')}</span></div>
+  <div class="card__foot"><span>{_short_date(e.date)}{e.minutes} min read</span><span class="card__go">Read {icon('arrow-right')}</span></div>
 </a>"""
 
 
@@ -374,13 +381,13 @@ def build_home(site: Site) -> str:
         for i in range(len(verses))
     )
 
-    big, *rest = site.featured[:6]
-    cards = essay_card(site, big, rp, icon, variant="feature") + "".join(essay_card(site, e, rp, icon) for e in rest)
+    lead, *older = site.essays[:7]
+    cards = essay_card(site, lead, rp, icon, variant="feature") + "".join(essay_card(site, e, rp, icon) for e in older[:5])
 
     themes = "".join(
         f"""<li class="theme-row"><a href="{site.cat_href(rp, c)}" data-hue="{site.hue[c]}" data-reveal>
           <span class="theme-row__dot" aria-hidden="true"></span><span class="theme-row__name">{esc(c)}</span>
-          <span class="theme-row__count">{site.cat_count[c]} {'essay' if site.cat_count[c] == 1 else 'essays'}</span>{icon('arrow-right')}</a></li>"""
+          {icon('arrow-right')}</a></li>"""
         for c in site.categories
     )
 
@@ -409,25 +416,16 @@ def build_home(site: Site) -> str:
   </div>
 </section>
 
-<div class="container">
-  <div class="stats" aria-label="The library at a glance">
-    <div class="stat"><span class="stat__num">{n}</span><span class="stat__label">Essays</span></div>
-    <div class="stat"><span class="stat__num">{site.total_words:,}</span><span class="stat__label">Words written</span></div>
-    <div class="stat"><span class="stat__num">{site.total_minutes}</span><span class="stat__label">Minutes of reading</span></div>
-    <div class="stat"><span class="stat__num">{len(site.categories)}</span><span class="stat__label">Themes</span></div>
-  </div>
-</div>
-
 <div class="container" data-continue hidden></div>
 
-<section class="section" id="start">
+<section class="section" id="latest">
   <div class="container">
     <div class="section-head" data-reveal>
-      <h2>Start here</h2>
-      <p>A handful of essays to begin with. The full, searchable library of {n} essays across {len(site.categories)} themes lives on its own page.</p>
+      <h2>Latest writing</h2>
+      <p>The newest essays come first. Older ones are in the library, where you can search and filter by theme.</p>
     </div>
     <div class="bento">{cards}</div>
-    <p class="actions actions--center"><a class="btn btn--outline" href="library.html">Browse all {n} essays {icon('arrow-right', 'i--arrow')}</a></p>
+    <p class="actions actions--center"><a class="btn btn--outline" href="library.html">Browse all essays {icon('arrow-right', 'i--arrow')}</a></p>
   </div>
 </section>
 
@@ -489,7 +487,7 @@ def build_home(site: Site) -> str:
     return page(
         site,
         title=site.name,
-        description=f"{site.tagline} {len(site.essays)} essays on scripture, doubt and culture, written to be read slowly and argued with.",
+        description=f"{site.tagline} Essays on scripture, doubt and culture, written to be read slowly and argued with.",
         path="",
         rp=rp,
         current="home",
@@ -509,14 +507,11 @@ def build_library(site: Site) -> str:
     rp = ""
     icon.need("search", "empty", "arrow-right", "shuffle")
     n = len(site.essays)
-    chips = '<button type="button" class="chip" data-chip="" aria-pressed="true">All essays</button><button type="button" class="chip chip--saved" data-chip-saved aria-pressed="false">Saved <span class="chip__count" data-saved-count>0</span></button>' + "".join(
-        f'<button type="button" class="chip" data-chip="{esc(c)}" data-hue="{site.hue[c]}" aria-pressed="false">{esc(c)} <span class="chip__count">{site.cat_count[c]}</span></button>'
+    chips = '<button type="button" class="chip" data-chip="" aria-pressed="true">All essays</button><button type="button" class="chip chip--saved" data-chip-saved aria-pressed="false">Saved <span class="chip__count" data-saved-count hidden>0</span></button>' + "".join(
+        f'<button type="button" class="chip" data-chip="{esc(c)}" data-hue="{site.hue[c]}" aria-pressed="false">{esc(c)} </button>'
         for c in site.categories
     )
-    sort_options = [("featured", "Featured first")]
-    if site.has_dates:
-        sort_options.append(("newest", "Newest first"))
-    sort_options += [("az", "Title, A to Z"), ("quick", "Quickest read"), ("long", "Longest read")]
+    sort_options = [("newest", "Newest first"), ("oldest", "Oldest first"), ("az", "Title, A to Z"), ("quick", "Quickest read"), ("long", "Longest read")]
     options = "".join(f'<option value="{v}">{l}</option>' for v, l in sort_options)
     cards = "".join(essay_card(site, e, rp, icon, reveal=False, data=True, level=2) for e in site.essays)
 
@@ -524,7 +519,7 @@ def build_library(site: Site) -> str:
 <div class="container page-hero">
   {breadcrumb([("Home", "index.html"), ("Library", None)])}
   <p class="eyebrow">The full archive</p>
-  <h1>Every essay, in one place.</h1>
+  <h1>Every essay, newest first.</h1>
   <p class="page-hero__lede">Search by title or theme, or filter by category. New writeups are added here as they&rsquo;re written.</p>
   <p class="page-hero__actions" data-js-only><button type="button" class="btn btn--outline btn--sm" data-surprise>{icon('shuffle')}Surprise me</button></p>
 </div>
@@ -541,7 +536,7 @@ def build_library(site: Site) -> str:
     </div>
     <div class="chips" role="group" aria-label="Filter by theme" data-js-only>{chips}</div>
   </div>
-  <p class="result-count" data-count role="status" aria-live="polite">{n} essays</p>
+  <p class="result-count" data-count role="status" aria-live="polite"></p>
   <div class="grid" data-grid>{cards}</div>
   <div class="empty" data-empty data-show="false">
     {icon('empty')}
@@ -554,7 +549,7 @@ def build_library(site: Site) -> str:
     return page(
         site,
         title="Library",
-        description=f"Browse all {n} Deep Calls essays. Search by title or theme, or filter by category.",
+        description=f"Browse every Deep Calls essay, newest first. Search by title or theme, or filter by category.",
         path="library.html",
         rp=rp,
         current="library",
@@ -617,12 +612,6 @@ def build_about(site: Site) -> str:
 </section>
 
 <div class="container">
-  <div class="stats stats--spaced" aria-label="The library at a glance">
-    <div class="stat"><span class="stat__num">{n}</span><span class="stat__label">Essays</span></div>
-    <div class="stat"><span class="stat__num">{site.total_words:,}</span><span class="stat__label">Words written</span></div>
-    <div class="stat"><span class="stat__num">{site.total_minutes}</span><span class="stat__label">Minutes of reading</span></div>
-    <div class="stat"><span class="stat__num">{len(site.categories)}</span><span class="stat__label">Themes</span></div>
-  </div>
   <h2 class="sr-only">What guides every essay</h2>
   <div class="values">{value_html}</div>
 </div>
@@ -802,11 +791,20 @@ def build_essay(site: Site, e: Essay) -> str:
         epigraph = f'<figure class="epigraph"><blockquote><p>&ldquo;{e.verse_html}&rdquo;</p></blockquote>{cite}</figure>'
 
     more_cards = "".join(essay_card(site, x, rp, icon) for x in related(site, e))
+    i = site.essays.index(e)
+    newer = site.essays[i - 1] if i > 0 else None
+    older = site.essays[i + 1] if i + 1 < len(site.essays) else None
+    pn = ""
+    if newer:
+        pn += f'<a class="postnav__link postnav__link--newer" href="{rp}{newer.url}"><span class="postnav__dir">{icon("arrow-left")}Newer</span><span class="postnav__title">{esc(newer.title)}</span></a>'
+    if older:
+        pn += f'<a class="postnav__link postnav__link--older" href="{rp}{older.url}"><span class="postnav__dir">Older{icon("arrow-right")}</span><span class="postnav__title">{esc(older.title)}</span></a>'
+    postnav = f'<nav class="container postnav" aria-label="More recent and older essays">{pn}</nav>' if pn else ""
     desc = e.description
 
     body = f"""
-<div class="progress" aria-hidden="true"><span class="progress__bar" data-progress></span></div>
-<article data-essay-page data-slug="{esc(e.slug)}" data-title="{esc(e.title)}">
+<div class="progress" data-ehue="{site.ehue(e)}" aria-hidden="true"><span class="progress__bar" data-progress></span></div>
+<article data-essay-page data-ehue="{site.ehue(e)}" data-slug="{esc(e.slug)}" data-title="{esc(e.title)}">
 <div class="container essay-head">
   <a class="back" href="{rp}library.html">{icon('arrow-left')}Library</a>
   <a class="tag" href="{site.cat_href(rp, e.category)}" data-hue="{site.hue[e.category]}">{esc(e.category)}</a>
@@ -846,6 +844,7 @@ def build_essay(site: Site, e: Essay) -> str:
 </div>
 </article>
 
+{postnav}
 <section class="container more" aria-labelledby="more-h">
   <div class="more__head"><h2 id="more-h">Keep reading</h2><a class="link" href="{rp}library.html">Full library</a></div>
   <div class="grid">{more_cards}</div>
@@ -893,6 +892,15 @@ def build_essay(site: Site, e: Essay) -> str:
         og_type="article",
         schema=[article, crumbs],
     )
+
+
+def _short_date(iso: str) -> str:
+    import datetime
+
+    if not iso:
+        return ""
+    d = datetime.date.fromisoformat(iso)
+    return f"{d.day} {d.strftime('%b %Y')} &middot; "
 
 
 def _fmt_date(iso: str) -> str:
