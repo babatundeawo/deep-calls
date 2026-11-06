@@ -13,12 +13,12 @@ from PIL import Image, ImageDraw, ImageFont
 
 FONT_DIR = Path(__file__).parent / "fonts"
 
-NAVY = (14, 28, 48)
-NAVY_DEEP = (9, 18, 32)
-PARCHMENT = (245, 240, 228)
-VERMILION = (255, 122, 87)
-VERMILION_SOFT = (255, 143, 107)
-MUTED = (169, 179, 196)
+NAVY = (10, 42, 46)
+NAVY_DEEP = (4, 18, 20)
+PARCHMENT = (246, 244, 238)
+VERMILION = (244, 183, 63)
+VERMILION_SOFT = (244, 183, 63)
+MUTED = (169, 193, 192)
 
 # Mark geometry in a 48-unit box: (left edge, radius), all centred on (23, 24).
 _MARK_CENTRE = (23.0, 24.0)
@@ -29,10 +29,10 @@ _MARK_LAYERS = [
 ]
 
 FAVICON_SVG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
-<rect width="48" height="48" rx="11" fill="#0e1c30"/>
-<path d="M13.4 10.4H23a13.6 13.6 0 0 1 0 27.2H13.4z" fill="#f5f0e4"/>
-<path d="M16.6 13.6H23a10.4 10.4 0 0 1 0 20.8h-6.4z" fill="#0e1c30"/>
-<path d="M19.2 18H23a6 6 0 0 1 0 12h-3.8z" fill="#ff7a57"/>
+<rect width="48" height="48" rx="11" fill="#0a2a2e"/>
+<path d="M13.4 10.4H23a13.6 13.6 0 0 1 0 27.2H13.4z" fill="#f6f4ee"/>
+<path d="M16.6 13.6H23a10.4 10.4 0 0 1 0 20.8h-6.4z" fill="#0a2a2e"/>
+<path d="M19.2 18H23a6 6 0 0 1 0 12h-3.8z" fill="#f4b73f"/>
 </svg>
 """
 

@@ -1,6 +1,6 @@
 /* ==========================================================================
    Deep Calls — core behaviour (loaded on every page)
-   Theme, header state, mobile menu, scroll reveal, toast, back-to-top,
+   Theme, header state, scroll reveal, toast, back-to-top,
    share buttons and the Ctrl/Cmd+K search palette.
    Everything degrades gracefully: without this file the site is still a
    complete, readable set of linked pages.
@@ -77,27 +77,6 @@
       if (!ticking) { ticking = true; requestAnimationFrame(update); }
     }, { passive: true });
     update();
-  }
-
-  /* ---- Mobile menu ---- */
-  const menuBtn = document.querySelector("[data-menu-btn]");
-  const menu = document.querySelector("[data-menu]");
-  if (menuBtn && menu) {
-    const setMenu = (open, returnFocus = false) => {
-      menu.dataset.open = String(open);
-      menuBtn.setAttribute("aria-expanded", String(open));
-      menuBtn.setAttribute("aria-label", open ? "Close menu" : "Open menu");
-      if (!open && returnFocus) menuBtn.focus();
-    };
-    menuBtn.addEventListener("click", () => setMenu(menu.dataset.open !== "true"));
-    menu.addEventListener("click", (event) => { if (event.target.closest("a")) setMenu(false); });
-    document.addEventListener("keydown", (event) => {
-      if (event.key === "Escape" && menu.dataset.open === "true") setMenu(false, true);
-    });
-    document.addEventListener("click", (event) => {
-      if (menu.dataset.open === "true" && !menu.contains(event.target) && !menuBtn.contains(event.target)) setMenu(false);
-    });
-    window.matchMedia("(min-width: 52.01rem)").addEventListener("change", () => setMenu(false));
   }
 
   /* ---- Scroll reveal ---- */

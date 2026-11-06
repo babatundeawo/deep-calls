@@ -30,7 +30,7 @@ except ImportError:  # pragma: no cover
 
 DIST = ROOT / "dist"
 ASSETS = ROOT / "assets"
-JS_FILES = ["core", "home", "library", "article", "listen", "contact"]
+JS_FILES = ["core", "shelf", "home", "library", "article", "contact"]
 
 
 def write(path: Path, text: str) -> None:
@@ -114,6 +114,29 @@ def main() -> int:
         sitemap.append(f"  <url><loc>{t.esc(loc)}</loc>{f'<lastmod>{lastmod}</lastmod>' if lastmod else ''}</url>")
     sitemap.append("</urlset>")
     write(DIST / "sitemap.xml", "\n".join(sitemap) + "\n")
+    # RSS feed, newest first, so readers can follow new essays like a blog
+    from email.utils import format_datetime
+    import datetime
+
+    items = []
+    for e in site.essays[:30]:
+        pub = ""
+        if e.date:
+            d = datetime.datetime.fromisoformat(e.date).replace(tzinfo=datetime.timezone.utc)
+            pub = f"<pubDate>{format_datetime(d)}</pubDate>"
+        items.append(
+            f"<item><title>{t.esc(e.title)}</title><link>{t.esc(site.abs(e.url))}</link>"
+            f"<guid isPermaLink=\"true\">{t.esc(site.abs(e.url))}</guid>{pub}"
+            f"<category>{t.esc(e.category)}</category><description>{t.esc(e.excerpt)}</description></item>"
+        )
+    feed = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>'
+        f"<title>{t.esc(site.name)}</title><link>{t.esc(site.url)}</link>"
+        f"<description>{t.esc(site.tagline)}</description><language>{t.esc(site.cfg['language'])}</language>"
+        + "".join(items)
+        + "</channel></rss>\n"
+    )
+    write(DIST / "feed.xml", feed)
     write(DIST / "robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {site.abs('sitemap.xml')}\n")
 
     manifest = {
@@ -124,8 +147,8 @@ def main() -> int:
         "start_url": site.base_path,
         "scope": site.base_path,
         "display": "standalone",
-        "background_color": "#f5f0e4",
-        "theme_color": "#0e1c30",
+        "background_color": "#f6f4ee",
+        "theme_color": "#0a2a2e",
         "icons": [
             {"src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
             {"src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
@@ -137,7 +160,7 @@ def main() -> int:
 
     # Brand imagery: icons and social cards
     images.write_icons(DIST)
-    images.write_card(DIST / "assets" / "og" / "default.png", "Faith that survives the hard questions.", "A library of long-form essays", site.name, site.host)
+    images.write_card(DIST / "assets" / "og" / "default.png", "Faith that survives the hard questions.", "A library of long form essays", site.name, site.host)
     for essay in site.essays:
         images.write_card(DIST / "assets" / "og" / f"{essay.slug}.png", essay.title, essay.category, site.name, site.host)
 

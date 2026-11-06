@@ -29,7 +29,7 @@ Under **Settings → Code security**, turn on **Dependabot alerts**, **Dependabo
 ## Reviewing a pull request
 
 1. Open the **Pull requests** tab and click the request.
-2. Check that the **Checks** at the bottom are green. For a preview of the site, open **Checks → Build and deploy → Artifacts → site-preview**.
+2. Check that the **Checks** at the bottom are green. For a preview of the site, open **Checks → Build and deploy → Artifacts → site preview**.
 3. Click **Merge pull request**, then **Confirm**. The site updates in about two minutes.
 
 ## Adding or editing an essay

@@ -50,6 +50,7 @@ class Essay:
     minutes: int = 1
     toc: list[tuple[str, str]] = field(default_factory=list)
     search_text: str = ""
+    topics: list[str] = field(default_factory=list)
 
     @property
     def url(self) -> str:
@@ -287,6 +288,7 @@ def load_essay(path: Path, config: dict | None = None, used_slugs: set[str] | No
         slug=slug,
         title=meta["title"],
         subtitle=meta.get("subtitle", ""),
+        topics=[x.strip() for x in meta.get("topics", "").split(",") if x.strip()],
         category=meta["category"],
         body_html=body,
         verse_html=verse_html,
@@ -300,7 +302,7 @@ def load_essay(path: Path, config: dict | None = None, used_slugs: set[str] | No
         toc=toc,
     )
     essay.search_text = fold(
-        " ".join([essay.title, essay.subtitle, essay.category, excerpt, _plain(verse_ref_html), _plain(verse_html)])
+        " ".join([essay.title, essay.subtitle, essay.category, " ".join(essay.topics), excerpt, _plain(verse_ref_html), _plain(verse_html)])
     )
     return essay
 
