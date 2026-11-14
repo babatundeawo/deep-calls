@@ -5,7 +5,7 @@ category: Spiritual Warfare
 topics: The cross, Jesus
 verse: None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory.
 verse_ref: 1 Corinthians 2:8 (ESV)
-summary: Paul says the rulers behind the cross missed what it was. This essay follows that failure from Eden to Good Friday and asks what it means for believers at war.
+summary: Paul says the rulers behind the cross missed what it was. Follow that failure from Eden to Good Friday and see what it means for believers at war.
 ---
 
 ## The Rulers Who Did Not Understand

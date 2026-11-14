@@ -5,7 +5,7 @@ category: Hard Questions
 topics: Jesus, Scripture
 verse: Whoever has seen me has seen the Father.
 verse_ref: John 14:9 (ESV)
-summary: The Gospels never record "I am God, worship me", and this essay shows why that silence is a poor test, and what Jesus said, accepted and did instead.
+summary: The Gospels never record "I am God, worship me", a poor test of his claim. What Jesus said, accepted and did points to divine identity.
 ---
 
 ## The Challenge in the Group Chat

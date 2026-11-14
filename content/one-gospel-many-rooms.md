@@ -5,7 +5,7 @@ category: Church & Culture
 topics: Denominations, Church, Truth
 verse: There is one body and one Spirit, just as you were called to one hope when you were called; one Lord, one faith, one baptism; one God and Father of all, who is over all and through all and in all.
 verse_ref: Ephesians 4:4 to 6 (NIV)
-summary: Fifty thousand denominations sounds like a verdict against Christianity. This essay counts what the number counts and shows how to tell a family argument from a fracture.
+summary: Fifty thousand denominations sounds like a verdict against Christianity. Count what the number counts, and tell a family argument from a fracture.
 ---
 
 ## The Number Your Colleague Will Quote
