@@ -21,3 +21,5 @@ Every essay here follows the same house rules, so the library reads as one voice
 * Give each essay one `category` and two or three comma separated `topics` (for example `topics: Providence, Waiting`), reusing existing topics where they fit.
 * The details block should carry a short plain `subtitle`, and the `title` should stay under ten words with no colon.
 * Each essay ends with a References section: Biblical references first, then other sources in one alphabetical APA 7 list, then any Translation Notices.
+
+Before publishing, run `python3 -I tools/checkfile.py content/<file>.md`. Review notes for each essay are in `review_notes/`.
