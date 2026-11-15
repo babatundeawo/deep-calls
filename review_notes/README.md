@@ -41,3 +41,4 @@ Delete a notes file once its flags are cleared, or keep it as a record.
 * [when-god-goes-quiet-esther](when-god-goes-quiet-esther.notes.md) (essay: `content/when-god-goes-quiet-esther.md`)
 * [woman-caught-adultery-law-of-moses](woman-caught-adultery-law-of-moses.notes.md) (essay: `content/woman-caught-adultery-law-of-moses.md`)
 * [you-did-not-come-to-worship-henry-beecher](you-did-not-come-to-worship-henry-beecher.notes.md) (essay: `content/you-did-not-come-to-worship-henry-beecher.md`)
+* [romans-3-31-faith-and-the-law](romans-3-31-faith-and-the-law.notes.md) (essay: `content/romans-3-31-faith-and-the-law.md`)
